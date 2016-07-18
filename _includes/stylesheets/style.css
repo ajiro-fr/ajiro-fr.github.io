@@ -25,7 +25,17 @@
 
 /* == Colors */
 
+.rose {
+  color: #eb00b5;
+}
 
+.bleu {
+  color: #00135b;
+}
+
+h1, h2, h3 {
+  color: #00135b;
+}
 
 /* == Fonts */
 
@@ -143,4 +153,8 @@ body {
 }
 .short-logo img {
   width: 100px;
+}
+
+.logo {
+  width: 350px;
 }
