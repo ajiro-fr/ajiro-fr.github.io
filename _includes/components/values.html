@@ -1,0 +1,15 @@
+
+{% for value in site.data.values %}
+    {% cycle 'add row' : '<div class="row spacer-20">', nil %}
+      <div class='col-md-6 text-center value'>
+        <h3>{{value.name}}</h3>
+        <div class="value-icon"><i class="fa {{value.icon}}"></i></div>
+        <ul>
+          {% for description in value.descriptions %}
+          <li>{{description}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% cycle 'end row' : nil, '</div>' %}
+{% endfor %}
+{% cycle 'end row' : nil, '</div>' %}
