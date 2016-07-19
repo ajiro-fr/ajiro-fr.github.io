@@ -1,3 +1,20 @@
+- name: Olivier Albiez
+  photo: olivier.albiez.jpg
+  social:
+  - url: mailto:oalbiez@azae.net
+    icon: fa-envelope
+  - url: https://github.com/oalbiez
+    icon: fa-github
+  - url: https://twitter.com/OlivierAlbiez
+    icon: fa-twitter
+  - url: https://www.linkedin.com/in/olivieralbiez
+    icon: fa-linkedin
+  bio: >
+    Je suis artisan logiciel et coach agile, passionné des méthodes de travail et de l'auto-organisation dans
+    les entreprises. Curieux par nature, je suis toujours à la recherche de ce qui peut améliorer le travail
+    collectif d'une organisation. Je suis récemment co-fondateur de deliverous. Je suis signataire des
+    manifestes [Artisans du Logiciel](http://manifesto.softwarecraftsmanship.org/) et [Agile](http://agilemanifesto.org/).
+
 - name: Thomas Clavier
   photo: thomas.clavier.jpg
   social:
@@ -19,22 +36,13 @@
     logiciel. Depuis plus de 10 ans, j'essaye de transformer le travail en un jeu, faire progresser
     les geeks et challenger les managers, poser des questions pour faire progresser les équipes.
 
-- name: Olivier Albiez
-  photo: olivier.albiez.jpg
+- name: Nicolas Leconte
+  photo: nicolas.leconte.jpg
   social:
-  - url: mailto:oalbiez@azae.net
-    icon: fa-envelope
-  - url: https://github.com/oalbiez
-    icon: fa-github
-  - url: https://twitter.com/OlivierAlbiez
-    icon: fa-twitter
-  - url: https://www.linkedin.com/in/olivieralbiez
+  - url: https://fr.linkedin.com/in/nicolas-leconte-2aab5421
     icon: fa-linkedin
   bio: >
-    Je suis artisan logiciel et coach agile, passionné des méthodes de travail et de l'auto-organisation dans
-    les entreprises. Curieux par nature, je suis toujours à la recherche de ce qui peut améliorer le travail
-    collectif d'une organisation. Je suis récemment co-fondateur de deliverous. Je suis signataire des
-    manifestes [Artisans du Logiciel](http://manifesto.softwarecraftsmanship.org/) et [Agile](http://agilemanifesto.org/).
+    bio courte...
 
 - name: Séverin Legras
   photo: severin.legras.jpg
@@ -53,12 +61,3 @@
     icon: fa-linkedin
   bio: >
     bio courte...
-
-- name: Nicolas Leconte
-  photo: nicolas.leconte.jpg
-  social:
-  - url: https://www.linkedin.com/in/herv%C3%A9-taboucou-bb22b4
-    icon: fa-linkedin
-  bio: >
-    bio courte...
-
