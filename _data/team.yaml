@@ -36,6 +36,14 @@
     logiciel. Depuis plus de 10 ans, j'essaye de transformer le travail en un jeu, faire progresser
     les geeks et challenger les managers, poser des questions pour faire progresser les équipes.
 
+- name: Laurent Dussault
+  photo: laurent.dussault.jpg
+  social:
+  - url: https://fr.linkedin.com/in/laurent-dussault-53b82a116
+    icon: fa-linkedin
+  bio: >
+    bio courte...
+
 - name: Nicolas Leconte
   photo: nicolas.leconte.jpg
   social:
