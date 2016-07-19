@@ -75,7 +75,6 @@ description: >
       <h3>
       {{member.name}}
       <span class="circled-icon">
-        <a href='mailto:{{member.mail}}'><i class='fa fa-envelope'></i></a>
         {% for link in member.social %}
           <a href='{{link.url}}'><i class='fa {{link.icon}}'></i></a>
         {% endfor %}

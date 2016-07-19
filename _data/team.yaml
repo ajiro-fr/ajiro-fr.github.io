@@ -1,6 +1,8 @@
 - name: Thomas Clavier
   photo: thomas.clavier.jpg
   social:
+  - url: mailto:tclavier@azae.net
+    icon: fa-envelope
   - url: https://github.com/tclavier
     icon: fa-github
   - url: http://plus.google.com/+ThomasClavier
@@ -16,12 +18,12 @@
     mes sujets de prédilection sont l'agilité, devops, docker, le lean startup et l'artisanat
     logiciel. Depuis plus de 10 ans, j'essaye de transformer le travail en un jeu, faire progresser
     les geeks et challenger les managers, poser des questions pour faire progresser les équipes.
-  mail: tclavier@azae.net
-  mobile: "+33620818130"
 
 - name: Olivier Albiez
   photo: olivier.albiez.jpg
   social:
+  - url: mailto:oalbiez@azae.net
+    icon: fa-envelope
   - url: https://github.com/oalbiez
     icon: fa-github
   - url: https://twitter.com/OlivierAlbiez
@@ -33,5 +35,15 @@
     les entreprises. Curieux par nature, je suis toujours à la recherche de ce qui peut améliorer le travail
     collectif d'une organisation. Je suis récemment co-fondateur de deliverous. Je suis signataire des
     manifestes [Artisans du Logiciel](http://manifesto.softwarecraftsmanship.org/) et [Agile](http://agilemanifesto.org/).
-  mail: oalbiez@azae.net
-  mobile: "+33662767812"
+
+- name: Séverin Legras
+  photo: severin.legras.jpg
+  social:
+  - url: https://twitter.com/slegras
+    icon: fa-twitter
+  - url: https://www.linkedin.com/in/severinlegras
+    icon: fa-linkedin
+  bio: >
+    bio courte...
+  mail:
+  mobile:
