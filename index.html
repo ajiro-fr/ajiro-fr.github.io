@@ -4,9 +4,11 @@ layout: default
 description: >
   Nous sommes une communauté qui vise à développer des organisations saines et humaines.
 ---
+
 <div class="text-center spacer-20">
   <img src="assets/images/logo-ajiro.svg" class="logo"/>
 </div>
+
 <div class="row spacer-40">
   <div class="col-md-12">
     <div class="jumbotron">
@@ -22,53 +24,28 @@ description: >
     <h2>Nos Valeurs</h2>
   </div>
 </div>
-<div class='row spacer-20'>
-  <div class='col-md-6 text-center value'>
-    <h3>Confiance</h3>
-    <div class="value-icon"><i class="fa fa-heart-o"></i></div>
-    <ul>
-    <li>Conviction que l'homme est bon</li>
-    <li>Transparence et partage de l'information,</li>
-    <li>Recherche de la réciprocité</li>
-    </ul>
-  </div>
-  <div class='col-md-6 text-center value'>
-    <h3>Innovation</h3>
-    <div class="value-icon"><i class="fa fa-lightbulb-o"></i></div>
-    <ul>
-    <li>Créativité</li>
-    <li>Apprentissage</li>
-    <li>Curiosité</li>
-    <li>Prise de risque et droit à l'erreur</li>
-    </ul>
-  </div>
-</div>
-<div class='row spacer-20'>
-  <div class='col-md-6 text-center value'>
-    <h3>Simplicité</h3>
-    <div class="value-icon"><i class="fa fa-dot-circle-o"></i></div>
-    <ul>
-    <li>Laisser les Egos de côté</li>
-    <li>Frugalité </li>
-    </ul>
-  </div>
-  <div class='col-md-6 text-center value'>
-    <h3>Bienveillance</h3>
-    <div class="value-icon"><i class="fa fa-smile-o"></i></div>
-    <ul>
-    <li>Encourager les différences</li>
-    <li>Respect</li>
-    <li>Valoriser les succès</li>
-    <li>Fun</li>
-    </ul>
-  </div>
-</div>
+
+{% for value in site.data.values %}
+    {% cycle 'add row' : '<div class="row spacer-20">', nil %}
+      <div class='col-md-6 text-center value'>
+        <h3>{{value.name}}</h3>
+        <div class="value-icon"><i class="fa {{value.icon}}"></i></div>
+        <ul>
+          {% for description in value.descriptions %}
+          <li>{{description}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% cycle 'end row' : nil, '</div>' %}
+{% endfor %}
+{% cycle 'end row' : nil, '</div>' %}
 
 <div class='row spacer-20'>
   <div class='col-md-12 text-center'>
     <h2>L'équipe</h2>
   </div>
 </div>
+
 {% for member in site.data.team %}
   <div class='row spacer-20'>
     <div class='col-md-10'>

@@ -1,0 +1,28 @@
+- name: Confiance
+  icon: fa-heart-o
+  descriptions:
+    - Conviction que l'homme est bon
+    - Transparence et partage de l'information
+    - Recherche de la réciprocité
+
+- name: Innovation
+  icon: fa-lightbulb-o
+  descriptions:
+    - Créativité
+    - Apprentissage
+    - Curiosité
+    - Prise de risque et droit à l'erreur
+
+- name: Simplicité
+  icon: fa-dot-circle-o
+  descriptions:
+    - Laisser les Egos de côté
+    - Frugalité
+
+- name: Bienveillance
+  icon: fa-smile-o
+  descriptions:
+    - Encourager les différences
+    - Respect
+    - Valoriser les succès
+    - Fun
