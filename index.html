@@ -46,7 +46,9 @@ description: >
         {% endfor %}
       </span>
       </h3>
-      <p>{{member.bio | markdownify}}</p>
+      <div><em>
+        <p>{{member.bio | markdownify}}</p>
+      </em></div>
     </div>
     <div class='col-md-2'>
       <img alt="Photo {{member.name}}" class="img-responsive img-thumbnail" src="/assets/images/team/{{member.photo}}" />
