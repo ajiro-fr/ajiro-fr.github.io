@@ -45,3 +45,20 @@
     icon: fa-linkedin
   bio: >
     bio courte...
+
+- name: Hervé Taboucou
+  photo: herve.taboucou.jpg
+  social:
+  - url: https://www.linkedin.com/in/herv%C3%A9-taboucou-bb22b4
+    icon: fa-linkedin
+  bio: >
+    bio courte...
+
+- name: Nicolas Leconte
+  photo: nicolas.leconte.jpg
+  social:
+  - url: https://www.linkedin.com/in/herv%C3%A9-taboucou-bb22b4
+    icon: fa-linkedin
+  bio: >
+    bio courte...
+
