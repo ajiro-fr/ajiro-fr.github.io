@@ -72,11 +72,32 @@ body {
 /* == Sections */
 
 .footer {
-  background-color: #2e3436;
-	color: #eeeeec;
   margin-top : 2em;
+  display: table;
+  width: 100%;
+}
+
+.footer-row {
+  display: table-row;
+}
+
+.footer-left {
+  background-image: url('/assets/images/footer_left.svg');
   padding-bottom : 2em;
-  padding-top : 2em;
+  padding-top : 3em;
+  padding-left : 4em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: table-cell;
+  width: 77%;
+}
+
+.footer-right {
+  background-image: url('/assets/images/footer_right.svg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: table-cell;
+  width: 13%;
 }
 
 .footer h1 {
