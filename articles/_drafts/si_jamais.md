@@ -17,19 +17,25 @@ C'est super progressif, mais super lent. Cela a pu être nécessaire car les res
 Clairement, c'est une approche disruptive pour une société qui voit le continuous delivery comme une condition de survie
 
 <strong>Recrutement</strong>
+
 L'approche traditionnelle de je forme en bas et je monte au fur et à mesure c'est bien, mais comme c'est lent je passe ma vie à reformer dès que des nouveaux arrivent. Autant diminuer l'effort en prenant des bons. Si je prends des coachs, c'est majoritairement au début pour prendre les personnes qu'il faut. Côté technique, codingame (ou un truc dans le genre) comme premier filtre sur l'algorithmique, puis kata et revue de kata pour tester les qualités de clean code et testing. Côté maitrise d'ouvrage, des exercices de découpage de besoins métier et d'interviews utilisateurs. Je teste aussi la capacité à livrer de la documentation de manière incrémentale. Dans la pratique, je mets un coach dans tous les recrutements avec véto possible.
 
 <strong>Budget</strong>
+
 Comment on peut être agile quand les projets à faire sont déterminés de manière annuelle avec roadmap annuelle et reporting sur l'avancement. Sans fluidification budgétaire, point de salut. Passons à un budget glissant (cf principe du beyond budgeting). Dis comme cela c'est facile. Dans la pratique, cela frotte beaucoup mais le gain est tellement énorme. Le nombre de projets que je vois aller au bout alors qu'ils auraient dû être coupés ou réorientés est juste trop important. Je suis soft j'avais envie de dire énorme.
 
 <strong>Projet vers produit</strong>
+
 C'est la suite de la partie budgétaire. Nous allons maintenant devoir donner de l'avancement en fonction des impacts business et non plus de livrables IT. Cela veut dire repenser l'approche et donc amener des outils de mesure de l'impact et non des outils de mesure du coût. Il y a tout ce qui tourne autour de la validation des hypothèses (lean start up, interview métiers, sketching, prototypage,...) et aussi autour de la métrologie. On peut tout mesurer, l'essentiel est de savoir quelle décision on veut prendre avec une mesure. Un des changements le plus important que j'ai vu, c'est en changeant un modèle d'expression de besoins et en rajoutant une question "qu'est ce que tu pourras faire demain que tu ne peux pas faire aujourd'hui ?". Sur ce thème, cela risque de frotter avec les communautés de chef de projet. D'où la question sur le recrutement.
 
 <strong>L'organisation</strong>
+
 Avant de m'attaquer à la polyvalence des équipes, je regarde la traditionnelle question du hamburger. Est ce que j'ai une organisation alignée business ou couche technique. Si c'est la deuxième réponse, on peut essayer des transformations agile d'équipe mais cela va tellement frotter que le ratio énergie/impact sera mauvais. Il vaut mieux mettre les pieds dans le plat tout de suite plutôt que de faire du palliatif. Cela n'est pas un hasard si j'ai mis la gestion produit avant, cela va tellement poussé à un alignement business que cela facilite grandement cette étape. 
 
 <strong>Les mains dans le cambouis</strong>
+
 Y a plus qu'à. L'avantage d'avoir faire les autres étapes avant, c'est que quand on arrive à cette étape on a déjà du meilleur staff, un alignement valeur, une couche managériale alignée... Et donc là c'est roule ma poule, cela peut aller super vite. Les derniers accompagnements que j'ai fait avec un bon staff dès le début ont duré environ 3 mois. Si je compare par rapport à une transformation classique d'une équipe qui s'étale plus sur 6 mois, c'est 2 fois plus rapide. Et c'est d'ailleurs vrai en délai comme en charge.
 
 <strong>Ma conclusion</strong>
+
 Est ce que c'est réaliste et dans quel cas l'appliquer ? C'est clairement un pattern que je ferais si l'organisation au sens large est convaincue qu'il devient urgent(issime) de bouger. Il doit par contre permettre de refaire une grande partie du retard avec la concurrence en un à deux ans. Aujourd'hui je ne suis pas capable de le faire et donc si quelqu'un essaie ainsi, je veux bien du feedback et apporter de l'aide.
