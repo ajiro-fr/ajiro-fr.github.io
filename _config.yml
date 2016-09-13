@@ -19,5 +19,5 @@ defaults:
     path: "articles"
     type: "posts"
   values:
-    permalink: /articles/:year-:month-:day-:title.html
+    permalink: /articles/:year/:month/:day/:title.html
     layout: article
