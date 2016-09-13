@@ -1,0 +1,93 @@
+---
+layout: default
+---
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage":{
+    "@type":"WebPage",
+    "@id":"http://ajiro.fr/{{ page.url }}"
+  },
+  "headline": "{{ page.title }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://ajiro.fr/{{page.illustration}}",
+    "width": "400 px",
+    "height": "400 px"
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "author": [
+    {% for author in page.authors %}
+      {"@type": "Person", "name": "{{ author }}"}
+    {% endfor %}
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ajiro",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://ajiro.fr/assets/images/logo-ajiro.png",
+      "width": "400 px",
+      "height": "174 px"
+    }
+  },
+  {% if page.description %}
+      "description": "{{page.description | strip_newlines}}"
+  {% else if page.excerpt %}
+      "description": "{{page.excerpt | strip_html  | strip_newlines}}"
+  {% endif %}
+}
+</script>
+
+<div class="post">
+    <div class="row page-header article-header">
+            <div class="col-md-2">
+            </div>
+            {% if page.illustration %}
+            <div class="col-md-3 ">
+                <img alt='{{ page.title }} illustration' src='{{page.illustration}}' class="img-responsive">
+            </div>
+            {% endif %}
+            <div class="col-md-5">
+                <h1>
+                    {{ page.title }} {% if page.subtitle %}<br><small>{{ page.subtitle }}</small> {% endif %}
+                </h1>
+                {% if page.tags.size > 0 %}
+                    <p >
+                        <i class="fa fa-tags"></i>
+                        {% for tag in page.tags %}
+                            <span class="label label-default">{{tag}}</span>
+                        {% endfor %}
+                    </p>
+                {% endif %}
+                <p class="post-meta">
+                  <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
+
+                </p>
+                {% if page.authors %}
+                <p class="post-meta">
+                  <i class='fa fa-user'></i> {{ page.authors | join: ", " }}
+                </p>
+                {% endif %}
+            </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 post-content">
+        {{ content }}
+        <hr>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6 col-md-offset-2">
+        {% if page.contributors.size > 0 %}
+        Contributeurs: <i>{{ page.contributors | join: ', ' }}</i>
+        {% endif %}
+      </div>
+      <div class="col-md-2 text-right">
+        <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
+      </div>
+    </div>
+
+</div>

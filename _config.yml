@@ -13,3 +13,11 @@ gems:
 exclude:
 - README.md
 - Gemfile
+
+defaults:
+- scope:
+    path: "articles"
+    type: "posts"
+  values:
+    permalink: /articles/:title.html
+    layout: article
