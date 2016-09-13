@@ -43,14 +43,7 @@ layout: default
 
 <div class="post">
     <div class="row page-header article-header">
-            <div class="col-md-2">
-            </div>
-            {% if page.illustration %}
-            <div class="col-md-3 ">
-                <img alt='{{ page.title }} illustration' src='{{page.illustration}}' class="img-responsive">
-            </div>
-            {% endif %}
-            <div class="col-md-5">
+            <div class="col-md-8 col-md-offset-2">
                 <h1>
                     {{ page.title }} {% if page.subtitle %}<br><small>{{ page.subtitle }}</small> {% endif %}
                 </h1>
@@ -89,5 +82,4 @@ layout: default
         <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
       </div>
     </div>
-
 </div>
