@@ -32,6 +32,9 @@ C'est la suite de la partie budgétaire. Nous allons maintenant devoir donner de
 
 Avant de m'attaquer à la polyvalence des équipes, je regarde la traditionnelle question du hamburger. Est ce que j'ai une organisation alignée business ou couche technique. Si c'est la deuxième réponse, on peut essayer des transformations agile d'équipe mais cela va tellement frotter que le ratio énergie/impact sera mauvais. Il vaut mieux mettre les pieds dans le plat tout de suite plutôt que de faire du palliatif. Cela n'est pas un hasard si j'ai mis la gestion produit avant, cela va tellement poussé à un alignement business que cela facilite grandement cette étape. 
 
+<div style="text-align:center"><img src="/assets/images/3166807592_477998672d_o.jpg" width=400px/>
+</div>
+
 <strong>Les mains dans le cambouis</strong>
 
 Y a plus qu'à. L'avantage d'avoir faire les autres étapes avant, c'est que quand on arrive à cette étape on a déjà du meilleur staff, un alignement valeur, une couche managériale alignée... Et donc là c'est roule ma poule, cela peut aller super vite. Les derniers accompagnements que j'ai fait avec un bon staff dès le début ont duré environ 3 mois. Si je compare par rapport à une transformation classique d'une équipe qui s'étale plus sur 6 mois, c'est 2 fois plus rapide. Et c'est d'ailleurs vrai en délai comme en charge.
