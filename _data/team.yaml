@@ -74,6 +74,20 @@
     nouveaux modes de management et j'essaie au quotidien de révéler le potentiel des personnes avec lesquelles je
     travaille en mêlant écoute, bienveillance et responsabilisation.
 
+#- name: Samuel Retière
+#  photo: samuel.retiere.png
+#  social:
+#  - url:
+#    icon: fa-envelope
+#  - url:
+#    icon: fa-github
+#  - url: https://twitter.com/sretiere
+#    icon: fa-twitter
+#  - url: https://www.linkedin.com/in/samuel-retiere-7438981b
+#    icon: fa-linkedin
+#  bio: >
+#    Agile coach using both Scrum and Kanban
+
 - name: Hervé Taboucou
   photo: herve.taboucou.jpg
   social:
