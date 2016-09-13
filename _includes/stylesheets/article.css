@@ -1,0 +1,31 @@
+
+.article-date {
+  color: #aaa;
+  margin-right: 2em;
+}
+
+.article-list a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.article-list a:hover {
+  color: #2e3436;
+}
+
+.article-header {
+  padding-top: 1em;
+  border-top: solid 1px #eee;
+}
+
+.post {
+  text-align: justify;
+  -moz-hyphens: auto;
+  word-wrap: break-word;
+}
+
+.post img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}

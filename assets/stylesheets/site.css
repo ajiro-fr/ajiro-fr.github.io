@@ -6,3 +6,4 @@ nositemap: true
 {% include stylesheets/font-awesome-4.5.0.min.css %}
 {% include stylesheets/socicon.css %}
 {% include stylesheets/style.css %}
+{% include stylesheets/article.css %}
