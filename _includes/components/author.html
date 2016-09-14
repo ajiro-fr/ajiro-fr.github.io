@@ -1,0 +1,27 @@
+<div class="row spacer-20">
+  <div class='col-md-2 col-md-offset-2'>
+    <img alt="Photo {{include.author.name}}" class="img-responsive img-thumbnail" src="/assets/images/team/{{include.author.photo}}" />
+  </div>
+  <div class="col-md-6">
+    <h3>
+      {{include.author.name}}
+    <small>
+    <span class="circled-icon">
+      {% for link in include.author.social %}
+        <a href='{{link.url}}'><i class='fa {{link.icon}}'></i></a>
+      {% endfor %}
+    </span>
+    </small>
+    {% if include.author.organisation %}
+      <div class="organisation-logo pull-right }} ">
+        <a href='{{include.author.organisation.url}}'>
+          <img src="/assets/images/organisation/{{include.author.organisation.logo}}" alt="Logo {{include.author.organisation.name}}">
+        </a>
+      </div>
+    {% endif %}
+    </h3>
+    <div><em>
+      <p>{{include.author.bio | markdownify}}</p>
+    </em></div>
+  </div>
+</div>

@@ -1,5 +1,10 @@
-- name: Olivier Albiez
+albiez_olivier:
+  name: Olivier Albiez
   photo: olivier.albiez.jpg
+  organisation:
+    name: Azaé
+    logo: logo-azae.png
+    url: http://azae.net
   social:
   - url: mailto:oalbiez@azae.net
     icon: fa-envelope
@@ -10,13 +15,18 @@
   - url: https://www.linkedin.com/in/olivieralbiez
     icon: fa-linkedin
   bio: >
-    Je suis artisan logiciel et coach agile chez Azaé, passionné des méthodes de travail et de l'auto-organisation dans
+    Je suis artisan logiciel et coach agile chez [Azaé](http://azae.net), passionné des méthodes de travail et de l'auto-organisation dans
     les entreprises. Curieux par nature, je suis toujours à la recherche de ce qui peut améliorer le travail
-    collectif d'une organisation. Je suis récemment co-fondateur de deliverous. Je suis signataire des
+    collectif d'une organisation. Je suis récemment co-fondateur de [Deliverous](http://deliverous.com). Je suis signataire des
     manifestes [Artisans du Logiciel](http://manifesto.softwarecraftsmanship.org/) et [Agile](http://agilemanifesto.org/).
 
-- name: Thomas Clavier
+clavier_thomas:
+  name: Thomas Clavier
   photo: thomas.clavier.jpg
+  organisation:
+    name: Azaé
+    logo: logo-azae.png
+    url: http://azae.net
   social:
   - url: mailto:tclavier@azae.net
     icon: fa-envelope
@@ -31,20 +41,22 @@
   - url: http://fr.viadeo.com/fr/profile/thomas.clavier
     icon: socicon-viadeo
   bio: >
-    Je suis coach agile chez Azaé, enseignant à l'université de Lille 1 et co-fondateur de deliverous,
+    Je suis coach agile chez [Azaé](http://azae.net), enseignant à l'université de Lille 1 et co-fondateur de [Deliverous](http://deliverous.com),
     mes sujets de prédilection sont l'agilité, devops, docker, le lean startup et l'artisanat
     logiciel. Depuis plus de 10 ans, j'essaye de transformer le travail en un jeu, faire progresser
     les geeks et challenger les managers, poser des questions pour faire progresser les équipes.
 
-- name: Laurent Dussault
+dussault_laurent:
+  name: Laurent Dussault
   photo: laurent.dussault.jpg
   social:
   - url: https://fr.linkedin.com/in/laurent-dussault-53b82a116
     icon: fa-linkedin
   bio: >
-    Je suis coach DevOps à la Société Générale. Longtemps indépendant, passionné par le continuous delivery, l'automatisation, j'ai pris le parti ces dernières années de faire se parler les gens plutôt que de faire se parler des machines. Je travaille aujourd'hui à donner l'envie de s'améliorer, d'éliminer les contraintes pour reprendre le contrôle et la fierté de ce que l'on produit.
+    Je suis coach devops à la Société Générale. Longtemps indépendant, passionné par le continuous delivery, l'automatisation, j'ai pris le parti ces dernières années de faire se parler les gens plutôt que de faire se parler des machines. Je travaille aujourd'hui à donner l'envie de s'améliorer, d'éliminer les contraintes pour reprendre le contrôle et la fierté de ce que l'on produit.
 
-- name: Nicolas Leconte
+leconte_nicolas:
+  name: Nicolas Leconte
   photo: nicolas.leconte.jpg
   social:
   - url: https://fr.linkedin.com/in/nicolas-leconte-2aab5421
@@ -57,7 +69,8 @@
     pluridisciplinarité est à mes yeux une grande force dans un monde où tout bouge de plus en plus
     vite.
 
-- name: Séverin Legras
+legras_severin:
+  name: Séverin Legras
   photo: severin.legras.jpg
   social:
   - url: mailto:severin.legras@gmail.com
@@ -74,21 +87,19 @@
     nouveaux modes de management et j'essaie au quotidien de révéler le potentiel des personnes avec lesquelles je
     travaille en mêlant écoute, bienveillance et responsabilisation.
 
-#- name: Samuel Retière
-#  photo: samuel.retiere.png
-#  social:
-#  - url:
-#    icon: fa-envelope
-#  - url:
-#    icon: fa-github
-#  - url: https://twitter.com/sretiere
-#    icon: fa-twitter
-#  - url: https://www.linkedin.com/in/samuel-retiere-7438981b
-#    icon: fa-linkedin
-#  bio: >
-#    Agile coach using both Scrum and Kanban
+retiere_samuel:
+  name: Samuel Retière
+  photo: samuel.retiere.png
+  social:
+  - url: https://twitter.com/sretiere
+    icon: fa-twitter
+  - url: https://www.linkedin.com/in/samuel-retiere-7438981b
+    icon: fa-linkedin
+  bio: >
+    Agile coach using both Scrum and Kanban
 
-- name: Hervé Taboucou
+taboucou_herve:
+  name: Hervé Taboucou
   photo: herve.taboucou.jpg
   social:
   - url: mailto:herve.taboucou@gmail.com

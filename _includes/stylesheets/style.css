@@ -147,3 +147,31 @@ body {
   padding:0;
   margin:0;
 }
+
+
+.organisation-logo {
+  text-align: center;
+  margin: 2px;
+  border-radius: 6px;
+  display: inline-block;
+  background-color: white;
+  border: 1px solid white;
+}
+
+.organisation-logo:hover {
+  border: 1px solid #eee;
+  filter: none;
+}
+
+.organisation-logo div {
+  line-height: 12px;
+}
+
+.organisation-logo a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.organisation-logo img {
+  width: 100px;
+}
