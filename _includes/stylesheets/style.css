@@ -66,9 +66,40 @@ h1, h2, h3 {
 body {
   font-family: 'Linux Biolinum';
   font-size: 18px;
-  background-image: url('/assets/images/footer.svg') ;
   background-repeat: no-repeat;
-  background-position: bottom; 
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+  body {
+    background-image: none;
+  }
+  .site-footer {
+    background-color: #3D7890;
+  }
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+  body {
+    background-image: url('/assets/images/footer.svg') ;
+    background-position: 82% 100%;
+  }
+  .site-footer {
+    background-color: transparent;
+  }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
 }
 
 
