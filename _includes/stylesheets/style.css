@@ -71,54 +71,17 @@ body {
 
 /* == Sections */
 
-.footer {
+.site-header {
+  background-color: #3d7890;
+}
+
+.site-footer {
+  background-color: #3d7890;
+  color: #eeeeec;
   margin-top : 2em;
+  padding-top : 2em;
   display: table;
   width: 100%;
-}
-
-.footer-row {
-  display: table-row;
-}
-
-.footer-left {
-  background-image: url('/assets/images/footer_left.svg');
-  padding-bottom : 2em;
-  padding-top : 3em;
-  padding-left : 4em;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  display: table-cell;
-  width: 77%;
-}
-
-.footer-right {
-  background-image: url('/assets/images/footer_right.svg');
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  display: table-cell;
-  width: 13%;
-}
-
-.footer h1 {
-  font-size: 1.2em;
-  font-weight: bold;
-}
-
-.footer i {
-  background-color: #555753;
-  font-size: 25px;
-  width: 38px;
-  height: 38px;
-  border-radius: 50%;
-  text-align: center;
-  line-height: 42px;
-  margin: 10px 15px;
-  vertical-align: middle;
-}
-
-.footer a {
-	color: #eeeeec;
 }
 
 .circled-icon i {
