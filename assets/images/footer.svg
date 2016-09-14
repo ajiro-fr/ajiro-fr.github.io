@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1389.0704"
-   height="198.98897"
-   viewBox="0 0 1389.0705 198.98897"
+   width="3600"
+   height="1424.751"
+   viewBox="0 0 3600.0002 1424.7511"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="774.7611"
-     inkscape:cy="123.45248"
+     inkscape:zoom="0.25"
+     inkscape:cx="1202.1509"
+     inkscape:cy="806.07983"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="19"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      objecttolerance="25"
@@ -50,8 +50,8 @@
        snapvisiblegridlinesonly="true"
        dotted="false"
        empspacing="50"
-       originx="519.99255"
-       originy="60.030706" />
+       originx="1613.3423"
+       originy="299.45424" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -69,23 +69,12 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(519.99252,-913.40393)">
+     transform="translate(1613.3423,72.93454)">
     <path
        style="fill:#3d7890;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -519.98342,1112.1019 -0.009,-172.44522 1181.98913,172.42422 z"
-       id="path4229"
+       d="m 1986.6579,-72.93454 -0.1112,1424.62934 -3599.4636,0.1217 -0.4254,-434.7958 2159.03825,421.5269 z"
+       id="path4152"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <g
-       transform="matrix(0.98085859,0,0,1,462.3123,705.95952)"
-       id="layer1-6"
-       inkscape:label="Calque 1">
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path4229-3"
-         d="m 414.11771,207.15342 0,198.98899 -211.09257,-0.022 z"
-         style="fill:#3d7890;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>

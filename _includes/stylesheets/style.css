@@ -66,6 +66,9 @@ h1, h2, h3 {
 body {
   font-family: 'Linux Biolinum';
   font-size: 18px;
+  background-image: url('/assets/images/footer.svg') ;
+  background-repeat: no-repeat;
+  background-position: bottom; 
 }
 
 
@@ -76,10 +79,10 @@ body {
 }
 
 .site-footer {
-  background-color: #3d7890;
   color: #eeeeec;
   margin-top : 2em;
   padding-top : 2em;
+  padding-bottom : 2em;
   display: table;
   width: 100%;
 }
