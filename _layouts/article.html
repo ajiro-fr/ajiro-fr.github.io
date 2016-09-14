@@ -42,44 +42,43 @@ layout: default
 </script>
 
 <div class="post">
-    <div class="row page-header article-header">
-            <div class="col-md-8 col-md-offset-2">
-                <h1>
-                    {{ page.title }} {% if page.subtitle %}<br><small>{{ page.subtitle }}</small> {% endif %}
-                </h1>
-                {% if page.tags.size > 0 %}
-                    <p >
-                        <i class="fa fa-tags"></i>
-                        {% for tag in page.tags %}
-                            <span class="label label-default">{{tag}}</span>
-                        {% endfor %}
-                    </p>
-                {% endif %}
-                <p class="post-meta">
-                  <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
-
-                </p>
-                {% if page.authors %}
-                <p class="post-meta">
-                  <i class='fa fa-user'></i> {{ page.authors | join: ", " }}
-                </p>
-                {% endif %}
-            </div>
+  <div class="row page-header article-header">
+    <div class="col-md-8 col-md-offset-2">
+      <h1>
+        {{ page.title }} {% if page.subtitle %}<br><small>{{ page.subtitle }}</small> {% endif %}
+      </h1>
+      {% if page.tags.size > 0 %}
+        <p >
+          <i class="fa fa-tags"></i>
+          {% for tag in page.tags %}
+            <span class="label label-default">{{tag}}</span>
+          {% endfor %}
+        </p>
+      {% endif %}
+      <p class="post-meta">
+        <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
+      </p>
+      {% if page.authors %}
+        <p class="post-meta">
+          <i class='fa fa-user'></i> {{ page.authors | join: ", " }}
+        </p>
+      {% endif %}
     </div>
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 post-content">
-        {{ content }}
-        <hr>
-      </div>
+  </div>
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 post-content">
+      {{ content }}
+      <hr>
     </div>
-    <div class="row">
-      <div class="col-md-6 col-md-offset-2">
-        {% if page.contributors.size > 0 %}
-        Contributeurs: <i>{{ page.contributors | join: ', ' }}</i>
-        {% endif %}
-      </div>
-      <div class="col-md-2 text-right">
-        <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
-      </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 col-md-offset-2">
+      {% if page.contributors.size > 0 %}
+      Contributeurs: <i>{{ page.contributors | join: ', ' }}</i>
+      {% endif %}
     </div>
+    <div class="col-md-2 text-right">
+      <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
+    </div>
+  </div>
 </div>

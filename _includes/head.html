@@ -1,18 +1,18 @@
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>
-        Ajiro{% if page.title %} - {{page.title}}{%else%}, {{site.data.values.purpose}}{%endif%}
-    </title>
-    {% if page.description %}
-        <meta name="description" content="{{page.description | strip_newlines}}">
-    {% else if page.excerpt %}
-        <meta name="description" content="{{page.excerpt | strip_html  | strip_newlines}}">
-    {% endif %}
-    {% if page.noindex %}
-        <meta name="robots" content="noindex,follow"/>
-    {% endif %}
-    <link rel='shortcut icon' href='/assets/images/icon-ajiro.png' type='image/png'>
-    <link rel='stylesheet' href='/assets/stylesheets/site.css'>
-    <script src='/assets/javascripts/site.js' defer></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    Ajiro{% if page.title %} - {{page.title}}{%else%}, {{site.data.values.purpose}}{%endif%}
+  </title>
+  {% if page.description %}
+    <meta name="description" content="{{page.description | strip_newlines}}">
+  {% else if page.excerpt %}
+    <meta name="description" content="{{page.excerpt | strip_html  | strip_newlines}}">
+  {% endif %}
+  {% if page.noindex %}
+    <meta name="robots" content="noindex,follow"/>
+  {% endif %}
+  <link rel='shortcut icon' href='/assets/images/icon-ajiro.png' type='image/png'>
+  <link rel='stylesheet' href='/assets/stylesheets/site.css'>
+  <script src='/assets/javascripts/site.js' defer></script>
 </head>
