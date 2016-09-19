@@ -43,39 +43,43 @@ layout: default
 
 <div class="article">
   <div class="row">
-    <div class="col-md-offset-2 col-md-8">
+    <div class="col-sm-offset-2 col-sm-8 col-xs-12">
       <h1>
         {{ page.title }} {% if page.subtitle %}<br><small>{{ page.subtitle }}</small> {% endif %}
       </h1>
-      <div class="article-metadata">
-        <div class="pull-right">
-          <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
-        </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+      <small>
         {% if page.tags.size > 0 %}
-          <div>
+          <div class="pull-right">
             <i class="fa fa-tags"></i>
             {% for tag in page.tags %}
               <span class="label label-default">{{tag}}</span>
             {% endfor %}
           </div>
         {% endif %}
-      </div>
+        <div>
+          <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
+        </div>
+      </small>
     </div>
   </div>
   {% if page.illustration %}
-    <div class="row">
-      <div class="col-md-offset-2 col-md-8">
+    <div class="row spacer-20">
+      <div class="col-sm-offset-2 col-sm-8 col-xs-12">
         <img alt='{{ page.title }} illustration' src='{{page.illustration}}' class="img-responsive img-rounded">
       </div>
     </div>
   {% endif %}
   <div class="row spacer-40">
-    <div class="col-md-offset-2 col-md-8">
+    <div class="col-sm-offset-2 col-sm-8 col-xs-12">
       {{ content }}
     </div>
   </div>
   <div class="row">
-    <div class="col-md-offset-2 col-md-8 text-right">
+    <div class="col-sm-offset-2 col-sm-8 col-xs-12 text-right">
       <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
     </div>
   </div>
@@ -86,7 +90,7 @@ layout: default
   {% endfor %}
 
   <div class="row">
-    <div class="col-md-offset-2 col-md-8">
+    <div class="col-sm-offset-2 col-sm-8 col-xs-12">
       {% if page.contributors.size > 0 %}
       <hr>
       Contributeurs: <i>{{ page.contributors | join: ', ' }}</i>
