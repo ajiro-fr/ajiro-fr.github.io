@@ -74,21 +74,26 @@ layout: default
   <div class="row">
     <div class="col-md-8 col-md-offset-2 post-content">
       {{ content }}
-      <hr>
     </div>
   </div>
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 text-right">
+      <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
+    </div>
+  </div>
+
   {% for author_id in page.authors %}
     {% assign author = site.data.team[author_id] %}
     {% include components/author.html author=author %}
   {% endfor %}
+
   <div class="row">
-    <div class="col-md-6 col-md-offset-2">
+    <div class="col-md-8 col-md-offset-2">
       {% if page.contributors.size > 0 %}
+      <hr>
       Contributeurs: <i>{{ page.contributors | join: ', ' }}</i>
       {% endif %}
     </div>
-    <div class="col-md-2 text-right">
-      <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
-    </div>
   </div>
+
 </div>
