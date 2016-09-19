@@ -90,7 +90,7 @@ layout: default
   </div>
 
   {% for author_id in page.authors %}
-    {% assign author = site.data.team[author_id] %}
+    {% assign author = site.data.people[author_id] %}
     {% include components/author.html author=author %}
   {% endfor %}
 
