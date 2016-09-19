@@ -21,7 +21,7 @@ description: >
 {% for people_id in sorted_people_id %}
   {% assign people = site.data.people[people_id] %}
   {% if people.member %}
-    {% include components/author.html author=people %}
+    {% include components/people.html people=people %}
   {% endif %}
 {% endfor %}
 <div class='row spacer-40'>

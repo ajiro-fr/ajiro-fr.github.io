@@ -1,0 +1,31 @@
+<div class="row spacer-20">
+  <div class='col-md-2 col-md-offset-2 text-center'>
+    <h3>
+      <img alt="Photo {{include.people.name}}" class="img-responsive img-thumbnail" src="/assets/images/team/{{include.people.photo}}" />
+    </h3>
+
+    {% if include.people.organisation %}
+      <div class="organisation-logo">
+        <a href='{{include.people.organisation.url}}'>
+          <img src="/assets/images/organisation/{{include.people.organisation.logo}}" alt="Logo {{include.people.organisation.name}}">
+        </a>
+      </div>
+    {% endif %}
+
+  </div>
+  <div class="col-md-6">
+    <h3>
+      {{include.people.name}}
+      <small>
+        <span class="circled-icon">
+          {% for link in include.people.social %}
+            <a href='{{link.url}}'><i class='fa {{link.icon}}'></i></a>
+          {% endfor %}
+        </span>
+      </small>
+    </h3>
+    <div>
+      <p>{{include.people.bio | markdownify}}</p>
+    </div>
+  </div>
+</div>
