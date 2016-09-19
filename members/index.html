@@ -21,26 +21,7 @@ description: >
 {% for people_id in sorted_people_id %}
   {% assign people = site.data.people[people_id] %}
   {% if people.member %}
-  <div class='row spacer-20'>
-    <div class='col-md-10'>
-      <h3>
-      {{people.name}}
-      <small>
-      <span class="circled-icon">
-        {% for link in people.social %}
-          <a href='{{link.url}}'><i class='fa {{link.icon}}'></i></a>
-        {% endfor %}
-      </span>
-      </small>
-      </h3>
-      <div>
-        <p>{{people.bio | markdownify}}</p>
-      </div>
-    </div>
-    <div class='col-md-2'>
-      <img alt="Photo {{people.name}}" class="img-responsive img-thumbnail" src="/assets/images/team/{{people.photo}}" />
-    </div>
-  </div>
+    {% include components/author.html author=people %}
   {% endif %}
 {% endfor %}
 <div class='row spacer-40'>
