@@ -179,3 +179,9 @@ body {
 .img-credit {
   font-size: 8px;
 }
+
+.article {
+  text-align: justify;
+  -moz-hyphens: auto;
+  word-wrap: break-word;
+}
