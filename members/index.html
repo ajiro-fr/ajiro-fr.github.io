@@ -12,6 +12,7 @@ description: >
 </div>
 
 {% for member in site.data.team %}
+  {% unless member[1].hidden %}
   <div class='row spacer-20'>
     <div class='col-md-10'>
       <h3>
@@ -32,6 +33,7 @@ description: >
       <img alt="Photo {{member[1].name}}" class="img-responsive img-thumbnail" src="/assets/images/team/{{member[1].photo}}" />
     </div>
   </div>
+  {% endunless %}
 {% endfor %}
 <div class='row spacer-40'>
 </div>
