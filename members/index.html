@@ -11,34 +11,34 @@ description: >
   </div>
 </div>
 
-{% capture members_id %}
-  {% for member in site.data.people %}
-    {{ member | first }}
+{% capture people_id %}
+  {% for people in site.data.people %}
+    {{ people | first }}
   {% endfor %}
 {% endcapture %}
 
-{% assign sorted_members_id = members_id | split:' ' |  sort %}
-{% for member_id in sorted_members_id %}
-  {% assign member = site.data.people[member_id] %}
-  {% if member.member %}
+{% assign sorted_people_id = people_id | split:' ' |  sort %}
+{% for people_id in sorted_people_id %}
+  {% assign people = site.data.people[people_id] %}
+  {% if people.member %}
   <div class='row spacer-20'>
     <div class='col-md-10'>
       <h3>
-      {{member.name}}
+      {{people.name}}
       <small>
       <span class="circled-icon">
-        {% for link in member.social %}
+        {% for link in people.social %}
           <a href='{{link.url}}'><i class='fa {{link.icon}}'></i></a>
         {% endfor %}
       </span>
       </small>
       </h3>
       <div>
-        <p>{{member.bio | markdownify}}</p>
+        <p>{{people.bio | markdownify}}</p>
       </div>
     </div>
     <div class='col-md-2'>
-      <img alt="Photo {{member.name}}" class="img-responsive img-thumbnail" src="/assets/images/team/{{member.photo}}" />
+      <img alt="Photo {{people.name}}" class="img-responsive img-thumbnail" src="/assets/images/team/{{people.photo}}" />
     </div>
   </div>
   {% endif %}
