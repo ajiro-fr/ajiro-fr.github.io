@@ -1,26 +1,19 @@
 
-.article-date {
-  color: #aaa;
-  margin-right: 2em;
-}
-
-.article-list a {
-  color: inherit;
-  text-decoration: none;
-}
-
-.article-list a:hover {
-  color: #2e3436;
-}
-
-.article-header {
-  padding-top: 1em;
-}
-
-.post {
+.article {
   text-align: justify;
   -moz-hyphens: auto;
   word-wrap: break-word;
+}
+
+.article-metadata {
+  margin-top : 0.5em;
+  padding-top : 0.5em;
+
+  margin-bottom: 0.5em;
+  padding-bottom : 0.5em;
+
+  border-top: solid 1px #eee;
+  border-bottom: solid 1px #eee;
 }
 
 /* Images class */
