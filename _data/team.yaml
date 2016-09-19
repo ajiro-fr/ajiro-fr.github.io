@@ -88,16 +88,20 @@ legras_severin:
     travaille en mêlant écoute, bienveillance et responsabilisation.
 
 retiere_samuel:
-  hidden: true
   name: Samuel Retière
-  photo: samuel.retiere.png
+  photo: samuel.retiere.jpg
   social:
   - url: https://twitter.com/sretiere
     icon: fa-twitter
   - url: https://www.linkedin.com/in/samuel-retiere-7438981b
     icon: fa-linkedin
   bio: >
-    Agile coach using both Scrum and Kanban
+    Développeur, maitrise d'ouvrage, chef de projet, manager, coach agile et bientôt ....
+
+
+    > _It is not the strongest of the species that survives, nor the most
+    intelligent that survives. It is the one that is most adaptable to
+    change._ (Darwin)
 
 taboucou_herve:
   name: Hervé Taboucou
