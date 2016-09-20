@@ -10,6 +10,7 @@ title: Articles
 </div>
 
 {% for article in site.categories.articles %}
+{% unless article.hidden %}
 <div class="row spacer-40">
   <div class="col-sm-offset-2 col-sm-8 col-xs-12">
     <span class="pull-right">
@@ -52,4 +53,5 @@ title: Articles
     <img alt='{{ article.title }} illustration' src='{{article.illustration.path}}' class="img-responsive img-rounded">
   </div>
 </div>
+{% endunless %}
 {% endfor %}
