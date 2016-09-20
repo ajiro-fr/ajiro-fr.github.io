@@ -2,6 +2,7 @@
 title: Tactique Théorique
 author: Yakovleff, Michel
 cover: tactique-tehorique-yakovleff-michel.jpg
+layout: book
 ---
 
 ## Résumé
