@@ -1,10 +1,13 @@
 <div class="row">
-  <div class="col-sm-offset-3 col-sm-6 col-xs-offset-1 col-xs-10">
+  <div class="col-sm-offset-3 col-sm-6 col-xs-offset-1 col-xs-10 text-center">
     <img alt='{{include.description}}' src='/assets/{{include.path}}' class="img-responsive img-rounded">
     {% if include.source %}
-        <div class="img-credit">
+        <span class="img-credit pull-right">
           <a href="{{include.source}}">Source</a>
-        </div>
+        </span>
+    {% endif %}
+    {% if include.legend %}
+      <span><small>{{include.legend}}</small></span>
     {% endif %}
   </div>
 </div>

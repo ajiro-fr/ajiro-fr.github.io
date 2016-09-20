@@ -10,6 +10,9 @@ tags:
   - militaire
   - concepts
   - management
+illustration:
+  path: /assets/articles/risk_managment/3112796093_b2eca43e06_b.jpg
+  source: https://flic.kr/p/5K4TQa
 ---
 
 
@@ -35,6 +38,13 @@ Yakovleff met alors en évidence le paradoxe suivant : celui qui ne prend pas de
 
 Ainsi, la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 1940 : les forces alliées convaincu de leur invulnérabilité avec la ligne Maginot et d'autres éléments issue du renseignement vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive de mai 1940. Pour compenser, les forces allier vont redéployer leurs troupes en urgence le long du front belge en laissant la zone de Sedan sans défense.
 
+{% include picture.html
+    path='articles/risk_managment/fallgelb_manstein2.svg'
+    legend='Opération Fall Gelb'
+    source='https://commons.wikimedia.org/wiki/File%3AFallGelb_Manstein.svg'
+%}
+
+
 ### Mais le maximiser
 
 Il recommande de maximiser les risques, sans atteindre un niveau critique. En effet, il considère que la prise de risque est une forme de ressource supplémentaire.
@@ -54,7 +64,13 @@ Dans le contexte de l'entreprise, et pour reprendre les 3 niveaux de risque de Y
 
 L'évocation du paradoxe de la prise de risque se retrouve de la même façon dans l'industrie. En effet, celui qui n'est pas suffisamment créatif et innovant se voit contraint de prendre plus tard beaucoup plus de risque.
 
+{% include picture.html
+    path='articles/risk_managment/26897497800_c5c10d7d78_k.jpg'
+    source='https://flic.kr/p/GYQH15'
+%}
+
 Pour illustrer notre propos, Kodak a refusé d'exploiter le numérique pourtant directement sortie de leurs laboratoire, pour ne pas diminuer les marges des pellicules argentiques. Dix ans plus tard, malgré tous leurs efforts pour rattraper le retard : fermeture de 13 usines et de 130 laboratoires, licenciement de 47000 personnes, lancement de nouveaux modèles numériques à partir de 2005, ils vont déposer le bilan le 19 janvier 2012.
+
 
 ### Mais le maximiser
 
