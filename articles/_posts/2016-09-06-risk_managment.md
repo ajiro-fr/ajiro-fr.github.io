@@ -1,5 +1,6 @@
 ---
 title: La prise de risque dans l'entreprise, éclairages inattendus des militaires
+hidden: true
 authors:
   - albiez_olivier
   - clavier_thomas
@@ -27,7 +28,7 @@ Dans ce cadre, Yakovleff identifie trois niveaux de risques, indépendemment du 
 
 ### Ne pas minimiser le risque
 
-Il souligne que chercher à minimiser le risque, cela revient à restreindre ses possibilités en écartant toutes celles qui seront jugées trop risquées. L'adversaire a ainsi moins de cas à étudier et peut plus facilement anticiper les actions. 
+Il souligne que chercher à minimiser le risque, cela revient à restreindre ses possibilités en écartant toutes celles qui seront jugées trop risquées. L'adversaire a ainsi moins de cas à étudier et peut plus facilement anticiper les actions.
 
 Yakovleff met alors en évidence le paradoxe suivant : celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés pour compenser les retards et pertes accumulés durant la période où son adversaire a pu anticiper ses actions.
 
@@ -56,7 +57,7 @@ Pour illustrer notre propos, Kodak a refusé d'exploiter le numérique pourtant 
 
 ### Mais le maximiser
 
-Augmenter la prise de risque, sans atteindre un niveau critique avec pour objectif l'imprévisibilité, résonne pour nous comme la nécessité de faire ou de penser de façon disruptive. 
+Augmenter la prise de risque, sans atteindre un niveau critique avec pour objectif l'imprévisibilité, résonne pour nous comme la nécessité de faire ou de penser de façon disruptive.
 
 Par exemple, le 18 septembre 2002, Free lance sa première Freebox et son premier forfait ADSL plus de 30% moins cher que la concurrence. Rapidement, ils ajoutent la téléphonie gratuite et illimité et enfin, le 1er décembre 2003, ils annoncent l'arrivée de la télévision.
 
@@ -64,7 +65,7 @@ Créer du triple play était une énorme prise de risque, personne ne pensait qu
 
 ## Conslusion
 
-Notre position est clairement en décalage par rapport à l'enseignement classique du management qui vise à minimiser les risques.   
+Notre position est clairement en décalage par rapport à l'enseignement classique du management qui vise à minimiser les risques.
 
 ---
 Sources:
