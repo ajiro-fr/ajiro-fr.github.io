@@ -83,9 +83,8 @@ Pour illustrer notre propos, Kodak a refusé d'exploiter le numérique pourtant 
 Augmenter la prise de risque, sans atteindre un niveau critique avec pour objectif l'imprévisibilité, résonne pour nous comme la nécessité de faire ou de penser de façon disruptive.
 
 {% include picture.html
-    path='articles/risk_managment/freebox_v6.jpg'
-    legend='Freebox V6'
-    source='https://commons.wikimedia.org/wiki/File:Freebox_v6_-1010633.jpg#/media/File:Freebox_v6_-1010633.jpg'
+    path='articles/risk_managment/freebox_v1.jpg'
+    legend='Freebox V1'
 %}
 
 Par exemple, le 18 septembre 2002, Free lance sa première Freebox et son premier forfait ADSL plus de 30% moins cher que la concurrence. Rapidement, ils ajoutent la téléphonie gratuite et illimité et enfin, le 1er décembre 2003, ils annoncent l'arrivée de la télévision.
