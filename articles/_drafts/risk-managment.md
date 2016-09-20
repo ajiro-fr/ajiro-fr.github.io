@@ -1,11 +1,11 @@
 ---
 title: La prise de risque dans l'entreprise, éclairages inattendus des militaires
 authors:
-  - Olivier Albiez
-  - Thomas Clavier
-  - Hervé Taboubou
+  - albiez_olivier
+  - clavier_thomas
+  - taboucou_herve
 tags:
-  - military
+  - militaire
   - concepts
   - management
 ---
@@ -25,18 +25,15 @@ Dans ce cadre, Yakovleff identifie trois niveaux de risques, indépendemment du 
 - le risque significatif qui engage le succès de la mission
 - le risque critique qui engage définitivement la capacité à agir
 
-Il recommande de maximiser les risques, sans atteindre un niveau critique.
+Il recommande de maximiser les risques, sans atteindre un niveau critique. En effet, il considère que la prise de risque est une forme de ressource suplémentaire.
 
-Chercher à minimiser le risque, cela revient à restreindre ses possiblilités en écartant toutes celles qui seront jugées trop risquées. L'adversaire a ainsi moins de cas à étudier et peut plus facilement anticiper les actions. 
+Par exemple, la [Bataille d'Inchéon] : le 15 septembre 1950, le général MacArthur surprend ses adversaires en réalisant un débarquement dans un lieu négligé car considéré comme trop risqué par les généraux adverses en raison des défenses naturelles et artificielles.
 
-Yakovleff met alors en évidence le paradoxe suivant: celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés pour compenser les retards et pertes accumulés durant la période où son adversaire a pu anticiper ses actions.
+D'autre part, il souligne que chercher à minimiser le risque, cela revient à restreindre ses possibilités en écartant toutes celles qui seront jugées trop risquées. L'adversaire a ainsi moins de cas à étudier et peut plus facilement anticiper les actions. 
 
-Regardons ensemble deux exemples mettant en évidence ce paradoxe.
+Yakovleff met alors en évidence le paradoxe suivant : celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés pour compenser les retards et pertes accumulés durant la période où son adversaire a pu anticiper ses actions.
 
-Notre premier exemple est la [Bataille d'Inchéon] le 15 septembre 1950 où le général MacArthur suprend ses adversaires en réalisant un débarquement dans un lieu négligé car considéré comme trop risqué par les généraux adverses en raison des défenses naturelles et artificielles.
-
-L'autre exemple, cette fois de non-prise de risque, est la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 1940 où les forces alliées vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive de mai 1940. Cette inaction s'explique par le sentiment de sécurité offert par la ligne Maginot et l'incapacité du commandement français à se mettre d'accord. Cette offensive se terminera par la capitulation de la France.
-
+Ainsi, la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 1940 : les forces alliées convaincu de leur invulnérabilité avec la ligne Maginot et d'autres éléments issue du renseignement vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive de mai 1940. Pour compenser, le plus gros des forces allier va se précipiter dans les Ardennes belge, sans grand succès.
 
 ## Dans l'entreprise
 
