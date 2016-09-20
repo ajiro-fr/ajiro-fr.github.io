@@ -25,7 +25,7 @@ Dans ce cadre, Yakovleff identifie trois niveaux de risques, indépendemment du 
 - le risque significatif qui engage le succès de la mission
 - le risque critique qui engage définitivement la capacité à agir
 
-Il recommande de maximiser les risques, sans atteindre un niveau critique. En effet, il considère que la prise de risque est une forme de ressource suplémentaire.
+Il recommande de maximiser les risques, sans atteindre un niveau critique. En effet, il considère que la prise de risque est une forme de ressource supplémentaire.
 
 Par exemple, la [Bataille d'Inchéon] : le 15 septembre 1950, le général MacArthur surprend ses adversaires en réalisant un débarquement dans un lieu négligé car considéré comme trop risqué par les généraux adverses en raison des défenses naturelles et artificielles.
 
@@ -33,7 +33,7 @@ D'autre part, il souligne que chercher à minimiser le risque, cela revient à r
 
 Yakovleff met alors en évidence le paradoxe suivant : celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés pour compenser les retards et pertes accumulés durant la période où son adversaire a pu anticiper ses actions.
 
-Ainsi, la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 1940 : les forces alliées convaincu de leur invulnérabilité avec la ligne Maginot et d'autres éléments issue du renseignement vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive de mai 1940. Pour compenser, le plus gros des forces allier va se précipiter dans les Ardennes belge, sans grand succès.
+Ainsi, la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 1940 : les forces alliées convaincu de leur invulnérabilité avec la ligne Maginot et d'autres éléments issue du renseignement vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive de mai 1940. Pour compenser, les forces allier vont redéployer leurs troupes en urgence le long du front belge en laissant la zone de Sedan sans défense.
 
 ## Dans l'entreprise
 
@@ -43,42 +43,22 @@ Dans le contexte de l'entreprise, et pour reprendre les 3 niveaux de risque de Y
 - risque significatif : remise en cause de l'activité en cours, mais pas de la capacité future à opérer (risque financier assurable)
 - risque critique : remise en cause de la capacité de production actuelle et future de l'entreprise : faillite, manque de trésorerie, violation de contraintes légales ou réglementaires ...
 
-L'évocation du paradoxe de la prise de risque avec pour objectif l'imprévisibilité résonne chez nous comme la nécessité pour l'entreprise de faire preuve de créativité, de penser différemment et d'expérimenter le plus possible.
+Augmenter la prise de risque, sans atteindre un niveau critique avec pour objectif l'imprévisibilité, résonne pour nous comme la nécessité de faire ou de penser de façon disruptive. 
 
-Notre position est clairement en décalage par rapport à l'enseignement classique du management qui vise à minimiser les risques.   
+Par exemple, le 18 septembre 2002, Free lance sa première Freebox et son premier forfait ADSL plus de 30% moins cher que la concurrence. Rapidement, ils ajoutent la téléphonie gratuite et illimité et enfin, le 1er décembre 2003, ils annoncent l'arrivée de la télévision.
 
-À travers quelques exemples, nous allons illustrer notre propos.
-
-
-#### Free
-
-Le 18 septembre 2002, Free lance sa première Freebox et son premier forfait ADSL plus de 30% moins cher que la concurrence. Le 31 juillet 2003, Free ajoute la téléphonie gratuite et illimité à son offre. Le 1er décembre 2003, Free annonce l'arrivée de la télévision.
-
-Créer du triple play était une énorme prise de risque, personne ne pensait qu'il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL. Cela donnera à Free une avance sur la concurrence pour plusieurs années.
+Créer du triple play était une énorme prise de risque, personne ne pensait qu'il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL. Cela donnera à Free une avance sur la concurrence pour plusieurs années, ils en gardent d'ailleurs le surnom de "trublion".
 
 
-#### Toyota
+L'évocation du paradoxe de la prise de risque se retrouve de la même façon dans l'industrie. En effet, celui qui n'est pas suffisamment créatif et innovant se voit contraint de prendre plus tard beaucoup plus de risque.
 
-Toyota va brutalement transformer son organisation dans les années 1950, en s'inspirant des supermarchés américains et de la mise en rayon des produits. Leurs concurrents mettront près de 50 ans pour comprendre.
-
-Transformer toute leur organisation, changer les règles de prise de décisions et restructurer en profondeur leur mode production pour passer d'un flux poussé à un flux tiré serait encore aujourd'hui considéré comme suicidaire par bon nombre d'entreprises.
-Ils vont documenter et diffuser leurs façons de faire.  La prise de risque de Toyota est dans la créativité organisationnelle.
+Pour illustrer notre propos, Kodak a refusé d'exploiter le numérique pourtant directement sortie de leurs laboratoire, pour ne pas diminuer les marges des pellicules argentiques. Dix ans plus tard, malgré tous leurs efforts pour rattraper le retard : fermeture de 13 usines et de 130 laboratoires, licenciement de 47000 personnes, lancement de nouveaux modèles numériques à partir de 2005, ils vont déposer le bilan le 19 janvier 2012.
 
 
-#### Favi
+Notre position est donc clairement en décalage par rapport à l'enseignement classique du management qui vise à minimiser les risques.   
 
-Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation sur le modèle des entreprises libérées. Rapidement, ils deviendront leaders incontestés sur leur marché. Ici encore la prise de risque est dans la créativité organisationnelle. (Suppression du controle)
+Et vous qu'en pensez vous ?
 
-
-#### Kodak
-
-Pendant près de vingt ans, Kodak a refusé de prendre le risque de diminuer les marges élevées des pellicules argentiques. Ils ont donc raté le passage au numérique et sont resté sur une technologie de moins en moins utilisée. Ironiquement, c'est Kodak qui a inventé les capteurs CCD utilisés dans les appareils photos numériques.Le résultat est que Kodak a déposé le bilan le 19 janvier 2012.
-
-
-
-
-## Conclusion
-Notre approche correspond à couvrir ou borner les risques.
 ---
 Sources:
 
