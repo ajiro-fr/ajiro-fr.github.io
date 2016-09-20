@@ -1,6 +1,5 @@
 ---
 title: La prise de risque dans l'entreprise, éclairages inattendus des militaires
-hidden: true
 lang: fr
 authors:
   - albiez_olivier
