@@ -16,8 +16,17 @@ exclude:
 
 defaults:
 - scope:
-    path: "articles"
-    type: "posts"
+    path: articles
+    type: posts
   values:
     permalink: /articles/:year/:month/:day/:title.html
     layout: article
+- scope:
+    path: books
+    type: books
+  values:
+    layout: book
+
+collections:
+  books:
+    output: true

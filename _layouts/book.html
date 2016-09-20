@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="article">
+  <div class="row">
+    <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+      <h1>
+        {{ page.title }} {% if page.author %}<br><small>{{ page.author }}</small>{% endif %}
+      </h1>
+    </div>
+  </div>
+  <div class="row spacer-40">
+    <div class="col-sm-2 col-xs-12">
+      {% if page.cover %}
+        <img alt='{{ page.title }} cover' src='/assets/books/{{page.cover}}' class="img-responsive">
+      {% endif %}
+    </div>
+    <div class="col-sm-8 col-xs-12">
+      {{ content }}
+    </div>
+  </div>
+</div>
