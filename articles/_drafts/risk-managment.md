@@ -25,15 +25,20 @@ Dans ce cadre, Yakovleff identifie trois niveaux de risques, indépendemment du 
 - le risque significatif qui engage le succès de la mission
 - le risque critique qui engage définitivement la capacité à agir
 
-Il recommande de maximiser les risques, sans atteindre un niveau critique. En effet, il considère que la prise de risque est une forme de ressource supplémentaire.
+### Ne pas minimiser le risque
 
-Par exemple, la [Bataille d'Inchéon] : le 15 septembre 1950, le général MacArthur surprend ses adversaires en réalisant un débarquement dans un lieu négligé car considéré comme trop risqué par les généraux adverses en raison des défenses naturelles et artificielles.
-
-D'autre part, il souligne que chercher à minimiser le risque, cela revient à restreindre ses possibilités en écartant toutes celles qui seront jugées trop risquées. L'adversaire a ainsi moins de cas à étudier et peut plus facilement anticiper les actions. 
+Il souligne que chercher à minimiser le risque, cela revient à restreindre ses possibilités en écartant toutes celles qui seront jugées trop risquées. L'adversaire a ainsi moins de cas à étudier et peut plus facilement anticiper les actions. 
 
 Yakovleff met alors en évidence le paradoxe suivant : celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés pour compenser les retards et pertes accumulés durant la période où son adversaire a pu anticiper ses actions.
 
 Ainsi, la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 1940 : les forces alliées convaincu de leur invulnérabilité avec la ligne Maginot et d'autres éléments issue du renseignement vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive de mai 1940. Pour compenser, les forces allier vont redéployer leurs troupes en urgence le long du front belge en laissant la zone de Sedan sans défense.
+
+### Mais le maximiser
+
+Il recommande de maximiser les risques, sans atteindre un niveau critique. En effet, il considère que la prise de risque est une forme de ressource supplémentaire.
+
+Par exemple, la [Bataille d'Inchéon] : le 15 septembre 1950, le général MacArthur surprend ses adversaires en réalisant un débarquement dans un lieu négligé car considéré comme trop risqué par les généraux adverses en raison des défenses naturelles et artificielles.
+
 
 ## Dans l'entreprise
 
@@ -43,21 +48,23 @@ Dans le contexte de l'entreprise, et pour reprendre les 3 niveaux de risque de Y
 - risque significatif : remise en cause de l'activité en cours, mais pas de la capacité future à opérer (risque financier assurable)
 - risque critique : remise en cause de la capacité de production actuelle et future de l'entreprise : faillite, manque de trésorerie, violation de contraintes légales ou réglementaires ...
 
+### Ne pas minimiser le risque
+
+L'évocation du paradoxe de la prise de risque se retrouve de la même façon dans l'industrie. En effet, celui qui n'est pas suffisamment créatif et innovant se voit contraint de prendre plus tard beaucoup plus de risque.
+
+Pour illustrer notre propos, Kodak a refusé d'exploiter le numérique pourtant directement sortie de leurs laboratoire, pour ne pas diminuer les marges des pellicules argentiques. Dix ans plus tard, malgré tous leurs efforts pour rattraper le retard : fermeture de 13 usines et de 130 laboratoires, licenciement de 47000 personnes, lancement de nouveaux modèles numériques à partir de 2005, ils vont déposer le bilan le 19 janvier 2012.
+
+### Mais le maximiser
+
 Augmenter la prise de risque, sans atteindre un niveau critique avec pour objectif l'imprévisibilité, résonne pour nous comme la nécessité de faire ou de penser de façon disruptive. 
 
 Par exemple, le 18 septembre 2002, Free lance sa première Freebox et son premier forfait ADSL plus de 30% moins cher que la concurrence. Rapidement, ils ajoutent la téléphonie gratuite et illimité et enfin, le 1er décembre 2003, ils annoncent l'arrivée de la télévision.
 
 Créer du triple play était une énorme prise de risque, personne ne pensait qu'il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL. Cela donnera à Free une avance sur la concurrence pour plusieurs années, ils en gardent d'ailleurs le surnom de "trublion".
 
+## Conslusion
 
-L'évocation du paradoxe de la prise de risque se retrouve de la même façon dans l'industrie. En effet, celui qui n'est pas suffisamment créatif et innovant se voit contraint de prendre plus tard beaucoup plus de risque.
-
-Pour illustrer notre propos, Kodak a refusé d'exploiter le numérique pourtant directement sortie de leurs laboratoire, pour ne pas diminuer les marges des pellicules argentiques. Dix ans plus tard, malgré tous leurs efforts pour rattraper le retard : fermeture de 13 usines et de 130 laboratoires, licenciement de 47000 personnes, lancement de nouveaux modèles numériques à partir de 2005, ils vont déposer le bilan le 19 janvier 2012.
-
-
-Notre position est donc clairement en décalage par rapport à l'enseignement classique du management qui vise à minimiser les risques.   
-
-Et vous qu'en pensez vous ?
+Notre position est clairement en décalage par rapport à l'enseignement classique du management qui vise à minimiser les risques.   
 
 ---
 Sources:
