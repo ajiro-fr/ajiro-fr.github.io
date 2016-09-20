@@ -91,7 +91,7 @@ Par exemple, le 18 septembre 2002, Free lance sa première Freebox et son premie
 
 Créer du triple play était une énorme prise de risque, personne ne pensait qu'il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL. Cela donnera à Free une avance sur la concurrence pour plusieurs années, ils en gardent d'ailleurs le surnom de "trublion".
 
-## Conslusion
+## Conclusion
 
 Notre position est clairement en décalage par rapport à l'enseignement classique du management qui vise à minimiser les risques.
 
