@@ -76,6 +76,12 @@ Pour illustrer notre propos, Kodak a refusé d'exploiter le numérique pourtant 
 
 Augmenter la prise de risque, sans atteindre un niveau critique avec pour objectif l'imprévisibilité, résonne pour nous comme la nécessité de faire ou de penser de façon disruptive.
 
+{% include picture.html
+    path='articles/risk_managment/freebox_v6.jpg'
+    legend='Freebox V6'
+    source='https://commons.wikimedia.org/wiki/File:Freebox_v6_-1010633.jpg#/media/File:Freebox_v6_-1010633.jpg'
+%}
+
 Par exemple, le 18 septembre 2002, Free lance sa première Freebox et son premier forfait ADSL plus de 30% moins cher que la concurrence. Rapidement, ils ajoutent la téléphonie gratuite et illimité et enfin, le 1er décembre 2003, ils annoncent l'arrivée de la télévision.
 
 Créer du triple play était une énorme prise de risque, personne ne pensait qu'il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL. Cela donnera à Free une avance sur la concurrence pour plusieurs années, ils en gardent d'ailleurs le surnom de "trublion".
