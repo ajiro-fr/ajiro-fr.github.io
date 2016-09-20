@@ -12,27 +12,27 @@ title: Articles
 {% for article in site.categories.articles %}
 {% unless article.hidden %}
 <div class="row spacer-40">
-  <div class="col-sm-offset-2 col-sm-8 col-xs-12">
-    <span class="pull-right">
+  <div class="col-sm-3 text-right">
+    <h3>
         <i class='fa fa-calendar'></i> {{ article.date | date: "%b %-d, %Y" }}
-    </span>
+    </h3>
+  </div>
+  <div class="col-sm-8 col-xs-12">
     <h3>
       <a href="{{ article.url }}">{{ article.title }}</a>
     </h3>
-    {% if article.authors %}
-      {% capture authors %}
-        {% for author_id in article.authors %}
-          {{site.data.people[author_id].name}}{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
-      {% endcapture %}
-      <p class="post-meta">
-        <i class='fa fa-user'></i> {{ authors }}
-      </p>
-    {% endif %}
   </div>
 </div>
 <div class="row">
-  <div class="col-sm-offset-2 col-sm-5 col-xs-12">
+  <div class="col-sm-3 text-right block-right">
+    {% if article.authors %}
+      {% for author_id in article.authors %}
+        {% assign author = site.data.people[author_id] %}
+        <img alt="Photo {{author.name}}" width="80" class="img-circle" src="/assets/images/team/{{author.photo}}" />
+      {% endfor %}
+    {% endif %}
+  </div>
+  <div class="col-sm-5 col-xs-12">
     <div class="text-justify">
       {% if article.description %}
         {{article.description}}
@@ -48,6 +48,8 @@ title: Articles
         {% endfor %}
       </small>
     {% endif %}
+    <div class="spacer-20">
+    </div>
   </div>
   <div class="col-sm-3 col-xs-12">
     <img alt='{{ article.title }} illustration' src='{{article.illustration.path}}' class="img-responsive img-rounded">
