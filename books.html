@@ -16,7 +16,7 @@ permalink: /books/
   <div class="col-sm-offset-2 col-sm-8 col-xs-12">
     <h3>
       <a href="{{ book.url }}">{{ book.title }}</a>
-      {% if book.author %}<br><small>{{ book.author }}</small>{% endif %}
+      {% if book.authors %}<br><small>{{ book.authors | join: ', ' }}</small>{% endif %}
     </h3>
   </div>
 </div>
