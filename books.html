@@ -1,0 +1,24 @@
+---
+layout: default
+title: Books
+permalink: /books/
+---
+
+<div class='row spacer-20'>
+  <div class='col-sm-12 col-xs-12 text-center'>
+    <h2>Les livres</h2>
+  </div>
+</div>
+
+{% for book in site.books %}
+{% unless book.hidden %}
+<div class="row spacer-40">
+  <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+    <h3>
+      <a href="{{ book.url }}">{{ book.title }}</a>
+      {% if book.author %}<br><small>{{ book.author }}</small>{% endif %}
+    </h3>
+  </div>
+</div>
+{% endunless %}
+{% endfor %}
