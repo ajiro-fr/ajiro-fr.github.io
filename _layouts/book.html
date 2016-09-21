@@ -6,7 +6,7 @@ layout: default
   <div class="row">
     <div class="col-sm-offset-2 col-sm-8 col-xs-12">
       <h1>
-        {{ page.title }} {% if page.author %}<br><small>{{ page.author }}</small>{% endif %}
+        {{ page.title }} {% if page.authors %}<br><small>{{ page.authors | join: ', ' }}</small>{% endif %}
       </h1>
     </div>
   </div>
@@ -18,6 +18,8 @@ layout: default
     </div>
     <div class="col-sm-8 col-xs-12">
       {{ content }}
+      <hr>
+      {{page.title}}, {{ page.authors | join: ', ' }}. {{page.editor}}. {{page.edition}}, {{page.year}}. ISBN: {{page.isbn}}
     </div>
   </div>
 </div>
