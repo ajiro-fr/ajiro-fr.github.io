@@ -19,7 +19,13 @@ layout: default
     <div class="col-sm-8 col-xs-12">
       {{ content }}
       <hr>
-      {{page.title}}, {{ page.authors | join: ', ' }}. {{page.editor}}. {{page.edition}}, {{page.year}}. ISBN: {{page.isbn}}
+      {{ page.authors | join: ', ' }}.
+      <i>{{page.title}}</i>.
+      {% if page.edition %}{{page.edition}}. {% endif %}
+      {% if page.address %}{{page.address}} : {% endif %}
+      {% if page.publisher %}{{page.publisher}}, {% endif %}
+      {% if page.year %}{{page.year}}. {% endif %}
+      {% if page.isbn %}ISBN: {{page.isbn}}{% endif %}
     </div>
   </div>
 </div>

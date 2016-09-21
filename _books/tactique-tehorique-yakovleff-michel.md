@@ -2,8 +2,9 @@
 layout: book
 title: Tactique Théorique
 authors:
-- Michel Yakovleff
-editor: Economica, Coll. « Stratégies et doctrines »
+- YAKOVLEFF, Michel
+publisher: Economica, Coll. « Stratégies et doctrines »
+address: Paris
 edition: 2e édition
 year: 2009
 isbn: 978-2717857344
