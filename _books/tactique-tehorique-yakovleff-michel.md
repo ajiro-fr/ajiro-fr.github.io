@@ -9,6 +9,7 @@ edition: 2e édition
 year: 2009
 isbn: 978-2717857344
 cover: tactique-tehorique-yakovleff-michel.jpg
+date: 2016-09-21
 ---
 
 ## Résumé
