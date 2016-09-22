@@ -22,7 +22,7 @@ layout: null
   {% for item in site.books %}
     <url>
       <loc>{{ site.url }}{{ item.url }}</loc>
-      <lastmod>{{ item.date | date_to_xmlschema }}</lastmod>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
       <changefreq>weekly</changefreq>
     </url>
   {% endfor %}
