@@ -5,10 +5,10 @@ lang: fr
 authors:
   - legras_severin
 tags:
-  - Happiness
+  - happiness
   - RH
-  - Bonheur
-  - Entreprise libérée
+  - bonheur
+  - entreprise libérée
 illustration:
   path: /assets/articles/cho/happiness.jpg
   source: http://flic.kr/p/4ybEeJ
