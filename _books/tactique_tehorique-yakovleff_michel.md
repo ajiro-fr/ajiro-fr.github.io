@@ -8,7 +8,7 @@ address: Paris
 edition: 2e édition
 year: 2009
 isbn: 978-2717857344
-cover: tactique-tehorique-yakovleff-michel.jpg
+cover: tactique_tehorique-yakovleff_michel.jpg
 ---
 
 ## Résumé
