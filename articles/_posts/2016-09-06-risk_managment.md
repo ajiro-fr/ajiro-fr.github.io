@@ -104,4 +104,4 @@ Sources:
 [Bataille d'Inchéon]: https://fr.wikipedia.org/wiki/Bataille_d%27Incheon
 [« drôle de guerre »]: https://fr.wikipedia.org/wiki/Dr%C3%B4le_de_guerre
 [Kodak: les leçons d’une faillite]: http://www.paristechreview.com/2012/02/20/kodak-lecons-faillite/
-[Tactique théorique]: /books/tactique-tehorique-yakovleff-michel.html
+[Tactique théorique]: /books/tactique_tehorique-yakovleff_michel.html

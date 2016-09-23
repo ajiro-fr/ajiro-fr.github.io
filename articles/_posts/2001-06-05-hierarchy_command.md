@@ -35,4 +35,4 @@ Sources:
 - [Tactique théorique]
 
 
-[Tactique théorique]: /books/tactique-tehorique-yakovleff-michel.html
+[Tactique théorique]: /books/tactique_tehorique-yakovleff_michel.html
