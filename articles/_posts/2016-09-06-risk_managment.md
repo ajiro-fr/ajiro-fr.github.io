@@ -10,7 +10,7 @@ tags:
   - concepts
   - management
 illustration:
-  path: /assets/articles/risk_managment/3112796093_b2eca43e06_b.jpg
+  name: 3112796093_b2eca43e06_b.jpg
   source: https://flic.kr/p/5K4TQa
 ---
 
@@ -37,8 +37,8 @@ Yakovleff met alors en évidence le paradoxe suivant : celui qui ne prend pas de
 
 Ainsi, la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 1940 : les forces alliées convaincu de leur invulnérabilité avec la ligne Maginot et d'autres éléments issue du renseignement vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive de mai 1940. Pour compenser, les forces allier vont redéployer leurs troupes en urgence le long du front belge en laissant la zone de Sedan sans défense.
 
-{% include picture.html
-    path='articles/risk_managment/fallgelb_manstein.jpg'
+{% include img.html
+    name='fallgelb_manstein.jpg'
     legend='Opération Fall Gelb'
     source='https://commons.wikimedia.org/wiki/File%3AFallGelb_Manstein.svg'
 %}
@@ -50,8 +50,8 @@ Il recommande de maximiser les risques, sans atteindre un niveau critique. En ef
 
 Par exemple, la [Bataille d'Inchéon] : le 15 septembre 1950, le général MacArthur surprend ses adversaires en réalisant un débarquement dans un lieu négligé car considéré comme trop risqué par les généraux adverses en raison des défenses naturelles et artificielles.
 
-{% include picture.html
-    path='articles/risk_managment/31st_infantry_inchon.jpg'
+{% include img.html
+    name='31st_infantry_inchon.jpg'
     legend="Débarquement du 31e Régiment d'infanterie"
     source='https://commons.wikimedia.org/wiki/File:31st_Infantry_Inchon.jpg#/media/File:31st_Infantry_Inchon.jpg'
 %}
@@ -69,8 +69,8 @@ Dans le contexte de l'entreprise, et pour reprendre les 3 niveaux de risque de Y
 
 L'évocation du paradoxe de la prise de risque se retrouve de la même façon dans l'industrie. En effet, celui qui n'est pas suffisamment créatif et innovant se voit contraint de prendre plus tard beaucoup plus de risque.
 
-{% include picture.html
-    path='articles/risk_managment/26897497800_c5c10d7d78_k.jpg'
+{% include img.html
+    path='26897497800_c5c10d7d78_k.jpg'
     source='https://flic.kr/p/GYQH15'
 %}
 
@@ -81,8 +81,8 @@ Pour illustrer notre propos, Kodak a refusé d'exploiter le numérique pourtant 
 
 Augmenter la prise de risque, sans atteindre un niveau critique avec pour objectif l'imprévisibilité, résonne pour nous comme la nécessité de faire ou de penser de façon disruptive.
 
-{% include picture.html
-    path='articles/risk_managment/freebox_v1.jpg'
+{% include img.html
+    path='freebox_v1.jpg'
     legend='Freebox V1'
 %}
 

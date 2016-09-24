@@ -1,0 +1,13 @@
+<div>
+  <img alt='{{include.description}}'
+       src='/assets/articles/{{include.article}}/{{include.name}}'
+       class="img-responsive img-rounded">
+  {% if include.source %}
+    <span class="img-credit pull-right">
+      <a href="{{include.source}}">Source</a>
+    </span>
+  {% endif %}
+  {% if include.legend %}
+    <span><small>{{include.legend}}</small></span>
+  {% endif %}
+</div>

@@ -52,7 +52,12 @@ title: Articles
     </div>
   </div>
   <div class="col-sm-4 col-xs-12">
-    <img alt='{{ article.title }} illustration' src='{{article.illustration.path}}' class="img-responsive img-rounded">
+    {% capture description %}Illustration pour "{{article.title}}"{% endcapture %}
+    {% include smart-img.html
+      description=description
+      name=article.illustration.name
+      article=article.slug
+    %}
   </div>
 </div>
 {% endunless %}

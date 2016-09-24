@@ -14,7 +14,7 @@ tags:
   - managment
   - leadership
 illustration:
-  path: /assets/articles/hierarchy_command/247365126_307262f7a8_b.jpg
+  name: 247365126_307262f7a8_b.jpg
   source: https://flic.kr/p/nRP2Y
 ---
 

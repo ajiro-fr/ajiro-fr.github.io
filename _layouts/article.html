@@ -69,12 +69,13 @@ layout: default
   {% if page.illustration %}
     <div class="row spacer-20">
       <div class="col-sm-offset-2 col-sm-8 col-xs-12">
-        <img alt='{{ page.title }} illustration' src='{{page.illustration.path}}' class="img-responsive img-rounded">
-        {% if page.illustration.source %}
-            <div class="img-credit">
-              <a href="{{page.illustration.source}}">Source</a>
-            </div>
-        {% endif %}
+        {% include smart-img.html
+          description=page.illustration.description
+          name=page.illustration.name
+          source=page.illustration.source
+          legend=page.illustration.legend
+          article=page.slug
+        %}
       </div>
     </div>
   {% endif %}
