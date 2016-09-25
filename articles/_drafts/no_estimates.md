@@ -8,8 +8,8 @@ tags:
   - pensée
   - methodologie
 illustration:
-  name: 5777267048_5e452030be_o.jpg
-  source: https://www.flickr.com/photos/adrianhon/4671006254/
+  name: 4671006254_b646ef737c_b.jpg
+  source: https://flic.kr/p/87L8qA
 ---
 
 J'ai récemment été contacté pour faire une session sur #NoEstimates. Finalement cela ne s'est pas fait, mais comme j'ai réfléchi un peu au sujet je me dis que cela pourrait être utile de dépasser le cadre d'un pitch et en faire un post.
