@@ -21,13 +21,17 @@ J'ai récemment été contacté pour faire une session sur #NoEstimates. Finalem
 
 > Un jour dans une entreprise...
 >
-> *IT* : Alors nous avons estimé la prochaine fonctionnalité à 15
+> IT
+> : Alors nous avons estimé la prochaine fonctionnalité à 15
 >
-> *Métier* : Ah oui, c'est cher. Vous ne pourriez pas faire un petit effort et la faire pour 12
+> Métier
+> : Ah oui, c'est cher. Vous ne pourriez pas faire un petit effort et la faire pour 12
 >
-> *IT* : C'est ce que l'on a estimé pendant notre réunion d'estimation. Avec les abaques, cela donne 15
+> IT
+> : C'est ce que l'on a estimé pendant notre réunion d'estimation. Avec les abaques, cela donne 15
 >
-> *Métier* : Faites voir vos abaques. Vous pouvez sûrement réduire les tests. C'est une fonctionnalité simple donc pas dur à tester.
+> Métier
+> : Faites voir vos abaques. Vous pouvez sûrement réduire les tests. C'est une fonctionnalité simple donc pas dur à tester.
 >
 > ...
 
