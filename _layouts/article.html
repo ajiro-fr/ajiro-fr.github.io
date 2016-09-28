@@ -44,6 +44,7 @@ layout: default
 <div class="article">
   <div class="row">
     <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+      <div class="pull-right">{% include components/share_with.html %}</div>
       <h1>
         {{ page.title }} {% if page.subtitle %}<br><small>{{ page.subtitle }}</small> {% endif %}
       </h1>
@@ -86,6 +87,7 @@ layout: default
   </div>
   <div class="row spacer-40">
     <div class="col-sm-offset-2 col-sm-8 col-xs-12 text-right">
+      <div class="pull-right">{% include components/share_with.html %}</div>
       <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
     </div>
   </div>
