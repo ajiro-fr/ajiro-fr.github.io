@@ -13,17 +13,22 @@ layout: null
     {% endunless %}
   {% endfor %}
   {% for item in site.posts %}
+  {% unless item.hidden %}
     <url>
+      {{item.hidden}}
       <loc>{{ site.url }}{{ item.url }}</loc>
       <lastmod>{{ item.date | date_to_xmlschema }}</lastmod>
       <changefreq>daily</changefreq>
     </url>
+  {% endunless %}
   {% endfor %}
   {% for item in site.books %}
+  {% unless item.hidden %}
     <url>
       <loc>{{ site.url }}{{ item.url }}</loc>
       <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
       <changefreq>weekly</changefreq>
     </url>
+  {% endunless %}
   {% endfor %}
 </urlset>
