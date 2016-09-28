@@ -26,7 +26,14 @@ defaults:
     type: books
   values:
     layout: book
+- scope:
+    path: tales
+    type: tales
+  values:
+    layout: tales
 
 collections:
   books:
+    output: true
+  tales:
     output: true
