@@ -1,9 +1,9 @@
 /* == General */
 
 .text-justify {
-  -moz-hyphens: auto;
   text-align: justify;
   word-wrap: break-word;
+  -moz-hyphens: auto;
 }
 
 .spacer-20 {
@@ -41,32 +41,36 @@ h1, h2, h3 {
 
 @font-face {
   font-family: "Linux Biolinum";
-  font-style: normal;
   font-weight: normal;
+  font-style: normal;
+  font-smooth: always;
+
   src: url('/assets/fonts/LinBiolinum_R.otf') format('opentype');
-  font-smooth: always;
 }
 
 @font-face {
   font-family: "Linux Biolinum";
-  font-style: italic;
   font-weight: normal;
-  src: url('/assets/fonts/LinBiolinum_RI.otf') format('opentype');
+  font-style: italic;
   font-smooth: always;
+
+  src: url('/assets/fonts/LinBiolinum_RI.otf') format('opentype');
 }
 
 @font-face {
   font-family: "Linux Biolinum";
-  font-style: normal;
   font-weight: bold;
-  src: url('/assets/fonts/LinBiolinum_RB.otf') format('opentype');
+  font-style: normal;
   font-smooth: always;
+
+  src: url('/assets/fonts/LinBiolinum_RB.otf') format('opentype');
 }
 
 body {
+  background-repeat: no-repeat;
+
   font-family: 'Linux Biolinum';
   font-size: 18px;
-  background-repeat: no-repeat;
 }
 
 /* Custom, iPhone Retina */
@@ -110,30 +114,36 @@ body {
 }
 
 .site-footer {
-  color: #eeeeec;
+  display: table;
+
+  width: 100%;
   margin-top : 2em;
   padding-top : 2em;
   padding-bottom : 2em;
-  display: table;
-  width: 100%;
+
+  color: #eeeeec;
 }
 
 .circled-icon i {
-  background-color: #eeeeec;
-  color: #000000;
-  font-size: 25px;
   width: 38px;
   height: 38px;
-  border-radius: 50%;
-  text-align: center;
-  line-height: 42px;
   margin: 2px;
+
+  text-align: center;
   vertical-align: middle;
+
+  color: #000000;
+  border-radius: 50%;
+  background-color: #eeeeec;
+
+  font-size: 25px;
+  line-height: 42px;
 }
 
 .circled-icon a {
-  color: inherit;
   text-decoration: none;
+
+  color: inherit;
 }
 
 .value-icon {
@@ -142,23 +152,28 @@ body {
 
 .value ul
 {
-  list-style-type: none;
-  padding:0;
   margin:0;
+  padding:0;
+
+  list-style-type: none;
 }
 
 
 .organisation-logo {
-  text-align: center;
-  margin: 2px;
-  border-radius: 6px;
   display: inline-block;
-  background-color: white;
+
+  margin: 2px;
+
+  text-align: center;
+
   border: 1px solid white;
+  border-radius: 6px;
+  background-color: white;
 }
 
 .organisation-logo:hover {
   border: 1px solid #eee;
+
   filter: none;
 }
 
@@ -168,6 +183,7 @@ body {
 
 .organisation-logo a {
   text-decoration: none;
+
   color: inherit;
 }
 
@@ -181,6 +197,6 @@ body {
 
 .article {
   text-align: justify;
-  -moz-hyphens: auto;
   word-wrap: break-word;
+  -moz-hyphens: auto;
 }
