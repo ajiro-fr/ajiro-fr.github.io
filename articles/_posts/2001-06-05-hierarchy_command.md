@@ -8,7 +8,7 @@ contributors:
   - Thomas Clavier
   - Damien Salvador
 tags:
-  - military
+  - militaire
   - concept
   - managment
   - leadership
