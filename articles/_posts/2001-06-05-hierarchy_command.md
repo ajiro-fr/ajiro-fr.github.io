@@ -1,6 +1,5 @@
 ---
 title: La hiérarchie
-hidden: true
 lang: fr
 authors:
   - albiez_olivier
