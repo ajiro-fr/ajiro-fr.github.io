@@ -1,0 +1,11 @@
+{% capture panel_content %}
+  <ul>
+  {% for item in include.items %}
+    <li>{{item}}</li>
+  {% endfor %}
+  </ul>
+{% endcapture %}
+{% include components/game_panel.html
+    icon=include.icon
+    title=include.title
+    content=panel_content %}

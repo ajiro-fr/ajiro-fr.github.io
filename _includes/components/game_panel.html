@@ -1,0 +1,9 @@
+
+<div class="panel panel-game">
+  <div class="panel-heading">
+    <h3 class="panel-title">{% if include.icon %}<i class="fa {{include.icon}}" aria-hidden="true"></i>{% endif %} {{include.title}}</h3>
+  </div>
+  <div class="panel-body">
+    {{ include.content | markdownify }}
+  </div>
+</div>

@@ -200,3 +200,30 @@ body {
   word-wrap: break-word;
   -moz-hyphens: auto;
 }
+
+.panel-game {
+  border-color: #3d7890;
+  height: 100%;
+}
+.panel-game > .panel-heading {
+  color: #fff;
+  background-color: #3d7890;
+  border-color: #3d7890;
+}
+.panel-game > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #3d7890;
+}
+.panel-game > .panel-heading .badge {
+  color: #3d7890;
+  background-color: #fff;
+}
+.panel-game > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #3d7890;
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
