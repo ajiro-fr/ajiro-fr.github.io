@@ -17,4 +17,4 @@ Pourquoi perdre tout le temps gagné grâce à la mise en œuvre des pratiques a
 
 Lors de la conférence [Lean Kanban France 2015](http://http://leankanban.fr/), j'ai voulu partager ma vision de la construction des indicateurs. Dans un premier temps, je détaille les 10 principes à respecter issus de Management 3.0. Dans la seconde partie, je propose une approche progressive de la construction d'indicateurs de pilotage.
 
-Retrouvez cette session 18 minutes sur [InfoQ](https://www.infoq.com/fr/presentations/lkfr-severin-legras-metrics-manifesto). Les slides sont  téléchargeables directement sur le site ou sur [SlideShare] (http://www.slideshare.net/SverinLegras/lkfr2015-metrics-manifesto).
+Retrouvez cette session 18 minutes sur [InfoQ](https://www.infoq.com/fr/presentations/lkfr-severin-legras-metrics-manifesto). Les slides sont  téléchargeables directement sur le site ou sur [SlideShare](http://www.slideshare.net/SverinLegras/lkfr2015-metrics-manifesto).
