@@ -227,3 +227,6 @@ body {
   display: -ms-flexbox;
   display:         flex;
 }
+
+.article-list__calendar i {
+}

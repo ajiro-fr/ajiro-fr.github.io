@@ -70,7 +70,7 @@ Dans le contexte de l'entreprise, et pour reprendre les 3 niveaux de risque de Y
 L'évocation du paradoxe de la prise de risque se retrouve de la même façon dans l'industrie. En effet, celui qui n'est pas suffisamment créatif et innovant se voit contraint de prendre plus tard beaucoup plus de risque.
 
 {% include img.html
-    path='26897497800_c5c10d7d78_k.jpg'
+    name='kodak.jpg'
     source='https://flic.kr/p/GYQH15'
 %}
 
@@ -82,7 +82,7 @@ Pour illustrer notre propos, Kodak a refusé d'exploiter le numérique pourtant 
 Augmenter la prise de risque, sans atteindre un niveau critique avec pour objectif l'imprévisibilité, résonne pour nous comme la nécessité de faire ou de penser de façon disruptive.
 
 {% include img.html
-    path='freebox_v1.jpg'
+    name='freebox_v1.jpg'
     legend='Freebox V1'
 %}
 
