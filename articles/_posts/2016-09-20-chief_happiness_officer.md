@@ -10,7 +10,7 @@ tags:
   - bonheur
   - entreprise libérée
 illustration:
-  name: happiness.jpg
+  name: happiness
   source: http://flic.kr/p/4ybEeJ
 ---
 

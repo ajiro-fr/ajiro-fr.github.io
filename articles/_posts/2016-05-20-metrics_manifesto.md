@@ -9,7 +9,7 @@ tags:
   - KPI
   - performance
 illustration:
-  name: 4510024415_49b3d8fa89_o.jpg
+  name: 4510024415_49b3d8fa89
   source: https://flic.kr/p/7Sx48D
 ---
 

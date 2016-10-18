@@ -9,7 +9,7 @@ tags:
   - conference
   - organisation
 illustration:
-  name: lja_4-PRhAj8-low5aRJpR6SjEw.jpg
+  name: lja_4-PRhAj8-low5aRJpR6SjEw
   source:
 ---
 
@@ -28,5 +28,5 @@ Surprise en lisant la doctrine militaire du Général Yakovleff. Le fonctionneme
 L'accueil à été très positif. Et les votes en sortie de conférence sont un clin d'œil à notre ami [Antoine Contal](https://www.linkedin.com/in/antoinecontal). Nous aussi, on est austère.
 
 {% include img.html
-    name='votes.jpg'
+    name='votes'
 %}

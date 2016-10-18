@@ -8,14 +8,14 @@ tags:
   - pensée
   - methodologie
 illustration:
-  name: 4671006254_b646ef737c_b.jpg
+  name: 4671006254_b646ef737c
   source: https://flic.kr/p/87L8qA
 ---
 
 J'ai récemment été contacté pour faire une session sur #NoEstimates. Finalement cela ne s'est pas fait, mais comme j'ai réfléchi un peu au sujet je me dis que cela pourrait être utile de dépasser le cadre d'un pitch et en faire un post.
 
 {% include img.html
-    name='1482020719_35efb6dff2_o.jpg'
+    name='1482020719_35efb6dff2'
     source='https://flic.kr/p/3fXK8n'
 %}
 
@@ -40,14 +40,14 @@ Si vous participez à ce type de discussion, c'est que vous êtes improductifs (
 Dans la suite de l'article, je vais plus donner ma vision du #NoEstimates qu'un consensus de la communauté. Je prends ce parti car il n'existe pour moi pas de consensus. Il y a beau y avoir le livre de Vasco Duarte, il a été écrit après les premiers échanges sur twitter. Il suffit de taper #NoEstimates sur google pour s'en rendre compte. Ce que je raconte ci dessous provient des expériences que nous (les équipes que je coache et moi) avons fait avant et après un workshop avec Vasco qui nous a permis d'affiner le modèle.
 
 {% include img.html
-    name='1150163_3d5d68c150_o.jpg'
+    name='1150163_3d5d68c150'
     source='https://www.flickr.com/photos/friskodude/1150163'
 %}
 
 L'idée est de ne pas rentrer dans un débat théologique pour savoir s'il faut estimer ou non. Je laisse cela à la communauté PMP. La question est de savoir à quelle question on répond et quelle décision on veut prendre avec. Malheureusement, je constate plus que l'on estime parce qu'il faut estimer. J'en veux la preuve que quand je demande aux équipes que je coache pourquoi elles estiment, elles me répondent par du 'quoi' style faire une roadmap et qu'elles sont très moyennment capables de savoir pourquoi.
 
 {% include img.html
-    name='4319185932_09a9650629_b.jpg'
+    name='4319185932_09a9650629'
     source='https://www.flickr.com/photos/reymondgalvez/4319185932/'
 %}
 
@@ -58,7 +58,7 @@ Réponse à la question
 Il y a un sous entendu dans la question à savoir que vous ne connaissez pas juste la solution attendue mais le problème auquel vous pensez répondre. Le temps du verbe est important, vous avez une hypothèse que vous souhaitez valider. Vous allez me dire que cela est assez classique et que c'est du pur calcul de ROI. Très bien, mais est ce que vous passez réellement du temps à comprendre la valeur que vous allez apporter (cf changement de l'expérience utilisateur) et donc découper le besoin métier ou est ce que vous vous focalisez sur le découpage de la solution ? #NoEstimates part plutôt du principe qu'il faut se focaliser sur le 1 et moins le 2. De quelles pratiques parle t on ? C'est un découpage classique de backlog à base d'initiatives business (Dealing with Darling de Geoffrey Moore), puis de Minimum Viable Product MVP (Running Lean de Ash Maurya) et enfin de user story (Story mapping de Jeff Patton).
 
 {% include img.html
-    name='3374429207_3a027120a2_b.jpg'
+    name='3374429207_3a027120a2'
     source='https://www.flickr.com/photos/_mll_/3374429207'
 %}
 
@@ -68,7 +68,7 @@ Une fois que vous avez bien bossé sur votre backlog, vous avez une bonne idée 
 - Vous avez des spécialistes du 'je ne peux pas découper plus' et donc pas de bol pour vous, vous allez devoir utiliser de l'estimation relative. Personnellement, je pense que le tailles de T-Shirt suffisent pour répondre à la question initiale de rentabilité business. Ca fait longtemps que je n'ai plus touché un jeu de planning poker.
 
 {% include img.html
-    name='1774508061_71cf004a17_o.jpg'
+    name='1774508061_71cf004a17'
     source='https://www.flickr.com/photos/benalford/1774508061'
 %}
 
@@ -79,7 +79,7 @@ Pour la petite histoire un jeu de planning poker à la mode #NoEstimates c'est j
 - NFC : No fucking clue. En fait je n'ai pas compris ce que tu veux faire. En général c'est que le besoin mérite d'être reclarifié.
 
 {% include img.html
-    name='5936033927_b60c89ce75_o.jpg'
+    name='5936033927_b60c89ce75'
     source='https://www.flickr.com/photos/yuchao_li/5936033927'
 %}
 
@@ -89,7 +89,7 @@ Ensuite, il reste à donner de la visibilité pour être capable de donner une d
 - On n'arrive pas à recalibrer car la vélocité est trop volatile. J'ai déjà vu du simple au triple en fonction des sprints. Le système est dit instable. Vous NE DEVEZ PLUS donner de roadmap où sinon je vous range dans la catégorie vendeur de tapis. Vous devez attendre que votre système se restabilise.
 
 {% include img.html
-    name='4546017269_ddac803025_b.jpg'
+    name='4546017269_ddac803025'
     source='https://www.flickr.com/photos/toolstop/4546017269'
 %}
 

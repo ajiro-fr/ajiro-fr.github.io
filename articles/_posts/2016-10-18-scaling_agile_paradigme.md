@@ -8,14 +8,14 @@ tags:
   - agile
   - scaling
 illustration:
-  name: 14519782386_808b0c6faf_o.jpg
+  name: 14519782386_808b0c6faf
   source: https://www.flickr.com/photos/infomastern/14519782386
 ---
 
 Il était une fois l'agilité et il faut maintenant rajouter l'échelle. De quoi je parle ? Et bien de la suite logique ou habituelle des 'transformations' agile. Qui dit transformation agile dit en général que l'on a commencé à faire du Scrum ou du Kanban avec des équipes de développement logiciel. En résumé on a touché le bas de la structure. Passer à l'échelle veut dire que l'on essaie d'aller jusqu'au bout de la logique et donc d'avoir une organisation agile. Et c'est là que ça frotte....
 
 {% include img.html
-    name='15411263129_a4fb7ddb20_o.jpg'
+    name='15411263129_a4fb7ddb20'
     source='https://www.flickr.com/photos/alainalele/15411263129/'
 %}
 
@@ -23,7 +23,7 @@ Je vais essayer de reprendre l'histoire depuis le début. A l'origine était Scr
 
 
 {% include img.html
-    name='15508356005_3579948e23_o.jpg'
+    name='15508356005_3579948e23'
     source='https://www.flickr.com/photos/moisemarcouxchabot/15508356005/'
 %}
 
@@ -31,7 +31,7 @@ Nous avons créé des équipes applicatives agile. Nous avons réussi à casser 
 
 
 {% include img.html
-    name='4602805654_7cdf999e2d_o.jpg'
+    name='4602805654_7cdf999e2d'
     source='https://www.flickr.com/photos/cdevers/4602805654/'
 %}
 
@@ -39,7 +39,7 @@ Et c'est là ou on en arrive à un changement qui peut paraitre léger, mais qui
 
 
 {% include img.html
-    name='453962889_3505296728_o.jpg'
+    name='453962889_3505296728'
     source='https://www.flickr.com/photos/thomashawk/453962889'
 %}
 
@@ -47,7 +47,7 @@ Et c'est là ou on en arrive à un changement qui peut paraitre léger, mais qui
 
 
 {% include img.html
-    name='8355768344_b8bb922ed8_o.jpg'
+    name='8355768344_b8bb922ed8'
     source='https://www.flickr.com/photos/marcpoppleton/8355768344'
 %}
 
@@ -55,7 +55,7 @@ Et c'est là ou on en arrive à un changement qui peut paraitre léger, mais qui
 
 
 {% include img.html
-    name='11314752595_1c1b9fec55_o.jpg'
+    name='11314752595_1c1b9fec55'
     source='https://www.flickr.com/photos/oscarvelazquez/11314752595/'
 %}
 
@@ -63,7 +63,7 @@ Et c'est là ou on en arrive à un changement qui peut paraitre léger, mais qui
 
 
 {% include img.html
-    name='51412155_edf0145f98_o.jpg'
+    name='51412155_edf0145f98'
     source='https://www.flickr.com/photos/gigijin/51412155/'
 %}
 
@@ -71,7 +71,7 @@ Et c'est là ou on en arrive à un changement qui peut paraitre léger, mais qui
 
 
 {% include img.html
-    name='3638337309_2bb473f604_o.jpg'
+    name='3638337309_2bb473f604'
     source='https://www.flickr.com/photos/jeremybrooks/3638337309/'
 %}
 
@@ -79,7 +79,7 @@ Et c'est là ou on en arrive à un changement qui peut paraitre léger, mais qui
 
 
 {% include img.html
-    name='15256094337_22a1de924a_o.jpg'
+    name='15256094337_22a1de924a'
     source='https://www.flickr.com/photos/walterpro/15256094337'
 %}
 
