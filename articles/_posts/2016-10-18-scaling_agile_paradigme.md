@@ -93,4 +93,4 @@ Qu'est ce que cela implique ?
 
     Passer d'une organisation centrée application à une organisation flux de valeur. Cela implique une remise en cause profonde d'un grand nombre de process. Il ne faut pas sous estimer ce point, cela passera par se redemander pourquoi on fait les choses. Au passage et vous l'aurez sûrement deviné sans que je l'écrive, cela veut aussi dire casser la structure managériale et repartir sur un autre axe.
 
-Vous êtes maintenant prévenus de ce que cela implique. Pour finir sur une note positive : si l'effort est certain, l'impact sur l'efficience de l'organisation est énorme. Il s'agit bien d'innovation managériale avec un fort caractère différentiant    .
+Vous êtes maintenant prévenus de ce que cela implique. Pour finir sur une note positive : si l'effort est certain, l'impact sur l'efficience de l'organisation est énorme. Il s'agit bien d'innovation managériale avec un fort caractère différentiant.
