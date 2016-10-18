@@ -1,14 +1,14 @@
 ---
-title: L'agilité à l'échelle : Du nécessaire changement de paradigme
-date: 2016-10-18
+title: "L'agilité à l'échelle : Du nécessaire changement de paradigme"
 lang: fr
+#hidden: true
 authors:
   - retiere_samuel
 tags:
   - agile
   - scaling
 illustration:
-  name: 14519782386_8d27585161_z.jpg
+  name: 14519782386_841045af13_k.jpg
   source: https://www.flickr.com/photos/infomastern/14519782386
 ---
 
@@ -51,7 +51,7 @@ Et c'est là ou on en arrive à un changement qui peut paraitre léger, mais qui
     source='https://www.flickr.com/photos/marcpoppleton/8355768344'
 %}
 
-- Au niveau du code proprement dit, nous passons à du 'collective code ownership'. Le code appartient à tout le monde et à personne. D'ou la nécessité de mettre en place des cordes de rappel pour assurer la cohérence de l'ensemble. C'est un peu comme une dance en groupe, la partition n'est belle que si tout le monde joue la même. Là je reparle d'applications, mais je suis cette fois ci sur un focus secondaire, le focus premier étant la qualité et la rapidité du delivery. 
+- Au niveau du code proprement dit, nous passons à du 'collective code ownership'. Le code appartient à tout le monde et à personne. D'ou la nécessité de mettre en place des cordes de rappel pour assurer la cohérence de l'ensemble. C'est un peu comme une dance en groupe, la partition n'est belle que si tout le monde joue la même. Là je reparle d'applications, mais je suis cette fois ci sur un focus secondaire, le focus premier étant la qualité et la rapidité du delivery.
 
 
 {% include img.html
@@ -94,5 +94,3 @@ Qu'est ce que cela implique ?
     Passer d'une organisation centrée application à une organisation flux de valeur. Cela implique une remise en cause profonde d'un grand nombre de process. Il ne faut pas sous estimer ce point, cela passera par se redemander pourquoi on fait les choses. Au passage et vous l'aurez sûrement deviné sans que je l'écrive, cela veut aussi dire casser la structure managériale et repartir sur un autre axe.
 
 Vous êtes maintenant prévenus de ce que cela implique. Pour finir sur une note positive : si l'effort est certain, l'impact sur l'efficience de l'organisation est énorme. Il s'agit bien d'innovation managériale avec un fort caractère différentiant    .
-
-
