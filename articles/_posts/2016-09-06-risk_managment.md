@@ -1,6 +1,7 @@
 ---
-title: La prise de risque dans l'entreprise, éclairages inattendus des militaires
+title: "La prise de risque dans l'entreprise, éclairages inattendus des militaires"
 lang: fr
+hidden: false
 authors:
   - albiez_olivier
   - clavier_thomas

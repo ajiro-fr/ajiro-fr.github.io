@@ -1,7 +1,7 @@
 ---
-title: Metrics Manifesto, ou comment être efficace dans le pilotage par les indicateurs
-date: 2016-05-20
+title: "Metrics Manifesto, ou comment être efficace dans le pilotage par les indicateurs"
 lang: fr
+hidden: false
 authors:
   - legras_severin
 tags:

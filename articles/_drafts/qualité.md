@@ -1,7 +1,9 @@
 ---
 title: Qualité
+lang: fr
+hidden: false
 ---
-La qualité vue par certains : 
+La qualité vue par certains :
 
 - prod
 - dev

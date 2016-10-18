@@ -1,7 +1,7 @@
 ---
 title: "#NoEstimates, concentrons nous sur l'essentiel"
-date: 2016-09-23
 lang: fr
+hidden: false
 authors:
   - retiere_samuel
 tags:
