@@ -1,7 +1,7 @@
 ---
 title: "L'agilité à l'échelle : Du nécessaire changement de paradigme"
 lang: fr
-#hidden: true
+hidden: true
 authors:
   - retiere_samuel
 tags:
