@@ -1,7 +1,7 @@
 ---
 title: "La hiérarchie"
 lang: fr
-hidden: false
+hidden: true
 authors:
   - albiez_olivier
   - taboucou_herve
