@@ -36,6 +36,11 @@ defaults:
     type: games
   values:
     layout: game
+- scope:
+    path: products
+    type: products
+  values:
+    layout: products
 
 collections:
   books:
@@ -43,4 +48,6 @@ collections:
   tales:
     output: true
   games:
+    output: true
+  products:
     output: true
