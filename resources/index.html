@@ -11,19 +11,19 @@ description: >
   </div>
 </div>
 
-{% for resource in site.products %}
+{% for resource in site.data.resources %}
   <div class='row spacer-20'>
     <div class='col-sm-offset-2 col-sm-5 col-xs-12'>
       <h2>{{resource.title}}</h2>
       <div class="btn-group-vertical">
       {% for product in resource.products %}
-        <a class="btn btn-primary" href="/assets/{{resource.id}}/{{product.file}}"><i class="fa fa-download"></i> {{product.name}}</a>
+        <a class="btn btn-primary" href="/assets/resources/{{product.file}}"><i class="fa fa-download"></i> {{product.name}}</a>
       {% endfor %}
     </div>
     </div>
     <div class="col-sm-3 col-xs-12">
       {% if resource.illustration %}
-      <img alt='{{ resource.title }} illustration' src='/assets/{{resource.id}}/{{resource.illustration}}' class="img-responsive">
+      <img alt='{{ resource.title }} illustration' src='/assets/resources/{{resource.illustration}}' class="img-responsive">
       {% endif %}
     </div>
   </div>

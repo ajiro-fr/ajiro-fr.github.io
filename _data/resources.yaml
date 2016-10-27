@@ -1,0 +1,8 @@
+
+- title: "Squad Health Check model"
+  illustration: "health_check/illustration.png"
+  products:
+  - name: Health Check (français)
+    file: health_check/health-check-fr.pdf
+  - name: Health Check (anglais)
+    file: health_check/health-check-en.pdf
