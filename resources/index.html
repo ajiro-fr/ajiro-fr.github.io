@@ -14,7 +14,7 @@ description: >
 {% for resource in site.products %}
   <div class='row spacer-20'>
     <div class='col-sm-offset-2 col-sm-5 col-xs-12'>
-      <h3>{{resource.title}}</h3>
+      <h2>{{resource.title}}</h2>
       <div class="btn-group-vertical">
       {% for product in resource.products %}
         <a class="btn btn-primary" href="/assets/{{resource.id}}/{{product.file}}"><i class="fa fa-download"></i> {{product.name}}</a>
