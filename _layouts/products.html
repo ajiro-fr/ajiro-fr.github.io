@@ -10,7 +10,7 @@ layout: default
       </h1>
       <hr>
       {% for product in page.products %}
-        <a href="/assets/{{page.id}}/{{product}}"><i class="fa fa-download"></i> {{product}}</a>
+        <a href="/assets/{{page.id}}/{{product.file}}"><i class="fa fa-download"></i> {{product.name}}</a>
       {% endfor %}
     </div>
     <div class="col-sm-3 col-xs-12">
