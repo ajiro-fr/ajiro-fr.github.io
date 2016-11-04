@@ -4,5 +4,7 @@
   products:
   - name: Health Check (français)
     file: health_check/health-check-fr.pdf
+    icon: fr.svg
   - name: Health Check (anglais)
     file: health_check/health-check-en.pdf
+    icon: en.svg

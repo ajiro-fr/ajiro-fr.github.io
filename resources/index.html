@@ -17,7 +17,7 @@ description: >
       <h2>{{resource.title}}</h2>
       <div class="btn-group-vertical">
       {% for product in resource.products %}
-        <a class="btn btn-primary" href="/assets/resources/{{product.file}}"><i class="fa fa-download"></i> {{product.name}}</a>
+        <a class="btn btn-primary" href="/assets/resources/{{product.file}}"><i class="fa fa-download"></i> {{product.name}} <img alt='polop' src='/assets/images/{{product.icon}}' height="30"></a>
       {% endfor %}
     </div>
     </div>
