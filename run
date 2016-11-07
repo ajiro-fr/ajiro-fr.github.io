@@ -1,3 +1,12 @@
 #!/bin/bash
-docker build --pull -t jekyll .
+if [ -z $http_proxy ]
+then
+  BUILD_OPTS=""
+else
+  IS_LOCAL_PROXY=$(echo $http_proxy | grep -c localhost)
+  [ $IS_LOCAL_PROXY -eq 1 ] && PROXY="$(echo $http_proxy | sed -e 's/localhost/172.17.0.1/')" || PROXY="$http_proxy"
+  BUILD_OPTS="--build-arg http_proxy=$PROXY"
+fi
+
+docker build --pull $BUILD_OPTS -t jekyll .
 docker run -v $(pwd):/workspace -it -p 4000:4000 jekyll jekyll serve --watch --drafts --destination /var/www --host 0.0.0.0
