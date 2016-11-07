@@ -29,16 +29,18 @@ Vous avez sans doute déjà observé qu'il est difficile de penser à toutes les
   source='https://www.flickr.com/photos/rakerman/5013183813'
 %}
 
-Avoir des conversations productives avec une base en anglais n'est pas évident pour tout le monde, c'est pourquoi nous avons traduit le jeu en français. Nous en avons profité pour refaire l'esthétique des cartes. Il va sans dire que notre version de ce jeu de cartes est voué à évolué, n'hésitez donc pas à partager vos idées d'améliorations sur [github](https://github.com/ajiro-fr/product-health-check), nous les étudierons avec plaisir.
+Avoir des conversations productives avec une base en anglais n'est pas évident pour tout le monde, c'est pourquoi nous avons traduit le jeu en français. Nous en avons profité pour refaire l'esthétique des cartes. Il va sans dire que notre version de ce jeu de cartes est voué à évolué, n'hésitez donc pas à partager vos idées d'améliorations sur [github](https://github.com/ajiro-fr/publication), nous les étudierons avec plaisir.
 
 {% include img.html
   name='hand'
   source='http://ajiro.fr/'
 %}
 
-Nous vous invitons donc à télécharger cette nouvelle version ici : [Health Check en français](/assets/resources/health_check/health-check-fr.pdf). Le fichier est directement près à être imprimé et découpé, attention tout de même à n'imprimer qu'à partir de la page 2 en recto verso.
-Si vous souhaitez continuer à utiliser la version anglaise tout en profitant de notre nouveau désigne, vous pouvez télécharger notre version ici : [Health Check en anglais](/assets/resources/health_check/health-check-en.pdf)
+Nous vous invitons donc à télécharger cette nouvelle version ici : [Health Check en français]. Le fichier est directement près à être imprimé et découpé, attention tout de même à n'imprimer qu'à partir de la page 2 en recto verso.
+Si vous souhaitez continuer à utiliser la version anglaise tout en profitant de notre nouveau désigne, vous pouvez télécharger notre version ici : [Health Check en anglais].
 
 [Spotify]:  https://labs.spotify.com/
 [Health Check Model]:  https://labs.spotify.com/2014/09/16/squad-health-check-model/
 [Resources]: /resources
+[Health Check en français]: (/assets/resources/health_check/health-check-fr.pdf)
+[Health Check en anglais]: (/assets/resources/health_check/health-check-en.pdf)
