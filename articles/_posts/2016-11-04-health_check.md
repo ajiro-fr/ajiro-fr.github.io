@@ -5,9 +5,6 @@ hidden: true
 authors:
   - albiez_olivier
   - clavier_thomas
-  - leconte_nicolas
-  - legras_severin
-  - taboucou_herve
 tags:
   - agile
   - resource
@@ -39,7 +36,7 @@ Avoir des conversations productives avec une base en anglais n'est pas évident 
   source='http://ajiro.fr/'
 %}
 
-Je vous invites donc à télécharger cette nouvelle version ici : [Health Check en français](/assets/resources/health_check/health-check-fr.pdf). Le fichier est directement près à être imprimé et découpé, attention tout de même à n'imprimer qu'à partir de la page 2 en recto verso.
+Nous vous invitons donc à télécharger cette nouvelle version ici : [Health Check en français](/assets/resources/health_check/health-check-fr.pdf). Le fichier est directement près à être imprimé et découpé, attention tout de même à n'imprimer qu'à partir de la page 2 en recto verso.
 Si vous souhaitez continuer à utiliser la version anglaise tout en profitant de notre nouveau désigne, vous pouvez télécharger notre version ici : [Health Check en anglais](/assets/resources/health_check/health-check-en.pdf)
 
 [Spotify]:  https://labs.spotify.com/
