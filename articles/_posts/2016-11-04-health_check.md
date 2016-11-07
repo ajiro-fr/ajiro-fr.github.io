@@ -12,40 +12,36 @@ tags:
   - agile
   - resource
 illustration:
-  name: hand
-  source: https://ajiro.fr/
+  name: stethoscope
+  source: https://www.flickr.com/photos/jasleen_kaur/4952166117
 ---
 
-Nous avons fait une traduction française du jeu Health Check de [Spotify]. Nous
-en avons profité pour changer le design des cartes. Le résultat est téléchrgable
-sur notre page de [Resources].
+Chez Ajiro nous aimons bien le modèle d'organisation de [Spotify], c'est en effet une réussite d'agilité à l'échelle avec des gens qui partagent leurs outils et leurs façons de faire. L'un de leurs outils que l'on utilise régulièrement c'est le "[Health Check Model]" un jeu de carte à la base d'un atelier d'amélioration continue.
 
-## De quoi s'agit-il?
+{% include img.html
+  name='workshop'
+  source='https://www.flickr.com/photos/currentobsession/325957429'
+%}
 
-C'est un atelier et une technique de visualisation aidant les équipes à s'améliorer.
+Le principe est simple, à l'aide de questions types l'équipe va pouvoir se positionner individuellement et collectivement afin d'identifier des axes d'améliorations. À intervalle régulier l'observation de l'histoire des positionnements permettra des échanges riches et productifs.
 
+Vous avez sans doute déjà observé qu'il est difficile de penser à toutes les facettes d'une bonne équipe. Surtout avec une équipe qui pratique l'agilité depuis quelques temps. Une fois que les axes d'amélioration les plus flagrants ont été explorés, il n'est pas rare de voir une équipe sombrer dans la routine. C'est en autre avec ces équipes que j'apporte des outils comme le "[Health Check Model]" pour les aider à identifier de nouveaux axes d'améliorations.
 
-## Audience
+{% include img.html
+  name='french-flag'
+  source='https://www.flickr.com/photos/rakerman/5013183813'
+%}
 
-- L'équipe elle-même
-- Les personnes apportant leur support à l'équipe (managers, coachs, etc.)
+Avoir des conversations productives avec une base en anglais n'est pas évident pour tout le monde, c'est pourquoi nous avons traduit le jeu en français. Nous en avons profité pour refaire l'esthétique des cartes. Il va sans dire que notre version de ce jeu de carte est voué à évolué, n'hésitez donc pas à partager vos idées d'améliorations sur [github](https://github.com/ajiro-fr/product-health-check), nous les étudierons avec plaisir.
 
+{% include img.html
+  name='hand'
+  source='http://ajiro.fr/'
+%}
 
-## Comment utiliser ce modèle
+Je vous invites donc à télécharger cette nouvelle version ici : [Health Check en français](/assets/resources/health_check/health-check-fr.pdf). Le fichier est directement près à être imprimé et découpé, attention tout de même à n'imprimer qu'à partir de la page 2 en recto verso.
+Si vous souhaitez continuer à utiliser la version anglaise tout en profitant de notre nouveau désigne, vous pouvez télécharger notre version ici : [Health Check en anglais](/assets/resources/health_check/health-check-en.pdf)
 
-- Rassemblez tous les membres de l'équipe dans la même salle
-- Discutez sur les cartes de questions. Chacune d'entre elle est un indicateur de bonne santé, accompagné d'un exemple de très bonne performance et d'un exemple particulièrement inefficace.
-- Demander à l'équipe comment elle se positionne sur chacun de ces indicateurs, en utilisant une méthode favorisant les décisions de groupe (par exemple: avec les cartes de vote).
-- Discutez les tendances d'évolution de ces indicateurs (la situation s'améliore-t-elle? Est-elle stable ou se dégrade-t-elle?)
-- Matéralisez visuellement les résultats de ces discussions.
-- Utilisez des données quantitatives (estimation, mesures, extrapolation...) pour aider l'équipe à s'améliorer.
-
-
-## Idées de mises en oeuvre
-
-- Les cartes sont uniquement un point de départ pour initialiser des conversations productives. L'équipe doit se sentire libre d'ajouter/ôtre/modifier toute question afin de correspondre à ce qu'elle considère comme important pour elle.
-- Il est essentiel de s'assurer que cet outil soit utilisé en support de l'équipe dans son amélioration et surtout pas pour l'évaluer.
-
-
-[Spotify]:  https://labs.spotify.com/2014/09/16/squad-health-check-model/
+[Spotify]:  https://labs.spotify.com/
+[Health Check Model]:  https://labs.spotify.com/2014/09/16/squad-health-check-model/
 [Resources]: /resources
