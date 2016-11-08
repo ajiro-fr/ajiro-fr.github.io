@@ -1,7 +1,7 @@
 ---
 title: "Health Check, traduit en français"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - albiez_olivier
   - clavier_thomas
