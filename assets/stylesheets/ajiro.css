@@ -1,7 +1,6 @@
 /* == General */
 
 .text-justify {
-  text-align: justify;
   word-wrap: break-word;
   -moz-hyphens: auto;
 }
@@ -70,7 +69,7 @@ body {
   background-repeat: no-repeat;
 
   font-family: 'Linux Biolinum';
-  font-size: 18px;
+  font-size: 20px;
 }
 
 /* Custom, iPhone Retina */
