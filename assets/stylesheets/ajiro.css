@@ -67,9 +67,7 @@ h1, h2, h3 {
 
 body {
   background-repeat: no-repeat;
-
   font-family: 'Linux Biolinum';
-  font-size: 20px;
 }
 
 /* Custom, iPhone Retina */
@@ -227,5 +225,6 @@ body {
   display:         flex;
 }
 
-.article-list__calendar i {
+.article-list__calendar {
+  font-size: 1rem;
 }

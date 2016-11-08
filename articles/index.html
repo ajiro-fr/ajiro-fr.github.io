@@ -12,11 +12,11 @@ title: Articles
 {% for article in site.categories.articles %}
 {% unless article.hidden %}
 <div class="row spacer-40">
-  <div class="col-md-3 text-xs-right article-list__calendar">
+  <div class="col-md-3 text-xs-right ">
     <h3>
-      <small>
-        <i class='fa fa-calendar'></i> {{ article.date | date: "%-d %b %Y" }}
-      </small>
+      <span class="article-list__calendar">
+      <i class='fa fa-calendar'></i> {{ article.date | date: "%-d %b %Y" }}
+      </span>
     </h3>
   </div>
   <div class="col-md-8 col-xs-12">
