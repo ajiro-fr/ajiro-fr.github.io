@@ -1,9 +1,7 @@
 
-<div class="panel panel-game">
-  <div class="panel-heading">
-    <h3 class="panel-title">{% if include.icon %}<i class="fa {{include.icon}}" aria-hidden="true"></i>{% endif %} {{include.title}}</h3>
+<div class="card card-inverse card-game">
+  <div class="card-header">
+    <h3 class="card-title">{% if include.icon %}<i class="fa {{include.icon}}" aria-hidden="true"></i>{% endif %} {{include.title}}</h3>
   </div>
-  <div class="panel-body">
-    {{ include.content | markdownify }}
-  </div>
+  <div class="card-block">{{ include.content | markdownify }}</div>
 </div>

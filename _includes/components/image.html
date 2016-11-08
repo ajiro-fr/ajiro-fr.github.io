@@ -1,9 +1,9 @@
 <div>
-  <img alt='{{include.description}}'
-       src='/assets/articles/{{include.article}}/{{include.name}}-800p.jpg'
-       class="img-responsive img-rounded">
+  <img alt="{{include.description}}"
+       src="/assets/articles/{{include.article}}/{{include.name}}-800p.jpg"
+       class="img-fluid img-rounded" />
   {% if include.source %}
-    <span class="img-credit pull-right">
+    <span class="img-credit float-xs-right">
       <a href="{{include.source}}">Source</a>
     </span>
   {% endif %}
