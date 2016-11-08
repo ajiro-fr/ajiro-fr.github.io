@@ -13,7 +13,7 @@ illustration:
   source: https://www.flickr.com/photos/jasleen_kaur/4952166117
 ---
 
-Chez Ajiro, nous aimons bien le modèle d'organisation de [Spotify], c'est en effet une réussite d'agilité à l'échelle avec des gens qui partagent leurs outils et leurs façons de faire. L'un de leurs outils que l'on utilise régulièrement, c'est le "[Health Check Model]" un jeu de cartes à la base d'un atelier d'amélioration continue.
+Chez Ajiro, nous trouvons le modèle d'organisation de [Spotify] particulièrement inspirant. C'est en effet une réussite d'agilité à l'échelle, plus de 2000 salariés tout de même ! Le plus frappant est l'esprit collaboratif de cette organisation, ils partagent leurs outils et leurs manières de travailler avec pour ambition l'amélioration continue des pratiques. C'est le secret de Spotify pour garder une organisation résiliente dans un environnement toujours plus mouvant. L'un de leurs outils que l'on utilise régulièrement, c'est le "[Health Check Model]" un jeu de cartes à la base d'un atelier d'amélioration continue.
 
 {% include img.html
   name='workshop'
