@@ -2,29 +2,17 @@
   <div class="container-fluid">
     <div class="container">
       <div class="row">
-        <div class="col-md-12 ">
+        <div class="col-lg-12 ">
           <span>
             <small>
-            &copy; 2016<script>new Date().getFullYear()>2016&&document.write("-"+new Date().getFullYear());</script>, Ajiro.
-            Site généré le {{ site.time | date: "%-d %b %Y" }} à {{ site.time | date: "%H:%M" }}.
+              &copy; 2016, Ajiro.
+              Site généré le {{ site.time | date: "%-d %b %Y" }} à {{ site.time | date: "%H:%M" }}.
             </small>
           </span>
-          <span class="pull-right">
+          <span class="float-xs-right">
             <a href="http://www.xiti.com/xiti.asp?s=575602" title="WebAnalytics" target="_top">
-              <script type="text/javascript">
-                Xt_param = 's=575602&p={{page.path}}';
-                try {Xt_r = top.document.referrer;}
-                catch(e) {Xt_r = document.referrer; }
-                Xt_h = new Date();
-                Xt_i = '<img width="80" height="15" border="0" alt="" ';
-                Xt_i += 'src="http://logv2.xiti.com/g.xiti?'+Xt_param;
-                Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
-                if(parseFloat(navigator.appVersion)>=4)
-                {Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
-                document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'" title="Internet Audience">');
-              </script>
               <noscript>
-              Mesure d'audience ROI statistique webanalytics par <img width="80" height="15" src="http://logv2.xiti.com/g.xiti?s=575602&p={{page.path}}" alt="WebAnalytics" />
+              Mesure d'audience ROI statistique webanalytics par <img width="80" height="15" src="http://logv2.xiti.com/g.xiti?s=575602&amp;p={{page.path}}" alt="WebAnalytics" />
               </noscript>
             </a>
           </span>
@@ -32,7 +20,4 @@
       </div>
     </div>
   </div>
-
-
-
 </footer>

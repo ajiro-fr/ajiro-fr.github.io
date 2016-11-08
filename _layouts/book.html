@@ -4,21 +4,21 @@ layout: default
 
 <div class="article">
   <div class="row">
-    <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+    <div class="offset-sm-2 col-md-8 col-xs-12">
       <h1>
-        {{ page.title }} {% if page.authors %}<br><small>{{ page.authors | join: ', ' }}</small>{% endif %}
+        {{ page.title }} {% if page.authors %}<br/><small>{{ page.authors | join: ', ' }}</small>{% endif %}
       </h1>
     </div>
   </div>
   <div class="row spacer-40">
-    <div class="col-sm-2 col-xs-12">
+    <div class="col-md-2 col-xs-12">
       {% if page.cover %}
-        <img alt='{{ page.title }} cover' src='/assets/books/{{page.cover}}' class="img-responsive">
+        <img alt="{{ page.title }} cover" src="/assets/books/{{page.cover}}" class="img-fluid" />
       {% endif %}
     </div>
-    <div class="col-sm-8 col-xs-12">
+    <div class="col-md-8 col-xs-12">
       {{ content }}
-      <hr>
+      <hr />
       {{ page.authors | join: ', ' }}.
       <i>{{page.title}}</i>.
       {% if page.edition %}{{page.edition}}. {% endif %}
