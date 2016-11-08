@@ -30,7 +30,7 @@ title: Articles
     {% if article.authors %}
       {% for author_id in article.authors %}
         {% assign author = site.data.people[author_id] %}
-        <img alt="Photo {{author.name}}" width="80" class="img-circle" src="/assets/images/team/{{author.photo}}" />
+        <img alt="Photo {{author.name}}" width="80" class="rounded-circle" src="/assets/images/team/{{author.photo}}" />
       {% endfor %}
     {% endif %}
   </div>
