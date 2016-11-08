@@ -44,3 +44,8 @@ collections:
     output: true
   games:
     output: true
+
+version:
+  bootstrap: '3.3.7'
+  font_awesome: '4.7.0'
+  jquery: '3.1.1'
