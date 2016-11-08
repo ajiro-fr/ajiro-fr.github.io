@@ -1,5 +1,5 @@
 <div class="row spacer-20">
-  <div class="offset-lg-2 col-lg-2 text-xs-center">
+  <div class="offset-lg-2 col-lg-2 col-md-4 text-xs-center">
     <h3>
       <img alt="Photo {{include.people.name}}" class="img-thumbnail" src="/assets/images/team/{{include.people.photo}}" />
     </h3>
@@ -12,7 +12,7 @@
       </div>
     {% endif %}
   </div>
-  <div class="col-lg-6">
+  <div class="col-lg-6 col-md-8">
     <h3>
       {{include.people.name}}
       <small>
@@ -23,8 +23,8 @@
         </span>
       </small>
     </h3>
-    <div>
-      <p>{{include.people.bio | markdownify}}</p>
+    <div class="text-justify">
+      {{include.people.bio | markdownify}}
     </div>
   </div>
 </div>
