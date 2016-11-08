@@ -43,5 +43,5 @@ Si vous souhaitez continuer à utiliser la version anglaise tout en profitant de
 [Spotify]:  https://labs.spotify.com/
 [Health Check Model]:  https://labs.spotify.com/2014/09/16/squad-health-check-model/
 [Resources]: /resources
-[Health Check en français]: (/assets/resources/health_check/health-check-fr.pdf)
-[Health Check en anglais]: (/assets/resources/health_check/health-check-en.pdf)
+[Health Check en français]: /assets/resources/health_check/health-check-fr.pdf
+[Health Check en anglais]: /assets/resources/health_check/health-check-en.pdf
