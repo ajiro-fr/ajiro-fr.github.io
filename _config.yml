@@ -47,5 +47,6 @@ collections:
 
 version:
   bootstrap: '3.3.7'
+  #bootstrap: '4.0.0-alpha.5'
   font_awesome: '4.7.0'
   jquery: '3.1.1'
