@@ -4,7 +4,7 @@ title: Articles
 ---
 
 <div class='row spacer-20'>
-  <div class='col-md-12 text-center'>
+  <div class='col-lg-12 text-xs-center'>
     <h1>Les articles</h1>
   </div>
 </div>
@@ -12,21 +12,21 @@ title: Articles
 {% for article in site.categories.articles %}
 {% unless article.hidden %}
 <div class="row spacer-40">
-  <div class="col-sm-3 text-right article-list__calendar">
+  <div class="col-md-3 text-xs-right article-list__calendar">
     <h3>
       <small>
         <i class='fa fa-calendar'></i> {{ article.date | date: "%-d %b %Y" }}
       </small>
     </h3>
   </div>
-  <div class="col-sm-8 col-xs-12">
+  <div class="col-md-8 col-xs-12">
     <h3>
       <a href="{{ article.url }}">{{ article.title }}</a>
     </h3>
   </div>
 </div>
 <div class="row">
-  <div class="col-sm-3 text-right block-right">
+  <div class="col-md-3 text-xs-right block-right">
     {% if article.authors %}
       {% for author_id in article.authors %}
         {% assign author = site.data.people[author_id] %}
@@ -34,7 +34,7 @@ title: Articles
       {% endfor %}
     {% endif %}
   </div>
-  <div class="col-sm-5 col-xs-12">
+  <div class="col-md-5 col-xs-12">
     <div class="text-justify">
       {% if article.description %}
         {{article.description}}
@@ -53,7 +53,7 @@ title: Articles
     <div class="spacer-20">
     </div>
   </div>
-  <div class="col-sm-4 col-xs-12">
+  <div class="col-md-4 col-xs-12">
     {% capture description %}Illustration pour "{{article.title}}"{% endcapture %}
     {% include components/image.html
       description=description
