@@ -11,7 +11,7 @@ tags:
   - concepts
   - management
 illustration:
-  name: 3112796093_b2eca43e06_b
+  name: 3112796093_b2eca43e06
   source: https://flic.kr/p/5K4TQa
 ---
 
