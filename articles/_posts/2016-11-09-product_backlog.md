@@ -1,7 +1,7 @@
 ---
 title: "Dis moi papa, c'est quoi un product backlog?"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
