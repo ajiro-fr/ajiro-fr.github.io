@@ -19,17 +19,18 @@ Dis papa, c'est quoi un product backlog ? Et bien tu vois cette bouteille de lai
     source='https://www.flickr.com/photos/dgeen/4882669123'
 %}
 
-Etape 1 : Réflechis avant de foncer
+## Etape 1 : Réflechis avant de foncer
 
 Au commencement était la phase de compréhension de l'initiative que l'on veut lancer. Chez les english, on va parler de phase d'incenption, d'ideation, whatever,.... Pour ceux qui suivent, je suis passé à l'étape j'ai décidé l'initiative que je lance. J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de suite que l'on va appeler parties prenantes. Je vais donc commencer par mettre à plat le problème auquel je veux répondre et une idée de solution. On peut partir sur du Lean Canvas, mais je préfère maintenant un canvas plus simple :
-<b>Problème</b>	
+
+## Problème	
 Quel est le problème ?
 Qui a se problème ?
 Comment faites vous aujourd'hui ?
 Que pourrez vous faire demain que vous ne pouvez pas faire aujourd'hui ?
 Comment saurez vous que c'est un succès ? 	
 
-<b>Solution</b>
+## Solution
 Description
 Contraintes
 Critère d'acceptance / Examples
@@ -41,7 +42,7 @@ Je garde la partie solution pour laisser les gens proposer et pour la conduite d
     source='https://www.flickr.com/photos/p_valdivieso/19869181208'
 %}
 
-Etape 2 : Le jalonnement
+## Etape 2 : Le jalonnement
 
 L'initiative parait faire du sens à savoir je réponds à un problème, j'ai un embryon de solution viable et j'ai levé certaines hypothèses. Je vais maintenant passer un premier tamis et identifier les grosses patates que j'appelle jalon et les mettre dans l'ordre. Pour cela, je pars souvent sur du remember the future sachant que l'on peut faire sans. A quoi ça sert ? A affiner pour ne pas partir sur un effet tunnel d'un an et à comprendre ce qui apporte le plus de valeur. Il y a une autre raison qui est lié au budget et au staffing. J'essaie d'identifier des jalons de 1 à 3 mois qui permettent de faire de l'allocation de ressources de type budget glissant (cf beyond budgeting) et aussi de garder une équipe sur un sujet pour quelques temps pour gérer la montée en compétences. A la fin de cette étape, j'ai découpé mon initiative en une poignée de jalons. La question 'Comment saurez vous que c'est un succès ?' du canvas au niveau jalon aide à savoir si on doit ou non continuer à allouer du budget.
 
@@ -50,7 +51,7 @@ L'initiative parait faire du sens à savoir je réponds à un problème, j'ai un
     source='https://www.flickr.com/photos/p_valdivieso/8599735985'
 %}
 
-Etape 3 : L'expérience utilisateur
+## Etape 3 : L'expérience utilisateur
 
 Je prends les premiers jalons et je zoome. Je ne vais pas produire du logiciel pendant 3 mois et livrer à la fin. Sans continuous delivery point de salut. Et donc comment je fais pour livrer au fur et à mesure ? Et bien qu'est ce que tu peux activer en production qui permettra un changement de comportement utilisateur ? La question clé est 'Que pourrez vous faire demain que vous ne pouvez pas faire aujourd'hui ?' pour identifier si nous sommes ou non en présence d'une expérience minimum viable (MVE). Je ne parle plus de produit minimum viable (MVP) car j'ai récemment eu le cas sur la refonte du site de mon assurance d'un produit minimum qui ne m'a permis aucune expérience utilisateur. Je pouvais voir mon contrat et mes coordonnées mais pas mon sinistre en cours. J'ai du envoyer un mail pour avoir les informations dont j'ai besoin. Si je suis en continuous delivery, dès que MVE est terminé c'est en production direct et donc un MVE est égal à une version. La question 'Comment saurez vous que c'est un succès ?' au niveau MVE sert plus à réajuster les futurs développements qu'à pivoter ou arrêter.
 
@@ -59,7 +60,7 @@ Je prends les premiers jalons et je zoome. Je ne vais pas produire du logiciel p
     source='https://www.flickr.com/photos/vialbost/8185003116'
 %}
 
-Etape 4 : La solution
+## Etape 4 : La solution
 
 Je charrie un peu en ne parlant de solution qu'à cette étape, mais ce n'est qu'à cette étape que l'on va parler exécution et donc spécifications. Je prends donc mes premiers MVE et je les découpe en user stories. A quoi cela sert ? A deux choses mon capitaine. Premièrement cela va permettre d'obtenir du feedback sur la solution en environnement de non production au fur et à mesure du développement. Deuxièmement le fait de découper va permettre à l'équipe de mieux piloter son process de développement. Avec des items petits, cela permet de s'apercevoir plus vite des déviations. Et donc qu'est ce que c'est une user story ? Et bien c'est un morceau fonctionnel d'un MVE. Cela peut être un bout de process, un bout d'écran, une fonctionnalité sans option,... Pour savoir si on est dans la user story ou la tache technique, il suffit de demander au business s'il comprend ou non la fiche. Si c'est non, c'est que c'est une tache technique. Personnellement je considère que si le découpage (slicing pour les intimes) est bien fait, le découpage en taches est inutile. De la forme canonique standard, je ne garde que 'En tant que, je veux que'. Le 'parce que' est porté par le MVE.
 
@@ -68,7 +69,7 @@ Je charrie un peu en ne parlant de solution qu'à cette étape, mais ce n'est qu
     source='https://www.flickr.com/photos/p_valdivieso/28642020772'
 %}
 
-Etape 5 : La délivrance
+## Etape 5 : La délivrance
 
 Dès que toutes les user stories d'un MVE sont terminées, je passe en production. En termes de priorisation, je prends les user stories de la plus à la moins risquées (hors dépendance) et je prends jalons et MVE de la plus grande valeur à la moins grande valeur. Je ne réponds pas à la même question.
 
@@ -77,7 +78,7 @@ Dès que toutes les user stories d'un MVE sont terminées, je passe en productio
     source='https://www.flickr.com/photos/p_valdivieso/17773896554'
 %}
 
-Etape 6, 7, 8, 9, 10... : La routine
+## Etape 6, 7, 8, 9, 10... : La routine
 
 Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. Je prends la user story suivante que je développe.
 
@@ -86,7 +87,7 @@ Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. 
     source='https://www.flickr.com/photos/art_roman_p/8390935488'
 %}
 
-Aparté : La minute théologique
+## Aparté : La minute théologique
 
 La question 'Comment saurez vous que c'est un succès ?' permet de connaitre les conditions de succès de la réponse au problème. Je parle alors d'indicateur métier que je retrouve au niveau jalon et MVE. Les critères d'acceptance sont au niveau MVE et user story pour décrire la conformité de la solution. Je validerai la solution si dans tel scénario d'usage, l'application me permet d'avoir telle expérience utilisateur. Ils peuvent être sous une forme littérale ou sous une forme d'exemple et là on se rapproche du BDD.
 
@@ -95,6 +96,6 @@ La question 'Comment saurez vous que c'est un succès ?' permet de connaitre les
     source='https://www.flickr.com/photos/p_valdivieso/6888100281'
 %}
 
-Conclusion : Garder du lien
+## Conclusion : Garder du lien
 
 Le gros intérêt de travailler ainsi c'est que vous êtes capable à tout moment de faire le lien entre les problèmes auxquels vous voulez répondre et la solution que vous mettez en face. On résume souvent le product backlog à une description d'une solution et je trouve cela trop limitant. J'ai trop souvent vu une décorrelation entre le business case d'un projet et l'exécution au jour le jour. Le product backlog, c'est le lien entre stratégie, tactique et exécution. 
