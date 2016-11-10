@@ -8,8 +8,8 @@ tags:
   - product
   - methodologie
 illustration:
-  name: 8367878750_9c87c0772f
-  source: https://www.flickr.com/photos/tango-/8367878750
+  name: 13916708955_0ea0f3a68f_b
+  source: https://www.flickr.com/photos/myharries/13916708955
 ---
 
 Dis papa, c'est quoi un product backlog ? Et bien tu vois cette bouteille de lait, et bien c'est pas ça. Et là le lecteur se dit que cela commence mal. Je suis comme la pluie 'En bretagne, il fait beau plusieurs fois par jour' et donc parfois sérieux parfois moins. Passons au fond et commençons par le pourquoi. Il y a quelques années, le product backlog se résumait à des user stories regroupées par Epic et une bonne forme canonique des familles 'En tant que, je veux que ... parce....'. Aujourd'hui, cela est pour moi non seulement dépassé mais surtout cela freine la maturité que de passer par cette étape. Pour la suite, je décris le process depuis le début.
