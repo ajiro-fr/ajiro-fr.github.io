@@ -1,7 +1,7 @@
 ---
 title: "Dis moi papa, c'est quoi un product backlog?"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
@@ -12,7 +12,7 @@ illustration:
   source: https://www.flickr.com/photos/tango-/8367878750
 ---
 
-Dis papa, c'est quoi un product backlog ? Et bien tu vois cette bouteille de lait, et bien c'est pas ça. Et là le lecteur se dit que cela commence mal. Je suis comme la pluie quelque part 'En bretagne, il fait beau plusieurs fois par jour'. Passons aux choses sérieuses et au pourquoi j'écris cette article. Il y a quelques années, le product backlog se résumait à des user stories regroupées par Epic et une bonne forme canonique des familles 'En tant que, je veux que ... parce....'. Aujourd'hui, cela est pour moi non seulement dépassé mais surtout cela freine la maturité que de passer par cette étape. Pour la suite, je décris le process depuis le début.
+Dis papa, c'est quoi un product backlog ? Et bien tu vois cette bouteille de lait, et bien c'est pas ça. Et là le lecteur se dit que cela commence mal. Je suis comme la pluie 'En bretagne, il fait beau plusieurs fois par jour' et donc parfois sérieux parfois moins. Passons au fond et commençons par le pourquoi. Il y a quelques années, le product backlog se résumait à des user stories regroupées par Epic et une bonne forme canonique des familles 'En tant que, je veux que ... parce....'. Aujourd'hui, cela est pour moi non seulement dépassé mais surtout cela freine la maturité que de passer par cette étape. Pour la suite, je décris le process depuis le début.
 
 {% include img.html
     name='4882669123_38df0fcf8e'
@@ -21,7 +21,7 @@ Dis papa, c'est quoi un product backlog ? Et bien tu vois cette bouteille de lai
 
 ## Etape 1 : Réflechis avant de foncer
 
-Au commencement était la phase de compréhension de l'initiative que l'on veut lancer. Chez les english, on va parler de phase d'incenption, d'ideation, whatever,.... Pour ceux qui suivent, je suis passé à l'étape j'ai décidé l'initiative que je lance. J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de suite que l'on va appeler parties prenantes. Je vais donc commencer par mettre à plat le problème auquel je veux répondre et une idée de solution. On peut partir sur du Lean Canvas, mais je préfère maintenant un canvas plus simple :
+Au commencement était la phase de compréhension de l'initiative que l'on veut lancer. Chez les english, on va parler de phase d'incenption, d'ideation, whatever,.... Pour ceux qui suivent, j'ai sauté l'étape ou je décide quelle initiative je lance. J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de suite que l'on va appeler parties prenantes. Je commence par mettre à plat le problème auquel je veux répondre et définir une idée de solution. On peut partir sur du Lean Canvas, mais je préfère maintenant un canvas plus simple créé par Thierry Montulé :
 
 ## Problème
 Quel est le problème ?
@@ -35,7 +35,7 @@ Description
 Contraintes
 Critère d'acceptance / Examples
 
-Je garde la partie solution pour laisser les gens proposer et pour la conduite du changement. L'important est de savoir à quel problème on répond et je garde ce formalisme pour trois niveaux de granularité. Une fois que j'ai remplis le canvas, j'ai explicité problème, embryon de solution et hyptohèses sur lesquelles reposent mon initiative. Ensuite, on dérisque au besoin certaines questions/hypothèses par des interviews, études de marché,...
+Je garde la partie solution dans le canvas pour ne pas brider et pour la conduite du changement (ne pas dire tout de suite qu'il faut arreter de partir direct sur la solution). L'important est de savoir à quel problème on répond et je garde ce formalisme pour trois niveaux de granularité. Une fois que j'ai remplis le canvas, j'ai explicité problème, embryon de solution et hyptohèses sur lesquelles reposent mon initiative. Ensuite, on dérisque au besoin certaines questions/hypothèses par des interviews, études de marché,...
 
 {% include img.html
     name='19869181208_15677d3cb7'
@@ -44,7 +44,7 @@ Je garde la partie solution pour laisser les gens proposer et pour la conduite d
 
 ## Etape 2 : Le jalonnement
 
-L'initiative parait faire du sens à savoir je réponds à un problème, j'ai un embryon de solution viable et j'ai levé certaines hypothèses. Je vais maintenant passer un premier tamis et identifier les grosses patates que j'appelle jalon et les mettre dans l'ordre. Pour cela, je pars souvent sur du remember the future sachant que l'on peut faire sans. A quoi ça sert ? A affiner pour ne pas partir sur un effet tunnel d'un an et à comprendre ce qui apporte le plus de valeur. Il y a une autre raison qui est lié au budget et au staffing. J'essaie d'identifier des jalons de 1 à 3 mois qui permettent de faire de l'allocation de ressources de type budget glissant (cf beyond budgeting) et aussi de garder une équipe sur un sujet pour quelques temps pour gérer la montée en compétences. A la fin de cette étape, j'ai découpé mon initiative en une poignée de jalons. La question 'Comment saurez vous que c'est un succès ?' du canvas au niveau jalon aide à savoir si on doit ou non continuer à allouer du budget.
+L'initiative parait faire du sens à savoir je réponds à un problème, j'ai un embryon de solution viable et j'ai levé certaines hypothèses. Je vais maintenant passer un premier tamis de découpage et identifier les grosses patates que j'appelle jalon et les mettre dans l'ordre. Pour cela, je pars souvent sur du remember the future sachant que l'on peut faire sans. A quoi ça sert ? A affiner pour ne pas partir sur un effet tunnel d'un an et à comprendre ce qui apporte le plus de valeur. Il y a une autre raison qui est lié au budget et au staffing. J'essaie d'identifier des jalons de 1 à 3 mois qui permettent de faire de l'allocation de ressources de type budget glissant (cf beyond budgeting) et aussi de garder une équipe sur un sujet pour quelques temps pour gérer la montée en compétences. A la fin de cette étape, j'ai découpé mon initiative en une poignée de jalons. La question 'Comment saurez vous que c'est un succès ?' du canvas au niveau jalon aide à savoir si on doit ou non continuer à allouer du budget.
 
 {% include img.html
     name='8599735985_0f513948a1'
