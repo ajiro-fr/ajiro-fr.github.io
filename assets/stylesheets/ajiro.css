@@ -36,6 +36,10 @@ h1, h2, h3 {
   color: #3B3B3B;
 }
 
+.jumbotron {
+  font-size: 1.6rem;
+}
+
 /* == Fonts */
 
 @font-face {
