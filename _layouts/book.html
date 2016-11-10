@@ -17,15 +17,42 @@ layout: default
       {% endif %}
     </div>
     <div class="col-md-8 col-xs-12">
-      {{ content }}
-      <hr />
-      {{ page.authors | join: ', ' }}.
-      <i>{{page.title}}</i>.
-      {% if page.edition %}{{page.edition}}. {% endif %}
-      {% if page.address %}{{page.address}} : {% endif %}
-      {% if page.publisher %}{{page.publisher}}, {% endif %}
-      {% if page.year %}{{page.year}}. {% endif %}
-      {% if page.isbn %}ISBN: {{page.isbn}}{% endif %}
+      <p>
+        {{ page.authors | join: ', ' }}.
+        <i>{{page.title}}</i>.
+        {% if page.edition %}{{page.edition}}. {% endif %}
+        {% if page.address %}{{page.address}} : {% endif %}
+        {% if page.publisher %}{{page.publisher}}, {% endif %}
+        {% if page.year %}{{page.year}}. {% endif %}
+        {% if page.isbn %}ISBN: {{page.isbn}}{% endif %}
+      </p>
+
+      <h2>Résumé</h2>
+
+      {% if page.summary %}
+      <p>{{page.summary | markdownify}}</p>
+      {% endif %}
     </div>
   </div>
+
+  {% if page.comments %}
+  <div class="row spacer-40">
+    <div class="offset-md-2 col-md-8 col-xs-12">
+      <h2>Commentaires</h2>
+    </div>
+  </div>
+
+  {% for comment in page.comments %}
+  {% assign author = site.data.people[comment.author] %}
+  <div class="row spacer-20">
+    <div class="col-md-2 col-xs-12 text-xs-right">
+        <img alt="Photo {{author.name}}" width="80" class="rounded-circle" src="/assets/images/team/{{author.photo}}" />
+    </div>
+    <div class="col-md-8 col-xs-12">
+      {{ comment.content | markdownify }}
+      <div class="text-xs-right">&mdash; <em>{{ author.name }}</em></div>
+    </div>
+  </div>
+  {% endfor %}
+  {% endif %}
 </div>
