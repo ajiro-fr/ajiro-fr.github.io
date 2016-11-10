@@ -1,11 +1,11 @@
 ---
 title: "Dis moi papa, c'est quoi un product backlog?"
 lang: fr
-hidden: false
+hidden: true
 authors:
   - retiere_samuel
 tags:
-  - product
+  - produit
   - methodologie
 illustration:
   name: 13916708955_0ea0f3a68f_b
