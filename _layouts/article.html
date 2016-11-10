@@ -43,20 +43,20 @@ layout: default
 
 <div class="article">
   <div class="row">
-    <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+    <div class="offset-md-2 col-md-8 col-xs-12">
       <h1>
-        {{ page.title }} {% if page.subtitle %}<br><small>{{ page.subtitle }}</small> {% endif %}
+        {{ page.title }} {% if page.subtitle %}<br /><small>{{ page.subtitle }}</small> {% endif %}
       </h1>
     </div>
   </div>
   <div class="row">
-    <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+    <div class="offset-md-2 col-md-8 col-xs-12">
       <small>
         {% if page.tags.size > 0 %}
-          <div class="pull-right">
+          <div class="float-xs-right">
             <i class="fa fa-tags"></i>
             {% for tag in page.tags %}
-              <span class="label label-default">{{tag}}</span>
+              <span class="tag tag-default">{{tag}}</span>
             {% endfor %}
           </div>
         {% endif %}
@@ -68,7 +68,7 @@ layout: default
   </div>
   {% if page.illustration %}
     <div class="row spacer-20">
-      <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+      <div class="offset-md-2 col-md-8 col-xs-12">
         {% include components/image.html
           description=page.illustration.description
           name=page.illustration.name
@@ -80,13 +80,13 @@ layout: default
     </div>
   {% endif %}
   <div class="row spacer-40">
-    <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+    <div class="offset-md-2 col-md-8 col-xs-12">
       {{ content }}
     </div>
   </div>
   <div class="row spacer-40">
-    <div class="col-sm-offset-2 col-sm-8 col-xs-12 text-right">
-      <div class="pull-right">{% include components/share_with.html %}</div>
+    <div class="offset-md-2 col-md-8 col-xs-12 text-xs-right">
+      <div class="float-xs-right">{% include components/share_with.html %}</div>
       <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
     </div>
   </div>
@@ -97,7 +97,7 @@ layout: default
   {% endfor %}
 
   <div class="row">
-    <div class="col-sm-offset-2 col-sm-8 col-xs-12">
+    <div class="offset-md-2 col-md-8 col-xs-12">
       {% if page.contributors.size > 0 %}
       <hr>
       Contributeurs: <i>{{ page.contributors | join: ', ' }}</i>

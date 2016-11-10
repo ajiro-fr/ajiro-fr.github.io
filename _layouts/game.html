@@ -4,7 +4,7 @@ layout: default
 
 <div class="article">
   <div class="row">
-    <div class="col-sm-12 col-xs-12">
+    <div class="col-md-12 col-xs-12">
       <h1>
         {{ page.title }} {% if page.subtitle %}<small>{{ page.subtitle }}</small> {% endif %}
       </h1>
@@ -12,14 +12,14 @@ layout: default
         <div>
           <i class="fa fa-tags"></i>
           {% for tag in page.tags %}
-            <span class="label label-default">{{tag}}</span>
+            <span class="tag tag-default">{{tag}}</span>
           {% endfor %}
         </div>
       {% endif %}
     </div>
   </div>
   <div class="row spacer-20">
-    <div class="col-sm-6 col-xs-12">
+    <div class="col-md-6 col-xs-12">
       {% include components/game_list.html
           icon='fa-bullseye'
           title='Objectifs'
@@ -29,34 +29,34 @@ layout: default
           title='Finalité du jeu'
           items=page.purpose %}
     </div>
-    <div class="col-sm-6 col-xs-12">
+    <div class="col-md-6 col-xs-12">
       <h3><i class="fa fa-clock-o" aria-hidden="true"></i> {{page.duration}}</h3>
       <h3><i class="fa fa-users" aria-hidden="true"></i> {{page.participants}}</h3>
     </div>
   </div>
   <div class="row spacer-20 row-eq-height">
-    <div class="col-sm-6 col-xs-12">
+    <div class="col-md-6 col-xs-12">
       {% include components/game_panel.html
           title='Contexte'
           content=page.context %}
     </div>
-    <div class="col-sm-6 col-xs-12">
+    <div class="col-md-6 col-xs-12">
       {% include components/game_panel.html
           title='Prérequis'
           content=page.prerequisites %}
     </div>
   </div>
   <div class="row spacer-20">
-    <div class="col-sm-6 col-xs-12">
+    <div class="col-md-6 col-xs-12">
     </div>
-    <div class="col-sm-6 col-xs-12">
+    <div class="col-md-6 col-xs-12">
       {% include components/game_list.html
           title='Matériel'
           items=page.materials %}
     </div>
   </div>
   <div class="row spacer-40">
-      <div class="col-sm-12 col-xs-12">
+      <div class="col-md-12 col-xs-12">
         {{ content }}
     </div>
   </div>

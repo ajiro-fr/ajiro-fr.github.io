@@ -1,28 +1,19 @@
 <header class="site-header">
-  <nav class="navbar navbar-default">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar-collapse" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">
-          <img alt="Ajiro Icon" src="/assets/images/icon-ajiro.svg" height="26">
-        </a>
-      </div>
-      <div class="collapse navbar-collapse" id="main-navbar-collapse">
-        {% assign current = page.url | downcase | split: '/' %}
-        <ul class="nav navbar-nav">
-          <li {% if current[1] == 'members' %}class='active'{% endif %}><a href='/members/'><i class="fa fa-users"></i> Membres</a></li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href='/articles/'><i class="fa fa-file-text-o"></i> Articles</a></li>
-          <li><a href='/books/'><i class="fa fa-book"></i> Livres</a></li>
-          <li><a href='/feed.all.xml'><i class="fa fa-rss"></i> RSS</a></li>
-        </ul>
-      </div>
+  <nav class="navbar navbar-light bg-faded">
+    <button class="navbar-toggler hidden-md-up" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
+    <div class="collapse navbar-toggleable-sm" id="navbarResponsive">
+      <a class="navbar-brand" href="/">
+        <img alt="Ajiro Icon" src="/assets/images/logo-ajiro.svg" height="32">
+      </a>
+      {% assign current = page.url | downcase | split: '/' %}
+      <ul class="nav navbar-nav">
+        <li class='nav-item {% if current[1] == 'members' %}active{% endif %}'><a class='nav-link' href='/members/'><i class="fa fa-users"></i> Membres</a></li>
+      </ul>
+      <ul class="nav navbar-nav float-md-right">
+        <li class='nav-item'><a class='nav-link' href='/articles/'><i class="fa fa-file-text-o"></i> Articles</a></li>
+        <li class='nav-item'><a class='nav-link' href='/books/'><i class="fa fa-book"></i> Livres</a></li>
+        <li class='nav-item'><a class='nav-link' href='/feed.all.xml'><i class="fa fa-rss"></i> RSS</a></li>
+      </ul>
     </div>
   </nav>
 </header>
