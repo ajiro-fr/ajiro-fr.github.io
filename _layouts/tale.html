@@ -10,11 +10,29 @@ layout: default
       </h1>
     </div>
   </div>
-  <div class="row spacer-40">
+  {% if page.illustration %}
+    <div class="row spacer-20">
+      <div class="offset-md-2 col-md-8 col-xs-12">
+        {% include components/image.html
+          description=page.illustration.description
+          name=page.illustration.name
+          source=page.illustration.source
+          legend=page.illustration.legend
+          asset=page.id
+        %}
+      </div>
+    </div>
+  {% endif %}  <div class="row spacer-40">
     <div class="offset-md-2 col-md-8 col-xs-12">
       {{ content }}
+      {% if page.author %}
       <hr>
       {{ page.authors | join: ', ' }}.
+      {% endif %}
+      {% if page.source %}
+      <hr>
+      Source: {{page.source}}
+      {% endif %}
     </div>
   </div>
 </div>

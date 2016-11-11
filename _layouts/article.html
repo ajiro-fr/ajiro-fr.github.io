@@ -69,12 +69,13 @@ layout: default
   {% if page.illustration %}
     <div class="row spacer-20">
       <div class="offset-md-2 col-md-8 col-xs-12">
+        {% capture asset %}articles/{{page.slug}}{% endcapture %}
         {% include components/image.html
           description=page.illustration.description
           name=page.illustration.name
           source=page.illustration.source
           legend=page.illustration.legend
-          article=page.slug
+          asset=asset
         %}
       </div>
     </div>

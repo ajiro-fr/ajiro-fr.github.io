@@ -1,4 +1,4 @@
-JPEG_ORIGINAL = $(shell find assets/articles/ -type f -name '*-o.jpg')
+JPEG_ORIGINAL = $(shell find assets/ -type f -name '*-o.jpg')
 JPEG_800P = $(patsubst %-o.jpg, %-800p.jpg, $(JPEG_ORIGINAL))
 
 all: assets

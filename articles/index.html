@@ -55,10 +55,11 @@ title: Articles
   </div>
   <div class="col-md-4 col-xs-12">
     {% capture description %}Illustration pour "{{article.title}}"{% endcapture %}
+    {% capture asset %}articles/{{article.slug}}{% endcapture %}
     {% include components/image.html
       description=description
       name=article.illustration.name
-      article=article.slug
+      asset=asset
     %}
   </div>
 </div>
