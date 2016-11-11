@@ -69,9 +69,13 @@ h1, h2, h3 {
   src: url('/assets/fonts/LinBiolinum_RB.otf') format('opentype');
 }
 
+html {
+}
+
 body {
   background-repeat: no-repeat;
   font-family: 'Linux Biolinum';
+  font-size: 22px;
 }
 
 /* Custom, iPhone Retina */
