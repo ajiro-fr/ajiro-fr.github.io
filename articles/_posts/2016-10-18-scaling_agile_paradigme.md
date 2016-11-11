@@ -87,10 +87,10 @@ Comme je suis parti d'un point pour bien digresser par la suite, je vais essayer
 
 Pourquoi tenter l'agilité à l'échelle ?
 
-    Pour donner plus de flexibilité de priorisation au business et pour accélérer la vitesse de delivery. Pour résumer, pour faire du meilleur business.
+_Pour donner plus de flexibilité de priorisation au business et pour accélérer la vitesse de delivery. Pour résumer, pour faire du meilleur business._
 
 Qu'est ce que cela implique ?
 
-    Passer d'une organisation centrée application à une organisation flux de valeur. Cela implique une remise en cause profonde d'un grand nombre de process. Il ne faut pas sous estimer ce point, cela passera par se redemander pourquoi on fait les choses. Au passage et vous l'aurez sûrement deviné sans que je l'écrive, cela veut aussi dire remodeler la structure managériale et repartir sur un autre axe.
+_Passer d'une organisation centrée application à une organisation flux de valeur. Cela implique une remise en cause profonde d'un grand nombre de process. Il ne faut pas sous estimer ce point, cela passera par se redemander pourquoi on fait les choses. Au passage et vous l'aurez sûrement deviné sans que je l'écrive, cela veut aussi dire remodeler la structure managériale et repartir sur un autre axe._
 
 Vous êtes maintenant prévenus de ce que cela implique. Pour finir sur une note positive : si l'effort est certain, l'impact sur l'efficience de l'organisation est énorme. Il s'agit bien d'innovation managériale avec un fort caractère différentiant.
