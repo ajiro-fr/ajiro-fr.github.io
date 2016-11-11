@@ -1,5 +1,5 @@
 ---
-title: "Dis moi papa, c'est quoi un product backlog?"
+title: "Dis papa, c'est quoi un product backlog?"
 lang: fr
 hidden: false
 authors:
