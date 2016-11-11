@@ -1,4 +1,4 @@
-from debian
+from ubuntu
 
 env DEBIAN_FRONTEND noninteractive
 
