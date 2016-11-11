@@ -8,7 +8,7 @@ tags:
   - produit
   - methodologie
 illustration:
-  name: 13916708955_0ea0f3a68f_b
+  name: 13916708955_b012236d81
   source: https://www.flickr.com/photos/myharries/13916708955
 ---
 
@@ -21,20 +21,34 @@ Il y a quelques années, le product backlog se résumait pour moi à des user st
 
 ## Etape 1 : Réflechis avant de foncer
 
-Au commencement était la phase de compréhension de l'initiative que l'on veut lancer. Chez les english, on va parler de phase d'incenption, d'ideation, whatever,.... Pour ceux qui suivent, j'ai sauté l'étape ou je décide quelle initiative je lance. J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de suite que l'on va appeler parties prenantes. 
+Au commencement était la phase de compréhension de l'initiative que l'on veut lancer. Chez les english, on va parler de phase d'incenption, d'ideation, whatever,.... Pour ceux qui suivent, j'ai sauté l'étape ou je décide quelle initiative je lance. J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de suite que l'on va appeler parties prenantes.
 
 Je commence par mettre à plat le problème auquel je veux répondre et définir une idée de solution. On peut partir sur du Lean Canvas, mais je préfère maintenant un canvas plus simple créé par Thierry Montulé :
 
-|Problème|Solution|
-| -------|------|
-|Quel est le problème ?<br>
-Qui a se problème ?<br>
-Comment faites vous aujourd'hui ?<br>
-Que pourrez vous faire demain que vous ne pouvez pas faire aujourd'hui ?<br>
-Comment saurez vous que c'est un succès ?|
-Description<br>
-Contraintes<br>
-Critère d'acceptance / Examples|
+<p>
+  <div class="card-group">
+    <div class="card" style="width:50%;">
+      <h3 class="card-header">Problème</h3>
+      <div class="card-block">
+        <p>Quel est le problème ?</p>
+        <p>Qui a ce problème ?</p>
+        <p>Comment faites vous aujourd'hui ?</p>
+        <p>Que pourrez vous faire demain que vous ne pouvez pas faire aujourd'hui ?</p>
+        <p>Comment saurez vous que c'est un succès ?</p>
+      </div>
+    </div>
+    <div class="card" style="width:50%;">
+      <h3 class="card-header">Solution</h3>
+      <div class="card-block">
+        <p>Description</p>
+        <p>Contraintes</p>
+        <p>Critères d'acceptances</p>
+        <p>Exemples</p>
+      </div>
+    </div>
+  </div>
+</p>
+
 
 Je garde la partie solution dans le canvas pour ne pas brider et pour la conduite du changement (ne pas dire tout de suite qu'il faut arreter de partir direct sur la solution). L'important est de savoir à quel problème on répond et je garde ce formalisme pour trois niveaux de granularité. Une fois que j'ai remplis le canvas, j'ai explicité problème, embryon de solution et hyptohèses sur lesquelles reposent mon initiative. Ensuite, on dérisque au besoin certaines questions/hypothèses par des interviews, études de marché,...
 
@@ -54,7 +68,7 @@ L'initiative parait faire du sens à savoir que je sais à quel problème je ré
 
 ## Etape 3 : L'expérience utilisateur
 
-Je prends les premiers jalons et je zoome. Je ne vais pas produire du logiciel pendant 3 mois et livrer à la fin. Sans continuous delivery point de salut. Et donc comment je fais pour livrer au fur et à mesure ? Et bien qu'est ce que tu peux activer en production qui permettra un changement de comportement utilisateur ? La question clé est 'Que pourrez vous faire demain que vous ne pouvez pas faire aujourd'hui ?' pour identifier si nous sommes ou non en présence d'une expérience (utilisateur) minimum viable (MVE). On peut faire le lien avec les scénarios d'usage des personas. Si je suis en continuous delivery, dès que MVE est terminé c'est en production direct et donc un MVE est égal à une version. La question 'Comment saurez vous que c'est un succès ?' au niveau MVE sert plus à réajuster les futurs développements qu'à pivoter ou arrêter. 
+Je prends les premiers jalons et je zoome. Je ne vais pas produire du logiciel pendant 3 mois et livrer à la fin. Sans continuous delivery point de salut. Et donc comment je fais pour livrer au fur et à mesure ? Et bien qu'est ce que tu peux activer en production qui permettra un changement de comportement utilisateur ? La question clé est 'Que pourrez vous faire demain que vous ne pouvez pas faire aujourd'hui ?' pour identifier si nous sommes ou non en présence d'une expérience (utilisateur) minimum viable (MVE). On peut faire le lien avec les scénarios d'usage des personas. Si je suis en continuous delivery, dès que MVE est terminé c'est en production direct et donc un MVE est égal à une version. La question 'Comment saurez vous que c'est un succès ?' au niveau MVE sert plus à réajuster les futurs développements qu'à pivoter ou arrêter.
 
 Je ne parle plus de produit minimum viable (MVP) car j'ai récemment eu le cas sur la refonte du site de mon assurance d'un produit minimum qui ne m'a permis aucune expérience utilisateur. Je pouvais voir mon contrat et mes coordonnées mais pas mon sinistre en cours. J'ai du envoyer un mail pour avoir les informations dont j'ai besoin.
 
@@ -66,8 +80,8 @@ Je ne parle plus de produit minimum viable (MVP) car j'ai récemment eu le cas s
 ## Etape 4 : La solution
 
 Je charrie un peu en ne parlant de solution qu'à cette étape, mais ce n'est qu'à cette étape que l'on va parler exécution et donc spécifications. Je prends donc mes premiers MVE et je les découpe en user stories. A quoi cela sert ? A deux choses mon capitaine :
-- Premièrement cela va permettre d'obtenir du feedback sur la solution en environnement de non production au fur et à mesure du développement. 
-- Deuxièmement le fait de découper va permettre à l'équipe de mieux piloter son process de développement. Avec des items petits, cela permet de s'apercevoir plus vite des déviations. 
+- Premièrement cela va permettre d'obtenir du feedback sur la solution en environnement de non production au fur et à mesure du développement.
+- Deuxièmement le fait de découper va permettre à l'équipe de mieux piloter son process de développement. Avec des items petits, cela permet de s'apercevoir plus vite des déviations.
 
 Et donc qu'est ce que c'est une user story ? Et bien c'est un morceau fonctionnel d'un MVE. Cela peut être un bout de process, un bout d'écran, une fonctionnalité sans option,... Pour savoir si on est dans la user story ou la tache technique, il suffit de demander au business s'il comprend ou non la fiche. Si c'est non, c'est que c'est une tache technique. Personnellement je considère que si le découpage (slicing pour les intimes) est bien fait, le découpage en taches est inutile. De la forme canonique standard, je ne garde que 'En tant que, je veux que'. Le 'parce que' est porté par le MVE.
 
