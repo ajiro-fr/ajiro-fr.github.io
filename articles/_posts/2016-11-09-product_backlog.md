@@ -25,25 +25,16 @@ Au commencement était la phase de compréhension de l'initiative que l'on veut 
 
 Je commence par mettre à plat le problème auquel je veux répondre et définir une idée de solution. On peut partir sur du Lean Canvas, mais je préfère maintenant un canvas plus simple créé par Thierry Montulé :
 
-<table style="width:100%" border=1>
-  <tr>
-  <th>Problème</th>
-  <th>Solution</th>
-  </tr>
-  <tr>
-  <th>
-Quel est le problème ?<br>
+|Problème|Solution|
+| -------|------|
+|Quel est le problème ?<br>
 Qui a se problème ?<br>
 Comment faites vous aujourd'hui ?<br>
 Que pourrez vous faire demain que vous ne pouvez pas faire aujourd'hui ?<br>
-Comment saurez vous que c'est un succès ?
-</th>
-<th>
+Comment saurez vous que c'est un succès ?|
 Description<br>
 Contraintes<br>
-Critère d'acceptance / Examples<br>
-</th></tr></table>
-<br>
+Critère d'acceptance / Examples|
 
 Je garde la partie solution dans le canvas pour ne pas brider et pour la conduite du changement (ne pas dire tout de suite qu'il faut arreter de partir direct sur la solution). L'important est de savoir à quel problème on répond et je garde ce formalisme pour trois niveaux de granularité. Une fois que j'ai remplis le canvas, j'ai explicité problème, embryon de solution et hyptohèses sur lesquelles reposent mon initiative. Ensuite, on dérisque au besoin certaines questions/hypothèses par des interviews, études de marché,...
 
