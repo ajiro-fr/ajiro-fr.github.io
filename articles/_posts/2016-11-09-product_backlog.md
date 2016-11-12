@@ -125,6 +125,47 @@ Une fois un MVE mis en production, on mesure la valeur réelle de l'indicateur b
 
 Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. Je prends la user story suivante que je développe.
 
+<p>
+  <div class="card-group">
+    <div class="card" style="width:33%;">
+      <h3 class="card-header">Jalon1</h3>
+      <div class="card-header">
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      <h3 class="card-header">Jalon2</h3>
+      <div class="card-header">
+        <p></p>
+        <p></p>  
+      </div>
+    </div>
+    <div class="card" style="width:33%;">
+      <div class="card-header">
+        <p>MVP 1.1</p>
+        <p></p>
+        <p></p>
+        <p>MVP 1.2</p>
+        <p></p>
+        <p>MVP 2.1</p>
+        <p>MVP 2.2</p>
+        <p>MVP 2.3</p>
+      </div>
+    </div>
+    <div class="card" style="width:33%;">
+      <div class="card-header">
+        <p>US 1.1.1</p>
+        <p>US 1.1.2</p>
+        <p>US 1.1.3</p>
+        <p>US 1.2.1</p>
+        <p>US 1.2.2</p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</p>
 
 {% include img.html
     name='6888100281_4b7b238dba'
