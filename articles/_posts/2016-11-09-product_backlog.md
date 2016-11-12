@@ -129,13 +129,13 @@ Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. 
   <div class="card-group">
     <div class="card" style="width:33%;">
         <p>Jalon1</p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
+        <p>&nbsp</p>
+        <p>&nbsp</p>
+        <p>&nbsp</p>
+        <p>&nbsp</p>
         <p>Jalon2</p>
-        <p></p>
-        <p></p>  
+        <p>&nbsp</p>
+        <p>&nbsp</p>  
     </div>
     <div class="card" style="width:33%;">
         <p>MVP 1.1</p>
