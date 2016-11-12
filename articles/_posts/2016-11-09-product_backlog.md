@@ -100,6 +100,7 @@ Et donc qu'est-ce que c'est une user story ? Et bien, c'est un morceau fonctionn
 
 La question 'Comment saurez-vous que c'est un succès ?' permet de connaitre les conditions de succès de la réponse au problème. Je parle alors d'indicateur métier que je retrouve au niveau jalon et MVE. Les critères d'acceptances sont au niveau MVE et user story pour décrire la conformité de la solution. Je validerai la solution si dans tel scénario d'usage, l'application me permet d'avoir telle expérience utilisateur. Ils peuvent être sous une forme littérale ou sous une forme d'exemple et là, on se rapproche du BDD.
 
+Côté 'valeur', je considère que la 'Business value' relative ne sert pas à grand chose. Cela peut aider pour de la priorisation Valeur / Effort, mais quelle est la valeur réelle en production d'un item estimé à une valeur relative de 20 ? Et bien je n'en ai aucune idée et je ne vois pas comment on peut savoir. A l'arrivée, on ne peut prendre aucune décision suite au passage en production. J'ai donc complètement arrêté de l'utiliser et je ne garde que l'indicateur métier du jalon et/ou du MVE. Si j'y arrive, j'utilise plutôt la notion de coût du retard (cost of delay pour les intimes).
 
 {% include img.html
     name='28642020772_aac9123977'
@@ -125,6 +126,7 @@ Une fois un MVE mis en production, on mesure la valeur réelle de l'indicateur b
 
 Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. Je prends la user story suivante que je développe.
 
+A l'arrivée, un product backlog, ça ressemble à ça :
 <p>
   <div class="card-group">
     <div class="card" style="width:33%;">
