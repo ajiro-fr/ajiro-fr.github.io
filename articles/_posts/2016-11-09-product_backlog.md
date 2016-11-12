@@ -127,43 +127,26 @@ Une fois un MVE mis en production, on mesure la valeur réelle de l'indicateur b
 Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. Je prends la user story suivante que je développe.
 
 A l'arrivée, un product backlog, ça ressemble à ça :
+
 <p>
-  <div class="card-group">
-    <div class="card" style="width:33%;">
-        <p>Jalon 1</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>Jalon 2</p>
-        <p>.</p>
-        <p>.</p>
-        <p>Jalon 3</p>
-    </div>
-    <div class="card" style="width:33%;">
-        <p>MVP 1.1</p>
-        <p>.</p>
-        <p>.</p>
-        <p>MVP 1.2</p>
-        <p>.</p>
-        <p>MVP 2.1</p>
-        <p>MVP 2.2</p>
-        <p>MVP 2.3</p>
-        <p>.</p>
-    </div>    
-    <div class="card" style="width:33%;">
-        <p>US 1.1.1</p>
-        <p>US 1.1.2</p>
-        <p>US 1.1.3</p>
-        <p>US 1.2.1</p>
-        <p>US 1.2.2</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-        <p>.</p>
-    </div>    
-  </div>
+  <table class="table table-striped table-inverse table-bordered">
+    <thead>
+      <tr><th> Jalons </th><th> MVE </th><th> User stories </th></tr>
+    </thead>
+    <tbody>
+      <tr><td> Jalon 1 </td><td> MVP 1.1 </td><td> US 1.1.1 </td></tr>
+      <tr><td>         </td><td>         </td><td> US 1.1.2 </td></tr>
+      <tr><td>         </td><td>         </td><td> US 1.1.3 </td></tr>
+      <tr><td>         </td><td> MVP 1.2 </td><td> US 1.2.1 </td></tr>
+      <tr><td>         </td><td>         </td><td> US 1.2.2 </td></tr>
+      <tr><td> Jalon 2 </td><td> MVP 2.1 </td><td>          </td></tr>
+      <tr><td>         </td><td> MVP 2.2 </td><td>          </td></tr>
+      <tr><td>         </td><td> MVP 2.3 </td><td>          </td></tr>
+      <tr><td> Jalon 3 </td><td>         </td><td>          </td></tr>
+    </tbody>
+  </table>
 </p>
+
 
 {% include img.html
     name='6888100281_4b7b238dba'
