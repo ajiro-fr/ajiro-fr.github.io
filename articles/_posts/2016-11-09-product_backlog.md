@@ -138,22 +138,22 @@ Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. 
         <p></p>  
     </div>
     <div class="card" style="width:33%;">
-        <p>MVP 1</p>
+        <p>MVP 1.1</p>
         <p></p>
         <p></p>
-        <p></p>
+        <p>MVP 1.2</p>
         <p></p>
         <p>MVP 2.1</p>
-        <p></p>
-        <p></p>  
+        <p>MVP 2.2</p>
+        <p>MVP 2.3</p>  
     </div>    
     <div class="card" style="width:33%;">
-        <p>US</p>
+        <p>US 1.1.1</p>
+        <p>US 1.1.2</p>
+        <p>US 1.1.3</p>
+        <p>US 1.2.1</p>
+        <p>US 1.2.2</p>
         <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p>US</p>
         <p></p>
         <p></p>  
     </div>    
