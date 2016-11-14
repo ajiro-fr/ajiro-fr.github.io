@@ -64,7 +64,7 @@ Output : L'initiative parait faire du sens à savoir que je sais à quel problè
 
 ## Etape 3 : Le jalonnement
 
-J'ai un embryon de solution viable et j'ai levé certaines hypothèses. Je vais maintenant passer un premier tamis de découpage et identifier les grosses patates que j'appelle jalon et les mettre dans l'ordre. Pour cela, je pars souvent sur l'innovation game 'remember the future' sachant que l'on peut faire sans. À quoi sert cette étape ? À affiner pour ne pas partir sur un effet tunnel d'un an et à comprendre ce qui apporte le plus de valeur. Il y a une autre raison qui est lié au budget et au staffing. J'essaie d'identifier des jalons de 1 à 3 mois qui permettent de faire de l'allocation de ressources de type budget glissant (cf beyond budgeting) et aussi de garder une équipe sur un sujet pour quelque temps pour gérer la montée en compétences. À la fin de cette étape, j'ai découpé mon initiative en une poignée de jalons. La question 'Comment saurez-vous que c'est un succès ?' Du canvas au niveau jalon aide à savoir si on doit ou non continuer à allouer du budget.
+J'ai un embryon de solution viable et j'ai levé certaines hypothèses. Je vais maintenant passer un premier tamis de découpage et identifier les grosses patates que j'appelle jalon et les mettre dans l'ordre. Pour cela, je pars souvent sur l'innovation game 'remember the future' sachant que l'on peut faire sans. À quoi sert cette étape ? À affiner pour ne pas partir sur un effet tunnel d'un an et à comprendre ce qui apporte le plus de valeur. Il y a une autre raison qui est lié au budget et au staffing. J'essaie d'identifier des jalons de 1 à 3 mois qui permettent de faire de l'allocation de ressources de type budget glissant (cf beyond budgeting) et aussi de garder une équipe sur un sujet pour quelque temps pour gérer la montée en compétences. À la fin de cette étape, j'ai découpé mon initiative en une poignée de jalons. La question 'Comment saurez-vous que c'est un succès ?' du canvas au niveau jalon aide à savoir si on doit ou non continuer à allouer du budget.
 
 Output : Mon initiative est découpée en gros glaçons (jalons) et j'ai une idée de l'enchainement temporel.
 
@@ -164,4 +164,4 @@ A l'arrivée, un product backlog, ça ressemble à ça :
 
 Le gros gain à travailler ainsi, c'est que vous êtes capable à tout moment de faire le lien entre les problèmes auxquels vous voulez répondre et la solution que vous mettez en face. On résume souvent le product backlog à une description d'une solution et je trouve cela trop limitant. J'ai trop souvent vu une décorrelation entre le business case d'un projet et l'exécution au jour le jour. 
 
-* Output : Le product backlog, c'est le lien entre stratégie, tactique et exécution.*
+** Output : Le product backlog, c'est le lien entre stratégie, tactique et exécution.*
