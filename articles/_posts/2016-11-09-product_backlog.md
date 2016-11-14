@@ -21,9 +21,12 @@ Il y a quelques années, le product backlog se résumait pour moi à des user st
 %}
 
 ## Etape 1 : Teasing
+
 Je saute l'étape où je décide quelle initiative je lance car c'est un sujet pour un futur post et que je ne veux pas le résumer à deux lignes. Je parlerai matrice de décisions et coût du retard.
 
+
 ## Etape 2 : Réflechis avant de foncer
+
 J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de suite que l'on va appeler parties prenantes. Par contre, est ce que l'initiative que je veux lancer est si claire que cela ? Si je vais voir toutes les parties prenantes et que je leur demande à quel problème elles répondent, est ce que je vais avoir une réponse ? De mon expérience personnelle, c'est rarement le cas et il n'est pas inutile de se poser deux secondes avant de partir bille en tête.
 
 Je commence par mettre à plat le problème auquel je veux répondre et envisager une solution. On peut partir sur du Lean Canvas de Ash Maurya, mais je préfère maintenant un canvas plus simple créé par Thierry Montulé :
@@ -83,6 +86,7 @@ Et donc qu'est-ce que c'est une user story ? Et bien, c'est un morceau fonctionn
 {: .bleu}
 _Output : J'ai la description de la solution avec critère d'acceptance._
 
+
 {% include img.html
     name='8390935488_b1c6c2b117'
     source='https://www.flickr.com/photos/art_roman_p/8390935488'
@@ -93,6 +97,7 @@ _Output : J'ai la description de la solution avec critère d'acceptance._
 La question «_Comment saurez-vous que c'est un succès ?_» permet de connaitre les conditions de succès de la réponse au problème. Je parle alors d'indicateur métier que je retrouve au niveau jalon et MVE. Les critères d'acceptances sont au niveau MVE et user story pour décrire la conformité de la solution. Je validerai la solution si dans tel scénario d'usage, l'application me permet d'avoir telle expérience utilisateur. Ils peuvent être sous une forme littérale ou sous une forme d'exemple et là, on se rapproche du BDD.
 
 Côté 'valeur', je considère que la 'Business value' relative ne sert pas à grand chose. Cela peut aider pour de la priorisation Valeur / Effort, mais quelle est la valeur réelle en production d'un item estimé à une valeur relative de 20 ? Et bien je n'en ai aucune idée et je ne vois pas comment on peut savoir. A l'arrivée, on ne peut prendre aucune décision suite au passage en production. J'ai donc complètement arrêté de l'utiliser et je ne garde que l'indicateur métier du jalon et/ou du MVE. Si j'y arrive, j'utilise plutôt la notion de coût du retard (cost of delay pour les intimes).
+
 
 {% include img.html
     name='28642020772_aac9123977'
@@ -110,6 +115,7 @@ Une fois un MVE mis en production, on mesure la valeur réelle de l'indicateur b
 
 {: .bleu}
 _Output : Mesure réelle de l'indicateur métier à mettre au regard des conditions de succès. Je peux prendre des décisions métier (continuer, pivoter/inflechir, remodeler)._
+
 
 {% include img.html
     name='17773896554_bf0774fc4c'
