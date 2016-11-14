@@ -19,6 +19,7 @@ Il y a quelques années, le product backlog se résumait pour moi à des user st
     name='4882669123_38df0fcf8e'
     source='https://www.flickr.com/photos/dgeen/4882669123'
 %}
+
 ## Etape 1 : Teasing
 Je saute l'étape où je décide quelle initiative je lance car c'est un sujet pour un futur post et que je ne veux pas le résumer à deux lignes. Je parlerai matrice de décisions et coût du retard.
 
@@ -55,7 +56,7 @@ Il faut moins d'une demi journée pour le remplir. C'est clairement un atelier d
 
 Je garde la partie solution dans le canvas pour ne pas brider et pour la conduite du changement (ne pas dire tout de suite qu'il faut arrêter de partir direct sur la solution). L'important est de savoir à quel problème on répond et comme je garde ce formalisme pour trois niveaux de granularité je préfère garder le pavé solution même si cela peut paraitre prématuré. Une fois que j'ai rempli le canvas, j'ai explicité problème, embryon de solution et hypothèses sur lesquelles reposent mon initiative. Ensuite, on dérisque au besoin certaines questions/hypothèses par des interviews, études de marché...
 
-<font color="blue">Output : L'initiative parait faire du sens à savoir que je sais à quel problème je réponds. Je pourrais même rajouter que l'initiative parait viable.</font>
+<font color="blue">Output : L'initiative parait faire du sens à savoir que je sais à quel problème je réponds. Au regard des hypothèses et des risques, l'initiative est viable.</font>
 
 {% include img.html
     name='19869181208_15677d3cb7'
@@ -164,4 +165,4 @@ A l'arrivée, un product backlog, ça ressemble à ça :
 
 Le gros gain à travailler ainsi, c'est que vous êtes capable à tout moment de faire le lien entre les problèmes auxquels vous voulez répondre et la solution que vous mettez en face. On résume souvent le product backlog à une description d'une solution et je trouve cela trop limitant. J'ai trop souvent vu une décorrelation entre le business case d'un projet et l'exécution au jour le jour. 
 
-<font color="blue">** Output : Le product backlog, c'est le lien entre stratégie, tactique et exécution.*</font>
+<font color="orange"><b>Le product backlog, c'est le lien entre stratégie, tactique et exécution.</b></font>
