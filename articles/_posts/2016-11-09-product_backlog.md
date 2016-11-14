@@ -128,24 +128,19 @@ Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. 
 
 A l'arrivée, un product backlog, ça ressemble à ça :
 
-<p>
-  <table class="table table-striped table-bordered">
-    <thead>
-      <tr><th> Jalons </th><th> MVE </th><th> User stories </th></tr>
-    </thead>
-    <tbody>
-      <tr><td> Jalon 1 </td><td> MVE 1.1 </td><td> US 1.1.1 </td></tr>
-      <tr><td>         </td><td>         </td><td> US 1.1.2 </td></tr>
-      <tr><td>         </td><td>         </td><td> US 1.1.3 </td></tr>
-      <tr><td>         </td><td> MVE 1.2 </td><td> US 1.2.1 </td></tr>
-      <tr><td>         </td><td>         </td><td> US 1.2.2 </td></tr>
-      <tr><td> Jalon 2 </td><td> MVE 2.1 </td><td>          </td></tr>
-      <tr><td>         </td><td> MVE 2.2 </td><td>          </td></tr>
-      <tr><td>         </td><td> MVE 2.3 </td><td>          </td></tr>
-      <tr><td> Jalon 3 </td><td>         </td><td>          </td></tr>
-    </tbody>
-  </table>
-</p>
+{: .table .table-striped .table-bordered}
+| Jalons  | MVE     | User stories |
+|---------|---------|--------------|
+| Jalon 1 | MVE 1.1 | US 1.1.1     |
+|         |         | US 1.1.2     |
+|         |         | US 1.1.3     |
+|         | MVE 1.2 | US 1.2.1     |
+|         |         | US 1.2.2     |
+| Jalon 2 | MVE 2.1 |              |
+|         | MVE 2.2 |              |
+|         | MVE 2.3 |              |
+| Jalon 3 |         |              |
+
 
 
 {% include img.html
