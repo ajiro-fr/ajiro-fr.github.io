@@ -28,29 +28,7 @@ J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de s
 
 Je commence par mettre à plat le problème auquel je veux répondre et envisager une solution. On peut partir sur du Lean Canvas de Ash Maurya, mais je préfère maintenant un canvas plus simple créé par Thierry Montulé :
 
-<p>
-  <div class="card-group">
-    <div class="card" style="width:50%;">
-      <h3 class="card-header">Problème</h3>
-      <div class="card-block">
-        <p>Quel est le problème ?</p>
-        <p>Qui a ce problème ?</p>
-        <p>Comment faites vous aujourd'hui ?</p>
-        <p>Que pourrez vous faire demain que vous ne pouvez pas faire aujourd'hui ?</p>
-        <p>Comment saurez vous que c'est un succès ?</p>
-      </div>
-    </div>
-    <div class="card" style="width:50%;">
-      <h3 class="card-header">Solution</h3>
-      <div class="card-block">
-        <p>Description</p>
-        <p>Contraintes</p>
-        <p>Critères d'acceptances</p>
-        <p>Exemples</p>
-      </div>
-    </div>
-  </div>
-</p>
+<img src="/assets/articles/product_backlog/canvas.svg" class="img-fluid">
 
 Il faut moins d'une demi journée pour le remplir. C'est clairement un atelier de type vision et il est donc préfèrable de brasser large pour avoir toutes les sensibilités représentées.
 
