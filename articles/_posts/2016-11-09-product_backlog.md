@@ -79,7 +79,7 @@ Je prends les premiers jalons et je zoome. Je ne vais pas produire du logiciel p
 
 Je ne parle plus de produit minimum viable (MVP) car j'ai récemment eu le cas sur la refonte du site de mon assurance d'un produit minimum qui ne m'a permis aucune expérience utilisateur. Je pouvais voir mon contrat et mes coordonnées, mais pas mon sinistre en cours. J'ai dû envoyer un mail pour avoir les informations dont j'avais besoin.
 
-<font color=blue>Output : Je connais mes scénarios d'usage mininum (MVE). Je saurai prendre des décisions après activation en production car je connais mes conditions de succès.</font>
+<font color="blue">Output : Je connais mes scénarios d'usage mininum (MVE). Je saurai prendre des décisions après activation en production car je connais mes conditions de succès.</font>
 
 {% include img.html
     name='8185003116_a1d8be49ff'
@@ -164,4 +164,4 @@ A l'arrivée, un product backlog, ça ressemble à ça :
 
 Le gros gain à travailler ainsi, c'est que vous êtes capable à tout moment de faire le lien entre les problèmes auxquels vous voulez répondre et la solution que vous mettez en face. On résume souvent le product backlog à une description d'une solution et je trouve cela trop limitant. J'ai trop souvent vu une décorrelation entre le business case d'un projet et l'exécution au jour le jour. 
 
-## Output : Le product backlog, c'est le lien entre stratégie, tactique et exécution.
+* Output : Le product backlog, c'est le lien entre stratégie, tactique et exécution.*
