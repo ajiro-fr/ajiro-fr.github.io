@@ -31,7 +31,7 @@ J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de s
 
 Je commence par mettre à plat le problème auquel je veux répondre et envisager une solution. On peut partir sur du Lean Canvas de Ash Maurya, mais je préfère maintenant un canvas plus simple créé par Thierry Montulé :
 
-<img src="/assets/articles/product_backlog/canvas.svg" class="img-fluid">
+![Canevas Problème-Solution](/assets/articles/product_backlog/canvas.svg){: .img-fluid }
 
 Il faut moins d'une demi journée pour le remplir. C'est clairement un atelier de type vision et il est donc préfèrable de brasser large pour avoir toutes les sensibilités représentées.
 
@@ -140,7 +140,6 @@ A l'arrivée, un product backlog, ça ressemble à ça :
 |         | MVE 2.2 |              |
 |         | MVE 2.3 |              |
 | Jalon 3 |         |              |
-
 
 
 {% include img.html
