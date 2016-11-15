@@ -12,24 +12,22 @@ illustration:
   source: https://www.flickr.com/photos/myharries/13916708955
 ---
 
-Il y a quelques années, le product backlog se résumait pour moi à des user stories regroupées par epic et une forme canonique _'En tant que, je veux que ... parce...'_. Aujourd'hui, je pense que passer par cette vision du product backlog freine la maturité. Pour la suite, je décris la construction d'un product backlog plus mature dans l'ordre chronologique.
+Il y a quelques années, le product backlog se résumait pour moi à des user stories regroupées par epic et une forme canonique _'En tant que, je veux que ... parce...'_. Aujourd'hui, je pense que passer par cette vision du product backlog freine la maturité. Dans la suite de ce post, je décris la construction d'un product backlog dans l'ordre chronologique.
 
+## Etape 1 : Je passe mon tour
+
+Je saute l'étape où je décide quelle initiative je lance car c'est un sujet pour un futur post et que je ne veux pas le résumer à deux lignes. Je parlerai matrice de décisions et coût du retard.
 
 {% include img.html
     name='4882669123_38df0fcf8e'
     source='https://www.flickr.com/photos/dgeen/4882669123'
 %}
 
-## Etape 1 : Teasing
-
-Je saute l'étape où je décide quelle initiative je lance car c'est un sujet pour un futur post et que je ne veux pas le résumer à deux lignes. Je parlerai matrice de décisions et coût du retard.
-
-
 ## Etape 2 : Réflechis avant de foncer
 
 J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de suite que l'on va appeler parties prenantes. Par contre, est ce que l'initiative que je veux lancer est si claire que cela ? Si je vais voir toutes les parties prenantes et que je leur demande à quel problème elles répondent, est ce que je vais avoir une réponse ? De mon expérience personnelle, c'est rarement le cas et il n'est pas inutile de se poser deux secondes avant de partir bille en tête.
 
-Je commence par mettre à plat le problème auquel je veux répondre et envisager une solution. On peut partir sur du Lean Canvas de Ash Maurya, mais je préfère maintenant un canvas plus simple créé par Thierry Montulé :
+Je commence par mettre à plat le problème auquel je veux répondre et envisager une solution. On peut partir sur du Lean Canvas de Ash Maurya, mais je préfère maintenant un canvas plus simple créé par Thierry Montulé avec l'influence de Gery Derbier :
 
 ![Canevas Problème-Solution](/assets/articles/product_backlog/canvas.svg){: .img-fluid }
 
@@ -63,11 +61,8 @@ _Output : Mon initiative est découpée en gros glaçons (jalons) et j'ai une id
 
 Je prends les premiers jalons et je zoome. Je ne vais pas produire du logiciel pendant 3 mois et livrer à la fin. Sans continuous delivery point de salut. Et donc comment je fais pour livrer au fur et à mesure ? Et bien qu'est-ce que tu peux activer en production qui permettra un changement de comportement utilisateur ? La question clé est «_Que pourrez vous faire demain que vous ne pouvez pas faire aujourd'hui ?_» Pour identifier si nous sommes ou non en présence d'une expérience (utilisateur) minimum viable (MVE). On peut faire le lien avec les scénarios d'usage des personas. Si je suis en continuous delivery, dès que MVE est terminé, c'est en production direct et donc un MVE est égal à une version. La question «_Comment saurez-vous que c'est un succès ?_» Au niveau MVE sert plus à réajuster les futurs développements qu'à pivoter ou arrêter.
 
-Je ne parle plus de produit minimum viable (MVP) car j'ai récemment eu le cas sur la refonte du site de mon assurance d'un produit minimum qui ne m'a permis aucune expérience utilisateur. Je pouvais voir mon contrat et mes coordonnées, mais pas mon sinistre en cours. J'ai dû envoyer un mail pour avoir les informations dont j'avais besoin.
-
 {: .bleu}
 _Output : Je connais mes scénarios d'usage mininum (MVE). Je saurai prendre des décisions après activation en production car je connais mes conditions de succès._
-
 
 {% include img.html
     name='8185003116_a1d8be49ff'
@@ -81,23 +76,10 @@ Je charrie un peu en ne parlant de solution qu'à cette étape, mais ce n'est qu
 - Premièrement, cela va permettre d'obtenir du feed-back sur la solution en environnement de non-production au fur et à mesure du développement.
 - Deuxièmement, le fait de découper va permettre à l'équipe de mieux piloter son process de développement. Avec des items petits, cela permet de s'apercevoir plus vite des déviations.
 
-Et donc qu'est-ce que c'est une user story ? Et bien, c'est un morceau fonctionnel d'un MVE. Cela peut être un bout de process, un bout d'écran, une fonctionnalité sans option... Pour savoir si on est dans la user story ou la tache technique, il suffit de demander au business s'il comprend ou non la fiche. Si c'est non, c'est que c'est une tache technique. Personnellement, je considère que si le découpage (slicing pour les intimes) est bien fait, le découpage en taches est inutile. De la forme canonique standard, je ne garde que _'En tant que, je veux que'_. Le _'parce que'_ est porté par le MVE.
+Et donc qu'est-ce que c'est une user story ? Et bien, c'est un morceau fonctionnel d'un MVE. Cela peut être un bout de process, un bout d'écran, une fonctionnalité sans option... Pour savoir si on est dans la user story ou la tache technique, il suffit de demander au représentant du métier s'il comprend ou non la fiche. Si c'est non, c'est que c'est une tache technique. Personnellement, je considère que si le découpage (slicing pour les intimes) est bien fait, le découpage en taches est inutile. De la forme canonique standard, je ne garde que _'En tant que, je veux que'_. Le _'parce que'_ est porté par le MVE.
 
 {: .bleu}
 _Output : J'ai la description de la solution avec critère d'acceptance._
-
-
-{% include img.html
-    name='8390935488_b1c6c2b117'
-    source='https://www.flickr.com/photos/art_roman_p/8390935488'
-%}
-
-## Aparté : La minute théologique
-
-La question «_Comment saurez-vous que c'est un succès ?_» permet de connaitre les conditions de succès de la réponse au problème. Je parle alors d'indicateur métier que je retrouve au niveau jalon et MVE. Les critères d'acceptances sont au niveau MVE et user story pour décrire la conformité de la solution. Je validerai la solution si dans tel scénario d'usage, l'application me permet d'avoir telle expérience utilisateur. Ils peuvent être sous une forme littérale ou sous une forme d'exemple et là, on se rapproche du BDD.
-
-Côté "valeur", je considère que la "Business value" relative ne sert pas à grand chose. Cela peut aider pour de la priorisation Valeur / Effort, mais quelle est la valeur réelle en production d'un item estimé à une valeur relative de 20 ? Et bien je n'en ai aucune idée et je ne vois pas comment on peut savoir. A l'arrivée, on ne peut prendre aucune décision suite au passage en production. J'ai donc complètement arrêté de l'utiliser et je ne garde que l'indicateur métier du jalon et/ou du MVE. Si j'y arrive, j'utilise plutôt la notion de coût du retard (cost of delay pour les intimes).
-
 
 {% include img.html
     name='28642020772_aac9123977'
@@ -116,6 +98,16 @@ Une fois un MVE mis en production, on mesure la valeur réelle de l'indicateur b
 {: .bleu}
 _Output : Mesure réelle de l'indicateur métier à mettre au regard des conditions de succès. Je peux prendre des décisions métier (continuer, pivoter/inflechir, remodeler)._
 
+{% include img.html
+    name='8390935488_b1c6c2b117'
+    source='https://www.flickr.com/photos/art_roman_p/8390935488'
+%}
+
+## Aparté : La minute théologique
+
+La question «_Comment saurez-vous que c'est un succès ?_» permet de connaitre les conditions de succès de la réponse au problème. Je parle alors d'indicateur métier que je retrouve au niveau jalon et MVE. Les critères d'acceptances sont au niveau MVE et user story pour décrire la conformité de la solution. Je validerai la solution si dans tel scénario d'usage, l'application me permet d'avoir telle expérience utilisateur. Ils peuvent être sous une forme littérale ou sous une forme d'exemple et là, on se rapproche du BDD.
+
+Côté "valeur", je considère que la "Business value" relative ne sert pas à grand chose. Cela peut aider pour de la priorisation Valeur / Effort, mais quelle est la valeur réelle en production d'un item estimé à une valeur relative de 20 ? Et bien je n'en ai aucune idée et je ne vois pas comment on peut savoir. A l'arrivée, on ne peut prendre aucune décision suite au passage en production. J'ai donc complètement arrêté de l'utiliser et je ne garde que l'indicateur métier du jalon et/ou du MVE. Si j'y arrive, j'utilise plutôt la notion de coût du retard (cost of delay pour les intimes).
 
 {% include img.html
     name='17773896554_bf0774fc4c'
