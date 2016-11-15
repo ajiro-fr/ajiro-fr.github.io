@@ -25,7 +25,7 @@ Je saute l'étape où je décide quelle initiative je lance car c'est un sujet p
 
 ## Etape 2 : Réflechis avant de foncer
 
-J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de suite que l'on va appeler parties prenantes. Par contre, est ce que l'initiative que je veux lancer est si claire que cela ? Si je vais voir toutes les parties prenantes et que je leur demande à quel problème elles répondent, est ce que je vais avoir une réponse ? De mon expérience personnelle, c'est rarement le cas et il n'est pas inutile de se poser deux secondes avant de partir bille en tête.
+J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de suite que l'on va appeler parties prenantes. Par contre, est ce que l'initiative que je veux lancer est si claire que cela ? Si je vais voir toutes les parties prenantes et que je leur demande à quel problème elles répondent, est ce que je vais avoir une réponse ? De mon expérience personnelle, c'est rarement le cas et il n'est pas inutile de se poser deux secondes avant de partir bille en tête et de finir dans le décor.
 
 Je commence par mettre à plat le problème auquel je veux répondre et envisager une solution. On peut partir sur du Lean Canvas de Ash Maurya, mais je préfère maintenant un canvas plus simple créé par Thierry Montulé avec l'influence de Gery Derbier :
 
