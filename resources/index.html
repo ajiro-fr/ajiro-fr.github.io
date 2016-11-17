@@ -25,7 +25,7 @@ description: >
           {% for product in resource.products %}
           <li class="list-group-item">
             <a href="/assets/resources/{{product.file}}">
-              <i class="fa fa-download"></i> {{product.name}} <img class="float-xs-right" src='/assets/images/{{product.icon}}' height="30">
+              <i class="fa fa-download"></i> {{product.name}} {% if product.icon %}<img class="float-xs-right" src='/assets/images/{{product.icon}}' height="30">{% endif %}
             </a>
           </li>
           {% endfor %}
