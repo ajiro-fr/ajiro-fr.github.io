@@ -1,0 +1,83 @@
+---
+title: "Product Developement : Des katas de compréhension"
+lang: fr
+hidden: true
+authors:
+  - retiere_samuel
+tags:
+  - product
+  - kata
+illustration:
+  name: 17264753128_e5576e2f62_k
+  source: https://www.flickr.com/photos/hoffnungsschimmer/17264753128
+---
+Vous voulez comprendre/apprendre des compétences en développement produit ? Ce post est le premier post d’exercices d’une série de 4.
+ 
+Je les ai découpé en 4 parties Comprendre, Explorer, Décider, Construire qui correspondent peu ou prou au design sprint de google ventures (https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s). Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct. 
+ 
+Voici un résumé des différentes étapes :
+·         Comprendre pour créer une compréhension commune du problème auquel on pourrait répondre
+·         Explorer pour s’ouvrir le champ des possibles
+·         Décider pour se focaliser sur ce qui semble faire le plus de sens
+·         Construire parce qu’à l’arrivée il y a un client.
+
+Comment créer une compréhension commune ? A ceux qui trouvent les exercices suivants faciles, les exercices de compréhension sont un échauffement. Cela va se compliquer dans les prochains post.
+
+{% include img.html
+    name='4556624994_5447d3ab79_b'
+    source='https://www.flickr.com/photos/limevelyn/4556624994'
+%}
+ 
+Episode 1 : Mind Map
+
+Description
+Le premier exercice proposé est de représenter visuellement un sujet en faisant des liens entre des sujets et des idées. Le détail est ici : https://en.wikipedia.org/wiki/Mind_map
+ 
+Mode opératoire
+En groupe sur un slot de 10 minutes, partager et dessiner une mind map sur le sujet « la vente en ligne de produits frais ».
+
+Intérêt pédagogique
+Etre capable de comprendre le point de vue des autres. Ne pas tenter d’imposer à tous sa propre vision.
+
+{% include img.html
+    name='3882449431_2793909038_b'
+    source='https://www.flickr.com/photos/photographybypaul/3882449431'
+%}
+
+Episode 2 : Interview utilisateur
+
+Explicaton
+Le but est de savoir poser les bonnes questions pour bien comprendre le problème auquel on peut potentiellement répondre par une solution. Toute la difficulté est de mener l’interview en mettant l’interlocuteur dans les meilleurs dispositions et de ne pas projeter la solution envisagée. Un pointeur de google ventures : https://library.gv.com/the-gv-research-sprint-schedule-participants-and-draft-interview-guide-day-2-7b3e7476cd55#.bwnfpsvh4.
+
+Mode opératoire
+Rédiger un questionnaire utilisateur, puis interviewer une personne lambda sur le sujet de l’achat de produit frais. Un observateur est fortement souhaité.
+
+Intérêt pédagogique
+Le but n’est pas de savoir si madame michu a vraiment un problème pour se fournir en produit frais (le fond), mais de voir si l’intervieweur a posé les bonnes questions (la forme). On regardera particulièrement :
+- Questions ouvertes ou fermées. On veut comprendre, donc plus de questions ouvertes. Les questions fermées sont pour la reformulation.
+- Les 5 pourquoi c’est bien, mais attention à ne pas mettre la personne sur la défensive en mode justification.
+- Est-ce que j’essaie bien de comprendre les problèmes ou est ce que je propose/vend une solution ? On sait que j’ai en tête Auchan direct, mais nous ne sommes pas dans une étape de vente.
+
+{% include img.html
+    name='26472155_8cc5066b66_o'
+    source='https://www.flickr.com/photos/gideon/26472155/'
+%}
+ 
+Episode 3 : Elevator pitch & canvas
+
+Explication
+J’ai la solution idéale pour madame michu, mais j’ai besoin de vendre l’idée à mon chef qui a un agenda délirant. J’ai juste le loisir de le voir dans l’ascenseurs et j’ai 2 minutes pour le convaincre. J’en profite aussi pour aligner les planètes.
+
+Mode opératoire
+Faire l’elevator pitch d’Auchan Direct sous la forme :
+Pour {cible client} qui {besoin client}, {nom du produit} est un {catégorie de marché} qui {bénéfice client}. Contrairement à {compétiteurs}, le produit {facteur de différenciation}.
+
+Dans un deuxième temps, remplir le canvas
+- Quel est le problème ?
+- Qui a ce problème ?
+- Comment faites vous aujourd’hui ?
+- Qu’est ce que vous pourrez faire demain que vous ne pouvez faire aujourd’hui ?
+- Comment saurez vous que c’est un succès ?
+
+Intérêt pédagogique
+Bien faire la différence entre besoin et solution. 
