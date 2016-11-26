@@ -22,7 +22,6 @@ Voici un résumé des différentes étapes :
 - [Décider] pour se focaliser sur ce qui semble faire le plus de sens
 - [Construire] parce qu’à l’arrivée il y a un client.
 
----
 
 Je suis maintenant à l'étape où j'ai mis en face une solution à un problème. Je peux éventuellement en déveloper plusieurs (de solutions) pour les mettre ensuite en concurrence.
 

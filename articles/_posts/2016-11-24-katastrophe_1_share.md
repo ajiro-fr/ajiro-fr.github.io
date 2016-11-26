@@ -56,7 +56,7 @@ Etre capable de comprendre le point de vue des autres. Ne pas tenter d’imposer
 
 ### Description
 
-Le but est de savoir poser les bonnes questions pour bien comprendre le problème auquel on peut potentiellement répondre par une solution. Toute la difficulté est de mener l’interview en mettant l’interlocuteur dans les meilleurs dispositions et de ne pas projeter la solution envisagée. Un pointeur de google ventures sur [interview guide](https://library.gv.com/the-gv-research-sprint-schedule-participants-and-draft-interview-guide-day-2-7b3e7476cd55#.bwnfpsvh4).
+Le but est de savoir poser les bonnes questions pour bien comprendre le problème auquel on peut potentiellement répondre par une solution. Toute la difficulté est de mener l’interview en mettant l’interlocuteur dans les meilleurs dispositions et de ne pas projeter la solution envisagée. Un pointeur de google ventures sur [interview guide].
 
 ### Mode opératoire
 
@@ -104,3 +104,4 @@ Bien faire la différence entre besoin et solution.
 [Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
 [Décider]: /articles/2016/11/24/katastrophe_3_converge.html
 [Construire]: /articles/2016/11/24/katastrophe_4_build.html
+[interview guide]: https://library.gv.com/the-gv-research-sprint-schedule-participants-and-draft-interview-guide-day-2-7b3e7476cd55#.bwnfpsvh4

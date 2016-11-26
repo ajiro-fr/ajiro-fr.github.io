@@ -30,19 +30,17 @@ Il est donc temps d’avoir des idées. Il y a quelques temps, je considérais q
     source='https://www.flickr.com/photos/thomashawk/7429728140/'
 %}
 
-## Episode 1 : Crazy eights
+## Episode 1 : [crazy eights]
 
 ### Explication
 
-Comment générer plein d’idées sans se mettre trop de filtres ? Et bien en donnant un temps très limité pour que les idées même farfelues émergent. On jugera plus tard de la qualité. Fiche : http://toolkit.adaptivelab.com/crazy-eights-in-progress/
+Comment générer plein d’idées sans se mettre trop de filtres ? Et bien en donnant un temps très limité pour que les idées même farfelues émergent. On jugera plus tard de la qualité. C'est le [crazy eights].
 
 ### Mode opératoire
 
-Plier trois fois une feuille. Vous devez vous  retrouver avec 8 blocs.
-Vous avez 5 minutes pour proposer 8 solutions à la question : « Comment faire pour que les hommes passent la commande de courses pour toute la famille ? ».
+Plier trois fois une feuille. Vous devez vous retrouver avec 8 blocs. Vous avez 5 minutes pour proposer 8 solutions à la question : _« Comment faire pour que les hommes passent la commande de courses pour toute la famille ? »_.
 
-Plier trois fois une feuille. Si vous suivez bien, vous avez toujours 8 blocs.
-Vous avez 5 minutes pour proposer 8 solutions d’interfaces pour répondre à la question : « Comment commander 4 yaourts nature ? »
+Plier trois fois une feuille. Si vous suivez bien, vous avez toujours 8 blocs. Vous avez 5 minutes pour proposer 8 solutions d’interfaces pour répondre à la question : _« Comment commander 4 yaourts nature ? »_
 
 ### But pédagogique
 
@@ -58,15 +56,19 @@ Ressentir l’impact du temps.
 
 ### Explication
 
-J’ai plein d’idées, mais est ce que mon voisin n’en aurait pas une qui me ferait rebondir et aller plus loin ? C’est par les interactions que l’on peut aller plus loin.
+J’ai plein d’idées, mais est-ce que mon voisin n’en aurait pas une qui me ferait rebondir et aller plus loin ? C’est par les interactions que l’on peut aller plus loin.
 
 ### Mode opératoire
 
-Une personne au tableau (ou une feuille), un groupe et si possible un observateur. Vous avez 10 minutes pour proposer des solutions au besoin : « Finalement j’achète quasi tout le temps les mêmes produits ? »
+Une personne au tableau (ou une feuille), un groupe et si possible un observateur. Vous avez 10 minutes pour proposer des solutions au besoin : _« Finalement j’achète quasi tout le temps les mêmes produits ? »_
 
 ### But pédagogique
 
-Observer la dynamique de groupe et les biais. Questions à poser à l’observateur : Est-ce que le facilitateur a noté telle que l’idée a été émise ? Est-ce que tout le monde s’est exprimé ? Est-ce que les idées ont été critiquées en séance ?
+Observer la dynamique de groupe et les biais. Questions à poser à l’observateur :
+
+- Est-ce que le facilitateur a noté telle que l’idée a été émise ?
+- Est-ce que tout le monde s’est exprimé ?
+- Est-ce que les idées ont été critiquées en séance ?
 
 
 {% include img.html
@@ -83,7 +85,7 @@ Les idées ne sont pas données à haute voix, mais écrites sur un papier. Cela
 
 ### Mode opératoire
 
-Donner des post it à toutes les personnes. Vous avez 3 minutes pour proposer par écrit des solutions au besoin : « Mince il n’y a plus de brioche tranchée harris ».  Ensuite, chaque personne explique à son tour ses idées. Finalement, de nouveaux post it peuvent être rajoutés.
+Donner des post-it à toutes les personnes. Vous avez 3 minutes pour proposer par écrit des solutions au besoin : _« Mince, il n’y a plus de brioche tranchée harris »_.  Ensuite, chaque personne explique à son tour ses idées. Finalement, de nouveaux post it peuvent être rajoutés.
 
 ### But pédagogique
 
@@ -99,14 +101,15 @@ Le mécanisme de génération d’idées n’est pas le même entre brainstormin
 
 ### Explication
 
-Comment donner du feedback autre que ça c’est bien et ça c’est pas bien. C’est bien gentil comme retour, mais cela m’aide moyen à améliorer ma proposition. Je sors donc de ma botte le perfection game : https://liveingreatness.com/core-protocols/perfection-game/ Le but est bien de proposer des options d’amélioration à une idée et pas de refermer des options.
+Comment donner du feedback autre que ça c’est bien et ça c’est pas bien. C’est bien gentil comme retour, mais cela m’aide moyen à améliorer ma proposition. Je sors donc de ma botte le [perfection game]. Le but est bien de proposer des options d’amélioration à une idée et pas de refermer des options.
 
 ### Mode opératoire
 
 Prendre une des propositions issues du brainwriting ou celle-ci « proposer à la place tous les produits de la même marque et même catégorie » et répondre aux questions suivantes :
--          Sur une échelle de 0 à 10, combien donneriez vous à cette proposition ?
--          Qu’avez-vous apprécié ? Cela peut aussi être formulé « qu’est ce qui fait que vous avez mis X ? »
--          Que serait-il nécessaire d’ajouter ou de modifier pour obtenir (pour vous) une note de 10 ?
+
+- Sur une échelle de 0 à 10, combien donneriez vous à cette proposition ?
+- Qu’avez-vous apprécié ? Cela peut aussi être formulé _« qu’est ce qui fait que vous avez mis X ? »_
+- Que serait-il nécessaire d’ajouter ou de modifier pour obtenir (pour vous) une note de 10 ?
 
 ### But pédagogique
 
@@ -118,3 +121,5 @@ Apprendre à donner un feedback qui ouvre des options.
 [Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
 [Décider]: /articles/2016/11/24/katastrophe_3_converge.html
 [Construire]: /articles/2016/11/24/katastrophe_4_build.html
+[crazy eights]: http://toolkit.adaptivelab.com/crazy-eights-in-progress/
+[perfection game]: https://liveingreatness.com/core-protocols/perfection-game/
