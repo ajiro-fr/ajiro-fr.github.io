@@ -8,12 +8,12 @@ tags:
   - product
   - kata
 illustration:
-  name: 200504_CostaRica_DSC_1129
+  name: 200504_CostaRica_dsc_1129
   source: http://retiere.com/albums/CostaRica2005/#725
 ---
 Vous voulez comprendre/apprendre des compétences en développement produit ? Ce post est le second post d’exercices d’une série de 4.
 
-Je les ai découpé en 4 parties Comprendre, Explorer, Décider, Construire qui correspondent peu ou prou au design sprint de google ventures (https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0#.v1gva9s9m). Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct. 
+Je les ai découpé en 4 parties Comprendre, Explorer, Décider, Construire qui correspondent peu ou prou au design sprint de google ventures (https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0#.v1gva9s9m). Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
 Voici un résumé des différentes étapes :
 ·         Comprendre pour créer une compréhension commune du problème auquel on pourrait répondre
@@ -24,7 +24,7 @@ Voici un résumé des différentes étapes :
 Il est donc temps d’avoir des idées. Il y a quelques temps, je considérais que les phases de divergence et de convergence étaient souvent au sein du même workshop avec un début de divergence et ensuite la convergence. Après quelques discussions avec des UX, je me suis rendu compte que l’on pouvait avoir une séparation nette. Dans la vraie vie, vous verrez bien quelle est la meilleure approche pour vous. Pour les exercices, je veux bien faire la différence. Le plus important dans cette phase, c’est d’avoir des idées et pas de savoir si ce sont les bonnes. Cela viendra dans un deuxième temps et c’est super important. Non aux attitudes castratrices.  
 
 {% include img.html
-    name='7429728140_f6253591cb_k'
+    name='7429728140_f6253591cb'
     source='https://www.flickr.com/photos/thomashawk/7429728140/'
 %}
 
@@ -44,7 +44,7 @@ But pédagogique
 Ressentir l’impact du temps.
 
 {% include img.html
-    name='7159235697_8a626148a1_b'
+    name='7159235697_8a626148a1'
     source='https://www.flickr.com/photos/tim_ranson/7159235697/'
 %}
 
@@ -60,7 +60,7 @@ But pédagogique
 Observer la dynamique de groupe et les biais. Questions à poser à l’observateur : Est-ce que le facilitateur a noté telle que l’idée a été émise ? Est-ce que tout le monde s’est exprimé ? Est-ce que les idées ont été critiquées en séance ?
 
 {% include img.html
-    name='2765083201_55a958db14_b'
+    name='2765083201_55a958db14'
     source='https://www.flickr.com/photos/dotbenjamin/2765083201/'
 %}
 
@@ -76,7 +76,7 @@ But pédagogique
 Le mécanisme de génération d’idées n’est pas le même entre brainstorming et brainwriting. Ce sont donc des techniques complémentaires.
 
 {% include img.html
-    name='5471190091_404f6ba72b_b'
+    name='5471190091_404f6ba72b'
     source='https://www.flickr.com/photos/titlap/5471190091'
 %}
 
