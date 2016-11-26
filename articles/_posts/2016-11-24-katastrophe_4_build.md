@@ -11,17 +11,19 @@ illustration:
   name: 14853927242_de56848a00_k
   source: https://www.flickr.com/photos/tsevis/14853927242
 ---
+
 Vous voulez comprendre/apprendre des compétences en développement produit ? Ce post est le quatrième post d’exercices d’une série de 4.
 
 Je les ai découpé en 4 parties Comprendre, Explorer, Décider, Construire qui correspondent peu ou prou au design sprint de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
 Voici un résumé des différentes étapes :
-·         Comprendre pour créer une compréhension commune du problème auquel on pourrait répondre
-·         Explorer pour s’ouvrir le champ des possibles
-·         Décider pour se focaliser sur ce qui semble faire le plus de sens
-·         Construire parce qu’à l’arrivée il y a un client.
 
-Je suis maintenant à l'étape où j'ai mis en face une solution à un problème. Je peux éventuellement en déveloper plusieurs (de solutions) pour les mettre ensuite en concurrence. 
+- Comprendre pour créer une compréhension commune du problème auquel on pourrait répondre
+- Explorer pour s’ouvrir le champ des possibles
+- Décider pour se focaliser sur ce qui semble faire le plus de sens
+- Construire parce qu’à l’arrivée il y a un client.
+
+Je suis maintenant à l'étape où j'ai mis en face une solution à un problème. Je peux éventuellement en déveloper plusieurs (de solutions) pour les mettre ensuite en concurrence.
 
 {% include img.html
     name='15709722809_42433e78c4_b'
