@@ -11,16 +11,18 @@ illustration:
   name: 17264753128_e5576e2f62
   source: https://www.flickr.com/photos/hoffnungsschimmer/17264753128
 ---
-Vous voulez comprendre/apprendre des compétences en développement produit ? Ce post est le premier post d’exercices d’une série de 4.
 
-Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au design sprint de [google ventures]. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le premier post d’exercices d’une série de 4.
+
+Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
 Voici un résumé des différentes étapes :
 
-- Comprendre pour créer une compréhension commune du problème auquel on pourrait répondre
-- Explorer pour s’ouvrir le champ des possibles
-- Décider pour se focaliser sur ce qui semble faire le plus de sens
-- Construire parce qu’à l’arrivée il y a un client.
+- [Comprendre] pour créer une compréhension commune du problème auquel on pourrait répondre
+- [Explorer] pour s’ouvrir le champ des possibles
+- [Décider] pour se focaliser sur ce qui semble faire le plus de sens
+- [Construire] parce qu’à l’arrivée il y a un client.
+
 
 Comment créer une compréhension commune ? A ceux qui trouvent les exercices suivants faciles, les exercices de compréhension sont un échauffement. Cela va se compliquer dans les prochains post.
 
@@ -97,7 +99,7 @@ Dans un deuxième temps, remplir le canvas
 Bien faire la différence entre besoin et solution.
 
 
-[google ventures]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
+[design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
 [Comprendre]: /articles/2016/11/24/katastrophe_1_share.html
 [Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
 [Décider]: /articles/2016/11/24/katastrophe_3_converge.html
