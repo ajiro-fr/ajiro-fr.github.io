@@ -8,7 +8,7 @@ tags:
   - product
   - kata
 illustration:
-  name: 14853927242_de56848a00_k
+  name: 14853927242_de56848a00
   source: https://www.flickr.com/photos/tsevis/14853927242
 ---
 
@@ -26,7 +26,7 @@ Voici un résumé des différentes étapes :
 Je suis maintenant à l'étape où j'ai mis en face une solution à un problème. Je peux éventuellement en déveloper plusieurs (de solutions) pour les mettre ensuite en concurrence.
 
 {% include img.html
-    name='15709722809_42433e78c4_b'
+    name='15709722809_42433e78c4'
     source='https://www.flickr.com/photos/axeleng/15709722809'
 %}
 
@@ -49,7 +49,7 @@ But pédagogique
 S'entrainer à découper une solution. Pendant la précédente séance, nous avons découpé un besoin.
 
 {% include img.html
-    name='2077095993_54c06f30d5_o'
+    name='2077095993_54c06f30d5'
     source='https://www.flickr.com/photos/21396607@N05/2077095993'
 %}
 
@@ -79,7 +79,7 @@ But pédagogique
 S'entrainer à exprimer des scénarios de tests sous la forme canonique Gherkin et que ce soit des exemples (pas une reformulation de la spécification). Les verbes du contexte doivent être au passé et il ne doit y avoir (sauf cas exceptionnel) qu'un seul évènement. Il est très important que le scénario ait un nom qui reflete ce que l'on teste.
 
 {% include img.html
-    name='16091673593_3d28e34e05_k'
+    name='16091673593_3d28e34e05'
     source='https://www.flickr.com/photos/bburky_/16091673593/'
 %}
 
