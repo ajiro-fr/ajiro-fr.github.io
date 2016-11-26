@@ -11,7 +11,7 @@ illustration:
   name: 5564882153_088fd4e2d6
   source: https://www.flickr.com/photos/alvarogalve/5564882153
 ---
-Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le premier post d’exercices d’une série de 4.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le troisième post d’exercices d’une série de 4.
 
 Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
@@ -142,6 +142,11 @@ Répondre aux questions suivantes en utilisant les 3 protocoles de décision.
 ### But pédagogique
 
 Prendre du recul sur la prise de décision. Le protocole influe le résultat final.
+
+
+## Suite
+
+[Dans l'article suivant, nous allons construire, parce qu’à l’arrivée il y a un client.](/articles/2016/11/24/katastrophe_4_build.html)
 
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s

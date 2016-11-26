@@ -99,6 +99,11 @@ Dans un deuxième temps, remplir le canvas
 Bien faire la différence entre besoin et solution.
 
 
+## Suite
+
+[Dans l'article suivant, nous allons pour s’ouvrir le champ des possibles.](/articles/2016/11/24/katastrophe_2_diverge.html)
+
+
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
 [Comprendre]: /articles/2016/11/24/katastrophe_1_share.html
 [Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html

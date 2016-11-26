@@ -11,7 +11,7 @@ illustration:
   name: 200504_CostaRica_dsc_1129
   source: http://retiere.com/albums/CostaRica2005/#725
 ---
-Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le premier post d’exercices d’une série de 4.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le deuxième post d’exercices d’une série de 4.
 
 Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
@@ -114,6 +114,11 @@ Prendre une des propositions issues du brainwriting ou celle-ci « proposer à l
 ### But pédagogique
 
 Apprendre à donner un feedback qui ouvre des options.
+
+
+## Suite
+
+[Dans l'article suivant, nous allons décider pour se focaliser sur ce qui semble faire le plus de sens.](/articles/2016/11/24/katastrophe_3_converge.html)
 
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s

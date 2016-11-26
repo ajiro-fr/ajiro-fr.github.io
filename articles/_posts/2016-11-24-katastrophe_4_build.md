@@ -11,7 +11,7 @@ illustration:
   name: 14853927242_de56848a00
   source: https://www.flickr.com/photos/tsevis/14853927242
 ---
-Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le premier post d’exercices d’une série de 4.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le dernier post d’exercices d’une série de 4.
 
 Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
@@ -34,13 +34,14 @@ Je suis maintenant à l'étape où j'ai mis en face une solution à un problème
 
 ### Explication
 
-Je souhaite récupérer du feedback au fur et à mesure et aussi piloter un minimum mon développement. Je vais donc découper mes incrément de valeur en petits bouts ayant un sens fonctionnel : J'ai nommé une user story. Quand toutes les user stories d'un MVE sont terminées, je mets en production. Quand une user story est terminée, je récupère du feedback en environnement de non production. Pour des pattern de découpage, voir http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart-Thumbnail.png.
+Je souhaite récupérer du feedback au fur et à mesure et aussi piloter un minimum mon développement. Je vais donc découper mes incrément de valeur en petits bouts ayant un sens fonctionnel : J'ai nommé une user story. Quand toutes les user stories d'un MVE sont terminées, je mets en production. Quand une user story est terminée, je récupère du feedback en environnement de non production. Pour des pattern de découpage, voir [Story splitting flowchart].
 
 ### Mode opératoire
 
 Reprendre un MVE des cas itinéraire ratp, auchan direct et novcencia. Si vous n'en avez pas, je vous en donne :
+
 - Ratp : Comment aller d'une station à une autre avec le chemin le plus rapide sans prendre en compte l'horaire
-- Auchan direct : Commander de la lessive
+- Auchan Direct : Commander de la lessive
 - Novencia : Connaitre les offres de poste de Novencia
 
 Sur chaque cas, découper le MVE en user story. La forme canonique des user stories n'est pas nécessaire. On commencera par donner le nom des user stories.
@@ -66,6 +67,7 @@ Maintenant que l'on a découpé le besoin en MVE puis la solution en US, se pose
 ### Mode opératoire
 
 Reprendre les MVE de l'épisode 1 avec son découpage en US. Pour chaque MVE, donner un scénario de test sous la forme d'un exemple avec la forme suivante :
+
 Etant donné tel contexte ...(verbe au passé)
 Quand ....(évènement avec verbe au présent)
 Alors .... (résultat)
@@ -113,3 +115,4 @@ Il est possible de donner de la visibilité sur la roadmap avec une estimation f
 [Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
 [Décider]: /articles/2016/11/24/katastrophe_3_converge.html
 [Construire]: /articles/2016/11/24/katastrophe_4_build.html
+[Story splitting flowchart]: http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart-Thumbnail.png
