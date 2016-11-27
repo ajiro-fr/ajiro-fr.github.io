@@ -34,7 +34,7 @@ Je suis maintenant à l'étape où j'ai mis en face une solution à un problème
 
 ### Explication
 
-Je souhaite récupérer du feed-back au fur et à mesure et aussi piloter un minimum mon développement. Je vais donc découper mes incréments de valeur en petits bouts ayant un sens fonctionnel : j'ai nommé une user story. Quand toutes les user stories d'un MVE sont terminées, je mets en production. Quand une user story est terminée, je récupère du feed-back en environnement de non-production. Pour des patterns de découpage, voir [Story splitting flowchart].
+Je souhaite récupérer du feed-back au fur et à mesure et aussi piloter un minimum mon développement. Je vais donc découper mes incréments de valeur en petits bouts ayant un sens fonctionnel : j'ai nommé une User Story. Quand toutes les User Stories d'un MVE sont terminées, je mets en production. Quand une User Story est terminée, je récupère du feed-back en environnement de non-production. Pour des patterns de découpage, voir [Story splitting flowchart].
 
 ### Mode opératoire
 
@@ -44,9 +44,9 @@ Reprendre un MVE des cas itinéraire RATP, Auchan Direct et Novcencia. Si vous n
 - Auchan Direct : commander de la lessive
 - Novencia : Connaitre les offres de poste de Novencia
 
-Sur chaque cas, découper le MVE en user story. La forme canonique des user stories n'est pas nécessaire. On commencera par donner le nom des user stories.
+Sur chaque cas, découper le MVE en User Stories. La forme canonique des User Stories n'est pas nécessaire. On commencera par donner le nom des User Stories.
 
-Dans un deuxième temps, on triera les user story par ordre croissant de risque.
+Dans un deuxième temps, on triera les User Stories par ordre croissant de risque.
 
 
 ### But pédagogique

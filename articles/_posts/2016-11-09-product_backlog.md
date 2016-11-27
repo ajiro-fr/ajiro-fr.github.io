@@ -12,7 +12,7 @@ illustration:
   source: https://www.flickr.com/photos/myharries/13916708955
 ---
 
-Il y a quelques années, le product backlog se résumait pour moi à des user stories regroupées par epic et une forme canonique _'En tant que, je veux que ... parce...'_. Aujourd'hui, je pense que passer par cette vision du product backlog freine la maturité. Dans la suite de ce post, je décris la construction d'un product backlog dans l'ordre chronologique.
+Il y a quelques années, le product backlog se résumait pour moi à des User Stories regroupées par epic et une forme canonique _'En tant que, je veux que ... parce...'_. Aujourd'hui, je pense que passer par cette vision du product backlog freine la maturité. Dans la suite de ce post, je décris la construction d'un product backlog dans l'ordre chronologique.
 
 ## Etape 1 : Je passe mon tour
 
@@ -71,12 +71,12 @@ _Output : Je connais mes scénarios d'usage mininum (MVE). Je saurai prendre des
 
 ## Etape 5 : La solution
 
-Je charrie un peu en ne parlant de solution qu'à cette étape, mais ce n'est qu'à cette étape que l'on va parler exécution et donc spécifications. Je prends donc mes premiers MVE et je les découpe en user stories. À quoi cela sert ? À deux choses, mon capitaine :
+Je charrie un peu en ne parlant de solution qu'à cette étape, mais ce n'est qu'à cette étape que l'on va parler exécution et donc spécifications. Je prends donc mes premiers MVE et je les découpe en User Stories. À quoi cela sert ? À deux choses, mon capitaine :
 
 - Premièrement, cela va permettre d'obtenir du feed-back sur la solution en environnement de non-production au fur et à mesure du développement.
 - Deuxièmement, le fait de découper va permettre à l'équipe de mieux piloter son process de développement. Avec des items petits, cela permet de s'apercevoir plus vite des déviations.
 
-Et donc qu'est-ce que c'est une user story ? Et bien, c'est un morceau fonctionnel d'un MVE. Cela peut être un bout de process, un bout d'écran, une fonctionnalité sans option... Pour savoir si on est dans la user story ou la tache technique, il suffit de demander au représentant du métier s'il comprend ou non la fiche. Si c'est non, c'est que c'est une tache technique. Personnellement, je considère que si le découpage (slicing pour les intimes) est bien fait, le découpage en taches est inutile. De la forme canonique standard, je ne garde que _'En tant que, je veux que'_. Le _'parce que'_ est porté par le MVE.
+Et donc qu'est-ce que c'est une User Story ? Et bien, c'est un morceau fonctionnel d'un MVE. Cela peut être un bout de process, un bout d'écran, une fonctionnalité sans option... Pour savoir si on est dans la User Story ou la tache technique, il suffit de demander au représentant du métier s'il comprend ou non la fiche. Si c'est non, c'est que c'est une tache technique. Personnellement, je considère que si le découpage (slicing pour les intimes) est bien fait, le découpage en taches est inutile. De la forme canonique standard, je ne garde que _'En tant que, je veux que'_. Le _'parce que'_ est porté par le MVE.
 
 {: .bleu}
 _Output : J'ai la description de la solution avec critère d'acceptance._
@@ -88,9 +88,9 @@ _Output : J'ai la description de la solution avec critère d'acceptance._
 
 ## Etape 6 : La délivrance
 
-Dès que toutes les user stories d'un MVE sont terminées, je passe en production. En termes de priorisation, je prends :
+Dès que toutes les User Stories d'un MVE sont terminées, je passe en production. En termes de priorisation, je prends :
 
-- les user stories de la plus à la moins risquée (hors dépendance)
+- les User Stories de la plus à la moins risquée (hors dépendance)
 - les jalons et les MVE de la plus grande valeur à la moins grande valeur. Je ne réponds pas à la même question.
 
 Une fois un MVE mis en production, on mesure la valeur réelle de l'indicateur business de condition de succès. On parle alors de feed-back de production. C'est le terrain qui parle. Plus le produit a un nombre élevé d'utilisateurs, plus la probabilité d'une différence entre feed-backs de non-production (démo) et feed-backs de production est importante. Cette mesure sert ensuite à réajuster le produit.
@@ -105,7 +105,7 @@ _Output : Mesure réelle de l'indicateur métier à mettre au regard des conditi
 
 ## Aparté : La minute théologique
 
-La question «_Comment saurez-vous que c'est un succès ?_» permet de connaitre les conditions de succès de la réponse au problème. Je parle alors d'indicateur métier que je retrouve au niveau jalon et MVE. Les critères d'acceptances sont au niveau MVE et user story pour décrire la conformité de la solution. Je validerai la solution si dans tel scénario d'usage, l'application me permet d'avoir telle expérience utilisateur. Ils peuvent être sous une forme littérale ou sous une forme d'exemple et là, on se rapproche du BDD.
+La question «_Comment saurez-vous que c'est un succès ?_» permet de connaitre les conditions de succès de la réponse au problème. Je parle alors d'indicateur métier que je retrouve au niveau jalon et MVE. Les critères d'acceptances sont au niveau MVE et User Story pour décrire la conformité de la solution. Je validerai la solution si dans tel scénario d'usage, l'application me permet d'avoir telle expérience utilisateur. Ils peuvent être sous une forme littérale ou sous une forme d'exemple et là, on se rapproche du BDD.
 
 Côté "valeur", je considère que la "Business value" relative ne sert pas à grand chose. Cela peut aider pour de la priorisation Valeur / Effort, mais quelle est la valeur réelle en production d'un item estimé à une valeur relative de 20 ? Et bien je n'en ai aucune idée et je ne vois pas comment on peut savoir. A l'arrivée, on ne peut prendre aucune décision suite au passage en production. J'ai donc complètement arrêté de l'utiliser et je ne garde que l'indicateur métier du jalon et/ou du MVE. Si j'y arrive, j'utilise plutôt la notion de coût du retard (cost of delay pour les intimes).
 
@@ -116,7 +116,7 @@ Côté "valeur", je considère que la "Business value" relative ne sert pas à g
 
 ## Etape 7, 8, 9, 10... : La routine
 
-Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. Je prends la user story suivante que je développe.
+Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. Je prends la User Story suivante que je développe.
 
 A l'arrivée, un product backlog, ça ressemble à ça :
 
