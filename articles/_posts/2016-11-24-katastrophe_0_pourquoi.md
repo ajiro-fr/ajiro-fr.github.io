@@ -48,6 +48,9 @@ Les exercices qui suivent dans les 4 posts ont été écrit avec pour cible les 
 
 Je suis preneur de feedbacks pour les améliorer, donc n'hésitez pas à me pinger sur LinkedIn.
 
+## Début
+
+[Il est temps de passer aux exercices avec le premier post 'comment créer une compréhension commune'.](/articles/2016/11/24/katastrophe_1_share.html)
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
 [Comprendre]: /articles/2016/11/24/katastrophe_1_share.html
