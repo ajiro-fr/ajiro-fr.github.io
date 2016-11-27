@@ -68,7 +68,7 @@ Le but n’est pas de savoir si madame michu a vraiment un problème pour se fou
 
 - Questions ouvertes ou fermées. On veut comprendre, donc plus de questions ouvertes. Les questions fermées sont pour la reformulation.
 - Les 5 pourquoi c’est bien, mais attention à ne pas mettre la personne sur la défensive en mode justification.
-- Est-ce que j’essaie bien de comprendre les problèmes ou est ce que je propose/vend une solution ? On sait que j’ai en tête Auchan direct, mais nous ne sommes pas dans une étape de vente.
+- Est-ce que j’essaie bien de comprendre les problèmes ou est ce que je propose/vend une solution ? On sait que j’ai en tête Auchan Direct, mais nous ne sommes pas dans une étape de vente.
 
 
 {% include img.html
