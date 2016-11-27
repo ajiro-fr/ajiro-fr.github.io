@@ -24,7 +24,7 @@ Voici un résumé des différentes étapes :
 - [Construire] parce qu’à l’arrivée il y a un client.
 
 
-Comment créer une compréhension commune ? A ceux qui trouvent les exercices suivants faciles, les exercices de compréhension sont un échauffement. Cela va se compliquer dans les prochains post.
+Comment créer une compréhension commune ? A ceux qui trouvent les exercices suivants faciles, les exercices de compréhension sont un échauffement. Cela va se compliquer dans les prochains posts.
 
 
 {% include img.html
@@ -99,9 +99,9 @@ Dans un deuxième temps, remplir le canvas
 Bien faire la différence entre besoin et solution.
 
 
-## Suite
+  ## Suite
 
-[Dans l'article suivant, nous allons pour s’ouvrir le champ des possibles.](/articles/2016/11/24/katastrophe_2_diverge.html)
+  [Dans l'article suivant, nous allons diverger pour s’ouvrir le champ des possibles.](/articles/2016/11/24/katastrophe_2_diverge.html)
 
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
