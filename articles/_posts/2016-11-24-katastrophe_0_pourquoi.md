@@ -1,7 +1,7 @@
 ---
 title: "Product Development : Pourquoi s'entrainer ?"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
