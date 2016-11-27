@@ -81,7 +81,7 @@ Alors 1 DANONINO - Gourdes parfum fraise est ajouté à mon panier
 Etant donné que je suis dans le rayon Yaourts/A boire
 Et que je ne me suis pas connecté
 Quand j'ajoute un paquet de DANONINO - Gourdes parfum fraise
-Alors l'écran de connexion s'ouvre
+Alors on me demande de me connecter
 
 ### But pédagogique
 
