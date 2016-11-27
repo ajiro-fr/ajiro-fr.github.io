@@ -25,7 +25,7 @@ Voici un résumé des différentes étapes :
 
 C’est quoi cette idée de m... ? Et bien il est temps de poser cette question interdite dans le dernier post. On va cependant faire cela de manière un peu plus poli et plus rationnelle. Cela va généralement se passer en trois temps :
 
-1. Les idées qui après repos paraissent à exclure pour tout le monde. Ce sont les idées un peu farfelues que personne ne juge intéressante.
+1. Les idées que tout le monde veut exclure après repos. Elles font l'unanimité contre elles.
 2. Ensuite, il y a les options à fermer car après étude on se rend compte que les hypothèses sont mauvaises, qu’il manquait un risque,… Ce sont les options non viables.
 3. Il restera ensuite à faire des choix pour savoir sur quelle option on investit. Sur ce point il y a d’ailleurs deux stratégies à savoir best shot ou bataille. Best shot veut dire que l’on fait le choix maintenant de ne garder qu’une solution et avancer à fond dessus côté réalisation et validation. Bataille veut dire que l’on garde quelques options et que l’on choisira entre elles plus tard.
 
