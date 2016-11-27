@@ -1,5 +1,5 @@
 ---
-title: "Product Development : Pourquoi s'entrainer ?"
+title: "Product Development : Ca vous dirait pas un peu d'entrainement ?"
 lang: fr
 hidden: false
 authors:
