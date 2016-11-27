@@ -23,11 +23,11 @@ Voici un résumé des différentes étapes :
 - [Construire] parce qu’à l’arrivée il y a un client.
 
 
-C’est quoi cette idée de m... ? Et bien il est temps de poser cette question interdite dans le dernier post. On va cependant faire cela de manière un peu plus poli et plus rationnelle. Cela va généralement se passer en trois temps :
+C’est quoi cette idée de m... ? Et bien, il est temps de poser cette question interdite dans le dernier post. On va cependant faire cela de manière un peu plus poli et plus rationnelle. Cela va généralement se passer en trois temps :
 
 1. Les idées que tout le monde veut exclure après repos. Elles font l'unanimité contre elles.
-2. Ensuite, il y a les options à fermer car après étude on se rend compte que les hypothèses sont mauvaises, qu’il manquait un risque,… Ce sont les options non viables.
-3. Il restera ensuite à faire des choix pour savoir sur quelle option on investit. Sur ce point il y a d’ailleurs deux stratégies à savoir best shot ou bataille. Best shot veut dire que l’on fait le choix maintenant de ne garder qu’une solution et avancer à fond dessus côté réalisation et validation. Bataille veut dire que l’on garde quelques options et que l’on choisira entre elles plus tard.
+2. Ensuite, il y a les options à fermer, car après étude, on se rend compte que les hypothèses sont mauvaises, qu’il manquait un risque,… Ce sont les options non-viables.
+3. Il restera ensuite à faire des choix pour savoir sur quelle option on investit. Sur ce point, il y a d’ailleurs deux stratégies à savoir _best shot_ ou _bataille_. _Best shot_ veut dire que l’on fait le choix maintenant de ne garder qu’une solution et avancer à fond dessus côté réalisation et validation. _Bataille_ veut dire que l’on garde quelques options et que l’on choisira entre elles plus tard.
 
 
 {% include img.html
@@ -39,7 +39,7 @@ C’est quoi cette idée de m... ? Et bien il est temps de poser cette question 
 
 ### Explication
 
-Il s’agit de donner du feedback pour fermer des options, mais de manière la plus objective possible. Pour cela, on demande à chacun d’endosser un habit pour critiquer par un axe. Cela permet une critique avec moins de jugement. Il est aussi possible de le faire avec les sept nains. L'atelier s'apelle [Six Thinking Hats]
+Il s’agit de donner du feed-back pour fermer des options, mais de manière la plus objective possible. Pour cela, on demande à chacun d’endosser un habit pour critiquer par un axe. Cela permet une critique avec moins de jugement. Il est aussi possible de le faire avec les sept nains. L'atelier s'appelle [Six Thinking Hats].
 
 ### Mode opératoire
 
@@ -47,7 +47,7 @@ Ouvrir le site auchandirect.fr et taper dans la recherche levure. Critiquer ensu
 
 ### But pédagogique
 
-Voir comment le chapeau influe sur la qualité de notre feedback qui devient moins émotionnel.
+Voir comment le chapeau influe sur la qualité de notre feed-back qui devient moins émotionnel.
 
 
 {% include img.html
@@ -63,7 +63,7 @@ Rome ne s’est pas fait en un jour, Auchan Direct non plus. La question que l�
 
 ### Mode opératoire
 
-Ouvrir les sites dans l’ordre et découper en incrément de valeur. Chaque incrément doit pouvoir répondre à la question _« qu’est ce que l’utilisateur pourra faire de différent ? »_.
+Ouvrir les sites dans l’ordre et découper en incrément de valeur. Chaque incrément doit pouvoir répondre à la question _« qu’est-ce que l’utilisateur pourra faire de différent ? »_.
 
 1. Itinéraire ratp : http://www.ratp.fr/itineraires/fr/ratp/recherche-avancee
 2. Auchan Direct : https://www.auchandirect.fr/
@@ -72,12 +72,12 @@ Ouvrir les sites dans l’ordre et découper en incrément de valeur. Chaque inc
 Cet exercice est beaucoup plus dur et j’aide donc par des exemples :
 
 1. Je vais en soirée et j’ai besoin de savoir comment y arriver.
-2. J’utilise Auchan Direct pour tout ce que je ne trouve pas au marché. C’est mon usage. Et donc si je ne trouvais que ces produits sur le site, cela me permettrait de faire mes courses sans me déplacer. Pour l’exemple on pourrait aussi rajouter que je ne prends que de la marque Auchan.
+2. J’utilise Auchan Direct pour tout ce que je ne trouve pas au marché. C’est mon usage. Et donc si je ne trouvais que ces produits sur le site, cela me permettrait de faire mes courses sans me déplacer. Pour l’exemple, on pourrait aussi rajouter que je ne prends que de la marque Auchan.
 3. Je suis un employé qui cherche de nouvelles opportunités
 
-Pour avancer, je conseille d’identifier des utilisateurs type et de définir leurs usages ([personas]). Ensuite il faut identifier comment je peux livrer de la valeur au fur et à mesure, cela veut dire quelle est l’expérience utilisateur minimale. Ne pas oublier la partie basse du process à savoir choix du créneau, saisie de l’adresse,… On peut aussi retrouver des incréments sur cette partie avec des options comme ‘Modifier’, ‘Annuler’, ‘Copier’…
+Pour avancer, je conseille d’identifier des utilisateurs types et de définir leurs usages ([personas]). Ensuite, il faut identifier comment je peux livrer de la valeur au fur et à mesure, cela veut dire quelle est l’expérience utilisateur minimale. Ne pas oublier la partie basse du process à savoir choix du créneau, saisi de l’adresse,… On peut aussi retrouver des incréments sur cette partie avec des options comme ‘Modifier’, ‘Annuler’, ‘Copier’…
 
-Si je ne suis pas capable de répondre à la question _« qu’est ce que l’utilisateur pourra faire de différent ? »_, c’est que la solution envisagée ne répond pas à un besoin. Je peux alors fermer l’option.
+Si je ne suis pas capable de répondre à la question _« qu’est-ce que l’utilisateur pourra faire de différent ? »_, c’est que la solution envisagée ne répond pas à un besoin. Je peux alors fermer l’option.
 
 ### But pédagogique
 
@@ -96,10 +96,11 @@ On est dans le pur slicing avec identification d’incrément de valeur. C’est
 J’ai identifié de potentiels changements de comportement utilisateurs (MVE) et je veux maintenant savoir comment je pourrais valider le succès de ma réponse au besoin. En sortie, je vais avoir 3 cas :
 
 - Critère de succès identifié : OK
-- Critère de succès non identifié : Ce n’est en fait pas un incrément de valeur mais un incrément logiciel. Je dois merger avec celui d’après.
-- Critère de succès non identifié : Je n’arrive pas à identifier de critère car j’ai finalement du mal à identifer la valeur. Je dois sûrement fermer cette option.
+- Critère de succès non identifié : Ce n’est en fait pas un incrément de valeur, mais un incrément logiciel. Je dois fusionner avec celui d’après.
+- Critère de succès non identifié : Je n’arrive pas à identifier de critère, car j’ai finalement du mal à identifier la valeur. Je dois sûrement fermer cette option.
 
 Un indicateur de succès doit répondre à 3 critères : actionnable, accessible, auditable. Voir [3-metrics]
+
 
 ### Mode opératoire
 
@@ -107,7 +108,7 @@ Prendre les MVE identifiés précédemment et définir pour chacun les condition
 
 ### But pédagogique
 
-Faire bien la différence entre critère de succès (du besoin) et critère d’acceptance (de la solution). Je ne veux dans les critères de succès que de la validation d‘hypothèses et pas de conformité de la solution. On n’est pas en train de faire de la spécification.
+Faire bien la différence entre critères de succès (du besoin) et critère d’acceptance (de la solution). Je ne veux dans les critères de succès que de la validation d‘hypothèses et pas de conformité de la solution. On n’est pas en train de faire de la spécification.
 
 
 {% include img.html
@@ -119,24 +120,24 @@ Faire bien la différence entre critère de succès (du besoin) et critère d’
 
 ### Explication
 
-Il y a plusieurs façons de prendre des décision que l’on ne perçoit pas nécessairement. Le but de cet exercice est de percevoir les différences et comment le protocole de décision influence la décision. Pour la suite, nous utiliserons 3 protocoles :
+Il y a plusieurs façons de prendre des décisions que l’on ne perçoit pas nécessairement. Le but de cet exercice est de percevoir les différences et comment le protocole de décision influence la décision. Pour la suite, nous utiliserons 3 protocoles :
 
-1. Consensus : Tout le monde doit voter et la décision n’est prise que si tout le monde est d’accord.
-2. Majorité : La décision est prise si une majorité relative de personnes votent pour la proposition.
-3. Consentement : Une personne propose une solution et les autres répondent avec 3 choix (pour, consentement, véto). La proposition passe s’il n’y a pas de véto et s’il y a une majorité de pour. L’expression d’un consentement veut dire que la personne donne son accord à ce que la personne pousse sa proposition. Toute personne émettant un véto se doit de proposer une autre option.
+1. Consensus : tout le monde doit voter et la décision n’est prise que si tout le monde est d’accord.
+2. Majorité : la décision est prise si une majorité relative de personnes vote pour la proposition.
+3. Consentement : une personne propose une solution et les autres répondent avec 3 choix (pour, consentement, veto). La proposition passe s’il n’y a pas de veto et s’il y a une majorité de "pour". L’expression d’un consentement veut dire que la personne donne son accord à ce que la personne pousse sa proposition. Toute personne émettant un veto se doit de proposer une autre option.
 
 ### Mode opératoire
 
 Répondre aux questions suivantes en utilisant les 3 protocoles de décision.
 
-- Quel est le meilleur endroit ou passer son noel 2017 ? En famille, un chalet a la montagne, en guadeloupe au chaud sur la plage
-- Comment vous motivez plus son personnel ? Donner des primes, donner du feedback, donner de l'autonomie, plus de jours de congés
-- Quelles boissons devraient être disponibles à la cafétaria ? Café, thé, chocolat
-- Est ce que Nantes est en Bretagne ?
-- Dans quelle tenue sommes nous les plus beaux ? Maillot de bain à la plage, tenue de soirée, décontractée, Adam & Eve
+- Quel est le meilleur endroit ou passer son noël 2017 ? En famille, un chalet a la montagne, en Guadeloupe au chaud sur la plage
+- Comment vous motivez plus son personnel ? Donner des primes, donner du feed-back, donner de l'autonomie, plus de jours de congé
+- Quelles boissons devraient être disponibles à la cafeteria ? Café, thé, chocolat
+- Est-ce que Nantes est en Bretagne ?
+- Dans quelle tenue sommes-nous les plus beaux ? Maillot de bain à la plage, tenue de soirée, décontractée, Adam & Eve
 - Plage ou montagne ?
-- Quel est le meilleur musée de Paris ? Le louvre, musee d'orsay, musée picasso, Beaubourg
-- Quel est le meilleur film de la serie star wars ?
+- Quel est le meilleur musée de Paris ? Le Louvre, musée d'Orsay, musée Picasso, Beaubourg
+- Quel est le meilleur film de la série Star Wars ?
 - Qui doit définir nos objectifs ? Dieu, le chef, l'équipe, moi
 
 ### But pédagogique

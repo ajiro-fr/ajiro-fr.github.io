@@ -106,15 +106,15 @@ Comment donner du feed-back autre que _« ça, c’est bien »_ et _« ça, ce n
 
 ### Mode opératoire
 
-Prendre une des propositions issues du brainwriting ou celle-ci « proposer à la place tous les produits de la même marque et même catégorie » et répondre aux questions suivantes :
+Prendre une des propositions issues du brainwriting ou celle-ci « proposer à la place tous les produits de la même marque, et même catégorie » et répondre aux questions suivantes :
 
-- Sur une échelle de 0 à 10, combien donneriez vous à cette proposition ?
-- Qu’avez-vous apprécié ? Cela peut aussi être formulé _« qu’est ce qui fait que vous avez mis X ? »_
+- Sur une échelle de 0 à 10, combien donneriez-vous à cette proposition ?
+- Qu’avez-vous apprécié ? Cela peut aussi être formulé _« qu’est-ce qui fait que vous avez mis X ? »_
 - Que serait-il nécessaire d’ajouter ou de modifier pour obtenir (pour vous) une note de 10 ?
 
 ### But pédagogique
 
-Apprendre à donner un feedback qui ouvre des options.
+Apprendre à donner un feed-back qui ouvre des options.
 
 
 ## Suite
