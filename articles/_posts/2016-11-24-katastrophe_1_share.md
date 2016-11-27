@@ -24,7 +24,7 @@ Voici un résumé des différentes étapes :
 - [Construire] parce qu’à l’arrivée il y a un client.
 
 
-Comment créer une compréhension commune ? A ceux qui trouvent les exercices suivants faciles, les exercices de compréhension sont un échauffement. Cela va se compliquer dans les prochains posts.
+Comment créer une compréhension commune ? À ceux qui trouvent les exercices suivants faciles, les exercices de compréhension sont un échauffement. Cela va se compliquer dans les prochains posts.
 
 
 {% include img.html
@@ -44,7 +44,7 @@ En groupe sur un slot de 10 minutes, partager et dessiner une mind map sur le su
 
 ### Intérêt pédagogique
 
-Etre capable de comprendre le point de vue des autres. Ne pas tenter d’imposer à tous sa propre vision.
+Être capable de comprendre le point de vue des autres. Ne pas tenter d’imposer à tous sa propre vision.
 
 
 {% include img.html
@@ -56,7 +56,7 @@ Etre capable de comprendre le point de vue des autres. Ne pas tenter d’imposer
 
 ### Description
 
-Le but est de savoir poser les bonnes questions pour bien comprendre le problème auquel on peut potentiellement répondre par une solution. Toute la difficulté est de mener l’interview en mettant l’interlocuteur dans les meilleurs dispositions et de ne pas projeter la solution envisagée. Un pointeur de google ventures sur [interview guide].
+Le but est de savoir poser les bonnes questions pour bien comprendre le problème auquel on peut potentiellement répondre par une solution. Toute la difficulté est de mener l’interview en mettant l’interlocuteur dans les meilleures dispositions et de ne pas projeter la solution envisagée. Un pointeur de google ventures sur [interview guide].
 
 ### Mode opératoire
 
@@ -64,11 +64,11 @@ Rédiger un questionnaire utilisateur, puis interviewer une personne lambda sur 
 
 ### Intérêt pédagogique
 
-Le but n’est pas de savoir si madame michu a vraiment un problème pour se fournir en produit frais (le fond), mais de voir si l’intervieweur a posé les bonnes questions (la forme). On regardera particulièrement :
+Le but n’est pas de savoir si madame Michu a vraiment un problème pour se fournir en produit frais (le fond), mais de voir si l’intervieweur a posé les bonnes questions (la forme). On regardera particulièrement :
 
 - Questions ouvertes ou fermées. On veut comprendre, donc plus de questions ouvertes. Les questions fermées sont pour la reformulation.
 - Les 5 pourquoi c’est bien, mais attention à ne pas mettre la personne sur la défensive en mode justification.
-- Est-ce que j’essaie bien de comprendre les problèmes ou est ce que je propose/vend une solution ? On sait que j’ai en tête Auchan Direct, mais nous ne sommes pas dans une étape de vente.
+- Est-ce que j’essaie bien de comprendre les problèmes ou est-ce que je propose / vend une solution ? On sait que j’ai en tête Auchan Direct, mais nous ne sommes pas dans une étape de vente.
 
 
 {% include img.html
@@ -96,12 +96,13 @@ Dans un deuxième temps, remplir le canvas
 - Comment saurez vous que c’est un succès ?
 
 ### Intérêt pédagogique
+
 Bien faire la différence entre besoin et solution.
 
 
-  ## Suite
+## Suite
 
-  [Dans l'article suivant, nous allons diverger pour s’ouvrir le champ des possibles.](/articles/2016/11/24/katastrophe_2_diverge.html)
+[Dans l'article suivant, nous allons diverger pour s’ouvrir le champ des possibles.](/articles/2016/11/24/katastrophe_2_diverge.html)
 
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s

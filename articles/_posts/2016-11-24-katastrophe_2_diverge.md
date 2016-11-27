@@ -23,7 +23,8 @@ Voici un résumé des différentes étapes :
 - [Construire] parce qu’à l’arrivée il y a un client.
 
 
-Il est donc temps d’avoir des idées. Il y a quelques temps, je considérais que les phases de divergence et de convergence étaient souvent au sein du même workshop avec un début de divergence et ensuite la convergence. Après quelques discussions avec des UX, je me suis rendu compte que l’on pouvait avoir une séparation nette. Dans la vraie vie, vous verrez bien quelle est la meilleure approche pour vous. Pour les exercices, je veux marquer la différence. Le plus important dans cette phase, c’est d’avoir des idées et pas de savoir si ce sont les bonnes. Cela viendra dans un deuxième temps et c’est super important. Non aux attitudes castratrices.  
+Il est donc temps d’avoir des idées. Il y a quelque temps, je considérais que les phases de divergence et de convergence étaient souvent au sein du même workshop avec un début de divergence et ensuite la convergence. Après quelques discussions avec des UX, je me suis rendu compte que l’on pouvait avoir une séparation nette. Dans la vraie vie, vous verrez bien quelle est la meilleure approche pour vous. Pour les exercices, je veux marquer la différence. Le plus important dans cette phase, c’est d’avoir des idées et pas de savoir si ce sont les bonnes. Cela viendra dans un deuxième temps et c’est super important. Non aux attitudes castratrices.
+
 
 {% include img.html
     name='7429728140_f6253591cb'
@@ -40,7 +41,7 @@ Comment générer plein d’idées sans se mettre trop de filtres ? Et bien en d
 
 Plier trois fois une feuille. Vous devez vous retrouver avec 8 blocs. Vous avez 5 minutes pour proposer 8 solutions à la question : _« Comment faire pour que les hommes passent la commande de courses pour toute la famille ? »_.
 
-Plier trois fois une feuille. Si vous suivez bien, vous avez toujours 8 blocs. Vous avez 5 minutes pour proposer 8 solutions d’interfaces pour répondre à la question : _« Comment commander 4 yaourts nature ? »_
+Plier trois fois une feuille. Si vous suivez bien, vous avez toujours 8 blocs. Vous avez 5 minutes pour proposer 8 solutions d’interfaces pour répondre à la question : _« Comment commander 4 yaourts nature ? »_.
 
 ### But pédagogique
 
@@ -60,7 +61,7 @@ J’ai plein d’idées, mais est-ce que mon voisin n’en aurait pas une qui me
 
 ### Mode opératoire
 
-Une personne au tableau (ou une feuille), un groupe et si possible un observateur. Vous avez 10 minutes pour proposer des solutions au besoin : _« Finalement j’achète quasi tout le temps les mêmes produits ? »_
+Une personne au tableau (ou une feuille), un groupe et si possible un observateur. Vous avez 10 minutes pour proposer des solutions au besoin : _« Finalement, j’achète quasi tout le temps les mêmes produits ? »_.
 
 ### But pédagogique
 
@@ -85,7 +86,7 @@ Les idées ne sont pas données à haute voix, mais écrites sur un papier. Cela
 
 ### Mode opératoire
 
-Donner des post-it à toutes les personnes. Vous avez 3 minutes pour proposer par écrit des solutions au besoin : _« Mince, il n’y a plus de brioche tranchée harris »_.  Ensuite, chaque personne explique à son tour ses idées. Finalement, de nouveaux post it peuvent être rajoutés.
+Donner des post-it à toutes les personnes. Vous avez 3 minutes pour proposer par écrit des solutions au besoin : _« Mince, il n’y a plus de brioche tranchée Harris »_. Ensuite, chaque personne explique à son tour ses idées. Finalement, de nouveaux post-it peuvent être rajoutés.
 
 ### But pédagogique
 
@@ -101,7 +102,7 @@ Le mécanisme de génération d’idées n’est pas le même entre brainstormin
 
 ### Explication
 
-Comment donner du feedback autre que ça c’est bien et ça c’est pas bien. C’est bien gentil comme retour, mais cela m’aide moyen à améliorer ma proposition. Je sors donc de ma botte le [perfection game]. Le but est bien de proposer des options d’amélioration à une idée et pas de refermer des options.
+Comment donner du feed-back autre que _« ça, c’est bien »_ et _« ça, ce n'est pas bien »_. C’est bien gentil comme retour, mais cela m’aide moyen à améliorer ma proposition. Je sors donc de ma botte le [perfection game]. Le but est bien de proposer des options d’amélioration à une idée et pas de refermer des options.
 
 ### Mode opératoire
 
