@@ -15,16 +15,7 @@ Vous voulez comprendre ou apprendre des compétences en développement produit ?
 
 Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
-Voici un résumé des différentes étapes :
-
-- [Comprendre] pour créer une compréhension commune du problème auquel on pourrait répondre
-- [Explorer] pour s’ouvrir le champ des possibles
-- [Décider] pour se focaliser sur ce qui semble faire le plus de sens
-- [Construire] parce qu’à l’arrivée il y a un client.
-
-
-Il est donc temps d’avoir des idées. Il y a quelque temps, je considérais que les phases de divergence et de convergence étaient souvent au sein du même workshop avec un début de divergence et ensuite la convergence. Après quelques discussions avec des UX, je me suis rendu compte que l’on pouvait avoir une séparation nette. Dans la vraie vie, vous verrez bien quelle est la meilleure approche pour vous. Pour les exercices, je veux marquer la différence. Le plus important dans cette phase, c’est d’avoir des idées et pas de savoir si ce sont les bonnes. Cela viendra dans un deuxième temps et c’est super important. Non aux attitudes castratrices.
-
+Il est maintenant temps d’avoir des idées. Il y a peu, je considérais que les phases de divergence et de convergence étaient au sein du même workshop avec un début de divergence et ensuite  de la convergence. Après discussion avec des UX, je me suis rendu compte que l’on pouvait avoir une séparation nette. Dans la vraie vie, vous verrez bien quelle est la meilleure approche pour vous. Pour les exercices, je veux marquer la différence. Le plus important dans cette phase, c’est d’avoir des idées et pas de savoir si ce sont les bonnes. Cela viendra dans un deuxième temps et c’est super important. Non aux attitudes castratrices.
 
 {% include img.html
     name='7429728140_f6253591cb'
