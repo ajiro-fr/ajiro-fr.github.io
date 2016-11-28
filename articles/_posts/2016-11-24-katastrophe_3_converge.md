@@ -15,15 +15,7 @@ Vous voulez comprendre ou apprendre des compétences en développement produit ?
 
 Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
-Voici un résumé des différentes étapes :
-
-- [Comprendre] pour créer une compréhension commune du problème auquel on pourrait répondre
-- [Explorer] pour s’ouvrir le champ des possibles
-- [Décider] pour se focaliser sur ce qui semble faire le plus de sens
-- [Construire] parce qu’à l’arrivée il y a un client.
-
-
-C’est quoi cette idée de m... ? Et bien, il est temps de poser cette question interdite dans le dernier post. On va cependant faire cela de manière un peu plus poli et plus rationnelle. Cela va généralement se passer en trois temps :
+C’est quoi cette idée de m... ? Et bien, il est temps de poser cette question interdite dans le précédent post. On va cependant faire cela de manière un peu plus poli et plus rationnelle. Cela va se passer en trois temps :
 
 1. Les idées que tout le monde veut exclure après repos. Elles font l'unanimité contre elles.
 2. Ensuite, il y a les options à fermer, car après étude, on se rend compte que les hypothèses sont mauvaises, qu’il manquait un risque,… Ce sont les options non-viables.
