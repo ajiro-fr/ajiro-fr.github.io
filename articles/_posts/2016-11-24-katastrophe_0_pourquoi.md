@@ -11,7 +11,7 @@ illustration:
   name: 8505252736_b73998d301
   source: https://www.flickr.com/photos/gabrielgm/8505252736/
 ---
-Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le chapeau d'une série de 4 posts d’exercices.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le chapeau d'une série de 4 posts d’exercices. Le développement produit, c'est une discipline qui vise à apporter de nouveaux produits sur le marché avec comme maitres mots innovation et incertitude.
 
 Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
