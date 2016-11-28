@@ -15,15 +15,7 @@ Vous voulez comprendre ou apprendre des compétences en développement produit ?
 
 Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
-Voici un résumé des différentes étapes :
-
-- [Comprendre] pour créer une compréhension commune du problème auquel on pourrait répondre
-- [Explorer] pour s’ouvrir le champ des possibles
-- [Décider] pour se focaliser sur ce qui semble faire le plus de sens
-- [Construire] parce qu’à l’arrivée il y a un client.
-
-
-Je suis maintenant à l'étape où j'ai mis en face une solution à un problème. Je peux éventuellement en développer plusieurs (de solutions) pour les mettre ensuite en concurrence.
+Je suis maintenant à l'étape où j'ai mis une solution en face d'un problème. Je peux éventuellement en développer plusieurs (de solutions) pour les mettre ensuite en concurrence.
 
 {% include img.html
     name='15709722809_42433e78c4'
@@ -47,7 +39,6 @@ Reprendre un MVE des cas itinéraire RATP, Auchan Direct et Novcencia. Si vous n
 Sur chaque cas, découper le MVE en User Stories. La forme canonique des User Stories n'est pas nécessaire. On commencera par donner le nom des User Stories.
 
 Dans un deuxième temps, on triera les User Stories par ordre croissant de risque.
-
 
 ### But pédagogique
 
