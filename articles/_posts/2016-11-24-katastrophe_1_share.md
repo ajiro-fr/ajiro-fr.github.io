@@ -16,7 +16,7 @@ Vous voulez comprendre ou apprendre des compétences en développement produit ?
 
 Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
-Dans la première étape 'comment créer une compréhension commune', nous allons essayé de faire que tout le monde ait la même vision du problème auquel on va répondre. J'ai envie de citer un proverbe africain pour expliquer le pourquoi de cette étape : Si tu ne sais pas ou tu vas, n'oublies pas d'où tu viens. Elle permet de créer une équipe avec un objectif commun.
+Dans la première étape « comment créer une compréhension commune », nous allons essayé de faire en sorte que tout le monde ait la même vision du problème auquel on va répondre. J'ai envie de citer un proverbe africain pour expliquer le pourquoi de cette étape : Si tu ne sais pas ou tu vas, n'oublies pas d'où tu viens. Elle permet de créer une équipe avec un objectif commun.
 
 À ceux qui trouvent les exercices suivants faciles, les exercices de compréhension sont un échauffement. Cela va se compliquer dans les prochains posts :-)
 
