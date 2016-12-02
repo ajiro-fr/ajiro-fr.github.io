@@ -122,12 +122,12 @@ A l'arrivée, un product backlog, ça ressemble à ça :
 
 ![ProductBacklogExample](/assets/articles/product_backlog/productBacklog.png){: .img-fluid }
 
+## Conclusion : Garder du lien
+
 {% include img.html
     name='6888100281_4b7b238dba'
     source='https://www.flickr.com/photos/p_valdivieso/6888100281'
 %}
-
-## Conclusion : Garder du lien
 
 Le gros gain à travailler ainsi, c'est que vous êtes capable à tout moment de faire le lien entre les problèmes auxquels vous voulez répondre et la solution que vous mettez en face. On résume souvent le product backlog à une description d'une solution et je trouve cela trop limitant. J'ai trop souvent vu une décorrelation entre le business case d'un projet et l'exécution au jour le jour.
 
