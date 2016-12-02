@@ -58,7 +58,7 @@ Une personne au tableau (ou une feuille), un groupe et si possible un observateu
 
 Observer la dynamique de groupe et les biais. Questions à poser à l’observateur :
 
-- Est-ce que le facilitateur a noté telle que l’idée a été émise ?
+- Est-ce que le facilitateur a noté telle quelle l’idée qui a été émise ?
 - Est-ce que tout le monde s’est exprimé ?
 - Est-ce que les idées ont été critiquées en séance ?
 
