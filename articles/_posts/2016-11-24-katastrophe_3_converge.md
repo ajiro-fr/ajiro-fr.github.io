@@ -57,9 +57,9 @@ Rome ne s’est pas fait en un jour, Auchan Direct non plus. La question que l�
 
 Ouvrir les sites dans l’ordre et découper en incrément de valeur. Chaque incrément doit pouvoir répondre à la question _« qu’est-ce que l’utilisateur pourra faire de différent ? »_.
 
-1. Itinéraire ratp : http://www.ratp.fr/itineraires/fr/ratp/recherche-avancee
-2. Auchan Direct : https://www.auchandirect.fr/
-3. Novencia : http://www.novencia.com/
+1. [Itinéraire ratp](http://www.ratp.fr/itineraires/fr/ratp/recherche-avancee)
+2. [Auchan Direct](https://www.auchandirect.fr/)
+3. [Novencia](http://www.novencia.com/)
 
 Cet exercice est beaucoup plus dur et j’aide donc par des exemples :
 
