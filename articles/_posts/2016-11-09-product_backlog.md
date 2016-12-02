@@ -120,19 +120,7 @@ Je prends le jalon suivant que j'affine. Je prends le MVE suivant que j'affine. 
 
 A l'arrivée, un product backlog, ça ressemble à ça :
 
-{: .table .table-striped .table-bordered}
-| Jalons  | MVE     | User stories |
-|---------|---------|--------------|
-| Jalon 1 | MVE 1.1 | US 1.1.1     |
-|         |         | US 1.1.2     |
-|         |         | US 1.1.3     |
-|         | MVE 1.2 | US 1.2.1     |
-|         |         | US 1.2.2     |
-| Jalon 2 | MVE 2.1 |              |
-|         | MVE 2.2 |              |
-|         | MVE 2.3 |              |
-| Jalon 3 |         |              |
-
+![ProductBacklogExample](/assets/articles/product_backlog/productBacklog.png){: .img-fluid }
 
 {% include img.html
     name='6888100281_4b7b238dba'
