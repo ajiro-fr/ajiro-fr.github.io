@@ -51,7 +51,7 @@ Voir comment le chapeau influe sur la qualité de notre feed-back qui devient mo
 
 ### Explication
 
-Rome ne s’est pas fait en un jour, Auchan Direct non plus. La question que l’on va se poser, c’est si je devais le refaire comment je le ferai ?
+Rome ne s’est pas fait en un jour, Auchan Direct non plus. La question que l’on va se poser, c’est si je devais le refaire comment je le ferai ? L'épisode 1 nous a permis de fermer certaines options car jugées non viables. Dans ce kata, nous partons sur du découpage pour identifier la valeur potentielle des options ouvertes.
 
 ### Mode opératoire
 
@@ -85,11 +85,11 @@ On est dans le pur slicing avec identification d’incrément de valeur. C’est
 
 ### Explication
 
-J’ai identifié de potentiels changements de comportement utilisateurs (MVE) et je veux maintenant savoir comment je pourrais valider le succès de ma réponse au besoin. En sortie, je vais avoir 3 cas :
+Dans le précédent épisode, j’ai identifié de potentiels changements de comportement utilisateurs (MVE) et donc la valeur potentielle. C'est bien mais pas suffisant avec comme question suivante : comment je pourrai valider le succès de ma réponse au besoin? En sortie, je vais avoir 3 cas :
 
 - Critère de succès identifié : OK
 - Critère de succès non identifié : Ce n’est en fait pas un incrément de valeur, mais un incrément logiciel. Je dois fusionner avec celui d’après.
-- Critère de succès non identifié : Je n’arrive pas à identifier de critère, car j’ai finalement du mal à identifier la valeur. Je dois sûrement fermer cette option.
+- Critère de succès non identifié : Je n’arrive pas à identifier de critère, car j’ai finalement du mal à identifier la valeur. Je dois sûrement fermer cette option. C'est un cas finalement moins rare qu'il n'y parait.
 
 Un indicateur de succès doit répondre à 3 critères : actionnable, accessible, auditable. Voir [3-metrics]
 
@@ -112,7 +112,7 @@ Faire bien la différence entre critères de succès (du besoin) et critère d�
 
 ### Explication
 
-Il y a plusieurs façons de prendre des décisions que l’on ne perçoit pas nécessairement. Le but de cet exercice est de percevoir les différences et comment le protocole de décision influence la décision. Pour la suite, nous utiliserons 3 protocoles :
+Vous avez identifié des incréments de valeur et savez comment identifier si c'est un succès ou non. Certaines options sont maintenant fermées et il vous reste à faire le tri dans les options ouvertes. Vous arrivez donc au moment de faire des choix. Il y a plusieurs façons de prendre des décisions que l’on ne perçoit pas nécessairement. Le but de cet exercice est de percevoir les différences et comment le protocole de décision influence la décision. Pour la suite, nous utiliserons 3 protocoles :
 
 1. Consensus : tout le monde doit voter et la décision n’est prise que si tout le monde est d’accord.
 2. Majorité : la décision est prise si une majorité relative de personnes vote pour la proposition.
