@@ -11,9 +11,9 @@ illustration:
   name: 5564882153_088fd4e2d6
   source: https://www.flickr.com/photos/alvarogalve/5564882153
 ---
-Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le troisième post d’exercices d’une série de 4.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le dernier post d’exercices d’une série de 5.
 
-Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
+Je les ai découpé en 5 parties [Comprendre], [Explorer], [Décider], [Construire], [Valider] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
 C’est quoi cette idée de m... ? Et bien, il est temps de poser cette question interdite dans le précédent post. On va cependant faire cela de manière un peu plus poli et plus rationnelle. Cela va se passer en trois temps :
 
@@ -147,6 +147,7 @@ Prendre du recul sur la prise de décision. Le protocole influe le résultat fin
 [Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
 [Décider]: /articles/2016/11/24/katastrophe_3_converge.html
 [Construire]: /articles/2016/11/24/katastrophe_4_build.html
+[Valider]: /articles/2016/12/05/katastrophe_5_validate.html
 [Six Thinking Hats]: https://en.wikipedia.org/wiki/Six_Thinking_Hats
 [personas]: http://www.weloveusers.com/formation/apprendre/personas.html
 [3-metrics]: http://jem9.com/3-metrics/
