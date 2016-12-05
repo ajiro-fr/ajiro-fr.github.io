@@ -93,7 +93,7 @@ Le mécanisme de génération d’idées n’est pas le même entre brainstormin
 
 ### Explication
 
-Comment donner du feed-back autre que _« ça, c’est bien »_ et _« ça, ce n'est pas bien »_. C’est bien gentil comme retour, mais cela m’aide moyen à améliorer ma proposition. Je sors donc de ma botte le [perfection game]. Le but est bien de proposer des options d’amélioration à une idée et pas de refermer des options.
+Si les épisodes de 1 à 3 sont différentes pratiques pour générer des idées, l'épisode 4 aide à polir. Il vient après quelque soit la première étape. Nous allons donc voir comment donner du feed-back autre que _« ça, c’est bien »_ et _« ça, ce n'est pas bien »_. C’est bien gentil comme retour, mais cela m’aide moyen à améliorer ma proposition. Je sors donc de ma botte le [perfection game]. Le but est bien de proposer des options d’amélioration à une idée et pas de refermer des options.
 
 ### Mode opératoire
 
