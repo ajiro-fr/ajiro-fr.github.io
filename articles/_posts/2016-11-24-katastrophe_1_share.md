@@ -49,7 +49,7 @@ En groupe sur un slot de 10 minutes, partager et dessiner une mind map sur le su
 
 ### Description
 
-Le but est de savoir poser les bonnes questions pour bien comprendre le problème auquel on peut potentiellement répondre par une solution. Toute la difficulté est de mener l’interview en mettant l’interlocuteur dans les meilleures dispositions et de ne pas projeter la solution envisagée. Un pointeur de google ventures sur [interview guide].
+Dans l'épisode 1, vous avez partagé avec ceux qui participeront à la création d'un nouveau produit. Il reste maintenant à voir si cette vision est partagée avec de potentiels utilisateurs. Le but est donc de savoir poser les bonnes questions pour bien comprendre le problème auquel on peut potentiellement répondre par une solution. Toute la difficulté est de mener l’interview en mettant l’interlocuteur dans les meilleures dispositions et de ne pas projeter la solution envisagée. Un pointeur de google ventures sur [interview guide].
 
 ### Mode opératoire
 
@@ -73,7 +73,7 @@ Le but n’est pas de savoir si madame Michu a vraiment un problème pour se fou
 
 ### Description
 
-J’ai la solution idéale pour madame michu, mais j’ai besoin de vendre l’idée à mon chef qui a un agenda délirant. J’ai juste le loisir de le voir dans l’ascenseurs et j’ai 2 minutes pour le convaincre. J’en profite aussi pour aligner les planètes.
+Après l'épisode 2, vous avez levé des risques produit. J'ai validé avec quelques utilisateurs que je suis bien en train de répondre à un problème avéré pour mon panel d'interviewés. J’ai donc la solution idéale pour madame michu et j’ai besoin de vendre l’idée à mon chef qui a un agenda délirant. J’ai juste le loisir de le voir dans l’ascenseur et j’ai 2 minutes pour le convaincre. J’en profite aussi pour aligner les planètes.
 
 ### Mode opératoire
 
@@ -90,8 +90,7 @@ Dans un deuxième temps, remplir le canvas
 
 ### Intérêt pédagogique
 
-Bien faire la différence entre besoin et solution.
-
+Bien faire la différence entre besoin et solution. Je suis aussi capable d'expliquer rapidement mon initiative à toutes les personnes qui seront potentiellement impactées.
 
 ## Suite
 
