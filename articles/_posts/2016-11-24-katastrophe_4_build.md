@@ -11,9 +11,9 @@ illustration:
   name: 14853927242_de56848a00
   source: https://www.flickr.com/photos/tsevis/14853927242
 ---
-Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le dernier post d’exercices d’une série de 4.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le dernier post d’exercices d’une série de 5.
 
-Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
+Je les ai découpé en 5 parties [Comprendre], [Explorer], [Décider], [Construire], [Valider] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
 Je suis maintenant à l'étape où j'ai mis une solution en face d'un problème. Je peux éventuellement en développer plusieurs (de solutions) pour les mettre ensuite en concurrence.
 
@@ -107,5 +107,6 @@ Il est possible de donner de la visibilité sur la roadmap avec une estimation f
 [Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
 [Décider]: /articles/2016/11/24/katastrophe_3_converge.html
 [Construire]: /articles/2016/11/24/katastrophe_4_build.html
+[Valider]: /articles/2016/12/05/katastrophe_5_validate.html
 [Story splitting flowchart]: http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart-Thumbnail.png
 [extreme quotation]: http://blog.octo.com/extreme-quotation-planning-agile-sous-steroides/
