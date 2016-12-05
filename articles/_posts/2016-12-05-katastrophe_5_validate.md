@@ -29,7 +29,7 @@ Nous sommes maintenant en capacité de montrer quelque chose pour obtenir du fee
 Comme d'habitude l'image d'illustration est importante, mais encore plus sur ce cas. La maison n'est pas finie et c'est normal. Je suis en train de recueillir du feedback de mon client (au sens large) pour qu'il me confirme que ce que j'ai réalisé correspond bien à ce qu'il a en tête. A ce stade, on peut difficilement parler d'expérience utilisateur. Comme nous sommes sur un bout de process, il est important d'aider le client à se projeter d'ou l'utilisation du [story telling].
 
 ### Mode opératoire
-Dans ce kata, je pars du principe que nous sommes dans le cadre d'une démo type Scrum et donc sur un bout de process. Prendre les user stories des cas Auchan direct, ratp et novencia et raconter la démo. Vous pouvez utiliser les vrais sites pour la faire. On prendra la première d'Auchan direct, la deuxième de la ratp et la troisième de Novencia. Il est bien de prendre une personne pour vous donner du feedback.
+Dans ce kata, je pars du principe que nous sommes dans le cadre d'une démo type Scrum et donc sur un bout de process. Prendre les user stories des cas Auchan Direct, ratp et novencia et raconter la démo. Vous pouvez utiliser les vrais sites pour la faire. On prendra la première d'Auchan Direct, la deuxième de la ratp et la troisième de Novencia. Il est bien de prendre une personne pour vous donner du feedback.
 
 ### But pédagogique
 Un des but de la démo est de valider les user stories. Il est donc important de repréciser ce qui était prévu en termes de comportement de l'application et de critère d'acceptance. Ensuite, il s'agit de récupérer du feedback et pour cela il est nécessaire que le client se projète. C'est pour cela que je prend la troisième pour Novencia, il sera alors nécessaire de redonner les conditions de sortie de l'étape précédente et de repositionner la user story dans son cadre.
@@ -49,7 +49,7 @@ Je déborde un peu sur l'expérience utilisateur. Dans ce kata, je teste si mon 
 Dans la pratique, on donne un mode opératoire / scénario à un utilisateur et on voit comment il se comporte avec l'application. Je vais donner un exemple sur le site de la ratp : Je souhaite me rendre ce vendredi 19h à l'opéra (bastille). Je veux savoir à quelle heure partir de mon travail (grande arche de la défense) et comment m'y rendre.
 
 ### Mode opératoire
-Ecrire un mode opératoire sur le MVP 1 des sites Auchan direct et Novencia.
+Ecrire un mode opératoire sur le MVP 1 des sites Auchan Direct et Novencia.
 
 ### But pédagogique
 Ce qui est différent entre le précédent kata et celui là, c'est que je suis exprès 'imprécis' car je souhaite voir si l'utilisateur comprend l'interface. Il ne faut donc pas utiliser de verbes qui correspondent aux boutons d'actions de l'interface. Il est aussi possible d'être 'fourbe' en demandant un scénario long alors que seule l'étape du milieu nous intéresse. Si on le fait avec quelques utilisateurs, on voit aussi apparaitre des patterns de comportement. Il reste ensuite à comprendre le pourquoi des comportements.
@@ -68,7 +68,7 @@ Vous avez fait une démo à un client ou laissé un client utilisé un prototype
 ### Mode opératoire
 Exécuter les actions suivantes :
 
-- Auchan direct : Ajouter un kilo de farine à votre panier
+- Auchan Direct : Ajouter un kilo de farine à votre panier
 - Ratp : Chercher le trajet le plus court entre meudon et romainville.
 - Novencia : Trouver les valeurs du groupe
 
@@ -105,8 +105,8 @@ Vous avez maintenant validé au fur et à mesure votre logiciel à base de tests
 
 Suite à la mise en production d'une nouvelle fonctionnalité sur le site, que vous faites dans les cas suivants ?
 
-- Auchan direct : Problème de controle de stock. Des articles bien que disponibles dans l'entrepot apparaissent comme non disponibles.
-- Auchan direct : Le service client me remonte que des utilisateurs souhaiteraient pouvoir commander plus que 10 occurrences d'un article. Il y a actuellement une limite dans l'application dont on ne connait pas l'origine.
+- Auchan Direct : Problème de controle de stock. Des articles bien que disponibles dans l'entrepot apparaissent comme non disponibles.
+- Auchan Direct : Le service client me remonte que des utilisateurs souhaiteraient pouvoir commander plus que 10 occurrences d'un article. Il y a actuellement une limite dans l'application dont on ne connait pas l'origine.
 - Ratp : Option personne à mobilité réduite activée avec aucune utilisation pendant 2 semaines
 - Novencia : Gestion des évènements (http://www.novencia.com/actualites/evenements/) livré avec 20 connexions par jour
 
