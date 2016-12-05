@@ -11,9 +11,9 @@ illustration:
   name: 8505252736_b73998d301
   source: https://www.flickr.com/photos/gabrielgm/8505252736/
 ---
-Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le chapeau d'une série de 4 posts d’exercices. Le développement produit, c'est une discipline qui vise à apporter de nouveaux produits sur le marché avec comme maitres mots innovation et incertitude.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le chapeau d'une série de 5 posts d’exercices. Le développement produit, c'est une discipline qui vise à apporter de nouveaux produits sur le marché avec comme maitres mots innovation et incertitude.
 
-Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
+Je les ai découpé en 5 parties [Comprendre], [Explorer], [Décider], [Construire], [Valider] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
 Voici un résumé des différentes étapes :
 
@@ -56,4 +56,5 @@ Je suis preneur de feed-backs pour les améliorer, donc n'hésitez pas à me pin
 [Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
 [Décider]: /articles/2016/11/24/katastrophe_3_converge.html
 [Construire]: /articles/2016/11/24/katastrophe_4_build.html
+[Valider]: /articles/2016/12/05/katastrophe_5_validate.html
 [Cynefin]: https://en.wikipedia.org/wiki/Cynefin_framework
