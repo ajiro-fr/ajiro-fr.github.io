@@ -12,9 +12,9 @@ illustration:
   source: https://www.flickr.com/photos/hoffnungsschimmer/17264753128
 ---
 
-Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le premier post d’exercices d’une série de 4.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le dernier post d’exercices d’une série de 5.
 
-Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
+Je les ai découpé en 5 parties [Comprendre], [Explorer], [Décider], [Construire], [Valider] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
 Dans la première étape « comment créer une compréhension commune », nous allons essayé de faire en sorte que tout le monde ait la même vision du problème auquel on va répondre. J'ai envie de citer un proverbe africain pour expliquer le pourquoi de cette étape : Si tu ne sais pas ou tu vas, n'oublies pas d'où tu viens. Elle permet de créer une équipe avec un objectif commun.
 
@@ -103,4 +103,5 @@ Bien faire la différence entre besoin et solution.
 [Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
 [Décider]: /articles/2016/11/24/katastrophe_3_converge.html
 [Construire]: /articles/2016/11/24/katastrophe_4_build.html
+[Valider]: /articles/2016/12/05/katastrophe_5_validate.html
 [interview guide]: https://library.gv.com/the-gv-research-sprint-schedule-participants-and-draft-interview-guide-day-2-7b3e7476cd55#.bwnfpsvh4
