@@ -11,9 +11,9 @@ illustration:
   name: 200504_CostaRica_dsc_1129
   source: http://retiere.com/albums/CostaRica2005/#725
 ---
-Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le deuxième post d’exercices d’une série de 4.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le dernier post d’exercices d’une série de 5.
 
-Je les ai découpé en 4 parties [Comprendre], [Explorer], [Décider], [Construire] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
+Je les ai découpé en 5 parties [Comprendre], [Explorer], [Décider], [Construire], [Valider] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
 Il est maintenant temps d’avoir des idées. Il y a peu, je considérais que les phases de divergence et de convergence étaient au sein du même workshop avec un début de divergence et ensuite  de la convergence. Après discussion avec des UX, je me suis rendu compte que l’on pouvait avoir une séparation nette. Dans la vraie vie, vous verrez bien quelle est la meilleure approche pour vous. Pour les exercices, je veux marquer la différence. Le plus important dans cette phase, c’est d’avoir des idées et pas de savoir si ce sont les bonnes. Cela viendra dans un deuxième temps et c’est super important. Non aux attitudes castratrices.
 
@@ -118,5 +118,6 @@ Apprendre à donner un feed-back qui ouvre des options.
 [Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
 [Décider]: /articles/2016/11/24/katastrophe_3_converge.html
 [Construire]: /articles/2016/11/24/katastrophe_4_build.html
+[Valider]: /articles/2016/12/05/katastrophe_5_validate.html
 [crazy eights]: http://toolkit.adaptivelab.com/crazy-eights-in-progress/
 [perfection game]: https://liveingreatness.com/core-protocols/perfection-game/
