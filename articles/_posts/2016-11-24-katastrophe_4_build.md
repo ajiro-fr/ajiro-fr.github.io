@@ -26,7 +26,7 @@ Je suis maintenant à l'étape où j'ai mis une solution en face d'un problème.
 
 ### Explication
 
-Je souhaite récupérer du feed-back au fur et à mesure et aussi piloter un minimum mon développement. Je vais donc découper mes incréments de valeur en petits bouts ayant un sens fonctionnel : j'ai nommé une User Story. Quand toutes les User Stories d'un MVE sont terminées, je mets en production. Quand une User Story est terminée, je récupère du feed-back en environnement de non-production. Pour des patterns de découpage, voir [Story splitting flowchart].
+Dans le précdént post, vous avez appris à découper en incrément de valeur, il ne vous reste plus qu'à construire sans partir dans un effet tunnel. Vous souhaitez donc récupérer du feed-back au fur et à mesure et aussi piloter un minimum mon développement. Vous allez découper les incréments de valeur en petits bouts ayant un sens fonctionnel : j'ai nommé une User Story. Quand toutes les User Stories d'un MVE sont terminées, vous pouvez mettre en production. Quand une User Story est terminée, vous récupèrez du feed-back en environnement de non-production. Pour des patterns de découpage, voir [Story splitting flowchart].
 
 ### Mode opératoire
 
