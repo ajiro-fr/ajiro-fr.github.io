@@ -101,6 +101,10 @@ Répéter jusqu'à plus de cartes.
 
 Il est possible de donner de la visibilité sur la roadmap avec une estimation faite rapidement. Cela n'est peut-être pas super précis, mais pas si faux que ça. De mon expérience personnelle, la précision globale est proche d'une estimation faite par planning poker. L'écart de précision ne vaut pas l'écart de temps passé à estimer.
 
+## Suite
+
+[Dans l'article suivant, nous allons aller voir un être bizarre : le client.](/articles/2016/12/05/katastrophe_5_validate.html)
+
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
 [Comprendre]: /articles/2016/11/24/katastrophe_1_share.html
