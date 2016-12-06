@@ -62,6 +62,8 @@ layout: default
         {% endif %}
         <div>
           <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
+          &nbsp;—&nbsp;
+          <i class='fa fa-clock-o'></i> {% include components/read_time.html content=page.content %}
         </div>
       </small>
     </div>
