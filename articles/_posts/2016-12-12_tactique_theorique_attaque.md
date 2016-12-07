@@ -37,11 +37,10 @@ Parlez des horizons de temps Lean Enterprise page 37
 
 {% include img.html
     name='cynefin_framework_feb_2011'
-    source='https://www.flickr.com/photos/lewishamdreamer/5727372994'
+    source='https://www.flickr.com/photos/kitch/4286136925/'
 %}
 
 ## L'initiative, caractérisation et définition
-https://www.flickr.com/photos/kitch/4286136925/
 La définition en doctrinue française :
 - Fixer ou définir les termes de l'action tout au long de la bataille ou de l'opération
 - Capacité d'être un initiateur pour agir quand il n'y a aucune instruction claire ou quand la situation change
@@ -56,7 +55,9 @@ Avoir l'initiative optimise le fonctionnement du système combattant.
     source='https://www.flickr.com/photos/telomi/7251650588/'
 %}
 
-Les actes élémentaires : Détruire, Soutenir, Fixer
+## Les actes élémentaires
+
+Détruire, Soutenir, Fixer
 
 ## Cinématique
 {% include img.html
