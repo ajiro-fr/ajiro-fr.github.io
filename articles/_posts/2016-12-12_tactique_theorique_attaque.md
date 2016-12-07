@@ -13,27 +13,34 @@ illustration:
 ---
 Au premier abord,il est difficile de faire un lien entre le développement produit cher à Geoffrey Moore et la doctrine militaire française de Michel Yakovleff. Plus nous avons avancé dans la lecture de Tactique théorique, plus le la similitudes nous ont paru nombreuses. Nous proposons de montrer comment des tactiques militaires peuvent être utilisées dans le développement produit. Dans ce post, nous nous concentrerons sur l'attaque ce qui en développement produit signifie avoir l'initiative.
 
+{% include img.html
+    name='cynefin_framework_feb_2011'
+    source='https://www.flickr.com/photos/kwl/5703672288/'
+%}
 
 ## De la victoire
-https://www.flickr.com/photos/kwl/5703672288/
+Ca veut dire quoi gagner ? Michel YAKOVLEFF répond de la manière suivante : La victoire, c'est l'atteinte de ses objectifs, l'absence d'objectif signifiant l'impossibilité de la victoire. Il s'agit d'imposer sa volonté à l'ennemi car si les objectifs n'étaient pas contradictoires, il n'y aurait aucune raison de faire la guerre. **La défaite, c'est la perte totale d'options. La victoire consiste à jouir d'au moins deux options**. Le chef combat pour gagner, ce qui revient à dire que le chef combat pour saisir l'initiative (s'il ne l'avait déjà) et pour la rentabiliser (une fois qu'il en dispose) .
 
-Chapitre 2
-La victoire, c'est l'atteinte de ses objectifs
-Si les objectifs n'étaient pas contradictoires, il n'y aurait aucune raison de faire la guerre
-L'absence d'objectif signifie l'impossibilité de la victoire
-Imposer sa volonté
-La défaite, c'est la perte totale d'options. La victoire consiste à jouir d'au moins deux options.
+Lien avec le développement produit 
 
-Le chef combat pour gagner, ce qui revient à dire que le chef combat pour saisir l'initiative (s'il ne l'avait déjà) et pour la rentabiliser (une fois qu'il en dispose) 
+{% include img.html
+    name='cynefin_framework_feb_2011'
+    source='https://www.flickr.com/photos/lewishamdreamer/5727372994'
+%}
 
 ## Victoire stratégique ... opératif victoire tactique
-https://www.flickr.com/photos/lewishamdreamer/5727372994 Alamo Square
+ Alamo Square
 Vietnam : gagner toutes les batailles mais perdre la guerre
 La victoire tactique est l'évènement qui contribue à la victoire de niveau stratégique. La victoire tactique est la saisie d'options
 
 Parlez des horizons de temps Lean Enterprise page 37
 
-L'initiative, caractérisation et définition
+{% include img.html
+    name='cynefin_framework_feb_2011'
+    source='https://www.flickr.com/photos/lewishamdreamer/5727372994'
+%}
+
+## L'initiative, caractérisation et définition
 https://www.flickr.com/photos/kitch/4286136925/
 La définition en doctrinue française :
 - Fixer ou définir les termes de l'action tout au long de la bataille ou de l'opération
@@ -44,13 +51,39 @@ L'initiative absolue n'existe pas. Tout chef militaire est soumis à une volont�
 
 Avoir l'initiative optimise le fonctionnement du système combattant.
 
-https://www.flickr.com/photos/telomi/7251650588/
+{% include img.html
+    name='cynefin_framework_feb_2011'
+    source='https://www.flickr.com/photos/telomi/7251650588/'
+%}
+
 Les actes élémentaires : Détruire, Soutenir, Fixer
 
-[1:08]  
-Cinématique : Percussion (jonction)https://www.flickr.com/photos/sharynmorrow/8459686142/ , Infiltration (raid)https://www.flickr.com/photos/129993975@N04/27177821816/ , https://www.flickr.com/photos/brianjcook/2918651955/ Embuscade (feinte)
+## Cinématique
+{% include img.html
+    name='cynefin_framework_feb_2011'
+    source='https://www.flickr.com/photos/sharynmorrow/8459686142/'
+%}
 
-https://www.flickr.com/photos/hiboucards/8383856656/
+Percussion (jonction) 
+
+{% include img.html
+    name='cynefin_framework_feb_2011'
+    source='https://www.flickr.com/photos/wactout81/5261826705/'
+%}
+
+Infiltration (raid)
+
+{%v include img.html
+    name='cynefin_framework_feb_2011'
+    source='https://www.flickr.com/photos/brianjcook/2918651955/ '
+%}
+
+Embuscade (feinte)
+
+{%v include img.html
+    name='cynefin_framework_feb_2011'
+    source='https://www.flickr.com/photos/hiboucards/8383856656/'
+%}
 Quelques coups : Torturer l'enfant
 
 
