@@ -26,3 +26,10 @@
   products:
   - name: "T-Shirt size version"
     file: planning_poker/poker-tshirt.pdf
+
+- title: "Delegation Poker"
+  illustration: "delegation_poker/illustration.png"
+  products:
+  - name: "Delegation Pocker (français)"
+    icon: fr.svg
+    file: delegation_poker/delegation-poker-fr.pdf
