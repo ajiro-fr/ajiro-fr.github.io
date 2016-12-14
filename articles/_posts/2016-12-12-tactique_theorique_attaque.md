@@ -23,18 +23,20 @@ Ca veut dire quoi gagner ? Michel YAKOVLEFF répond de la manière suivante : La
 
 Nous retenons deux points importants à savoir que l'on ne peut gagner sans objectif et que la victoire consiste à jouir d'options. En développement produit, cela veut dire point de salut sans vision (produit) et que tant qu'il y a de la vie il y a de l'espoir. Votre produit est 'mort' à partir du moment ou vous n'avez plus d'options pour le faire vivre.
 
+Note importante, dans le business, l'ennemi n'est pas le concurrent mais le cahos du monde.
+
 {% include img.html
     name='cynefin_framework_feb_2011'
     source='https://www.flickr.com/photos/lewishamdreamer/5727372994'
 %}
 
 ## Victoire stratégique, opératif, tactique
-On peut gagner toutes les batailles mais perdre la guerre. C'est l'amer expérience de l'armée américaine au Vietnam. 
+On peut gagner toutes les batailles mais perdre la guerre. C'est l'amer expérience de l'armée américaine au Vietnam.
 La victoire tactique est l'évènement qui contribue à la victoire de niveau stratégique. La victoire tactique est la saisie d'options.
 
 A compléter
 
-On retrouve ces notions dans les écrits de Geoffrey Moore sur les horizons de temps. On ne manage pas de la même façon un projet dont l'horizon de temps est court terme, moyen terme ou long terme. 
+On retrouve ces notions dans les écrits de Geoffrey Moore sur les horizons de temps. On ne manage pas de la même façon un projet dont l'horizon de temps est court terme, moyen terme ou long terme.
 
 {% include img.html
     name='cynefin_framework_feb_2011'
@@ -66,7 +68,7 @@ Détruire, Soutenir, Fixer
     source='https://www.flickr.com/photos/sharynmorrow/8459686142/'
 %}
 
-Percussion (jonction) 
+Percussion (jonction)
 
 {% include img.html
     name='cynefin_framework_feb_2011'
