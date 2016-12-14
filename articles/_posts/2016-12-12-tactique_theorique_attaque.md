@@ -77,14 +77,14 @@ Percussion (jonction)
 
 Infiltration (raid)
 
-{%v include img.html
+{% include img.html
     name='cynefin_framework_feb_2011'
     source='https://www.flickr.com/photos/brianjcook/2918651955/ '
 %}
 
 Embuscade (feinte)
 
-{%v include img.html
+{% include img.html
     name='cynefin_framework_feb_2011'
     source='https://www.flickr.com/photos/hiboucards/8383856656/'
 %}
