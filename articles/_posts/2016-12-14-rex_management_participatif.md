@@ -32,10 +32,10 @@ Ne sachant plus faire face, la direction se tourne vers un cabinet de conseil et
 Après une phase d'audit réalisé par les consultants, la direction identifie un manque de clarté du cadre et un positionnement trop directif de sa structure hiérarchique. Les managers sont trop présents dans les décisions de leurs subalternes.
 
 La première étape est donc de redonner de la clarté du cadre. La direction lance donc les premiers ateliers sur ce sujet, animés par des leaders nommés parmi les différents niveaux hiérarchiques de l'entreprise.
-La démarche sera intitulée _« retrouver performance et plaisir au travail »_.
-Elle sera organisée en trois thèmes : _« Les plannings »_, _« L'organigramme des opérations »_ et _« L'organisation des travaux de maintenance »_. Ce sont les trois points ou s'accumulent les difficultés de l'entreprise.
-Quatre valeurs ont émergé : _« Bienveillance, accompagnement des équipes, ouverture d'esprit, autonomie »_.
-Et pour finir la définition du cadre, quatre filtres sont définis pour valider les propositions des salariés : _« sécurité »_, _« rentabilité »_, _« satisfaction des clients »_ et _« satisfaction des collaborateurs »_.
+La démarche sera intitulée _«&nbsp;retrouver performance et plaisir au travail&nbsp;»_.
+Elle sera organisée en trois thèmes : les plannings, l'organigramme des opérations  et l'organisation des travaux de maintenance. Ce sont les trois points ou s'accumulent les difficultés de l'entreprise.
+Quatre valeurs ont émergé : bienveillance, accompagnement des équipes, ouverture d'esprit et autonomie.
+Et pour finir la définition du cadre, quatre filtres sont définis pour valider les propositions des salariés : sécurité, rentabilité, satisfaction des clients et satisfaction des collaborateurs.
 
 La deuxième étape est de redonner de l'autonomie aux salariés sur les propositions d'actions.
 C'est le principe même du management participatif.
