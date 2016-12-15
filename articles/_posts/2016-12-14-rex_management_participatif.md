@@ -1,12 +1,13 @@
 ---
-title: "Retour d'experience sur une mise ne oeuvre d'un management participatif."
+title: "Retour d'expérience sur une mise ne œuvre d'un management participatif"
 lang: fr
 hidden: true
 authors:
   - albiez_olivier
 tags:
-  - management
   - entreprise libérée
+  - management
+  - rex
 illustration:
   name: 16611440342_3d225442c1
   source: https://www.flickr.com/photos/jcflac/16611440342/
