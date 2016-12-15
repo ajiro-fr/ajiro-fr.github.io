@@ -15,6 +15,12 @@ Récemment, j'ai été invité à un petit-déjeuner sur un retour d'expérience
 Appelons-la _DDI_ (Dupond et Dupont Industrie).
 
 
+
+{% include img.html
+    name='27753216112_370dc9aca6'
+    source='https://www.flickr.com/photos/jarkophotos/27753216112/'
+%}
+
 ## Le récit
 
 l y a un an, suite à une grève du personnel, l'entreprise _DDI_ est dans une impasse.
@@ -42,6 +48,11 @@ Le bilan est positif. L'entreprise a restauré la confiance. Les managers ont ch
 Pour le moment, la direction trouve les salariés plus motivés et que l'ambiance de travail plus sereine.
 Il y a eu aussi des retours de la médecine du travail qui constate des changements positifs quant au stress des salariés.
 
+
+{% include img.html
+    name='11225546704_c31742a555'
+    source='https://www.flickr.com/photos/44371727@N05/11225546704/'
+%}
 
 ## Mes propositions pour la suite
 
