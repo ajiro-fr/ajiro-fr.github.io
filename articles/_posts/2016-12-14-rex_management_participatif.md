@@ -51,7 +51,7 @@ Cela aurait comme effet de continuer à autonomiser les équipes.
 La direction pourrait alors contrôler à posteriori les actions réalisées, avec un contrôle sur l'adéquation de l'action avec le cadre défini.
 
 À terme, la direction deviendrait l'organe qui anime la raison d'être de l'entreprise au quotidien et se positionnerait sur les enjeux stratégiques et de visions. En ne prenant plus elle-même de décisions opérationnelles, elle ne serait plus soumise à [l’escalade d’engagement].
-Et d'autre part, elle serait plus attentive aux [signaux faibles] et aux nouvelles opportunités business, comme l'a si bien décrit Shiba dans son livre [Management selon Shiba].
+Et d'autre part, elle serait plus attentive aux [signaux faibles] et aux nouvelles opportunités business, comme l'a si bien décrit Shoji Shiba dans son livre [Management selon Shiba].
 
 L'entreprise se dirigerait alors vers une libération, comme décrit par Frédéric Laloux dans [Reinventing Organisations].
 
