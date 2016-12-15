@@ -24,7 +24,7 @@ Appelons-la _DDI_ (Dupond et Dupont Industrie).
 
 ## Le récit
 
-l y a un an, suite à une grève du personnel, l'entreprise _DDI_ est dans une impasse.
+Il y a un an, suite à une grève du personnel, l'entreprise _DDI_ est dans une impasse.
 Il y a une défiance nette contre la direction. Même certains manageurs sont en opposition avec la direction.
 
 Ne sachant plus faire face, la direction se tourne vers un cabinet de conseil et prend trois mois pour changer leur mode de management. L'idée forte de cette transformation est de mettre en place un management participatif.
