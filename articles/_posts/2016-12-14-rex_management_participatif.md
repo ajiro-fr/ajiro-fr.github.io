@@ -29,10 +29,10 @@ leurs subalternes.
 
 La première étape est donc de redonner de la clareté du cadre et la direction lance les premiers ateliers sur ce sujet,
 animés par des leaders nommé parmis les différents niveaux hierarchiques de l'entreprise.
-La démarche sera intitulée _"retrouver performance et plaisir au travail"_.
-Elle sera organisée en trois thèmes _"Les plannings"_, _"L'organigramme des opérations"_ et _"L'organisation des travaux de maintenance"_. Ce sont les trois points ou s'accumulent les difficultés de l'entreprise.
-Quatres valeurs ont émergées _"bienveillance, accompagnement des équipes, ouverture d'esprit, autonomie"_.
-Et pour finir la définition du cadre, quatres filtres sont définis pour valider les propositions des salariés _"sécurité"_, _"rentabilité"_, _"satisfaction clients"_ et _"satisfaction des collaborateurs"_.
+La démarche sera intitulée _« retrouver performance et plaisir au travail »_.
+Elle sera organisée en trois thèmes : _« Les plannings »_, _« L'organigramme des opérations »_ et _« L'organisation des travaux de maintenance »_. Ce sont les trois points ou s'accumulent les difficultés de l'entreprise.
+Quatres valeurs ont émergées : _« bienveillance, accompagnement des équipes, ouverture d'esprit, autonomie »_.
+Et pour finir la définition du cadre, quatres filtres sont définis pour valider les propositions des salariés : _« sécurité »_, _« rentabilité »_, _« satisfaction clients »_ et _« satisfaction des collaborateurs »_.
 
 
 La deuxième étape est de redonner de l'autonomie aux salariés sur les propositions d'actions.
