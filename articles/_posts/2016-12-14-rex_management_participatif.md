@@ -28,19 +28,24 @@ positionnement trop directif de sa structure hiérarchique. Les managers sont tr
 leurs subalternes.
 
 La première étape est donc de redonner de la clareté du cadre et la direction lance les premiers ateliers sur ce sujet,
-animés par des leaders [NLE : qui sont ces leaders et d'où émergent-ils ? Ajouter un peu plus de contexte]. La démarche sera intitulée _"performance et plaisir"_ et quatres valeurs émergerons _"bienveillance, accompagnement des équipes, ouverture d'esprit, autonomie"_.
+animés par des leaders nommé parmis les différents niveaux hierarchiques de l'entreprise.
+La démarche sera intitulée _"retrouver performance et plaisir au travail"_.
+Elle sera organisée en trois thèmes _"Les plannings"_, _"L'organigramme des opérations"_ et _"L'organisation des travaux de maintenance"_. Ce sont les trois points ou s'accumulent les difficultés de l'entreprise.
+Quatres valeurs ont émergées _"bienveillance, accompagnement des équipes, ouverture d'esprit, autonomie"_.
+Et pour finir la définition du cadre, quatres filtres sont définis pour valider les propositions des salariés _"sécurité"_, _"rentabilité"_, _"satisfaction clients"_ et _"satisfaction des collaborateurs"_.
+
 
 La deuxième étape est de redonner de l'autonomie aux salariés sur les propositions d'actions.
 C'est le principe même du management participatif.
-Pour cela, la direction va définir quatres filtres pour évaluer les propositions _"rentabilité, bon pour les salariés, bon pour les clients"_ [NLE : il manque le 4ème filtre ?].
-Ensuite, elle met en place des ateliers avec tous les salariés, toujours animé par les leaders, pour proposer des actions de changement.
+La direction met en place des ateliers avec tous les salariés, toujours animé par les leaders, pour proposer des actions de changement.
 Il va en résulter 170 propositions d'actions sur lesquels la direction a donné sa validation en utilisant les filtres.
 
-À ce jour, 70% des actions sont terminées soit en cours. [NLE : éventuellement lister quelques exemples d'actions pour donner plus de concret à l'article ?]
+À ce jour, 70% des actions sont terminées soit en cours. Il y a eu des changements de planning, des achats de chariots, des propositions d'achat de véhicules éléctriques...
 
 Le bilan est positif. L'entreprise a restauré la confiance. Les managers ont changé de posture et sont plus dans une posture d'écoute.
 Evidemment, la direction sait qu'elle est très attendue sur le suivis des efforts, en particulier des actions encore en cours ou à venir.
-En attendant, les salariés sont plus motivés et l'ambiance de travail plus sereine [NLE : sur quelle base ce constat est-il fait ? Un questionnaire a circulé ? Tu as pris la température auprès des équipes ?].
+Pour le moment, la direction trouve les salariés plus motivés et que l'ambiance de travail plus sereine.
+Il y a eu aussi des retours de la médecine du travaille qui constate des changements positifs quant au stress des salariés.
 
 
 ## Mes propositions pour la suite
