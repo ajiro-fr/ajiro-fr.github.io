@@ -34,7 +34,6 @@ Elle sera organisée en trois thèmes : _« Les plannings »_, _« L'organigramm
 Quatres valeurs ont émergées : _« bienveillance, accompagnement des équipes, ouverture d'esprit, autonomie »_.
 Et pour finir la définition du cadre, quatres filtres sont définis pour valider les propositions des salariés : _« sécurité »_, _« rentabilité »_, _« satisfaction clients »_ et _« satisfaction des collaborateurs »_.
 
-
 La deuxième étape est de redonner de l'autonomie aux salariés sur les propositions d'actions.
 C'est le principe même du management participatif.
 La direction met en place des ateliers avec tous les salariés, toujours animé par les leaders, pour proposer des actions de changement.
@@ -60,7 +59,7 @@ Et d'autre part, elle serait plus attentive aux [signaux faibles] et aux nouvell
 
 L'entreprise se dirigerait alors vers une libération, comme décrit dans [Reinventing Organisations].
 
-La difficulté pour la direction sera dans ce cas à arriver à faire confiance, à lâcher du contrôle en laissant les employés décider et agir.
+La difficulté pour la direction sera dans ce cas d'arriver à faire confiance et de lâcher du contrôle en laissant les employés décider et agir.
 Les bénéfices pour l'entreprise ainsi que ses salariés sont énormes.
 
 
