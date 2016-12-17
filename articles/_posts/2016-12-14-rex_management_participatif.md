@@ -46,7 +46,7 @@ Ces ateliers produiront 170 propositions d'actions sur lesquelles la direction e
 
 Le bilan est positif. L'entreprise a restauré la confiance. Les managers ont changé de posture et sont plus dans une posture d'écoute.
 Évidemment, la direction sait qu'elle est très attendue sur le suivi des efforts, en particulier des actions encore en cours ou à venir.
-Pour le moment, la direction trouve les salariés plus motivés et que l'ambiance de travail plus sereine.
+Pour le moment, la direction trouve les salariés plus motivés et l'ambiance de travail plus sereine.
 Il y a eu aussi des retours de la médecine du travail qui constate des changements positifs quant au stress des salariés.
 
 
