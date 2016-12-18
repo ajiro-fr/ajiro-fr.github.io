@@ -253,3 +253,10 @@ body {
 .article-list__calendar {
   font-size: 1rem;
 }
+
+.article__img-top {
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  max-height: 400px;
+}

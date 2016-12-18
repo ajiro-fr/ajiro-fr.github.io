@@ -1,7 +1,16 @@
-<div>
+<div 
+  style=" overflow: hidden; "
+  >
   <img alt="{{include.description}}"
        src="/assets/{{include.asset}}/{{include.name}}-800p.jpg"
-       class="img-fluid rounded" />
+       class="rounded 
+        {% if include.top %}
+          article__img-top
+        {% else %}
+          img-fluid
+        {% endif %}
+        " 
+       />
   {% if include.source %}
     <span class="img-credit float-xs-right">
       <a href="{{include.source}}">Source</a>
