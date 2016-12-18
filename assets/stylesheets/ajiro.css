@@ -260,3 +260,8 @@ body {
   width: 100%;
   max-height: 400px;
 }
+
+.cookie-consent {
+  font-size: 12px;
+  margin-bottom: 0px;
+}
