@@ -64,10 +64,12 @@ De son côté, la médecine du travail constate des changements positifs quant a
 
 ## Mes propositions pour la suite
 
-La direction pourrait, avec ses salariés, encore raffiner la définition de la raison d'être de l'entreprise et de ses valeurs.
-Ainsi, les décisions pourraient être mises en œuvre directement par les salariés. La validation de la direction se ferait alors à posteriori des actions réalisées avec un contrôle sur l'adéquation des actions avec le cadre défini.
+La direction pourrait, avec ses salariés, définir la raison d'être et les valeurs de _DDI_.
+Ainsi, les décisions pourraient être prises et mises en œuvre directement par les salariés.
+La validation se ferait alors à posteriori, par la direction ou les collaborateurs.
+Cette validation se faisant sur l'adéquation des actions avec le cadre.
 
-Cela aurait comme effet de continuer à autonomiser les équipes. Ce qui est dans la suite logique de la transformation déjà réalisée.
+Cela aurait comme effet de continuer à autonomiser les équipes. Ce qui est dans la suite de la transformation déjà réalisée.
 Après avoir délégué les propositions d'actions, c'est déléguer les décisions et leur mise en œuvre.
 
 À terme, la direction deviendrait l'organe qui anime la raison d'être de l'entreprise au quotidien et se positionnerait sur les enjeux stratégiques et de visions. En ne prenant plus elle-même de décisions opérationnelles, elle ne serait plus soumise à [l’escalade d’engagement].
