@@ -13,7 +13,7 @@ illustration:
   source: https://www.flickr.com/photos/jcflac/16611440342/
 ---
 Récemment, j'ai été invité à un petit-déjeuner sur un retour d'expérience d'une transformation d'entreprise.
-Appelons-la _DDI_ (Dupond et Dupont Industrie).
+Appelons cette entreprise la _DDI_ (Dupond et Dupont Industrie), afin de préserver son anonymat.
 
 
 
@@ -25,29 +25,36 @@ Appelons-la _DDI_ (Dupond et Dupont Industrie).
 ## Le récit
 
 Il y a un an, suite à une grève du personnel, l'entreprise _DDI_ est dans une impasse.
-Il y a une défiance nette contre la direction. Même certains managers sont en opposition avec la direction.
+Il y a une défiance nette vis à vis de la direction. Même certains managers sont en opposition avec celle-ci.
 
-Ne sachant plus faire face, la direction se tourne vers un cabinet de conseil et prend trois mois pour changer leur mode de management. L'idée forte de cette transformation est de mettre en place un management participatif.
+Ne sachant plus faire face, la direction de _DDI_ se tourne vers un cabinet de conseil.
 
-Après une phase d'audit réalisé par les consultants, la direction identifie un manque de clarté du cadre et un positionnement trop directif de sa structure hiérarchique. Les managers sont trop présents dans les décisions de leurs subalternes.
+Après une phase d'audit réalisé par les consultants, la direction décide de travailler pour que les managers soient moins directif, moins présents dans les décisions de leurs collaborateurs.
 
-La première étape est donc de redonner de la clarté du cadre. La direction lance donc les premiers ateliers sur ce sujet, animés par des leaders nommés parmi les différents niveaux hiérarchiques de l'entreprise.
+Pour cela, le cabinet de conseil propose une transformation en trois étapes sur trois mois. L'idée forte est de mettre en place un management participatif.
+
+La première étape est de redonner de la clarté au cadre. L'objectif est de partager le sens et l'objectif de l'entreprise.
+La direction lance donc les premiers ateliers sur ce sujet, animés par des leaders nommés parmi les différents niveaux hiérarchiques de l'entreprise.
 La démarche sera intitulée _«&nbsp;retrouver performance et plaisir au travail&nbsp;»_.
-Elle sera organisée en trois thèmes : les plannings, l'organigramme des opérations  et l'organisation des travaux de maintenance. Ce sont les trois points ou s'accumulent les difficultés de l'entreprise.
+Elle sera organisée en trois thèmes : les plannings, l'organigramme des opérations  et l'organisation des travaux de maintenance. Ce sont les trois points ou s'accumulent les plus grosses difficultés de l'entreprise.
 Quatre valeurs ont émergé : bienveillance, accompagnement des équipes, ouverture d'esprit et autonomie.
-Et pour finir la définition du cadre, quatre filtres sont définis pour valider les propositions des salariés : sécurité, rentabilité, satisfaction des clients et satisfaction des collaborateurs.
+Pour finir la définition du cadre, quatre filtres sont définis : sécurité, rentabilité, satisfaction des clients et satisfaction des collaborateurs.
+Ces filtres seront utilisés pour valider les futurs propositions des salariés.
 
 La deuxième étape est de redonner de l'autonomie aux salariés sur les propositions d'actions.
 C'est le principe même du management participatif.
-La direction met en place des ateliers avec tous les salariés, toujours animés par les leaders, pour proposer des actions de changement.
+La direction met en place des ateliers par petits groupes impliquant l'ensemble des salariés, toujours animés par les leaders, pour proposer des actions de changement.
 Ces ateliers produiront 170 propositions d'actions sur lesquelles la direction en a validé 70 % en utilisant les filtres.
 
-À ce jour, 70 % des actions sont terminées soit en cours. Il y a eu des changements de planning, des achats de chariots, des propositions d'achat de véhicules électriques...
+La troisième et dernière étape est la mise en place proprement dite des actions validées par la direction.
+À ce jour, toutes les actions sont soit terminées soit en cours.
+Il y a eu des changements de planning, des achats de chariots, des propositions d'achat de véhicules électriques...
 
-Le bilan est positif. L'entreprise a restauré la confiance. Les managers ont changé de posture et sont plus dans une posture d'écoute.
+Le bilan pour l'entreprise _DDI_ est positif.
+L'entreprise a restauré la confiance. La majorité des managers a changé de posture, plus à l'écoute des collaborateurs.
 Évidemment, la direction sait qu'elle est très attendue sur le suivi des efforts, en particulier des actions encore en cours ou à venir.
-Pour le moment, la direction trouve les salariés plus motivés et l'ambiance de travail plus sereine.
-Il y a eu aussi des retours de la médecine du travail qui constate des changements positifs quant au stress des salariés.
+Pour le moment, elle trouve les salariés plus motivés et l'ambiance de travail plus sereine, avec comme conséquence moins d'absentéisme.
+De son côté, la médecine du travail constate des changements positifs quant au stress des salariés, lors des visites médicales.
 
 
 {% include img.html
