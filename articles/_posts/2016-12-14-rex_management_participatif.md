@@ -1,7 +1,7 @@
 ---
 title: "Retour d'expérience sur une mise ne œuvre d'un management participatif"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - albiez_olivier
 tags:
