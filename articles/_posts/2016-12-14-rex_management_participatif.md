@@ -69,15 +69,15 @@ Ainsi, les décisions pourraient être prises et mises en œuvre directement par
 La validation se ferait alors à posteriori, par la direction ou les collaborateurs.
 Cette validation se faisant sur l'adéquation des actions avec le cadre.
 
-Cela aurait comme effet de continuer à autonomiser les équipes. Ce qui est dans la suite de la transformation déjà réalisée.
-Après avoir délégué les propositions d'actions, c'est déléguer les décisions et leur mise en œuvre.
+Cela aurait comme effet de continuer à autonomiser les équipes. Ce qui est dans la suite de la transformation déjà réalisée&nbsp;:
+après avoir délégué les propositions d'actions, c'est déléguer les décisions et leur mise en œuvre.
 
 À terme, la direction deviendrait l'organe qui anime la raison d'être de l'entreprise au quotidien et se positionnerait sur les enjeux stratégiques et de visions. En ne prenant plus elle-même de décisions opérationnelles, elle ne serait plus soumise à [l’escalade d’engagement].
-Et d'autre part, elle serait plus attentive aux [signaux faibles] et aux nouvelles opportunités business, comme l'a si bien décrit Shoji Shiba dans son livre [Management selon Shiba].
+Et d'autre part, elle serait plus attentive aux [signaux faibles] et aux nouvelles opportunités business, comme l'a si bien expliqué Shoji Shiba dans son livre [Management selon Shiba].
 
-L'entreprise se dirigerait alors vers une libération, comme décrit par Frédéric Laloux dans [Reinventing Organisations].
+L'entreprise se dirigerait alors vers une libération, décrit par Frédéric Laloux dans [Reinventing Organisations].
 
-La difficulté pour la direction sera dans ce cas d'arriver à faire confiance et de lâcher du contrôle en laissant les employés décider et agir.
+La difficulté pour la direction sera d'arriver à faire confiance et de lâcher du contrôle en laissant les employés décider et agir.
 
 Les bénéfices pour l'entreprise ainsi que ses salariés sont énormes. Pour les salariés, il s'agit de bien-être au travail.
 Pour la direction, elle verra une accélération des prises de décision, de l'adaptation rapide aux changements et de la performance.
