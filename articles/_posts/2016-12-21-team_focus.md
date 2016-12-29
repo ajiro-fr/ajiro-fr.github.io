@@ -11,8 +11,8 @@ tags:
   - management
   - team
 illustration:
-  name: 16611440342_3d225442c1
-  source: https://www.flickr.com/photos/jcflac/16611440342/
+  name: 12339203385_2b66c26515
+  source: https://www.flickr.com/photos/princeenergy/12339203385/
 ---
 
 Les équipes agiles que j'ai pu observé, ont souvent un encours important.
