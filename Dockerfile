@@ -1,4 +1,4 @@
-from ubuntu
+from debian:testing
 
 env DEBIAN_FRONTEND noninteractive
 
