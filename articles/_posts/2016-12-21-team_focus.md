@@ -32,3 +32,5 @@ Gains:
 Risques:
 
 - un developpement bloqué va bloquer toute l'équipe (importance du stop the line) (effet examen)
+
+start finishing, stop starting
