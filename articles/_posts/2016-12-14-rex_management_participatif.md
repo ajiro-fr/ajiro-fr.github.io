@@ -1,5 +1,5 @@
 ---
-title: "Retour d'expérience sur une mise ne œuvre d'un management participatif"
+title: "Retour d'expérience sur une mise en œuvre d'un management participatif"
 lang: fr
 hidden: false
 authors:
