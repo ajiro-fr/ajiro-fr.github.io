@@ -11,8 +11,8 @@ tags:
   - management
   - team
 illustration:
-  name: 12339203385_2b66c26515
-  source: https://www.flickr.com/photos/princeenergy/12339203385/
+  name: light-focused
+  source: https://www.flickr.com/photos/carolinabio/6846795611
 ---
 
 {: .blockquote}
