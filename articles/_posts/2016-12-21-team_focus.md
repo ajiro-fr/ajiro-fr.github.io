@@ -97,7 +97,7 @@ Nous avons alors repris le développement quelques minutes avant d'arrêter à n
 
 Au bout d'une demis journée l'histoire utilisateur n'était pas en production, elle était d'ailleurs loin d'être terminé, mais le mur était couvert de postit. 
 
-C'est l'utilisation des pratiques Lean du Gemba et de l'Andon pour parcourir la chaîne de production de valeur et de l'arrêter à chaque problème qui nous à permis d'identifier une grande partie des gachies. 
+C'est l'utilisation des pratiques Lean du Gemba et du Jidoka pour parcourir la chaîne de production de valeur et de l'arrêter à chaque problème qui nous à permis d'identifier une grande partie des gachies. 
 Une fois transformé en PDCA ils ont permis d'améliorer drastiquement la productivité de l'équipe tout en maintenant une équipe beaucoup plus soudé. 
 
 ## Référence
