@@ -21,9 +21,9 @@ Au premier abord,il est difficile de faire un lien entre le développement produ
 ## De la victoire
 Ca veut dire quoi gagner ? Michel YAKOVLEFF répond de la manière suivante : La victoire, c'est l'atteinte de ses objectifs, l'absence d'objectif signifiant l'impossibilité de la victoire. Il s'agit d'imposer sa volonté à l'ennemi car si les objectifs n'étaient pas contradictoires, il n'y aurait aucune raison de faire la guerre. **La défaite, c'est la perte totale d'options. La victoire consiste à jouir d'au moins deux options**. Le chef combat pour gagner, ce qui revient à dire que le chef combat pour saisir l'initiative (s'il ne l'avait déjà) et pour la rentabiliser (une fois qu'il en dispose) .
 
-Nous retenons deux points importants à savoir que l'on ne peut gagner sans objectif et que la victoire consiste à jouir d'options. En développement produit, cela veut dire point de salut sans vision (produit) et que tant qu'il y a de la vie il y a de l'espoir. Votre produit est 'mort' à partir du moment ou vous n'avez plus d'options pour le faire vivre.
+Nous retenons deux points importants à savoir que l'**on ne peut gagner sans objectif** et que **la victoire consiste à jouir d'options**. En développement produit, cela veut dire point de salut sans vision (produit) et que tant qu'il y a de la vie il y a de l'espoir. Votre produit est 'mort' à partir du moment ou vous n'avez plus d'options pour le faire vivre.
 
-Note importante, dans le business, l'ennemi n'est pas le concurrent mais le cahos du monde.
+La minute théologique : Dans le business, l'ennemi n'est pas le concurrent mais le chaos du monde. Il y aujourd'hui peu de guerre symétrique avec de grands pays qui s'affrontent. On parle plus de guerre asymétrique avec des stratégies qui dépendent du type d'armée (conventionnelle, guerilla, ...). La tactique militaire est cependant identique quelque soit le type de guerre, c'est la stratégie qui change. Dans le monde du business, on retrouve les mêmes notions avec peu de d'affrontement frontal. On essaye plus des statégies de contournement ou d'infiltration. La notion d'ennemi est donc toute relative.
 
 {% include img.html
     name='cynefin_framework_feb_2011'
@@ -31,12 +31,10 @@ Note importante, dans le business, l'ennemi n'est pas le concurrent mais le caho
 %}
 
 ## Victoire stratégique, opératif, tactique
-On peut gagner toutes les batailles mais perdre la guerre. C'est l'amer expérience de l'armée américaine au Vietnam.
-La victoire tactique est l'évènement qui contribue à la victoire de niveau stratégique. La victoire tactique est la saisie d'options.
+On peut gagner toutes les batailles mais perdre la guerre. C'est l'amère expérience de l'armée américaine au Vietnam.
+La victoire tactique est l'évènement qui contribue à la victoire de niveau stratégique. La victoire tactique est la saisie d'options. Si l'on regarde les statistiques des batailles, l'on se rend compte que pour gagner il faut en général un rapport de force minimal de 2 ou 3 contre 1. Aucun défenseur n'a gagné à partir de 10 contre 1. Là, nous sommes bien en train de parler d'une bataille et non pas de la guerre. Il peut être intéressant de mener une bataille à 1 contre 1 pour fixer un adversaire et gagner une guerre. La notion de victoire est donc relative et elle dépend du niveau (contexte).
 
-A compléter
-
-On retrouve ces notions dans les écrits de Geoffrey Moore sur les horizons de temps. On ne manage pas de la même façon un projet dont l'horizon de temps est court terme, moyen terme ou long terme.
+On retrouve ces notions dans les écrits de Geoffrey Moore sur les horizons de temps. On ne manage pas de la même façon un projet dont l'horizon de temps est court terme, moyen terme ou long terme. Dans son livre Escape Velocity, il parle d'options de croissance pour l'horizon 3 à 6 ans. Nous sommes dans de l'exploration avec des pratiques comme le Lean Canvas. De 1 à 3 ans, il s'agit des revenus en croissance qui seront les revenus de base de demain. Nous sommes plus dans de l'industrialisation. De 0 à 1 an, on optimise les revenus actuels. Il s'agit du cycle produit classique : J'explore, j'industrialise, j'optimise, je sors. **Les conditions de succès des différents horizons ne peuvent être les mêmes**
 
 {% include img.html
     name='cynefin_framework_feb_2011'
