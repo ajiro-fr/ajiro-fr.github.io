@@ -73,6 +73,7 @@ Maintenant que nous avons parlé de victoire et d'actes élémentaires, il ne re
     name='cynefin_framework_feb_2011'
     source='https://www.flickr.com/photos/sharynmorrow/8459686142/'
 %}
+
 **La percussion**
 L'attaque en force a pour but de submerger ou d'éradiquer une force. **Son succès dépend essentiellement de la supériorité des moyens** visant à la saturation. C'est la forme d'attaque qui s'accorde le mieux à la pensée militaire occidentale. L'assaillant malgré un rapport de force très supérieur offre toujours une vulnérabilité au défenseur. La saturation des moyens va de pair avec une complexification du commandemant. C'est particulièrement vrai lors de jonction de deux fronts. En exemple, c'est la bataille du golfe.
 
@@ -94,7 +95,12 @@ Je vois deux exemples quelques peu différents dans le monde de l'entreprise :
 - Capitain train qui a proposé une interface plus ergonomique à la réservation de billets de train que les sites de la Sncf. Ils se sont insérés dans une opportunité ouverte par les nouveaux usages digitaux. Dans leur cas, il est intéressant de voir qu'ils ont aussi réussi à être exfiltrés en étant racheté par Trainline.
 - Je suis une grosse société et je pense que de nouveaux usages apparaissent et que j'ai donc un trou qui vient de s'ouvrir. Je crée alors de petites unités légères qui vont pouvoir profiter de l'option et s'insérer rapidement dans le trou. Je suis Société Générale et je rachète Boursorama. Je suis Auchan et je crée Auchan Direct. C'est dans cette possibiité que l'on voit plus le problème de coordination dans la profondeur. Est ce que les cultures de ces deux entités sont compatibles ? Comment est ce que cela peut coulisser ?
 
-** Le raid**
+{% include img.html
+    name='cynefin_framework_feb_2011'
+    source='https://www.flickr.com/photos/traverseearth/8052091947'
+%}
+
+**Le raid**
 Il existe une variante de l'infiltration qui s'appelle le raid. Il s'agit de faire une incursion rapide et profonde à l'intérieur du dispositif ennemi pour s'emparer d'une zone clé ou détruire un objectif de grand intérêt opérationnel. On parle de raid lorsque le détachement agit seul, hors de tout soutien pendant une durée significative. Ne pas oublier l'issue du raid qui sera soit la jonction, soit le désengagement.
 
 Ca ne vous rappelle pas la notion de task force. Généralement, ce dispositif est utilisé lorsque l'on rencontre des problèmes. Cela peut néanmoins être utilisé pour créer une tête de pont. Je crée une équipe qui va aller plus vite voire très vite et qui va donc se couper de ses relais. Je ne suis pas sûr d'une opportunité business et donc je crée une équipe ad hoc. A l'issue des premiers tests, soit je la disperse soit je la rejoins.
@@ -103,6 +109,7 @@ Ca ne vous rappelle pas la notion de task force. Généralement, ce dispositif e
     name='cynefin_framework_feb_2011'
     source='https://www.flickr.com/photos/brianjcook/2918651955/ '
 %}
+
 **La feinte (embuscade)**
 La feinte est un mouvement simulé par lequel on trompe l'adversaire. Il s'agit de mesures visant à **induire l'ennemi en erreur** grace à des truquages, des déformations de la réalité ou de falsifications en vue de l'inciter à réagir de manière préjudiciable à ses propres intérêts.
 
@@ -114,6 +121,7 @@ Si nous étendons la notion de feinte à la notion de surprise, il y a des paral
     name='cynefin_framework_feb_2011'
     source='https://www.flickr.com/photos/hiboucards/8383856656/'
 %}
+
 **Torturer l'enfant**
 Avertissement : cet intitulé n'est pas une apologie de procédés barbares, mais un emprunt au chinois. Il s'agit d'isoler une fraction significative de la force adverse et d'entamer sa torture (exercer sur lui une pression suffisante pour qu'il se sente au bord de la destruction). Ce coup s'avère utile à un assaillant qui veut faire l'économie d'un siège. Il consiste à provoquer décisif en rase campagne.
 
