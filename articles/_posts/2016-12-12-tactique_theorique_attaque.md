@@ -12,7 +12,7 @@ illustration:
   name: 138245187_3f2bafe0bc_o
   source: https://www.flickr.com/photos/thomashawk/138245187/
 ---
-Au premier abord,il est difficile de faire un lien entre le développement produit cher à Geoffrey Moore et la doctrine militaire française de Michel Yakovleff. Plus nous avons avancé dans la lecture de Tactique théorique, plus les analogies nous ont paru nombreuses. Nous proposons de montrer comment des tactiques militaires peuvent être utilisées dans le développement produit. Dans ce post, nous nous concentrerons sur l'attaque ce qui en développement produit signifie avoir l'initiative.
+Au premier abord, il est difficile de faire un lien entre le développement produit cher à Geoffrey Moore et la doctrine militaire française de Michel Yakovleff. Plus nous avons avancé dans la lecture de Tactique théorique, plus les analogies nous ont paru nombreuses. Nous proposons de montrer comment des tactiques militaires peuvent être utilisées dans le développement produit. Dans ce post, nous nous concentrerons sur l'attaque ce qui en développement produit signifie avoir l'initiative.
 
 {% include img.html
     name='5703672288_b53cf33a95_o'
