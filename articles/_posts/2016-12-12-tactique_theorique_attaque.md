@@ -75,6 +75,7 @@ Maintenant que nous avons parlé de victoire et d'actes élémentaires, il ne re
 %}
 
 **La percussion**
+
 L'attaque en force a pour but de submerger ou d'éradiquer une force. **Son succès dépend essentiellement de la supériorité des moyens** visant à la saturation. C'est la forme d'attaque qui s'accorde le mieux à la pensée militaire occidentale. L'assaillant malgré un rapport de force très supérieur offre toujours une vulnérabilité au défenseur. La saturation des moyens va de pair avec une complexification du commandemant. C'est particulièrement vrai lors de jonction de deux fronts. En exemple, c'est la bataille du golfe.
 
 En développement produit, c'est la tactique assez simple du rentre dedans. Je fonce tout droit sans me poser trop de questions et sans nécessairement chercher à masquer mes ambitions. C'est donc plutôt une tactique de riches.
@@ -87,6 +88,7 @@ Pour donner un exemple actuel, nous pensons à SFR et les rachats consécutifs d
 %}
 
 **L'infiltration ou attaque en souplesse**
+
 Elle est fondée sur l'insertion d'une part de la force avant l'attaque proprement dite. Ce procédé n'existe pas en doctrine américaine. L'attaque en souplesse présente plusieurs avantage à savoir qu'elle peut s'accomoder d'un rapport de force moins favorable du fait qu'**elle vise les vulnérabilités de l'ennemi** et qu'**elle joue au maximum de la supériorité de petites unités**. Elle exige que certaines conditions soient réunies comme le terrain qui doit se preter à l'infiltration et que la troupe doit être formée à être autonome. Côté inconvénients, la coordination dans la profondeur est toujours difficile voir impossible et il reste la question de la récupération d'une équipe infiltrée.
 
 En développement produit, cela vous fait penser à quelque chose ? **Je vais viser les zones de faiblesse de mes adversaires**. Pour reprendre le point de vue de Peter Thiel dans From zero to one, je vais chercher une zone vierge ou je pourrais tenter de prendre le monopole. Je vais chercher la fonctionnalité différentiante qui va me permettre d'être plus ou moins seul.
@@ -101,6 +103,7 @@ Je vois deux exemples quelques peu différents dans le monde de l'entreprise :
 %}
 
 **Le raid**
+
 Il existe une variante de l'infiltration qui s'appelle le raid. Il s'agit de faire une incursion rapide et profonde à l'intérieur du dispositif ennemi pour s'emparer d'une zone clé ou détruire un objectif de grand intérêt opérationnel. On parle de raid lorsque le détachement agit seul, hors de tout soutien pendant une durée significative. Ne pas oublier l'issue du raid qui sera soit la jonction, soit le désengagement.
 
 Ca ne vous rappelle pas la notion de task force. Généralement, ce dispositif est utilisé lorsque l'on rencontre des problèmes. Cela peut néanmoins être utilisé pour créer une tête de pont. Je crée une équipe qui va aller plus vite voire très vite et qui va donc se couper de ses relais. Je ne suis pas sûr d'une opportunité business et donc je crée une équipe ad hoc. A l'issue des premiers tests, soit je la disperse soit je la rejoins.
@@ -111,6 +114,7 @@ Ca ne vous rappelle pas la notion de task force. Généralement, ce dispositif e
 %}
 
 **La feinte (embuscade)**
+
 La feinte est un mouvement simulé par lequel on trompe l'adversaire. Il s'agit de mesures visant à **induire l'ennemi en erreur** grace à des truquages, des déformations de la réalité ou de falsifications en vue de l'inciter à réagir de manière préjudiciable à ses propres intérêts.
 
 Pour utiliser cette tactique, il est mieux d'avoir identifié un adversaire. Il est actuellement assez difficile d'utiliser cette tactique pour les sociétés côtés sous peine de divulgation d'informations erronées. Il s'agit plus de masquer ses propres intentions que faire des écrans de fumée. Dans les exemples récents, nous pensons à l'arrivée de Free sur le mobile avec des offres tarifaires beaucoup plus basses que ce que les concurrents avaient en tête.
@@ -123,6 +127,7 @@ Si nous étendons la notion de feinte à la notion de surprise, il y a des paral
 %}
 
 **Torturer l'enfant**
+
 Avertissement : cet intitulé n'est pas une apologie de procédés barbares, mais un emprunt au chinois. Il s'agit d'isoler une fraction significative de la force adverse et d'entamer sa torture (exercer sur lui une pression suffisante pour qu'il se sente au bord de la destruction). Ce coup s'avère utile à un assaillant qui veut faire l'économie d'un siège. Il consiste à provoquer décisif en rase campagne.
 
 Plutôt que d'affronter un adversaire sur son terrain, il s'agit de déplacer la bataille sur un terrain où vous êtes le plus à l'aise. Et donc il faut choisir un domaine dans lequel vous avez la supériorité et d'appuyer la où ça fait mal pour l'adversaire sans pour autant l'anéantir. Vous souhaitez qu'il bascule une partie de ses forces sur ce domaine pour l'affaiblir de manière globale. L'idée est de créer une brèche sur le coeur en déportant les défenses.
