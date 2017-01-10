@@ -20,7 +20,7 @@ Au premier abord,il est difficile de faire un lien entre le développement produ
 %}
 
 ## De la victoire
-Ca veut dire quoi gagner ? Michel YAKOVLEFF répond de la manière suivante : La victoire, c'est l'atteinte de ses objectifs, l'absence d'objectif signifiant l'impossibilité de la victoire. Il s'agit d'imposer sa volonté à l'ennemi car si les objectifs n'étaient pas contradictoires, il n'y aurait aucune raison de faire la guerre. **La défaite, c'est la perte totale d'options. La victoire consiste à jouir d'au moins deux options**. Le chef combat pour gagner, ce qui revient à dire que le chef combat pour saisir l'initiative (s'il ne l'avait déjà) et pour la rentabiliser (une fois qu'il en dispose) .
+Ca veut dire quoi gagner ? Michel Yakovleff répond de la manière suivante : La victoire, c'est l'atteinte de ses objectifs, l'absence d'objectif signifiant l'impossibilité de la victoire. Il s'agit d'imposer sa volonté à l'ennemi car si les objectifs n'étaient pas contradictoires, il n'y aurait aucune raison de faire la guerre. **La défaite, c'est la perte totale d'options. La victoire consiste à jouir d'au moins deux options**. Le chef combat pour gagner, ce qui revient à dire que le chef combat pour saisir l'initiative (s'il ne l'avait déjà) et pour la rentabiliser (une fois qu'il en dispose) .
 
 Nous retenons deux points importants à savoir que l'**on ne peut gagner sans objectif** et que **la victoire consiste à jouir d'options**. En développement produit, cela veut dire point de salut sans vision (produit) et que tant qu'il y a de la vie il y a de l'espoir. Votre produit est 'mort' à partir du moment ou vous n'avez plus d'options pour le faire vivre.
 
@@ -49,7 +49,7 @@ La définition en doctrinue française :
 
 L'initiative absolue n'existe pas. Tout chef militaire est soumis à une volonté supérieure qui est soumis à des contraintes politiques. L'expression formelle de cette contrainte est la MISSION. Avoir l'initiative optimise le fonctionnement du système combattant. Celui qui a l'initiative est maitre du temps. 
 
-Nous avons beaucoup aimé une image donnée par Michel Yakovlef. Celui qui défend et s'attend à une attaque se retrouve à dormir en tenue de combat avec chaussures et barda. Dis comme cela, ça ne fait pas vraiment envie. Quand on adopte une posture défensive, on pourrait se dire que cela ne consomme pas d'énergie. C'est loin d'être vrai tant on mobilise des ressources au cas où et tant l'incertitude génère du stress. **La défense vise à reprendre l'initiative.** Il en est de même dans le développement produit, si vous ne faites que répondre vous serez au mieux deuxième.
+Nous avons beaucoup aimé une image donnée par Michel Yakovleff. Celui qui défend et s'attend à une attaque se retrouve à dormir en tenue de combat avec chaussures et barda. Dis comme cela, ça ne fait pas vraiment envie. Quand on adopte une posture défensive, on pourrait se dire que cela ne consomme pas d'énergie. C'est loin d'être vrai tant on mobilise des ressources au cas où et tant l'incertitude génère du stress. **La défense vise à reprendre l'initiative.** Il en est de même dans le développement produit, si vous ne faites que répondre vous serez au mieux deuxième.
 
 {% include img.html
     name='cynefin_framework_feb_2011'
