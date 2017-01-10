@@ -80,7 +80,7 @@ L'attaque en force a pour but de submerger ou d'éradiquer une force. **Son succ
 
 En développement produit, c'est la tactique assez simple du rentre dedans. Je fonce tout droit sans me poser trop de questions et sans nécessairement chercher à masquer mes ambitions. C'est donc plutôt une tactique de riches.
 
-Pour donner un exemple actuel, nous pensons à SFR et les rachats consécutifs des droits de la Premiere League ainsi que les chaines découverte de ... Je paie cher et je pars sur un affrontement direct.  
+Pour donner un exemple actuel, nous pensons à SFR et les rachats consécutifs des droits de la Premiere League ainsi que les chaines découverte de Discovery. Je paie cher et je pars sur un affrontement direct.  
 
 {% include img.html
     name='cynefin_framework_feb_2011'
@@ -123,7 +123,7 @@ Si nous étendons la notion de feinte à la notion de surprise, il y a des paral
 
 {% include img.html
     name='cynefin_framework_feb_2011'
-    source='https://www.flickr.com/photos/hiboucards/8383856656/'
+    source='https://www.flickr.com/photos/dkshots/5059989397'
 %}
 
 **Torturer l'enfant**
