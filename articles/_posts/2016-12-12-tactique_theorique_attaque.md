@@ -72,48 +72,37 @@ Maintenant que nous avons parlé de victoire et d'actes élémentaires, il ne re
     name='cynefin_framework_feb_2011'
     source='https://www.flickr.com/photos/sharynmorrow/8459686142/'
 %}
-Percussion (jonction)
+**La percussion**
+L'attaque en force a pour but de submerger ou d'éradiquer une force. **Son succès dépend essentiellement de la supériorité des moyens** visant à la saturation. C'est la forme d'attaque qui s'accorde le mieux à la pensée militaire occidentale. L'assaillant malgré un rapport de force très supérieur offre toujours une vulnérabilité au défenseur. La saturation des moyens va de pair avec une complexification du commandemant. C'est particulièrement vrai lors de jonction de deux fronts. En exemple, c'est la bataille du golfe.
+
+En développement produit, c'est la tactique assez simple du rentre dedans. Je fonce tout droit sans me poser trop de questions et sans nécessairement chercher à masquer mes ambitions. C'est donc plutôt une tactique de riches.
+
+Pour donner un exemple actuel, nous pensons à SFR et les rachats consécutifs des droits de la Premiere League ainsi que les chaines découverte de ... Je paie cher et je pars sur un affrontement direct.  
 
 {% include img.html
     name='cynefin_framework_feb_2011'
     source='https://www.flickr.com/photos/wactout81/5261826705/'
 %}
 
-Infiltration (raid)
+**L'infiltration ou attaque en souplesse**
+Elle est fondée sur l'insertion d'une part de la force avant l'attaque proprement dite. Ce procédé n'existe pas en doctrine américaine. L'attaque en souplesse présente plusieurs avantage à savoir qu'elle peut s'accomoder d'un rapport de force moins favorable du fait qu'elle vise les vulnérabilités de l'ennemi et qu'elle joue au maximum de la supériorité de petites unités. Elle exige que certaines conditions soient réunies comme le terrain qui doit se preter à l'infiltration et que la troupe doit être formée à être autonome. Côté inconvénients, la coordination dans la profondeur est toujours difficile voir impossible et il reste la question de la récupération d'une équipe infiltrée.
+
+En développement produit, cela vous fait penser à quelque chose ? Je vais viser les zones de faiblesse de mes adversaires. Pour reprendre le point de vue de Peter Thiel dans From zero to one, je vais chercher une zone vierge ou je pourrais tenter de prendre le monopole. Je vais chercher la fonctionnalité différentiante qui va me permettre d'être plus ou moins seul.
+
+Je vois deux exemples quelques peu différents dans le monde de l'entreprise :
+- Capitain train qui a proposé une interface plus ergonomique à la réservation de billets de train que les sites de la Sncf. Ils se sont insérés dans une opportunité ouverte par les nouveaux usages digitaux. Dans leur cas, il est intéressant de voir qu'ils ont aussi réussi à être exfiltrés en étant racheté par Trainline.
+- Je suis une grosse société et je pense que de nouveaux usages apparaissent et que j'ai donc un trou qui vient de s'ouvrir. Je crée alors de petites unités légères qui vont pouvoir profiter de l'option et s'insérer rapidement dans le trou. Je suis Société Générale et je rachète Boursorama. Je suis Auchan et je crée Auchan Direct. C'est dans cette possibiité que l'on voit plus le problème de coordination dans la profondeur. Est ce que les cultures de ces deux entités sont compatibles ? Comment est ce que cela peut coulisser ?
 
 {% include img.html
     name='cynefin_framework_feb_2011'
     source='https://www.flickr.com/photos/brianjcook/2918651955/ '
 %}
-
-Embuscade (feinte)
+**Embuscade (feinte)**
 
 {% include img.html
     name='cynefin_framework_feb_2011'
     source='https://www.flickr.com/photos/hiboucards/8383856656/'
 %}
-Quelques coups : Torturer l'enfant
+**Torturer l'enfant**
 
 
-{% include img.html
-    name='cynefin_framework_feb_2011'
-    source='https://lizkeogh.com/2012/03/11/cynefin-for-devs/'
-%}
-
-
-## Début
-
-[Il est temps de passer aux exercices avec le premier post 'comment créer une compréhension commune'.](/articles/2016/11/24/katastrophe_1_share.html)
-
-[design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
-
-La défense
-
-[1:11]  
-But de la défense, reprendre l'initiative
-
-[1:13]  
-Les modalités de base : absorption ou dispersion
-
-[1:15]  
-Défense ferme, défense d'usure, défense mobile, contre attaque, défense inattendue, harcelement, esquive, deviation, attaque perturbatrice
