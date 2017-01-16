@@ -18,7 +18,7 @@ social:
   icon: fa-linkedin
 - url: http://fr.viadeo.com/fr/profile/thomas.clavier
   icon: fa-viadeo
-bio: >
+bio: |
   Je suis coach agile chez [Azaé](http://azae.net), enseignant à l'université de Lille 1 et co-fondateur de [Deliverous](http://deliverous.com),
   mes sujets de prédilection sont l'agilité, devops, docker, le lean startup et l'artisanat
   logiciel. Depuis plus de 10 ans, j'essaye de transformer le travail en un jeu, faire progresser
