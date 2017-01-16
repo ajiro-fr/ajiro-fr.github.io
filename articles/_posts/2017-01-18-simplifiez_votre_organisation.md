@@ -19,7 +19,7 @@ A la base, il s'agit d'une discussion de coachs autour des frameworks d'agilité
     source='https://www.flickr.com/photos/albertovo5/4209562065'
 %}
 
-Cela part d'un constat du terrain à savoir que les grandes organisations ont de l'inertie et qu'il est difficile de changer de direction. C'est pour cela qu'on peut les comparer à des paquebots. Cela veut dire qu'il est très difficile de réagir en cas de changement des conditions de marché et donc qu'elles sont difficilement capables de saisir certaines opportunités business. Je vais donc essayer de répondre à la question : Comment peut on s'adapter plus vite ? On pourrait aussi l'exprimer sous la forme : Quelle est la manoeuvrabilité de votre organisation ?
+Cela part d'un constat du terrain à savoir que les grandes organisations ont de l'inertie et qu'il est **difficile de changer de direction**. C'est pour cela qu'on peut les comparer à des paquebots. Cela veut dire qu'il est très difficile de réagir en cas de changement des conditions de marché et donc qu'elles sont difficilement capables de saisir certaines opportunités business. Je vais donc essayer de répondre à la question : Comment peut on s'adapter plus vite ? On pourrait aussi l'exprimer sous la forme : Quelle est la manoeuvrabilité de votre organisation ?
 
 {% include img.html
     name='2993116645_7b11bd1cc8_o'
@@ -35,9 +35,9 @@ Si je regarde au niveau d'une équipe, on ne voit pas nécessairement de problè
 
 Regardons comment cela se passe dans beaucoup d'organisations :
 
-Cela commence l'été ses piques niques, sa plage et sa définition des projets qui seront inscrits dans le budget de l'année d'après. Ceux qui suivent auront noté que cela revient à demander de la visibilité à 18 mois. Une fois que l'on a déterminé les projets, il ne reste plus qu'à constater ce que cela signifie en termes d'effectif nécessaire équipe par équipe. Dans la dernière étape, celle de définition des objectifs individuels il n'y a plus qu'à reprendre les projets programmés. Et c'est le début des ennuis car en travaillant ainsi nous avons lié objectifs, prévisionnel et allocation de ressources.
+Cela commence **l'été** ses piques niques, sa plage et sa définition des projets qui seront inscrits dans le **budget** de l'année d'après. Ceux qui suivent auront noté que cela revient à demander de la visibilité à 18 mois. Une fois que l'on a déterminé les projets, il ne reste plus qu'à constater ce que cela signifie en termes d'effectif nécessaire équipe par équipe. Dans la dernière étape, celle de définition des objectifs individuels il n'y a plus qu'à reprendre les projets programmés. Et c'est le début des ennuis car en travaillant ainsi nous avons lié objectifs, prévisionnel et allocation de ressources.
 
-Voici une liste non exhaustive des problèmes générés :
+**Voici une liste non exhaustive des problèmes générés**
 
 {% include img.html
     name='7979915880_8ba3e00795_k'
@@ -76,11 +76,11 @@ Voici une liste non exhaustive des problèmes générés :
 
 Maintenant que j'ai bien décrit ce qui les problèmes, je vais essayer de parler solutions. Tout d'abord, qu'est ce que je cherche à faire :
 
-- Adapter mes business model aussi vite que possible
+**- Adapter mes business model aussi vite que possible**
 
-- Allouer les ressources aux opportunités business les plus rentables
+**- Allouer les ressources aux opportunités business les plus rentables**
 
-- Améliorer la connaissance globale de l'organisation.
+**- Améliorer la connaissance globale de l'organisation**
 
 Je vais décorréler objectifs, prévisionnel et allocation de ressources. Dans la pratique, je propose de passer dans processus budgétaire annuel à un processus budgétaire glissant.
 
@@ -89,21 +89,21 @@ Je vais décorréler objectifs, prévisionnel et allocation de ressources. Dans 
     source='https://www.flickr.com/photos/117614873@N05/12539780575'
 %}
 
-Je définis des objectifs ambitieux relatifs. Ambitieux car cela donne la vision d'où l'organisation veut aller. Une des façons de faire est de déterminer des objectifs pour l'organisation et laisser ensuite les employés définir ce que cela veut dire à leur niveau contrairement à de la cascade de l'indicateur. Il est aussi possible de le faire dans le sens inverse où les objectifs remontent du bas. Personnellement, j'ai le sentiment qu'il faut que cela soit dans les deux sens. Je définis des objectifs relatifs car l'essentiel est de voir comment l'on performe par rapport à nos concurrents. Les objectifs absolus ne poussent pas à se dépasser.
+**Je définis des objectifs ambitieux relatifs.** Ambitieux car cela donne la vision d'où l'organisation veut aller. Une des façons de faire est de déterminer des objectifs pour l'organisation et laisser ensuite les employés définir ce que cela veut dire à leur niveau contrairement à de la cascade de l'indicateur. Il est aussi possible de le faire dans le sens inverse où les objectifs remontent du bas. Personnellement, j'ai le sentiment qu'il faut que cela soit dans les deux sens. Je définis des objectifs relatifs car l'essentiel est de voir comment l'on performe par rapport à nos concurrents. Les objectifs absolus ne poussent pas à se dépasser.
 
 {% include img.html
     name='24586859164_4599463bfe_k'
     source='https://www.flickr.com/photos/joseluisrds/24586859164'
 %}
 
-Sur le prévisionnel, il est nécessaire qu'il soit le reflet de la réalité pour pouvoir prendre des décisions d'arbitrage/orientation. Quand le prévisionnel doit être égal à l'objectifs, les humains ont beaucoup de ressources d'adaptation pour y arriver et ils y arrivent à base d'optimums locaux. C'est essentiellement une question d'état d'esprit à savoir est ce que je vois ce que je veux voir ou est ce que je veux savoir comment cela se passe vraiment. Un système vicieux est un système qui pousse à cacher de l'information et à ne pas demander d'aide.
+Sur le **prévisionnel**, il est nécessaire qu'il soit le **reflet de la réalité** pour pouvoir prendre des décisions d'arbitrage/orientation. Quand le prévisionnel doit être égal à l'objectifs, les humains ont beaucoup de ressources d'adaptation pour y arriver et ils y arrivent à base d'optimums locaux. C'est essentiellement une question d'état d'esprit à savoir est ce que je vois ce que je veux voir ou est ce que je veux savoir comment cela se passe vraiment. Un système vicieux est un système qui pousse à cacher de l'information et à ne pas demander d'aide. Il y a un lien entre objectif et prévisionnel, mais cela ne doit pas être une corrélation.
 
 {% include img.html
     name='16563539139_11c21d1b7f_o'
     source='https://www.flickr.com/photos/ks_marks/16563539139'
 %}
 
-Je souhaite allouer mes meilleures ressources sur les meilleures opportunités et non pas celles de l'année d'avant avant avant. Si un projet n'est pas rentable, je veux pouvoir l'arrêter. Et donc je n'alloue pas tout à l'avance, mais au fil de l'eau. Je trouve cela efficace d'allouer par bloc de 1 à 3 mois. C'est pas trop court pour permettre la montée en compétences et la remontée de feedbacks. C'est pas trop long et donc on limite la 'perte' à un trimestre maximum. Comme je n'ai pas alloué toutes mes ressources sur toute l'année, je peux aussi changer les priorités en cours de route en fonction des évènements.
+Je souhaite **allouer mes meilleures ressources sur les meilleures opportunités** et non pas celles de l'année d'avant avant avant. Si un projet n'est pas rentable, je veux pouvoir l'arrêter. Et donc je n'alloue pas tout à l'avance, mais au fil de l'eau. Je trouve cela efficace d'allouer par bloc de 1 à 3 mois. C'est pas trop court pour permettre la montée en compétences et la remontée de feedbacks. C'est pas trop long et donc on limite la 'perte' à un trimestre maximum. Comme je n'ai pas alloué toutes mes ressources sur toute l'année, je peux aussi changer les priorités en cours de route en fonction des évènements.
 
 Au niveau de l'organisation, il devient possible de changer l'orientation de l'organisation plus vite. Un des indicateurs que j'aime suivre est la capacité d'exécution priorisable lors des réunions de priorisation budgétaire par rapport à la capacité d'exécution globale. L'on souhaite passer de "tout est quasi verrouillé à l'avance" à "une fraction est verrouillée".
 
@@ -112,7 +112,7 @@ Au niveau de l'organisation, il devient possible de changer l'orientation de l'o
     source='https://www.flickr.com/photos/tinker-tailor/4220326142'
 %}
 
-Au niveau des êtres humains comme vous et moi, les conséquences sont les suivantes :
+**Au niveau des êtres humains comme vous et moi, les conséquences sont les suivantes**
 
 - Je passe d'une organisation orientée composant à une organisation orientée client / livraison de valeur. Cela frotte souvent dans les couches managériales avec de la perte d'influence.
 
@@ -124,7 +124,7 @@ Au niveau des êtres humains comme vous et moi, les conséquences sont les suiva
 
 - Pour déterminer les objectifs individuels c'était simple en prenant les objectifs des projets. Et bien maintenant il faut réfléchir à la vision commune avec souvent des objectifs d'équipe.
 
-Pour revenir à mon point de départ, une fois que j'ai fait tous ces changements je peux me poser la question de savoir si j'ai besoin d'un framework d'agilité à l'échelle. En  orientant l'organisation plus sur le client et la valeur délivrée, cela a pour effet de casser des dépendances structurelles. Dans la pratique, je suis en train de parler de Beyond Budgeting. Comme c'est un changement de mindset, Bjarte Bogsnes parle plus de voyage. Cela prend quelques années pour un implémentation complète des principes du Beyond Budgeting. Heureusement, les effets sont sensibles dès le début :-)
+Pour revenir à mon point de départ, une fois que j'ai fait tous ces changements je peux me poser la question de savoir si j'ai besoin d'un framework d'agilité à l'échelle. En  orientant l'organisation plus sur le client et la valeur délivrée, cela a pour effet de casser des dépendances structurelles. Dans la pratique, je suis en train de parler de **Beyond Budgeting**. Comme c'est un changement de mindset, Bjarte Bogsnes parle plus de voyage. Cela prend quelques années pour un implémentation complète des principes du Beyond Budgeting. Heureusement, les effets sont sensibles dès le début :-)
 
 {% include img.html
     name='The-12-BB-principles-version2016'
