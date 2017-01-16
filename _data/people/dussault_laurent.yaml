@@ -4,5 +4,5 @@ photo: laurent.dussault.jpg
 social:
 - url: https://fr.linkedin.com/in/laurent-dussault-53b82a116
   icon: fa-linkedin
-bio: >
+bio: |
   Je suis coach devops à la Société Générale. Longtemps indépendant, passionné par le continuous delivery, l'automatisation, j'ai pris le parti ces dernières années de faire se parler les gens plutôt que de faire se parler des machines. Je travaille aujourd'hui à donner l'envie de s'améliorer, d'éliminer les contraintes pour reprendre le contrôle et la fierté de ce que l'on produit.
