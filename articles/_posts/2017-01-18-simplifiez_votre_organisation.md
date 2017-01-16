@@ -76,11 +76,11 @@ Cela commence **l'été** ses piques niques, sa plage et sa définition des proj
 
 Maintenant que j'ai bien décrit ce qui les problèmes, je vais essayer de parler solutions. Tout d'abord, qu'est ce que je cherche à faire :
 
-**- Adapter mes business model aussi vite que possible**
+- **Adapter mes business model aussi vite que possible**
 
-**- Allouer les ressources aux opportunités business les plus rentables**
+- **Allouer les ressources aux opportunités business les plus rentables**
 
-**- Améliorer la connaissance globale de l'organisation**
+- **Améliorer la connaissance globale de l'organisation**
 
 Je vais décorréler objectifs, prévisionnel et allocation de ressources. Dans la pratique, je propose de passer dans processus budgétaire annuel à un processus budgétaire glissant.
 
