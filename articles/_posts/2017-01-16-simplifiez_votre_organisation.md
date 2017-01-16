@@ -1,7 +1,7 @@
 ---
 title: "Simplifiez votre organisation pour redonner de la manoeuvrabilité"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
