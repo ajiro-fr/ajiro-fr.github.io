@@ -129,7 +129,7 @@ Au niveau de l'organisation, il devient possible de changer l'orientation de l'o
 Pour revenir à mon point de départ, une fois que j'ai fait tous ces changements, je peux me poser la question de savoir si j'ai besoin d'un framework d'agilité à l'échelle. En orientant l'organisation plus sur le client et la valeur délivrée, cela a pour effet de casser des dépendances structurelles. Dans la pratique, je suis en train de parler de [Beyond Budgeting]. Comme c'est un changement de mindset, Bjarte Bogsnes parle plus de voyage. Cela prend quelques années pour un implémentation complète des principes du Beyond Budgeting. Heureusement, les effets sont sensibles dès le début :-)
 
 
-{% include img.html
+{% include img-large.html
     name='The-12-BB-principles-version2016'
     source='http://bbrt.org/the-beyond-budgeting-principles/the-12-bb-principles-version2016/'
 %}
