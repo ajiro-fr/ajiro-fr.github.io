@@ -126,7 +126,7 @@ Au niveau de l'organisation, il devient possible de changer l'orientation de l'o
 - Avant j'optimisais, maintenant, je délivre de la valeur. Je passe d'un contrôle de variance à de l'identification de la valeur et des opportunités rares (cygnes noirs). J'ai besoin de moins de fonctions support et de managers dans le développement et non le contrôle.
 - Pour déterminer les objectifs individuels, c'était simple en prenant les objectifs des projets. Et bien maintenant, il faut réfléchir à la vision commune avec souvent des objectifs d'équipe.
 
-Pour revenir à mon point de départ, une fois que j'ai fait tous ces changements, je peux me poser la question de savoir si j'ai besoin d'un framework d'agilité à l'échelle. En orientant l'organisation plus sur le client et la valeur délivrée, cela a pour effet de casser des dépendances structurelles. Dans la pratique, je suis en train de parler de [Beyond Budgeting]. Comme c'est un changement de mindset, Bjarte Bogsnes parle plus de voyage. Cela prend quelques années pour un implémentation complète des principes du Beyond Budgeting. Heureusement, les effets sont sensibles dès le début :-)
+Pour revenir à mon point de départ, une fois que j'ai fait tous ces changements, je peux me poser la question de savoir si j'ai besoin d'un framework d'agilité à l'échelle. En orientant l'organisation plus sur le client et la valeur délivrée, cela a pour effet de casser des dépendances structurelles. Dans la pratique, je suis en train de parler de [Beyond Budgeting]. Comme c'est un changement de mindset, Bjarte Bogsnes parle plus de voyage. Cela prend quelques années pour un implémentation complète des principes du [Beyond Budgeting]. Heureusement, les effets sont sensibles dès le début :-)
 
 
 {% include img-large.html
