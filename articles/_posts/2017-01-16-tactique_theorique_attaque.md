@@ -140,3 +140,14 @@ Si nous étendons la notion de feinte à la notion de surprise, il y a des paral
 Avertissement : cet intitulé n'est pas une apologie de procédés barbares, mais un emprunt au chinois. Il s'agit d'isoler une fraction significative de la force adverse et d'entamer sa torture (exercer sur lui une pression suffisante pour qu'il se sente au bord de la destruction). Ce coup s'avère utile à un assaillant qui veut faire l'économie d'un siège. Il consiste à provoquer décisif en rase campagne.
 
 Plutôt que d'affronter un adversaire sur son terrain, il s'agit de déplacer la bataille sur un terrain où vous êtes le plus à l'aise. Et donc il faut choisir un domaine dans lequel vous avez la supériorité et d'appuyer la où ça fait mal pour l'adversaire sans pour autant l'anéantir. Vous souhaitez qu'il bascule une partie de ses forces sur ce domaine pour l'affaiblir de manière globale. L'idée est de créer une brèche sur le coeur en déportant les défenses.
+
+## Conclusion
+Nous espérons que cet article vous a inspiré dans le sens où il vous a donné d'autres façons de voir le développement produit. Dans un prochain post, nous décrirons comment en position de réaction il est possible de reprendre la main.
+
+---
+Sources:
+
+- [Tactique théorique]
+
+
+[Tactique théorique]: /books/tactique_tehorique-yakovleff_michel.html
