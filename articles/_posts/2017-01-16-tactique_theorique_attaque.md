@@ -1,5 +1,5 @@
 ---
-title: "Product Development et Tactique Théorique : A l'attaque"
+title: "Product Development et Tactique Théorique : Chargez"
 lang: fr
 hidden: false
 authors:
