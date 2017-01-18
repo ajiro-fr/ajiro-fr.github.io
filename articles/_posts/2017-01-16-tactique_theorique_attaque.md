@@ -1,7 +1,7 @@
 ---
 title: "Product Development et Tactique Théorique : A l'attaque"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - albiez_olivier
   - retiere_samuel
@@ -59,7 +59,7 @@ Nous avons beaucoup aimé une image donnée par Michel Yakovleff. Celui qui déf
 %}
 
 ## Les actes élémentaires
-Nous n'allons pas passé en revue tous les actes élémentaires car certains n'ont pas de sens dans le développement produit. Voici les plus intéressante pour nous :
+Nous n'allons pas passé en revue tous les actes élémentaires car certains n'ont pas de sens dans le développement produit. Voici les plus intéressants pour nous :
 
 - **Détruire** : Deux unités au contact cherche à s'infliger des pertes. Chacun vise la destruction ou tout au moins l'attrition de l'autre.
 - **Soutenir** : C'est être en mesurer d'aider par le feu la manoeuvre.
@@ -70,7 +70,7 @@ Ce que nous aimons bien dans ces définitions, c'est que l'on comprend mieux com
 Dans la pratique, ces fonctionnalités de fixation (ou de soutien) s'appellent souvent des solutions tactiques. Le problème que nous voyons trop souvent, c'est que le tactique dure et que l'objectif initial de la manoeuvre change. D'une solution initiale prévue pour de la fixation, elle devient destruction. A l'arrivée, c'est rarement un succès. Il convient donc de bien positionner la fonctionnalité par rapport à son objectif.
 
 ## Cinématique
-Maintenant que nous avons parlé de victoire et d'actes élémentaires, il ne reste plus qu'à articuler les actes élémentaires pour arriver à la victoire. Il y a pour cela différentes tactiques qui sont en partie culturelle.
+Maintenant que nous avons parlé de victoire et d'actes élémentaires, il ne reste plus qu'à articuler les actes élémentaires pour arriver à la victoire. Il y a pour cela différentes tactiques qui sont en partie culturelles.
 
 
 {% include img.html
