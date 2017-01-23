@@ -67,7 +67,7 @@ Et c'est là ou on en arrive à un changement qui peut paraitre léger, mais qui
     source='https://www.flickr.com/photos/gigijin/51412155/'
 %}
 
-- Et l'on en revient à la finance. Mais comment on suit l'imputation des budgétaires de l'infrastructure ? Et bien je n'ai même pas envie de répondre. Prends les clés de répartition que tu veux, cela reste de la 'monnaie de singe' et de la répartition interne. Et si tu veux trouvoir des solutions, Beyond Budgeting est ton ami (ça y est, j'ai réussi à le placer).
+- Et l'on en revient à la finance. Mais comment on suit l'imputation des budgétaires de l'infrastructure ? Et bien je n'ai même pas envie de répondre. Prends les clés de répartition que tu veux, cela reste de la 'monnaie de singe' et de la répartition interne. Et si tu veux trouvoir des solutions, [Beyond Budgeting] est ton ami (ça y est, j'ai réussi à le placer).
 
 
 {% include img.html
@@ -94,3 +94,5 @@ Qu'est ce que cela implique ?
 _Passer d'une organisation centrée application à une organisation flux de valeur. Cela implique une remise en cause profonde d'un grand nombre de process. Il ne faut pas sous estimer ce point, cela passera par se redemander pourquoi on fait les choses. Au passage et vous l'aurez sûrement deviné sans que je l'écrive, cela veut aussi dire remodeler la structure managériale et repartir sur un autre axe._
 
 Vous êtes maintenant prévenus de ce que cela implique. Pour finir sur une note positive : si l'effort est certain, l'impact sur l'efficience de l'organisation est énorme. Il s'agit bien d'innovation managériale avec un fort caractère différentiant.
+
+[Beyond Budgeting]: /books/implementing_beyond_budgeting-bogsnes_bjarte.html
