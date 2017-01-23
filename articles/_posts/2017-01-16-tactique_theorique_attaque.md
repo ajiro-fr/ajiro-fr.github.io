@@ -1,7 +1,7 @@
 ---
 title: "Product Development et Tactique Théorique : Chargez"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - albiez_olivier
   - retiere_samuel
