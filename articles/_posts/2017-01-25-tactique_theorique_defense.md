@@ -30,7 +30,7 @@ Qu'est-ce que cela veut dire être en défense ? Pour les militaires, c'est simp
 
 Ne pas savoir les modalités de l'attaque retarde la mise en œuvre de mesures appropriées. À cet égard, la personnalité des antagonistes a un impact considérable. Un assaillant issu d'une école très doctrinaire sera plus lisible et donc plus prévisible. Dans le développement produit, cela ne vous rappelle pas des souvenirs ? Et bien à nous si, et voici des exemples :
 
-- Quand Xavier Niel arrive dans la téléphonie mobile, il surprend les acteurs traditionnels par sa stratégie de prix.
+- Le 6 octobre 2011, pour anticiper l'arrivée de free mobile, Orange lance une nouvelle marque : Sosh. Ils vont dormir en tenue de combat durant plus de 3 mois. Pour Stéphane Richard un énarque diplômé d'HEC, Xavier Niel qui est autodidacte est totalement imprévisible.
 - Quand les grandes boites communiquent sur ce qu'elles vont faire, c'est assez simple vu qu'elles donnent à l'avance le plan quinquennal sur lequel elles vont travailler. Ça devient plus facile de les contrer. C'est d'autant plus vrai dans les structures où tous les dirigeants viennent des mêmes écoles.
 
 
@@ -65,8 +65,7 @@ On peut conceptualiser la défensive comme l'arrêt imposé à un mobile. Il y a
 
 _Le mur_ : l'énergie est insuffisante pour briser l'obstacle. Le coup d'arrêt est l'action défensive la plus nettement orientée vers l'infliction de dégâts.
 
-Free arrive sur le marché des téléphones mobiles avec des forfaits à bas coûts et bien, je fais de même en m'alignant. Pour donner un avis personnel, c'est plutôt une défense où pas grand monde n'est gagnant.
-
+Lafarge, mastodonte de la cimenterie voit début 2013, la société Kercim à Montoir-de-Bretagne, commencer à produire du ciment en important le clinker. Leur objectif produire moins chère et plus près des consommateurs. Les 50 millions d’euros d'investissement pour faire une usine d'exception n'auront n'ont pas suffit pour briser le mur Lafarge, qui les rachètera finalement durant l'été 2014 pour plus de 80 millions d’euros.
 
 {% include img.html
     name='20155800602_85abe62ec6'
@@ -87,7 +86,7 @@ Je suis une grosse entreprise qui voit des petits venir la concurrencer. Qu'est-
 
 ### Absorption d'énergie : La défense mobile
 
-_Le punching-ball_ : l'énergie suffit à repousser l'obstacle. C'est un peu la tactique du gars qui fuit le combat, qui revient mettre un coup, qui refuit, etc. Il s'agit d'affaiblir l'adversaire en se préservant, de ralentir sa progression et de gagner ainsi du délai. La défense mobile s'effectue sur plusieurs espaces de manœuvre. Il n'y a pas de défense mobile si je reviens taper tout le temps au même endroit.
+_Le punching-ball_ : l'énergie suffit à repousser l'obstacle. C'est un peu la tactique du gars qui fuit le combat, qui revient mettre un coup, qui fuit à nouveau, etc. Il s'agit d'affaiblir l'adversaire en se préservant, de ralentir sa progression et de gagner ainsi du délai. La défense mobile s'effectue sur plusieurs espaces de manœuvre. Il n'y a pas de défense mobile si je reviens taper tout le temps au même endroit.
 
 Qu'est-ce que vous pensez des guerres juridiques à coup de bananes mises un peu partout sous les pieds ? Le but est bien de ralentir le concurrent pour avoir le temps de se dégager ailleurs. On reste dans la série efficace, mais pas nécessairement fair-play.
 
