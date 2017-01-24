@@ -20,15 +20,16 @@ illustration:
 
 L'objectif général du [World Cafe] est rappelé par l'organisateur, ainsi que le processus. Il est important de rappeler aux participants de le laisser porter par ce processus et de ne pas chercher à aller directement à l'objectif.
 
-Le format est habituellement le suivant:
+## Le format est habituellement le suivant
 
-1. Les participants sont répartis par groupe de 3 ou 4 personnes par table.
-2. L'organisateur pose alors le première question et laisse 20 minutes de discussions libres.
-3. L'organisateur peut éventuellement demander si des personnes souhaitent rapporter au groupe entier un élément intéréssant.
-4. Chaque table désigne un hôte qui va rester, les autre personnes sont alors les ambassadeurs et vont se répartir sur les autres tables. Cela permet la polénisation des idées.
-5. Les nouvelles tables ainsi formées peuvent échanger quelques minutes pour se raconter ce qui c'est passé, l'hôte pouvant expliquer les notes et discussion de la table.
-6. L'organisateur pose alors le question suivante et le processus se répète sur les étapes 2. à 6. jusqu'à épuisement des questions.
-7. Une séance pleinière peut être organisé pour synthétiser le travail.
+1. Les participants sont répartis par groupes de 3 ou 4 personnes par table.
+2. L'organisateur pose alors la première question et laisse 20 minutes de discussions libres.
+3. L'organisateur peut éventuellement demander si des personnes souhaitent rapporter au groupe entier un élément intéressant.
+4. Chaque table désigne un hôte qui va rester, les autres personnes sont alors les ambassadeurs et vont se répartir sur les autres tables. Cela permet la pollinisation des idées.
+5. Les nouvelles tables ainsi formées peuvent échanger quelques minutes pour se raconter ce qui c'est passé, l'hôte pouvant expliquer les notes et discussions de la table.
+6. L'organisateur pose alors la question suivante et le processus se répète sur les étapes 2 à 6 jusqu'à épuisement des questions.
+7. Une séance plénière peut être organisée pour synthétiser le travail.
+
 
 
 
