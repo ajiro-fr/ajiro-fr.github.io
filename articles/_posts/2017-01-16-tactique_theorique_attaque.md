@@ -49,7 +49,7 @@ La définition en doctrinue française :
 - Capacité d'être un initiateur pour agir quand il n'y a aucune instruction claire ou quand la situation change.
 **J'ai l'initiative quand je fais ce que je veux et que l'ennemi fait ce que je veux**
 
-L'initiative absolue n'existe pas. Tout chef militaire est soumis à une volonté supérieure qui est soumis à des contraintes politiques. L'expression formelle de cette contrainte est la MISSION. Avoir l'initiative optimise le fonctionnement du système combattant. Celui qui a l'initiative est maitre du temps.
+L'initiative absolue n'existe pas. Tout chef militaire est soumis à une volonté supérieure qui est soumis à des contraintes politiques. L'expression formelle de cette contrainte est la *mission*. Avoir l'initiative optimise le fonctionnement du système combattant. Celui qui a l'initiative est maitre du temps.
 
 Nous avons beaucoup aimé une image donnée par Michel Yakovleff. Celui qui défend et s'attend à une attaque se retrouve à dormir en tenue de combat avec chaussures et barda. Dis comme cela, ça ne fait pas vraiment envie. Quand on adopte une posture défensive, on pourrait se dire que cela ne consomme pas d'énergie. C'est loin d'être vrai tant on mobilise des ressources au cas où et tant l'incertitude génère du stress. **La défense vise à reprendre l'initiative.** Il en est de même dans le développement produit, si vous ne faites que répondre vous serez au mieux deuxième.
 
@@ -137,7 +137,7 @@ Si nous étendons la notion de feinte à la notion de surprise, il y a des paral
 
 ### Torturer l'enfant
 
-Avertissement : cet intitulé n'est pas une apologie de procédés barbares, mais un emprunt au chinois. Il s'agit d'isoler une fraction significative de la force adverse et d'entamer sa torture (exercer sur lui une pression suffisante pour qu'il se sente au bord de la destruction). Ce coup s'avère utile à un assaillant qui veut faire l'économie d'un siège. Il consiste à provoquer décisif en rase campagne.
+Avertissement : cet intitulé n'est pas une apologie de procédés barbares, mais un emprunt au chinois. Il s'agit d'isoler une fraction significative de la force adverse et d'entamer sa torture (exercer sur lui une pression suffisante pour qu'il se sente au bord de la destruction). Ce coup s'avère utile à un assaillant qui veut faire l'économie d'un siège. Il consiste à provoquer un combat décisif en rase campagne.
 
 Plutôt que d'affronter un adversaire sur son terrain, il s'agit de déplacer la bataille sur un terrain où vous êtes le plus à l'aise. Et donc il faut choisir un domaine dans lequel vous avez la supériorité et d'appuyer la où ça fait mal pour l'adversaire sans pour autant l'anéantir. Vous souhaitez qu'il bascule une partie de ses forces sur ce domaine pour l'affaiblir de manière globale. L'idée est de créer une brèche sur le coeur en déportant les défenses.
 
