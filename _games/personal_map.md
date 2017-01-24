@@ -1,5 +1,6 @@
 ---
 layout: game
+hidden: true
 title: "Carte personelle"
 subtitle: "Personal map"
 tags:
