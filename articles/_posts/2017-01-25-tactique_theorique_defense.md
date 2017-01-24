@@ -1,7 +1,7 @@
 ---
 title: "Product Development et Tactique Théorique : Aux abris"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - albiez_olivier
   - retiere_samuel
@@ -163,7 +163,9 @@ Pour l'art de la guerre des Chinois, le trente sixième stratagème stratégique
 
 Avant de ne plus avoir de cash, je stoppe ou je pivote. Ça vous rappelle des souvenirs, c'est bien. Dans le langage militaire, il y a une distinction entre retraite (je vais revenir ailleurs) et sortie (je quitte le théâtre des opérations). Dans le développement produit, il s'agit de voir quand arrêter et quand pivoter. Nous citerions bien les google glass comme exemple.
 
-conclusion sur la défensive
+### Conclusion sur la défensive
+
+En espérant que cette interlude guerrier vous aura diverti et peut-être sorti un peu du cadre. N'oubliez que tout est question d'initiative.
 
 ---
 Sources:
