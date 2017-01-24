@@ -5,12 +5,12 @@ hidden: true
 authors:
   - retiere_samuel
 tags:
-  - coût 
+  - coût
   - efficience
   - valeur
-  
+
 illustration:
-  name: 5925716085_041115de94_o
+  name: 5925716085_041115de94
   source: https://www.flickr.com/photos/22746515@N02/5925716085/
 ---
 
@@ -18,8 +18,9 @@ Il y a dix jours, quelqu'un m'a posé la question suivante : "Peut on réduire l
 
 Je vais partir d'un exemple plus ou moins fictif. Grace au continuous delivery, j'augmente ma productivité de 12%. Est ce que je peux pour autant dire que je peux réduire les coûts de 12% ? C'est là que cela se complique avec plusieurs possibilités :
 
+
 {% include img.html
-    name='15531076399_9328d14069_o'
+    name='15531076399_9328d14069'
     source='https://www.flickr.com/photos/116797173@N07/15531076399/'
 %}
 
@@ -27,8 +28,9 @@ Je vais partir d'un exemple plus ou moins fictif. Grace au continuous delivery, 
 
 Je garde l'équipe 88% du temps. C'est une solution qui revient à dire que je sors toute mon équipe le 15 Novembre pour en recréer une nouvelle le 1er Janvier. Si je suis factuel, j'ai bien réduit mes coûts de 12%. Malheureusement, la nouvelle équipe va devoir remonter en compétences en début d'année et je vais sûrement perdre plus que 12% de valeur. La mauvaise nouvelle, c'est que les bons profils ne seront plus disponibles. La bonne nouvelle, je pourrai réembaucher les mauvais. Pour donner une métaphore footballistique, cela revient à arrêter le match à la 79 minutes.
 
+
 {% include img.html
-    name='5391424572_a115021275_o'
+    name='5391424572_a115021275'
     source='https://www.flickr.com/photos/artwofr/5391424572/'
 %}
 
@@ -36,8 +38,9 @@ Je garde l'équipe 88% du temps. C'est une solution qui revient à dire que je s
 
 Si je prends une équipe agile standard, je vais partir sur un effectif de 5 développeurs, 2 maitrises d'ouvrage et un responsable d'équipe. En applicant le ratio de 12%, je dois passer de 8 à 7 personnes. Comme le responsable d'équipe est en général interne, il me reste le choix entre sortir un maitrise d'ouvrage ou un développeur. Si je fais le choix de la maitrise d'ouvrage, je suis en risque sur ce type de ressources. Le choix le plus logique est donc d'enlever un développeur. C'est cool, en réduisant les coûts de 12% je viens de supprimer 20% de ma capacité de développement.
 
+
 {% include img.html
-    name='31535186935_109c252c51_o'
+    name='31535186935_109c252c51'
     source='https://www.flickr.com/photos/mussikatz/31535186935/'
 %}
 
@@ -45,8 +48,9 @@ Si je prends une équipe agile standard, je vais partir sur un effectif de 5 dé
 
 Allez Samuel, réfléchis hors du cadre. Facile, je vais remplacer le développeur français par trois développeurs ouzbeks. Comme ils coûtent moins chers, je fais mes 12% de réduction et en plus j'augmente la force de développement. Malin le gars. A l'arrivée, j'ai une 'équipe' avec 2 maitrises d'ouvrages en France qui doit travailler avec des développeurs éloignés avec une culture différente. J'ai tendance à dire que le frottement généré est proportionnel à l'écart de fuseaux horaires multiplié par la différence culturelle. C'est dans ces configurations que je me retrouve souvent avec un coordinateur, des réunions de synchronisation, ... en résumé de la processisation. Je ne vais pas faire de démonstration de ROI mais juste donner mon feedback terrain : Les coûts ont bien diminué de 12%, mais la création de valeur de bien plus sans parler des délais supplémentaires induits par ce type de set up. Vous êtes plus lents. Au passage, vous avez aussi complexifiez votre organisation.
 
+
 {% include img.html
-    name='1569141847_cb4b2e9b34_o'
+    name='1569141847_cb4b2e9b34'
     source='https://www.flickr.com/photos/kristofabrath/1569141847/'
 %}
 
