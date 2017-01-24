@@ -1,0 +1,24 @@
+---
+layout: default
+title: Jeux
+permalink: /games/
+noindex: true
+---
+
+<div class='row spacer-20'>
+  <div class='col-md-12 col-xs-12 text-xs-center'>
+    <h1>Les jeux serieux</h1>
+  </div>
+</div>
+
+{% for game in site.games %}
+{% unless game.hidden %}
+<div class="row spacer-40">
+  <div class="offset-sm-2 col-md-8 col-xs-12">
+    <h3>
+      <a href="{{ game.url }}">{{ game.title }}</a>
+    </h3>
+  </div>
+</div>
+{% endunless %}
+{% endfor %}
