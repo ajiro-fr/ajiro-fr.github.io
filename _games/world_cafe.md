@@ -78,13 +78,12 @@ Dans l'idéal, les questions sont au nombre de trois. La première question perm
 - Quelle conversation, si elle était commencée aujourd'hui, pouvait se propager d'une manière qui créait de nouvelles possibilités pour l'avenir de [notre situation]?
 - Quelle semence pouvons-nous planter ensemble aujourd'hui et qui pourrait faire la plus grande différence demain pour [notre situation]?
 
-
 ---
 Sources:
 
 - [World Cafe]
 - [Wikipedia](https://en.wikipedia.org/wiki/World_Caf%C3%A9_%28conversational_process%29)
 - [Journal du net](http://www.journaldunet.com/management/efficacite-personnelle/1154533-world-cafe/)
-
+- [World cafe questions](http://whatidiscover.blogspot.fr/2007/06/world-cafe-questions.html)
 
 [World Cafe]: http://www.theworldcafe.com/
