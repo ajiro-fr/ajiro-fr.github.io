@@ -14,7 +14,7 @@ illustration:
   source: https://www.flickr.com/photos/22746515@N02/5925716085/
 ---
 
-Il y a dix jours, quelqu'un m'a posé la question suivante : "Peut on réduire les coûts en même temps qu'une transformation agile ?". J'ai répondu "bien sûr que oui" et j'ajouterais même que réduction de coûts devrait aller de pair avec nouvelle organisation. Je m'explique sachant que je me concentre sur la main d'oeuvre.
+Il y a dix jours, quelqu'un m'a posé la question suivante : _"Peut on réduire les coûts en même temps qu'une transformation agile ?"_. J'ai répondu _"bien sûr que oui"_ et j'ajouterais même que réduction de coûts devrait aller de pair avec nouvelle organisation. Je m'explique sachant que je me concentre sur la main d'oeuvre.
 
 Je vais partir d'un exemple plus ou moins fictif. Grace au continuous delivery, j'augmente ma productivité de 12%. Est ce que je peux pour autant dire que je peux réduire les coûts de 12% ? C'est là que cela se complique avec plusieurs possibilités :
 
