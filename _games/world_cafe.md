@@ -43,7 +43,7 @@ Par exemple, _"Comment trouver de nouveaux client ?"_ plutôt que _"Pourquoi nou
 
 Dans l'idéal, les questions sont au nombre de trois. La première question permet de focaliser l'attention collective, la deuxième question permet d'approfondire et la dernière question permet de mettre en action.
 
-#### Question pour focaliser l'attention collective
+#### Questions pour focaliser l'attention collective
 
 - Quelle question, si elle était répondu, pourrait faire une différence pour la situation que nous explorons ici?
 - Qu'est-ce qui est important pour vous sur cette situation et pourquoi vous en inquiétez-vous?
