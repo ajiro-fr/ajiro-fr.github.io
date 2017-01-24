@@ -36,7 +36,7 @@ Je garde l'équipe 88% du temps. C'est une solution qui revient à dire que je s
 
 ### Le pragmatique
 
-Si je prends une équipe agile standard, je vais partir sur un effectif de 5 développeurs, 2 maitrises d'ouvrage et un responsable d'équipe. En applicant le ratio de 12%, je dois passer de 8 à 7 personnes. Comme le responsable d'équipe est en général interne, il me reste le choix entre sortir un maitrise d'ouvrage ou un développeur. Si je fais le choix de la maitrise d'ouvrage, je suis en risque sur ce type de ressources. Le choix le plus logique est donc d'enlever un développeur. C'est cool, en réduisant les coûts de 12% je viens de supprimer 20% de ma capacité de développement.
+Si je prends une équipe agile standard, je vais partir sur un effectif de 8 : 5 développeurs, 2 maitrises d'ouvrage et un responsable d'équipe. En applicant le ratio de 12%, je dois passer de 8 à 7 personnes. Comme le responsable d'équipe est en général interne, il me reste le choix entre sortir un maitrise d'ouvrage ou un développeur. Si je fais le choix de la maitrise d'ouvrage, je suis en risque sur ce type de ressources. Le choix le plus logique est donc d'enlever un développeur. C'est cool, en réduisant les coûts de 12% je viens de supprimer 20% de ma capacité de développement.
 
 
 {% include img.html
@@ -46,7 +46,7 @@ Si je prends une équipe agile standard, je vais partir sur un effectif de 5 dé
 
 ### Le filou
 
-Allez Samuel, réfléchis hors du cadre. Facile, je vais remplacer le développeur français par trois développeurs ouzbeks. Comme ils coûtent moins chers, je fais mes 12% de réduction et en plus j'augmente la force de développement. Malin le gars. A l'arrivée, j'ai une 'équipe' avec 2 maitrises d'ouvrages en France qui doit travailler avec des développeurs éloignés avec une culture différente. J'ai tendance à dire que le frottement généré est proportionnel à l'écart de fuseaux horaires multiplié par la différence culturelle. C'est dans ces configurations que je me retrouve souvent avec un coordinateur, des réunions de synchronisation, ... en résumé de la processisation. Je ne vais pas faire de démonstration de ROI mais juste donner mon feedback terrain : Les coûts ont bien diminué de 12%, mais la création de valeur de bien plus sans parler des délais supplémentaires induits par ce type de set up. Vous êtes plus lents. Au passage, vous avez aussi complexifiez votre organisation.
+Allez Samuel, réfléchis hors du cadre. Facile, je vais remplacer le développeur français par trois développeurs ouzbeks. Comme ils coûtent moins chers, je fais mes 12% de réduction et en plus j'augmente la force de développement. Malin le gars. A l'arrivée, j'ai une 'équipe' avec 2 maitrises d'ouvrages en France qui doit travailler avec des développeurs éloignés avec une culture différente. J'ai tendance à dire que le frottement généré est proportionnel à l'écart de fuseaux horaires multiplié par la différence culturelle. C'est dans ces configurations que je me retrouve souvent avec un coordinateur, des réunions de synchronisation, ... en résumé de la processisation. Je ne vais pas faire de démonstration de ROI mais juste donner mon feedback terrain : Les coûts ont bien diminué de 12%, mais la création de valeur de bien plus sans parler des délais supplémentaires induits par ce type de set up. Vous êtes plus lents et au passage, vous avez complexifiez votre organisation.
 
 
 {% include img.html
