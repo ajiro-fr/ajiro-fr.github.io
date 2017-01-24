@@ -165,7 +165,7 @@ Avant de ne plus avoir de cash, je stoppe ou je pivote. Ça vous rappelle des so
 
 ### Conclusion sur la défensive
 
-En espérant que cette interlude guerrier vous aura diverti et peut-être sorti un peu du cadre. N'oubliez que tout est question d'initiative.
+En espérant que cet interlude guerrier vous aura diverti et peut-être sorti un peu du cadre. N'oubliez que tout est question d'initiative.
 
 ---
 Sources:
