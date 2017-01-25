@@ -11,7 +11,7 @@ tags:
   - management
   - politique
 illustration:
-  name: maison
+  name: money-plant
 ---
 
 {: .text-center}
