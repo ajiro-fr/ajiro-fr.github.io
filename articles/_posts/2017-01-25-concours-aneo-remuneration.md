@@ -12,7 +12,8 @@ tags:
   - management
   - politique
 illustration:
-  name: money-plant
+  name: ginko-biloba
+  source: https://flic.kr/p/6h8BnD
 ---
 
 ## Avant-propos
