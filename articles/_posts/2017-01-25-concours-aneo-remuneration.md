@@ -1,5 +1,6 @@
 ---
 title: "Concours ANEO : innovation sur la rémunération"
+subtitle: "Proposition pour un partage innovant de la valeur et des risques"
 lang: fr
 hidden: true
 authors:
@@ -13,12 +14,6 @@ tags:
 illustration:
   name: money-plant
 ---
-
-{: .text-center}
-> Enfin la rémunération du XXIème siècle.
->
-> Proposition pour un partage innovant de la valeur et des risques.
-
 
 ## Avant-propos
 
