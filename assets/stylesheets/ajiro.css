@@ -3,6 +3,7 @@
 .text-justify {
   word-wrap: break-word;
   -moz-hyphens: auto;
+  -epub-hyphens: auto;
 }
 
 .spacer-20 {
@@ -84,9 +85,6 @@ h1, h2, h3 {
   font-smooth: always;
 
   src: url('/assets/fonts/LinBiolinum_RB.otf') format('opentype');
-}
-
-html {
 }
 
 body {
@@ -221,6 +219,7 @@ body {
   text-align: justify;
   word-wrap: break-word;
   -moz-hyphens: auto;
+  -epub-hyphens: auto;
 }
 
 .panel-game {
@@ -263,5 +262,5 @@ body {
 
 .cookie-consent {
   font-size: 12px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
