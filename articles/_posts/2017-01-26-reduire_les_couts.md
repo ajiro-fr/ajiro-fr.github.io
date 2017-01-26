@@ -10,8 +10,8 @@ tags:
   - valeur
 
 illustration:
-  name: 5925716085_041115de94
-  source: https://www.flickr.com/photos/22746515@N02/5925716085/
+  name: 5970138933_5a116ebd06_o
+  source: https://www.flickr.com/photos/mksfca/5970138933/
 ---
 
 Il y a dix jours, quelqu'un m'a posé la question suivante : _"Peut-on réduire les coûts en même temps qu'une transformation agile ?"_. J'ai répondu _"bien sûr que oui"_ et j'ajouterais même que réduction de coûts devrait aller de pair avec nouvelle organisation. Je m'explique sachant que je me concentre sur la main d'œuvre et que je ne parle pas de rabot de quelques pourcents, mais plus d'une réduction importante.
