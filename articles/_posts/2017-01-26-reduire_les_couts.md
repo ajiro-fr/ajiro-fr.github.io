@@ -1,5 +1,5 @@
 ---
-title: "Pour réduire les coûts, changez d'organisation"
+title: "Pour réduire vos coûts, changez votre organisation"
 lang: fr
 hidden: true
 authors:
@@ -18,6 +18,10 @@ Il y a dix jours, quelqu'un m'a posé la question suivante : _"Peut-on réduire 
 
 Je vais partir d'un exemple plus ou moins fictif. Grace au continuous delivery, j'augmente ma productivité de 12&nbsp;%. Est-ce que je peux pour autant dire que je peux réduire les coûts de 12&nbsp;% ? C'est là que cela se complique avec plusieurs possibilités :
 
+{% include img.html
+    name='5925716085_041115de94'
+    source='https://www.flickr.com/photos/22746515@N02/5925716085/'
+%}
 
 ### Le non sens
 
