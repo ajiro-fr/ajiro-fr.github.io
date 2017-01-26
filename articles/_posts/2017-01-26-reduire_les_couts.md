@@ -14,10 +14,13 @@ illustration:
   source: https://www.flickr.com/photos/22746515@N02/5925716085/
 ---
 
-Il y a dix jours, quelqu'un m'a posé la question suivante : _"Peut on réduire les coûts en même temps qu'une transformation agile ?"_. J'ai répondu _"bien sûr que oui"_ et j'ajouterais même que réduction de coûts devrait aller de pair avec nouvelle organisation. Je m'explique sachant que je me concentre sur la main d'oeuvre.
+Il y a dix jours, quelqu'un m'a posé la question suivante : _"Peut on réduire les coûts en même temps qu'une transformation agile ?"_. J'ai répondu _"bien sûr que oui"_ et j'ajouterais même que réduction de coûts devrait aller de pair avec nouvelle organisation. Je m'explique sachant que je me concentre sur la main d'oeuvre et que je ne parle pas de rabot de quelques pourcents, mais plus d'une réduction importante.
 
 Je vais partir d'un exemple plus ou moins fictif. Grace au continuous delivery, j'augmente ma productivité de 12%. Est ce que je peux pour autant dire que je peux réduire les coûts de 12% ? C'est là que cela se complique avec plusieurs possibilités :
 
+### Le non sens
+
+Mon staff est constitué uniquement de collaborateurs internes. Je retire 12% de mes effectifs et je les mets dans un placard. Je crée une nouvelle entité qui concentrera les pertes pour ne garder les gains que d'un côté. Soit vous avez une porte de sortie type plan de sauvegarde de l'emploi ou nouvelle structure à créer ou reclassements..., soit nous sommes bien d'accord que dans la suite je parle de gain possible car il existe une flexibilité possible. 
 
 {% include img.html
     name='15531076399_9328d14069'
@@ -26,7 +29,7 @@ Je vais partir d'un exemple plus ou moins fictif. Grace au continuous delivery, 
 
 ### L'analytique
 
-Je garde l'équipe 88% du temps. C'est une solution qui revient à dire que je sors toute mon équipe le 15 Novembre pour en recréer une nouvelle le 1er Janvier. Si je suis factuel, j'ai bien réduit mes coûts de 12%. Malheureusement, la nouvelle équipe va devoir remonter en compétences en début d'année et je vais sûrement perdre plus que 12% de valeur. La mauvaise nouvelle, c'est que les bons profils ne seront plus disponibles. La bonne nouvelle, je pourrai réembaucher les mauvais. Pour donner une métaphore footballistique, cela revient à arrêter le match à la 79 minutes.
+Je garde l'équipe 88% du temps. C'est une solution qui revient à dire que je sors toute mon équipe le 15 Novembre pour en recréer une nouvelle le 1er Janvier. Pour donner une métaphore footballistique, j'arrète le match à la 79 minutes. Si je suis factuel, j'ai bien réduit mes coûts de 12%. Malheureusement, la nouvelle équipe va devoir remonter en compétences en début d'année et je vais sûrement perdre plus que 12% de valeur. La mauvaise nouvelle, c'est que les bons profils ne seront plus disponibles. La bonne nouvelle, je pourrai réembaucher les mauvais. 
 
 
 {% include img.html
@@ -36,8 +39,7 @@ Je garde l'équipe 88% du temps. C'est une solution qui revient à dire que je s
 
 ### Le pragmatique
 
-Si je prends une équipe agile standard, je vais partir sur un effectif de 8 : 5 développeurs, 2 maitrises d'ouvrage et un responsable d'équipe. En applicant le ratio de 12%, je dois passer de 8 à 7 personnes. Comme le responsable d'équipe est en général interne, il me reste le choix entre sortir un maitrise d'ouvrage ou un développeur. Si je fais le choix de la maitrise d'ouvrage, je suis en risque sur ce type de ressources. Le choix le plus logique est donc d'enlever un développeur. C'est cool, en réduisant les coûts de 12% je viens de supprimer 20% de ma capacité de développement.
-
+Si je prends une équipe agile standard, je vais partir sur un effectif de 8 personnes : 5 développeurs, 2 maitrises d'ouvrage et un responsable d'équipe. En applicant le ratio de 12%, je dois passer de 8 à 7 personnes. Comme le responsable d'équipe est en général interne, il me reste le choix entre sortir un maitrise d'ouvrage ou un développeur. Si je fais le choix de la maitrise d'ouvrage, je suis en risque sur ce type de ressources. Le choix le plus logique est donc d'enlever un développeur. C'est cool, en réduisant les coûts de 12% je viens de supprimer 20% de ma capacité de développement.
 
 {% include img.html
     name='31535186935_109c252c51'
@@ -56,4 +58,24 @@ Allez Samuel, réfléchis hors du cadre. Facile, je vais remplacer le développe
 
 ### L'efficace / courageux
 
-C'est bien beau tout ça, mais alors on fait quoi ? Et bien on prend de la hauteur et il y a des possibilités. Tenter d'appliquer des réductions au niveau d'une équipe, c'est gamelle quasi assurée. Vous allez créer des déséquilibres qui à l'arrivée vont vous coûter plus cher. Si je le fais à un niveau plus haut cela devient plus jouable. Pour ceux qui ont suivi, cela veut dire que l'indicateur ne doit pas être cascadé jusqu'au niveau le plus bas. Sur un département de 100 personnes, si je réduis les coûts de 12% je peux conserver une certaine cohérence de profils. Vous pouvez me répondre qu'avec des personnes plus polyvalentes, le problème ne se poserait pas. Et bien vous avez tout à fait raison et c'est ce type de discussions que j'aimerais voir émerger. Réduire les coûts, cela revient à choisir une nouvelle façon de travailler et bien souvent une nouvelle organisation. C'est un chemin plus compliqué qu'un chiffre dans un tableur excel, mais tellement plus efficace.
+Il y a une solution simple : Pas de client, pas de dépense. Et donc pour éviter d'arriver à cette fin, qu'est ce que je peux faire ? La question sous jacente étant souvent comment réduire les coûts sans réduire la création de valeur. Tenter d'appliquer des réductions au niveau d'une équipe, c'est gamelle quasi assurée. Vous allez créer des déséquilibres qui à l'arrivée vont vous coûter plus cher. Il est donc intéressant d'envisager un autre chemin et de prendre de la hauteur (dans la structure). Cela veut dire que l'indicateur ne doit pas être cascadé jusqu'au niveau le plus bas. Sur un département de 100 personnes, si je réduis les coûts de 12% je peux conserver une certaine cohérence de profils. Vous pouvez me répondre qu'avec des personnes plus polyvalentes, le problème ne se poserait pas. Et bien vous avez tout à fait raison et c'est ce type de discussions que j'aimerais voir émerger. **Réduire les coûts, cela revient à choisir une nouvelle façon de travailler et bien souvent une nouvelle organisation.**
+
+### La différence entre vision et objectif
+
+Pour finir, j'aimerais faire une aparthé sur la différence entre vision et objectif. Si vous partez sur une nouvelle organisation avec comme objectif 'Réduire les coûts de 12%', vous risquez de vous prendre un mur car il manque le cadre (la vision) dans lequel s'inscrit cette démarche. La vision est votre but et donc porteuse de sens. Pour atteindre votre vision, vous allez vous donnez des objectifs pour vous en rapprochez. La vision est globalement stable alors que les objectifs qui sont plus des étapes peuvent bouger.
+
+Voici quelques exemples pour illustrer : 
+- 80% des personnes d'une classe d'age doivent avoir le bac. C'est bien un objectif, mais je suis incapable de vous donner le pourquoi. Dans ce cas, l'objectif devient la vision. Comme les personnes ne comprennent pas nécessairement le sens, elles s'adaptent pour répondre à l'indicateur. On rentre bien dans l'adage : 'Si la thermomètre ne donne pas la mesure que j'attends, je le casse'.
+- Mon fils souhaite plus tard 'créer des machines'. C'est sa vision. Pour cela, il va devoir apprendre à lire, à écrire, à dessiner des plans. Cela correspond à ses objectifs pour atteindre sa vision. Il est d'ailleurs possible de les réajuster en cours de route pour par exmple rajouter lire en anglais.
+
+Dans le cadre d'une réduction de coûts, il est intéressant de connaitre la vision qui peuvent être de ce type :
+- Je suis Auchan ou Carrefour et je vois Amazon et Alibaba arriver. Alibaba a réussi pendant la fête des célibataires à faire en un jour un chiffre d'affaires qui correspond à mon chiffre d'affaire annuel. Ma vision devient : Faire comme Alibaba. Il restera ensuite à définir les objectifs pour y arriver qui changeront à mesure qu'Alibaba bouge. C'est une vision qui a pour moi le défaut d'être très défensive (cf tactique théorique aux abris).
+ou 
+- Je suis Auchan ou Carrefour et je vois Amazon et Alibaba arriver. ... Ma vision devient : Répondre aux nouveaux usages de mes clients. Je reste un peu défensif (adaptation), mais je creuse mon sillon. Je vais adapter ma culture à ma nouvelle vision et non copiée un vision. 
+- Je suis Auchan ou Carrefour et je vois Amazon et Alibaba arriver. ... Ma vision devient : Que mes clients peuvent trouver le cadeau qu'ils veulent quelque soit leur lieu et leurs envies. C'est une vision pour essayer de reprendre l'initiative et moins subir.
+
+Réduire les coûts est un objectif possible dans le cadre des 3 précédentes visions. Je ne vais sûrement pas le faire de la même façon dans les 3 cas.
+
+### Le conseil de fin
+
+Commencez par définir vers où vous voulez aller. Les objectifs découleront de cette vision. Cela devrait vous permettre de limiter les risques d'optimum locaux (ou effet beurrage de lunettes) pour se concentrer sur l'optimum global (pensée systémique). 
