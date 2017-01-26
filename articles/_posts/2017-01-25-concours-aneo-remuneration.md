@@ -502,37 +502,37 @@ D’autre part, nous pensons qu’il faut être vigilant et accompagner de faço
 
 ## Nos sources d’inspiration
 
-1. Michel Chaudy, *Faire des hommes libres : Boimondau et les Communautés de Travail à Valence*, 2008, ISBN : 2-9520180-5-7, [<http://editionsrepas.free.fr/editions-repas-livre-boimondau.html>](http://editionsrepas.free.fr/editions-repas-livre-boimondau.html)
+1. Michel Chaudy, [_Faire des hommes libres : Boimondau et les Communautés de Travail à Valence_](http://editionsrepas.free.fr/editions-repas-livre-boimondau.html), 2008, ISBN : 2-9520180-5-7.
 
-2. Jean-François Draperi, *Godin, inventeur de l'économie sociale*, 2008, réédition 2014, ISBN : 2-9520180-4-9, [<http://editionsrepas.free.fr/editions-repas-livre-godin.html>](http://editionsrepas.free.fr/editions-repas-livre-godin.html)
+2. Jean-François Draperi, [_Godin, inventeur de l'économie sociale_](http://editionsrepas.free.fr/editions-repas-livre-godin.html), 2008, réédition 2014, ISBN : 2-9520180-4-9.
 
 3. Daniel Pink, *La vérité sur ce qui nous motive*, 2016, ISBN: 978-2081379527.
 
-4. Daniel Pink, *The surprising truth about what motivates us*, [<https://www.youtube.com/watch?v=u6XAPnuFjJc>](https://www.youtube.com/watch?v=u6XAPnuFjJc)
+4. Daniel Pink, [_The surprising truth about what motivates us_](https://www.youtube.com/watch?v=u6XAPnuFjJc).
 
-5. Gravity payments, salaire unique à 70k\$, [<https://gravitypayments.com>](https://gravitypayments.com)
+5. [Gravity payments](https://gravitypayments.com), salaire unique à 70k\$.
 
-6. La ligne de flottaison de Gore, [<http://www.oser-entreprendre.fr/rencontre-avec-w-l-gore-associe-frederic-amariutei/>](http://www.oser-entreprendre.fr/rencontre-avec-w-l-gore-associe-frederic-amariutei/)
+6. [La ligne de flottaison de Gore](http://www.oser-entreprendre.fr/rencontre-avec-w-l-gore-associe-frederic-amariutei/)
 
-7. Robert Sutton, *Objectif zéro sale con*, 2012, ISBN: 978-2266225755. [<https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202>](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202)
+7. Robert Sutton, _Objectif zéro sale con_, 2012, ISBN: 978-2266225755.
 
-8. La politique salariale de Buffer et notamment sa transparence, [<https://buffer.com/salary>](https://buffer.com/salary).
+8. [La politique salariale de Buffer](https://buffer.com/salary) et notamment sa transparence.
 
-9. Jurgen Apello : [<https://www.youtube.com/watch?v=VqujZnZWTbE>](https://www.youtube.com/watch?v=VqujZnZWTbE)
+9. Jurgen Apello, [_Holacracy, Sociocracy, Wirearchy, Crowdocracy, whateverocracy..._](https://www.youtube.com/watch?v=VqujZnZWTbE).
 
-10. FoodCoop et sa commission de discipline : [<https://foodcooplefilm.com/>](https://foodcooplefilm.com/)
+10. [FoodCoop et sa commission de discipline](https://foodcooplefilm.com/)
 
-11. Peter Senge, *La cinquième discipline*, 2015, ISBN: 978-2212559378.
+11. Peter Senge, _La cinquième discipline_, 2015, ISBN: 978-2212559378.
 
-12. Isaac Getz, Brian Carney, *Liberté & cie : Quand la liberté des salariés fait le succès des entreprises*, 2016, ISBN: 978-2081379510.
+12. Isaac Getz, Brian Carney, _Liberté & cie : Quand la liberté des salariés fait le succès des entreprises_, 2016, ISBN: 978-2081379510.
 
-13. Frédéric Laloux, *Reinventing organizations : Vers des communautés de travail inspirées*, 2015, ISBN: 978-2354561055.
+13. Frédéric Laloux, _Reinventing organizations : Vers des communautés de travail inspirées_, 2015, ISBN: 978-2354561055.
 
-14. Jean François Zobrist, *La belle histoire de Favi : l'entreprise qui croit que l'homme est bon Tome 1 Nos belles histoires*, 2014, ISBN: 978-2917587003.
+14. Jean François Zobrist, _La belle histoire de Favi : l'entreprise qui croit que l'homme est bon Tome 1 Nos belles histoires_, 2014, ISBN: 978-2917587003.
 
-15. Jean François Zobrist, *La belle histoire de Favi : l'entreprise qui croit que l'homme est bon Tome 2 Notre management et nos outils*, 2014, ISBN: 978-2917587010
+15. Jean François Zobrist, _La belle histoire de Favi : l'entreprise qui croit que l'homme est bon Tome 2 Notre management et nos outils_, 2014, ISBN: 978-2917587010
 
-16. Shoji Shiba, *Le management selon Shiba : Capter les signaux du changement pour une performance durable*, 2007, ISBN: 978-2212538434.
+16. Shoji Shiba, _Le management selon Shiba : Capter les signaux du changement pour une performance durable_, 2007, ISBN: 978-2212538434.
 
 17. Azaé, partage des risques avec le principe de variable volontaire, dans un contexte de travailleur non-salariés.
 
