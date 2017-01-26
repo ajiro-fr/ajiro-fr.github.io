@@ -10,7 +10,7 @@ tags:
   - valeur
 
 illustration:
-  name: 5970138933_5a116ebd06_o
+  name: 5970138933_5a116ebd06
   source: https://www.flickr.com/photos/mksfca/5970138933/
 ---
 
