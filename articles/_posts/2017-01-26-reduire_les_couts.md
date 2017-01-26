@@ -60,7 +60,12 @@ Allez Samuel, réfléchis hors du cadre. Facile, je vais remplacer le développe
 
 Il y a une solution simple : Pas de client, pas de dépense. Et donc pour éviter d'arriver à cette fin, qu'est ce que je peux faire ? La question sous jacente étant souvent comment réduire les coûts sans réduire la création de valeur. Tenter d'appliquer des réductions au niveau d'une équipe, c'est gamelle quasi assurée. Vous allez créer des déséquilibres qui à l'arrivée vont vous coûter plus cher. Il est donc intéressant d'envisager un autre chemin et de prendre de la hauteur (dans la structure). Cela veut dire que l'indicateur ne doit pas être cascadé jusqu'au niveau le plus bas. Sur un département de 100 personnes, si je réduis les coûts de 12% je peux conserver une certaine cohérence de profils. Vous pouvez me répondre qu'avec des personnes plus polyvalentes, le problème ne se poserait pas. Et bien vous avez tout à fait raison et c'est ce type de discussions que j'aimerais voir émerger. **Réduire les coûts, cela revient à choisir une nouvelle façon de travailler et bien souvent une nouvelle organisation.**
 
-### La différence entre vision et objectif
+{% include img.html
+    name='23004260952_35fe37bf46_h'
+    source='https://www.flickr.com/photos/98590749@N07/23004260952'
+%}
+
+### Levons la tête
 
 Pour finir, j'aimerais faire une aparthé sur la différence entre vision et objectif. Si vous partez sur une nouvelle organisation avec comme objectif 'Réduire les coûts de 12%', vous risquez de vous prendre un mur car il manque le cadre (la vision) dans lequel s'inscrit cette démarche. La vision est votre but et donc porteuse de sens. Pour atteindre votre vision, vous allez vous donnez des objectifs pour vous en rapprochez. La vision est globalement stable alors que les objectifs qui sont plus des étapes peuvent bouger.
 
