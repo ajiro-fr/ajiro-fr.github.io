@@ -35,6 +35,21 @@ layout: default
     </div>
   </div>
 
+  <div class="row spacer-40">
+    <div class="offset-md-2 col-md-8 col-xs-12">
+      <h2>Liens</h2>
+      <ul>
+        {% for article in site.categories.articles %}
+        {% unless article.hidden %}
+        {% if article.content contains page.url %}
+          <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+        {% endif %}
+        {% endunless %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
   {% if page.comments %}
   <div class="row spacer-40">
     <div class="offset-md-2 col-md-8 col-xs-12">
