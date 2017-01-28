@@ -1,7 +1,7 @@
 ---
 title: "Pour réduire vos coûts, changez votre organisation"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
