@@ -17,6 +17,7 @@ illustration:
 
 Nous publions içi notre réponse au concours lancé par ANEO sur la rémunération.
 
+
 ## Avant-propos
 
 ### Pourquoi nous participons à ce concours
