@@ -96,3 +96,12 @@ Ensuite, il reste à donner de la visibilité pour être capable de donner une d
 Vous pouvez me rappelez dans ce que je viens de décrire à quel moment on a passé du temps à faire des sessions d'estimation. JAMAIS JAMAIS JAMAIS. C'est souvent ce qui est vendu en gain de la 'méthode'. Personnellement je considère que c'est vrai mais pas le critère discriminant. On a surtout refocalisé les discussions sur le plus important à savoir : pourquoi on fait les choses? à quoi ça sert? qu'est ce que le client fera avec les produit? Il y a beaucoup moins de gâchis avec des fonctionnalités inutiles.
 
 Et le meilleur pour la fin et ceux qui suivent. Vous me direz qu'en agile on ne découpe pas dès le début tout le backlog. C'est un faux problème, on donne juste un ordre d'idée du nombre de User Stories. Et il manque la deuxième question sur le pourquoi des estimations. La voila : est ce que je vais avoir la rolls royce ou la deux chevaux ? C'est plus lié au niveau de fonctionnalités que l'on va mettre. Est ce que je vais être différenciant sur le marché ou est ce que je vais me contenter d'être à la parité ? Cela ne change rien à ce que l'on en fait derrière par rapport à la première question. GOTO Réponse à la question
+
+
+---
+Sources:
+
+- [NoEstimate]
+
+
+[NoEstimate]: /books/no_estimate-duarte_vasco.html
