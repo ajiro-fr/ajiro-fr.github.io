@@ -2,7 +2,7 @@
 title: "Concours ANEO : innovation sur la rémunération"
 subtitle: "Proposition pour un partage innovant de la valeur et des risques"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - albiez_olivier
   - clavier_thomas
@@ -14,6 +14,8 @@ tags:
 illustration:
   name: money-plant
 ---
+
+Voici notre réponse au concours lancé par ANEO sur la rémunération.
 
 ## Avant-propos
 
