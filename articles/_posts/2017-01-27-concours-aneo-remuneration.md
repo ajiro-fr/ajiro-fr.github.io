@@ -15,7 +15,7 @@ illustration:
   name: money-plant
 ---
 
-Voici notre réponse au concours lancé par ANEO sur la rémunération.
+Nous publions içi notre réponse au concours lancé par ANEO sur la rémunération.
 
 ## Avant-propos
 
