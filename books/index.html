@@ -13,18 +13,12 @@ description: |
 
 <div class='row spacer-20'>
   {% for item in site.books %}
-    <div class='col-md-4 col-xs-12'>
+    <div class='col-md-3 col-xs-12'>
       <a href="{{ item.url }}">
         <div class="card">
           {% if item.cover %}
-            <img class="card-img-top book-cover" alt="Couverture de {{ item.title }} cover" src="/assets/books/{{item.cover}}" />
+            <img class="card-img-top book-cover" alt="{{ item.title }}" src="/assets/books/{{item.cover}}" />
           {% endif %}
-          <div class="card-block">
-            <h3 class="card-title">
-              {{ item.title }}
-              {% if item.authors %}<br><small>{{ item.authors | join: ', ' }}</small>{% endif %}
-            </h3>
-          </div>
         </div>
       </a>
     </div>
