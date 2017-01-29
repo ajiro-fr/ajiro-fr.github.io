@@ -12,7 +12,7 @@ tags:
   - management
   - politique
 illustration:
-  name: money-plant
+  name: ginko-biloba
 ---
 
 Nous publions içi notre réponse au concours lancé par ANEO sur la rémunération.
