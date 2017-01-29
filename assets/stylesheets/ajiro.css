@@ -264,3 +264,7 @@ body {
   font-size: 12px;
   margin-bottom: 0;
 }
+
+.book-cover {
+  width: 100%;
+}
