@@ -12,7 +12,10 @@ gems:
 
 exclude:
 - README.md
-- Gemfile
+- Gemfile.lock
+- Gemlfile
+- run
+- quick-run
 
 defaults:
 - scope:
