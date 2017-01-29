@@ -15,8 +15,7 @@ illustration:
   name: ginko-biloba
 ---
 
-Nous publions içi notre réponse au concours lancé par ANEO sur la rémunération.
-
+Nous publions ici notre réponse au concours lancé par ANEO sur la rémunération.
 
 ## Avant-propos
 
@@ -83,13 +82,13 @@ Le [360°] est une méthode de diagnostic réalisée en interne par la direction
 Dans la suite du texte, les règles typographiques suivantes seront respectées :
 
 {: .alert .alert-warning .font-italic}
-> Les modes de fonctionnement actuels sont mis en avant de cette façon dans le texte ci-dessous.
+Les modes de fonctionnement actuels sont mis en avant de cette façon dans le texte ci-dessous.
 
 {: .alert .alert-info}
-**Les règles applicables à notre modèle de rémunération sont indiquées comme cela.**
+Les règles applicables à notre modèle de rémunération sont indiquées comme cela.
 
 {: .alert .alert-success}
-> Les éléments laissés à la discrétion de l'entreprise sont identifiés dans le reste du texte de cette façon.
+Les éléments laissés à la discrétion de l'entreprise sont identifiés dans le reste du texte de cette façon.
 
 
 ## Les systèmes de rémunération actuels
@@ -207,7 +206,7 @@ Tout ce que nous proposons peut être réalisé dans le temps de travail des sal
 ## Le système de rémunération
 
 {: .alert .alert-warning .font-italic}
-> Dans le système habituel de rémunération, le salarié ne peut pas changer sa rémunération. La régulation des salaires est faite par l’équipe dirigeante.
+Dans le système habituel de rémunération, le salarié ne peut pas changer sa rémunération. La régulation des salaires est faite par l’équipe dirigeante.
 
 Dans le système que nous proposons, la régulation se fait différemment.
 
@@ -225,39 +224,41 @@ Nous pensons en particulier que dans cette situation, les RH doivent pouvoir con
 ####  Le salaire Fixe
 
 {: .alert .alert-info}
-**Le salaire fixe est libre et défini par chaque salarié sur la base d’une grille de salaire.**
+Le salaire fixe est libre et défini par chaque salarié sur la base d’une grille de salaire.
 
 {: .alert .alert-success}
-> La grille de salaires est, comme nous l’avons dit précédemment, définie par l’ensemble des salariés. Ci-dessous une proposition de grille de salaires à modifier par l'ensemble des salariés :
->
->{: .table}
->|  Niveau  |  Salaire   |  Niveau  |  Salaire   |
->|:--------:|:----------:|:--------:|:----------:|
->| A        | 1500-1600  | G        | 4500-4600  |
->| B        | 2000-2100  | H        | 5000-5100  |
->| C        | 2500-2600  | I        | 6000-6100  |
->| D        | 3000-3100  | J        | 7000-7100  |
->| E        | 3500-3600  | K        | 8000-8100  |
->| F        | 4000-4100  | L        | 9000-9100  |
+La grille de salaires est, comme nous l’avons dit précédemment, définie par l’ensemble des salariés. 
+
+Ci-dessous une proposition de grille de salaires à modifier par l'ensemble des salariés :
+
+{: .table}
+|  Niveau  |  Salaire   |  Niveau  |  Salaire   |
+|:--------:|:----------:|:--------:|:----------:|
+| A        | 1500-1600  | G        | 4500-4600  |
+| B        | 2000-2100  | H        | 5000-5100  |
+| C        | 2500-2600  | I        | 6000-6100  |
+| D        | 3000-3100  | J        | 7000-7100  |
+| E        | 3500-3600  | K        | 8000-8100  |
+| F        | 4000-4100  | L        | 9000-9100  |
 
 
 {: .alert .alert-success}
-> La grille de salaires pourrait être étayée de persona permettant aux salariés de se comparer et de se situer sur l’échelle et ainsi de se positionner par rapport à un niveau de salaire qu’il estime juste pour lui et pour l’entreprise.
+La grille de salaires pourrait être étayée de persona permettant aux salariés de se comparer et de se situer sur l’échelle et ainsi de se positionner par rapport à un niveau de salaire qu’il estime juste pour lui et pour l’entreprise.
 
 {: .alert .alert-success}
-> L'entité accompagnant le salarié est à définir par l'ensemble des salariés.
+L'entité accompagnant le salarié est à définir par l'ensemble des salariés.
 
 La RH (ressources humaines) ou une autre entité (communauté de pairs) pourra aider les salariés à se positionner dans la grille.
 
 Un tel système, où le salarié choisit son salaire nécessite de disposer des informations et des outils pour évaluer l’impact sur l’entreprise du choix du salaire ; nous pressentons la nécessité de disposer d’un outil pour faire des simulations pour aider les salariés à prendre les décisions.
 
 {: .alert .alert-info}
-**Les éléments clés de l’entreprise (CA - chiffre d’affaire, charges, totalité de l’enveloppe de rémunération des salariés (salaire fixe et variable), etc.) qui permettent de prendre des décisions sont rendus publics également.**
+Les éléments clés de l’entreprise (CA - chiffre d’affaire, charges, totalité de l’enveloppe de rémunération des salariés (salaire fixe et variable), etc.) qui permettent de prendre des décisions sont rendus publics également.
 
 C’est un élément important de transparence qui permet de réguler les salaires. Cela demande de la pédagogie de la part de la direction ou de l’entité en charge du suivi financier de l’entreprise pour donner cette visibilité et cette conscience aux salariés. Cela demande aussi de construire un vrai climat de confiance dans l’ensemble de l’entreprise. Nous insistons sur ce point, car c’est à notre avis un risque majeur de notre système.
 
 {: .alert .alert-info}
-**La position dans la grille de salaire est publique au sein de l’entreprise.**
+La position dans la grille de salaire est publique au sein de l’entreprise.
 
 Il est fortement conseillé aux salariés de discuter entre eux pour s’harmoniser sur leurs salaires et éviter de mettre en péril l’entreprise[^2]. Ce sujet est abordé de façon plus détaillée dans le paragraphe sur [“Les variations de salaire”].
 
@@ -265,23 +266,23 @@ Il est fortement conseillé aux salariés de discuter entre eux pour s’harmoni
 ####  Le salaire Variable
 
 {: .alert .alert-info}
-**Le variable : le salarié peut choisir de rendre une partie de son salaire fixe variable, pour prendre à sa charge une partie du risque de l’entreprise. En contrepartie, ce variable sera bonifié et sera payé avant la redistribution des bénéfices.**
+Le variable : le salarié peut choisir de rendre une partie de son salaire fixe variable, pour prendre à sa charge une partie du risque de l’entreprise. En contrepartie, ce variable sera bonifié et sera payé avant la redistribution des bénéfices.
 
 Le salarié a la possibilité de choisir une part de variable sur son salaire. Ce dispositif a pour but de prendre en compte une volonté individuelle de participer à la prise de risque. Cela se traduit par le choix d’une répartition du salaire issu de la grille entre salaire fixe versé tous les mois et un variable qui sera reversé à la clôture des comptes.
 
 La réduction du salaire fixe versé mensuellement permet à l’entreprise de disposer de plus de liquidités. Lors de la redistribution des bénéfices en fin d’exercice, les personnes qui ont fait le choix de cette prise de risque sont “remboursées” en priorité ; ce “prêt” à l’entreprise est bonifié par un coefficient multiplicateur. Dans le cas où les bénéfices de l’entreprise ne permettent pas de couvrir les variables volontaires bonifiées, une répartition sera faite au prorata de la part de salaire “prêtée” par le salarié à l’entreprise.
 
 {: .alert .alert-success}
-> Le coefficient multiplicateur sera défini par l’ensemble des salariés.
+Le coefficient multiplicateur sera défini par l’ensemble des salariés.
 
 
 ####  La redistribution des bénéfices
 
 {: .alert .alert-warning .font-italic}
-> Aujourd’hui le variable est indexé sur l‘atteinte d’objectifs individuels et collectifs. Ce système favorise la compétition puisqu’à enveloppe de redistribution égale, celui qui en aura le plus est celui qui pourra justifier de l’atteinte la plus proche de ses objectifs. Cette évaluation étant subjective, il s'ensuit un jeu de séduction et de compétition (parfois inconsciemment) pour être celui qui “brille” le plus auprès de ceux qui vont prendre les décisions. La capacité à se vendre, à se marketer et à donner de la visibilité sur ses contributions influent sur la rémunération.
+Aujourd’hui le variable est indexé sur l‘atteinte d’objectifs individuels et collectifs. Ce système favorise la compétition puisqu’à enveloppe de redistribution égale, celui qui en aura le plus est celui qui pourra justifier de l’atteinte la plus proche de ses objectifs. Cette évaluation étant subjective, il s'ensuit un jeu de séduction et de compétition (parfois inconsciemment) pour être celui qui “brille” le plus auprès de ceux qui vont prendre les décisions. La capacité à se vendre, à se marketer et à donner de la visibilité sur ses contributions influent sur la rémunération.
 
 {: .alert .alert-info}
-**La redistribution des bénéfices se fait de façon égalitaire au prorata temporis.**
+La redistribution des bénéfices se fait de façon égalitaire au prorata temporis.
 
 En fin d’exercice, l’entreprise définit, explique et publie la répartition des bénéfices de l’entreprise entre :
 
@@ -358,19 +359,19 @@ Les variations de salaire sont de plusieurs natures :
 - soit à l’initiative du salarié.
 
 {: .alert .alert-info}
-**Systématique : le salaire suit le coût de la vie ; la grille évolue avec l’inflation.**
+Systématique : le salaire suit le coût de la vie ; la grille évolue avec l’inflation.
 
 Tous les ans la grille des salaires peut être réévaluée en fonction de l’inflation définie par l’INSEE.
 
 {: .alert .alert-info}
-**A l'initiative de chaque salarié : il peut demander à changer de salaire quand il le juge nécessaire, à la hausse ou à la baisse.**
+A l'initiative de chaque salarié : il peut demander à changer de salaire quand il le juge nécessaire, à la hausse ou à la baisse.
 
 Les principes de transparence et donc de pression sociale restent applicables. Ainsi comme précédemment, les RH peuvent être des partenaires de réflexion dans le choix du nouveau salaire. Leur intervention est complémentaire des échanges entre salariés. Nous encourageons donc les salariés à discuter des modifications de salaire entre eux pour s’harmoniser.
 
 Point important, la transparence est réalisée en mode poussé : les modifications de salaires sont notifiées à l’ensemble des salariés.
 
 {: .alert .alert-success}
-> L’ensemble des salariés peut définir des modalités plus précises de revue des salaires.
+L’ensemble des salariés peut définir des modalités plus précises de revue des salaires.
 
 Voici quelques exemples :
 
@@ -387,12 +388,12 @@ Notre système décrit également les modalités d’intégration d’un nouveau
 L’embauche d’un nouveau salarié se fera en utilisant la grille de salaire. Le salaire sera négocié durant le processus de recrutement, comme d’habitude.
 
 {: .alert .alert-info}
-**Le système de rémunération décrit ici ne sera applicable qu’après une certaine période que nous appelons le “postulat”.**
+Le système de rémunération décrit ici ne sera applicable qu’après une certaine période que nous appelons le “postulat”.
 
 Cette période de “postulat” est une période d’acculturation du nouvel embauché à la culture de l’entreprise. Elle doit entre autre lui permettre de comprendre comment fonctionne le système de rémunération pour lui permettre de jouer avec les mêmes règles du jeu en toute connaissance de causes. Ici l’hypothèse est que la durée de postulat dure 12 mois.
 
 {: .alert .alert-success}
-> La durée de ce postulat peut être soumise à une approbation de l’ensemble des acteurs de l’entreprise.
+La durée de ce postulat peut être soumise à une approbation de l’ensemble des acteurs de l’entreprise.
 
 Le nouvel arrivant intègre l’entreprise en tant que “postulant” et conserve son salaire d’embauche pendant un an, le temps de comprendre le mode de fonctionnement et d’acquérir les éléments de référence lui permettant de se positionner dans la culture.
 
@@ -413,7 +414,7 @@ Le niveau de description des modalités suivantes restera donc assez macroscopiq
 ### La motivation
 
 {: .alert .alert-warning .font-italic}
-> Aujourd’hui le système s’appuie sur une prime obtenue sur atteinte d’objectifs individuels annuels.
+Aujourd’hui le système s’appuie sur une prime obtenue sur atteinte d’objectifs individuels annuels.
 
 Nous pensons que l’argent n’est que rarement une source de motivation. Cela peut être une source de démotivation quand le salaire est insuffisant pour couvrir les charges de la personne ou que les critères de répartitions sont ressentis comme injustes. Notre proposition de rémunération n’est donc pas basée sur cette croyance que l’argent implique la motivation.
 
@@ -440,7 +441,7 @@ Attirer les talents pourra se faire sur les mêmes critères que ceux de la moti
 
 ###  La reconnaissance
 
-> Aujourd’hui, la reconnaissance sociale peut passer par la représentation d’un statut dans l’entreprise et par des avantages en nature associés : “Je suis manager et j’ai une voiture de fonction”.
+Aujourd’hui, la reconnaissance sociale peut passer par la représentation d’un statut dans l’entreprise et par des avantages en nature associés : “Je suis manager et j’ai une voiture de fonction”.
 
 Dans une entreprise plus libérée, ce genre de médaille n’a plus lieu d’être. La reconnaissance vient directement de la satisfaction à participer à la réussite de l’entreprise. Liberté et confiance en soi permettent de transcender ces signes extérieurs.
 
@@ -454,7 +455,7 @@ Les autres types de reconnaissance tels que la reconnaissance de l’expérience
 ###  La prise de recul
 
 {: .alert .alert-warning .font-italic}
-> Aujourd’hui réalisée lors de l’entretien annuel, la prise de recul est un bilan régulier fait par le salarié ou des collaborateurs (360°) ou le management direct afin de mesurer les évolutions en termes d’expérience, de compétences, d’évaluer l’adéquation entre la personne et son rôle dans l’entreprise, etc.
+Aujourd’hui réalisée lors de l’entretien annuel, la prise de recul est un bilan régulier fait par le salarié ou des collaborateurs (360°) ou le management direct afin de mesurer les évolutions en termes d’expérience, de compétences, d’évaluer l’adéquation entre la personne et son rôle dans l’entreprise, etc.
 
 Nous préconisons de faire des prises de recul de façon plus fréquente et tout aussi régulière. Il s’agit alors de proposer au salarié différents dispositifs. Charge au salarié ensuite de prendre ses responsabilités et d’utiliser celles qui lui conviennent le mieux au service de la couverture de ses besoins et de son épanouissement.
 
@@ -477,7 +478,7 @@ La RH et le management sont au service des salariés pour proposer, aider à cho
 ### L’évolution du collaborateur
 
 {: .alert .alert-warning .font-italic}
-> Aujourd’hui, lors de l’entretien annuel, des formations, coaching et autres parcours initiatiques sont définis pour accompagner le salarié dans son développement au service de l’atteinte de ses objectifs annuels.
+Aujourd’hui, lors de l’entretien annuel, des formations, coaching et autres parcours initiatiques sont définis pour accompagner le salarié dans son développement au service de l’atteinte de ses objectifs annuels.
 
 Dans notre système, la responsabilité de son évolution est rendue au salarié. L’entreprise lui met à disposition un ensemble de dispositifs que le salarié peut décider d’activer ou non en fonction de ses besoins. Ces dispositifs lui permettent de définir ses prochains challenges, d’identifier les formations ou autres moyens d'accompagnement qui lui seront nécessaires pour sa progression.
 
