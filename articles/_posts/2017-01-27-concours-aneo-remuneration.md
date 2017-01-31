@@ -15,7 +15,8 @@ illustration:
   name: ginko-biloba
 ---
 
-Nous publions ici notre réponse au concours lancé par ANEO sur la rémunération.
+Nous publions ici notre réponse au concours lancé par ANEO sur la rémunération. Vous pouvez [télécharger le pdf](/assets/articles/concours-aneo-remuneration/concours-aneo-remuneration.pdf) pour une lecture offline.
+
 
 ## Avant-propos
 
@@ -227,7 +228,7 @@ Nous pensons en particulier que dans cette situation, les RH doivent pouvoir con
 Le salaire fixe est libre et défini par chaque salarié sur la base d’une grille de salaire.
 
 {: .alert .alert-success}
-La grille de salaires est, comme nous l’avons dit précédemment, définie par l’ensemble des salariés. 
+La grille de salaires est, comme nous l’avons dit précédemment, définie par l’ensemble des salariés.
 
 Ci-dessous une proposition de grille de salaires à modifier par l'ensemble des salariés :
 
