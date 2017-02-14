@@ -55,9 +55,9 @@ Un exemple de solution pourrait être de réserver un pourcentage défini des r�
 Vous pouvez [télécharger le pdf] pour une lecture offline, ou lire notre proposition de [rémunération libre].
 
 
-## La présentation à ANEO
+## La soutenance chez ANEO
 
-Pour notre proposition à ANEO, nous avons utilisé un [jeu de cartes] contenant des personas et des situations. L'idée initiale était de pouvoir montrer notre proposition à partir d'un jeu de rôle. Nous avons laissé le jury décider des situations qu'ils voulaient étudier et de les ordonner.
+Pour notre soutenance chez ANEO, nous avons utilisé un [jeu de cartes] contenant des personas et des situations. L'idée initiale était de pouvoir montrer notre proposition à partir d'un jeu de rôle. Nous avons laissé le jury décider des situations qu'ils voulaient étudier et de les ordonner.
 
 En pratique, cela nous a permis de structurer la discussion et la partie jeu de rôle n'a pas été utilisée.
 
