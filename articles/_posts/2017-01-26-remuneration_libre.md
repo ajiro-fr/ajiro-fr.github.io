@@ -524,9 +524,7 @@ D’autre part, nous pensons qu’il faut être vigilant et accompagner de faço
 
 ## Remerciements
 
-Nous tenons à remercier ANEO pour avoir publié ce concours sans lequel nous n’aurions pas pris le temps de cette mise en commun de nos réflexions. Ces quelques heures passées à échanger sur le sujet ont été une source de satisfaction importante, de prise de conscience et d’idéation maîtrisée. Si c’était à refaire, nous le referions avec grand plaisir. Rendez-vous dans 5 ans, le contexte aura encore évolué et nous pourrons à nouveau nous poser la question.
-
-Nous tenons aussi à remercier chaleureusement les personnes qui nous ont accordé une denrée rare et même très rare, qu’est leur temps, pour relire ce document et nous permettre d’en faire la meilleure version possible que nous sommes en mesure de faire. Un grand merci à :
+Nous tenons à remercier chaleureusement les personnes qui nous ont accordé une denrée rare et même très rare, qu’est leur temps, pour relire ce document et nous permettre d’en faire la meilleure version possible que nous sommes en mesure de faire. Un grand merci à :
 
 - Anne Dupérat : pour sa relecture attentive, ses remarques pertinentes et son encouragement à changer le monde.
 - Céline : pour son pragmatisme et son oeil bienveillant et pragmatique.
