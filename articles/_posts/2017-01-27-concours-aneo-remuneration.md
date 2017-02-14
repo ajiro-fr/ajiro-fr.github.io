@@ -1,6 +1,5 @@
 ---
 title: "Concours ANEO : innovation sur la rémunération"
-subtitle: "Proposition pour un partage innovant de la valeur et des risques"
 lang: fr
 hidden: false
 authors:
