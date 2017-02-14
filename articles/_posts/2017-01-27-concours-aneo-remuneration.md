@@ -57,7 +57,7 @@ Vous pouvez [télécharger le pdf] pour une lecture offline, ou lire notre propo
 
 ## La soutenance chez ANEO
 
-Pour notre soutenance chez ANEO, nous avons utilisé un [jeu de cartes] contenant des personas et des situations. L'idée initiale était de pouvoir montrer notre proposition à partir d'un jeu de rôle. Nous avons laissé le jury décider des situations qu'ils voulaient étudier et de les ordonner. Cela a permis de structurer la discussion et les echanges.
+Pour notre soutenance chez ANEO, nous avons utilisé un [jeu de cartes] contenant des personas et des situations. L'idée initiale était de pouvoir montrer notre proposition à partir d'un jeu de rôle. Nous avons laissé le jury décider des situations qu'ils voulaient étudier et de les ordonner. Cela a permis de structurer la discussion et les échanges.
 
 Nous avons aussi utilisé un [tableur pour simuler des choix de rémunération].
 
