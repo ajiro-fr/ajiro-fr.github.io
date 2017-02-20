@@ -23,7 +23,18 @@ illustration:
   background-color: #fed393;
   border-color: #c47401;
   color: #955901;
-  font-style: italic;
+  min-height: 90px;
+}
+
+.highlight-current::before {
+  content: '';
+  background-image: url('/assets/articles/remuneration_libre/now.png');
+  background-size: 90px;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 60px;
+  display: block;
+  float: left;
 }
 
 .highlight-rule {
@@ -34,7 +45,18 @@ illustration:
   background-color: #bdd8e3;
   border-color: #3d7890;
   color: #2a5363;
-  font-weight: normale;
+  min-height: 100px;
+}
+
+.highlight-rule::before {
+  content: '';
+  background-image: url('/assets/articles/remuneration_libre/rules.png');
+  background-size: 50px;
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 70px;
+  display: block;
+  float: left;
 }
 
 .highlight-customize {
@@ -45,7 +67,30 @@ illustration:
   background-color: #b7ede0;
   border-color: #1e7c66;
   color: #196553;
+  min-height: 90px;
 }
+
+.highlight-customize::before {
+  content: '';
+  background-image: url('/assets/articles/remuneration_libre/team.png');
+  background-size: 80px;
+  background-repeat: no-repeat;
+  width: 90px;
+  height: 60px;
+  display: block;
+  float: left;
+}
+
+/*
+p::first-letter {
+  font-family:lobster;
+  font-size:3.5em;
+  padding-right:0.2em;
+  float:left;
+  color:red;
+}
+*/
+
 </style>
 
 
