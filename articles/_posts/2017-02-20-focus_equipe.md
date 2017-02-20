@@ -113,17 +113,20 @@ Quand nous sommes arrivés le premier jour dans cette équipe, nous avons commen
 
 Après avoir réorganisé le bureau pour pouvoir projeter l'écran d'un des développeurs sur un mur, nous avons attaqué l'histoire utilisateur en mode "Mob programming" au bout de quelques minutes nous avons stoppé l'équipe :
 
--- Avez-vous observé quelque chose que l'on pourrait améliorer ?
--- Non
--- Vous trouvez ça normale de mettre plus de 6 minutes à compiler le projet ?
--- Heu ... Oui, c'est toujours comme ça, mais on fait autre chose en attendant.
--- Ha, je vais quand même le noter sur un postit et l'afficher au mur.
+
+{: .font-italic}
+> --- Avez-vous observé quelque chose que l'on pourrait améliorer ?<br>
+> --- Non<br>
+> --- Vous trouvez ça normale de mettre plus de 6 minutes à compiler le projet ?<br>
+> --- Heu ... Oui, c'est toujours comme ça, mais on fait autre chose en attendant.<br>
+> --- Ha, je vais quand même le noter sur un postit et l'afficher au mur.
 
 Nous avons alors repris le développement quelques minutes avant d'arrêter à nouveau l'équipe :
 
--- Avez-vous observé quelque chose que l'on pourrait améliorer ?
--- Non mais ce n'est pas pareil, l'indexation prend forcément 2 heures, on ne peut pas faire autrement. Et puis on fait autre chose en attendant.
--- OK, je vais quand même le noter sur un postit et l'afficher au mur.
+{: .font-italic}
+> --- Avez-vous observé quelque chose que l'on pourrait améliorer ?<br>
+> --- Non mais ce n'est pas pareil, l'indexation prend forcément 2 heures, on ne peut pas faire autrement. Et puis on fait autre chose en attendant.<br>
+> --- OK, je vais quand même le noter sur un postit et l'afficher au mur.
 
 Au bout d'une demi-journée, l'histoire utilisateur n'était pas en production, elle était d'ailleurs loin d'être terminée, mais le mur était couvert de postit.
 
