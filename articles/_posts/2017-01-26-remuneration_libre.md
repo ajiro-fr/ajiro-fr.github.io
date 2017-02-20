@@ -31,10 +31,10 @@ illustration:
   margin-bottom: 1rem;
   border: 1px solid transparent;
   border-radius: 0.25rem;
-  background-color: #d9edf7;
-  border-color: #bcdff1;
-  color: #31708f;
-  font-weight: bold;
+  background-color: #bdd8e3;
+  border-color: #3d7890;
+  color: #2a5363;
+  font-weight: normale;
 }
 
 .highlight-customize {
@@ -42,9 +42,9 @@ illustration:
   margin-bottom: 1rem;
   border: 1px solid transparent;
   border-radius: 0.25rem;
-  background-color: #dff0d8;
-  border-color: #d0e9c6;
-  color: #3c763d;
+  background-color: #b7ede0;
+  border-color: #1e7c66;
+  color: #196553;
 }
 </style>
 
