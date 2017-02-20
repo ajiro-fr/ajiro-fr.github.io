@@ -20,9 +20,9 @@ illustration:
   margin-bottom: 1rem;
   border: 1px solid transparent;
   border-radius: 0.25rem;
-  background-color: #fcf8e3;
-  border-color: #faf2cc;
-  color: #8a6d3b;
+  background-color: #fed393;
+  border-color: #c47401;
+  color: #955901;
   font-style: italic;
 }
 
