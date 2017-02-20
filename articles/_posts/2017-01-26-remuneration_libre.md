@@ -23,16 +23,14 @@ illustration:
   background-color: #fed393;
   border-color: #c47401;
   color: #955901;
-  min-height: 90px;
+  min-height: 2em;
 }
 
 .highlight-current::before {
-  content: '';
-  background-image: url('/assets/articles/remuneration_libre/now.png');
-  background-size: 90px;
-  background-repeat: no-repeat;
-  width: 100px;
-  height: 60px;
+  content: '\f1da';
+  font-family: FontAwesome;
+  font-size: 2em;
+  width: 1.3em;
   display: block;
   float: left;
 }
@@ -49,12 +47,10 @@ illustration:
 }
 
 .highlight-rule::before {
-  content: '';
-  background-image: url('/assets/articles/remuneration_libre/rules.png');
-  background-size: 50px;
-  background-repeat: no-repeat;
-  width: 60px;
-  height: 70px;
+  content: '\f046';
+  font-family: FontAwesome;
+  font-size: 2em;
+  width: 1.3em;
   display: block;
   float: left;
 }
@@ -71,12 +67,10 @@ illustration:
 }
 
 .highlight-customize::before {
-  content: '';
-  background-image: url('/assets/articles/remuneration_libre/team.png');
-  background-size: 80px;
-  background-repeat: no-repeat;
-  width: 90px;
-  height: 60px;
+  content: '\f0d0';
+  font-family: FontAwesome;
+  font-size: 2em;
+  width: 1.3em;
   display: block;
   float: left;
 }
