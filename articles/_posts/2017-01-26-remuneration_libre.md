@@ -209,18 +209,18 @@ Nous pensons en particulier que dans cette situation, les RH doivent pouvoir con
 
 {: .alert .alert-success}
 > La grille de salaires est, comme nous l’avons dit précédemment, définie par l’ensemble des salariés.
->
-> Ci-dessous une proposition de grille de salaires à modifier par l'ensemble des salariés :
->
-> {: .table}
-> |  Niveau  |  Salaire   |  Niveau  |  Salaire   |
-> |:--------:|:----------:|:--------:|:----------:|
-> | A        | 1500-1600  | G        | 4500-4600  |
-> | B        | 2000-2100  | H        | 5000-5100  |
-> | C        | 2500-2600  | I        | 6000-6100  |
-> | D        | 3000-3100  | J        | 7000-7100  |
-> | E        | 3500-3600  | K        | 8000-8100  |
-> | F        | 4000-4100  | L        | 9000-9100  |
+
+Ci-dessous une proposition de grille de salaires à modifier par l'ensemble des salariés :
+
+{: .table}
+|  Niveau  |  Salaire   |  Niveau  |  Salaire   |
+|:--------:|:----------:|:--------:|:----------:|
+| A        | 1500-1600  | G        | 4500-4600  |
+| B        | 2000-2100  | H        | 5000-5100  |
+| C        | 2500-2600  | I        | 6000-6100  |
+| D        | 3000-3100  | J        | 7000-7100  |
+| E        | 3500-3600  | K        | 8000-8100  |
+| F        | 4000-4100  | L        | 9000-9100  |
 
 
 {: .alert .alert-success}
