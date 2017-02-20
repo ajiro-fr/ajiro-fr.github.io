@@ -35,7 +35,7 @@ J'ai récemment été contacté pour faire une session sur #NoEstimates. Finalem
 >
 > ...
 
-Si vous participez à ce type de discussion, c'est que vous êtes improductifs (ou du moins partiellement). Le problème de cet exemple n'est pas de savoir si c'est 12 ou 15, le problème c'est que cette discussion est orientée coût et non valeur. C'est le coeur du #NoEstimates dont le nom complet est #NoEstimates, focus on what matters. Ce mouvement de pensée vise à se focaliser sur les impacts et non les livrables.
+Si vous participez à ce type de discussion, c'est que vous êtes improductifs (ou du moins partiellement). Le problème de cet exemple n'est pas de savoir si c'est 12 ou 15, le problème c'est que cette discussion est orientée coût et non valeur. C'est le cœur du #NoEstimates dont le nom complet est #NoEstimates, focus on what matters. Ce mouvement de pensée vise à se focaliser sur les impacts et non les livrables.
 
 Dans la suite de l'article, je vais plus donner ma vision du #NoEstimates qu'un consensus de la communauté. Je prends ce parti car il n'existe pour moi pas de consensus. Il y a beau y avoir le livre de Vasco Duarte, il a été écrit après les premiers échanges sur twitter. Il suffit de taper #NoEstimates sur google pour s'en rendre compte. Ce que je raconte ci dessous provient des expériences que nous (les équipes que je coache et moi) avons fait avant et après un workshop avec Vasco qui nous a permis d'affiner le modèle.
 
