@@ -46,20 +46,6 @@ Avez-vous rencontré ce genre d'équipe ?
 Nous oui, et nous allons vous raconter l'histoire de l'une d'entre elles.
 
 
-- Avez-vous des taches bloqués ou en attentes ?
-- L'ensemble des éléments terminés sont bien en production ?
-
-Un encours à un signifie que tous les membres de l'équipe répondront :
-
-- Nous travaillons sur la même histoire utilisateur.
-- Toutes les histoires utilisateurs que nous avons déjà livrés sont en production.
-- Aucune tache n'est bloqué ou en attente d'une autre équipe.
-
-Avez-vous rencontré ce genre d'équipe ?
-
-Nous oui, et nous allons vous raconter l'histoire de l'une d'entre elles.
-
-
 ## Une belle histoire.
 
 Il était une fois une équipe de développement, ils étaient six en comptant le chef de projet et livraient en moyenne une histoire utilisateur par semaine. Après notre passage et l'adoption de la règle : une histoire utilisateur à la fois pour toute l'équipe, ils livraient en production quatre à cinq histoires utilisateurs par semaine.
