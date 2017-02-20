@@ -130,6 +130,4 @@ Dois-je continuer la question 1 au risque de ne pas finir et rater l'examen ou d
 
 ## Référence
 
-Stop Starting, Start Finishing! (Anglais) Broché – 19 juillet 2012 de Arne Roock (Auteur), Claudia Leschik (Illustrations)
-
-https://www.club-agile-caen.fr/2016/07/28/traduction-de-stop-starting-start-finishing-lean-kanban-university/
+Stop Starting, Start Finishing! (Anglais) Broché – 19 juillet 2012 de Arne Roock (Auteur), Claudia Leschik (Illustrations) que l'on peut d'ailleurs retrouvé en version française sur le site du [club agile de caen](https://www.club-agile-caen.fr/2016/07/28/traduction-de-stop-starting-start-finishing-lean-kanban-university/)
