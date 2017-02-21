@@ -27,15 +27,19 @@ layout: default
         {% if page.isbn %}ISBN: {{page.isbn}}{% endif %}
       </p>
 
-      <h2>Résumé</h2>
-
       {% if page.summary %}
-      <p>{{page.summary | markdownify}}</p>
+        <h2>Résumé</h2>
+        <p>{{page.summary | markdownify}}</p>
+      {% endif %}
+
+      {% if page.notes %}
+        <h2>Notes</h2>
+        <p>{{page.notes | markdownify}}</p>
       {% endif %}
     </div>
   </div>
 
-  <div class="row spacer-40">
+  <div class="row">
     <div class="offset-md-2 col-md-8 col-xs-12">
       <h2>Liens</h2>
       <ul>
@@ -51,7 +55,7 @@ layout: default
   </div>
 
   {% if page.comments %}
-  <div class="row spacer-40">
+  <div class="row">
     <div class="offset-md-2 col-md-8 col-xs-12">
       <h2>Commentaires</h2>
     </div>
