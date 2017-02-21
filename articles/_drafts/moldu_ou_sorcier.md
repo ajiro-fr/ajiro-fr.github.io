@@ -14,7 +14,7 @@ tags:
   - politique
   - team
 illustration:
-  name: 7355050992_e1828e8b22
+  name: 2941691931_1e9fac713e
   source: https://www.flickr.com/photos/mhgrafix/2941691931/
 ---
 
