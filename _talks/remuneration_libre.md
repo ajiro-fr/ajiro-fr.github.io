@@ -15,4 +15,9 @@ illustration:
   name: ginko-biloba
 abstract: |
   Atelier autour du concept d'un modèle de rémunération libre, choisie par les salariés.
+sessions:
+  - date: 2017-02-13
+    name: Session privée chez ANEO
+    url: http://aneo.eu/
+
 ---

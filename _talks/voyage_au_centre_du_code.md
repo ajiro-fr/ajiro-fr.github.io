@@ -12,4 +12,8 @@ illustration:
   name: illustration
 abstract: |
   Venez découvrir l'univers du développement informatique et apprenez comment vous prémunir de ses dangers grâce au Software craftsmanship.
+sessions:
+  - date: "2016-10-10"
+    name: Agile Day BNP 2016
+    url:
 ---
