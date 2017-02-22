@@ -16,10 +16,9 @@ abstract: |
 sessions:
   - date: "2016-10-10"
     name: Agile Day BNP 2016
-    url:
 ---
 
-### Le voyage
+## Le voyage
 
 - Quels sont les symptômes de l'absence de craft ? _Présentation d'un ensemble d'éléments directement observable dans les équipes._
 - Et chez vous ? Comment cela se passe ? _Collecte d'éléments observé dans les équipes à recouper avec les éléments présenter au dessus._
@@ -27,7 +26,7 @@ sessions:
 - La systémique de developpement. _Co-construit avec le public_
 - Du craft en direct. _Exemple de code, lecture et analyse avec le public_
 
-### Les actions
+## Les actions
 
 - Quels changements pour les développeurs ?
 - Quels changements pour l'encadrement ?
@@ -35,7 +34,7 @@ sessions:
 
 Le tout illustré de nos expériences et de grands groupes industriels (Toyota par exemple).
 
-### Notions abordées
+## Notions abordées
 
 Les différentes notions que nous aborderons :
 

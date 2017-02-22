@@ -46,29 +46,35 @@ layout: default
   {% endif %}
   <div class="row spacer-40">
     <div class="offset-lg-2 col-lg-8 col-md-12">
-      <h2>Résumé</h2>
-      {{ page.abstract }}
+      <div class="card card-inverse talk-card mb-3">
+        <div class="card-block">
+          <h2>Résumé</h2>
+          {{ page.abstract }}
+
+          {% if page.sessions.size > 0 %}
+            <h2>Sessions</h2>
+            <ul>
+              {% for session in page.sessions %}
+              <li>
+                <i class='fa fa-calendar'></i> {{ session.date | date: "%b %-d, %Y" }}
+                —
+                {% if session.url %}
+                  <a href="{{ session.url }}">{{session.name}}</a>
+                {% else %}
+                  {{session.name}}
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="row spacer-40">
+  <div class="row spacer-20">
     <div class="offset-lg-2 col-lg-8 col-md-12">
-      {% if page.sessions.size > 0 %}
-        <h2>Sessions</h2>
-        <ul>
-          {% for session in page.sessions %}
-          <li>
-            <i class='fa fa-calendar'></i> {{ session.date | date: "%b %-d, %Y" }}
-            —
-            {% if session.url %}
-              <a href="{{ session.url }}">{{session.name}}</a>
-            {% else %}
-              {{session.name}}
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-      {% endif %}
+      {{ page.content }}
     </div>
   </div>
 
