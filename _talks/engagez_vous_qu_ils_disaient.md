@@ -4,8 +4,8 @@ title: "Engagez-vous qu'ils disaient !"
 duration: 2H
 type: Présentation
 authors:
-- albiez_olivier
-- clavier_thomas
+  - albiez_olivier
+  - clavier_thomas
 tags:
   - organisation
   - militaire

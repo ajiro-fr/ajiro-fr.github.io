@@ -1,12 +1,12 @@
 ---
 layout: talk
-title: "La Rémunération libre."
+title: La Rémunération libre.
 duration: 3H
 type: Atelier
 authors:
-- albiez_olivier
-- clavier_thomas
-- rabemananjara_mija
+  - albiez_olivier
+  - clavier_thomas
+  - rabemananjara_mija
 tags:
   - entreprise libérée
   - management
