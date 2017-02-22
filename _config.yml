@@ -39,6 +39,11 @@ defaults:
     type: games
   values:
     layout: game
+- scope:
+    path: talks
+    type: talks
+  values:
+    layout: talks
 
 collections:
   books:
@@ -46,6 +51,8 @@ collections:
   tales:
     output: true
   games:
+    output: true
+  talks:
     output: true
 
 version:

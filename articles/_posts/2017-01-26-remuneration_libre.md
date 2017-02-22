@@ -13,6 +13,8 @@ tags:
   - politique
 illustration:
   name: ginko-biloba
+description: |
+  Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés.
 ---
 <style>
 .highlight-current {

@@ -26,7 +26,7 @@ description: |
 {: .blockquote}
 > Focus est un mot anglais emprunté au latin qui veut dire foyer ou point, c'est le lieu où plusieurs choses se concentrent.
 
-La définition de "focus" sur Wikipedia me rappelle mes cours d'optique avec les expériences où l'on voit converger tous les rayons lumineux vers un même point avant de se disperser. Calculer ce point de convergence était beaucoup plus compliqué que de le trouver expérimentalement.
+La définition de "focus" sur Wikipedia nous rappelle nos cours d'optique avec les expériences où l'on voit converger tous les rayons lumineux vers un même point avant de se disperser. Calculer ce point de convergence était beaucoup plus compliqué que de le trouver expérimentalement.
 
 Dans le contexte qui nous occupe aujourd'hui, c'est un peu l'inverse, le point de focus d'une équipe, c'est un encours de travail à un, donc très simple à calculer, mais dans la pratique très difficile à atteindre.
 

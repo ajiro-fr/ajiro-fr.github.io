@@ -1,0 +1,92 @@
+---
+layout: default
+---
+
+<div class="article">
+  <div class="row">
+    <div class="offset-lg-2 col-lg-8 col-md-12">
+      <h1>
+        {{ page.title }} {% if page.subtitle %}<br /><small>{{ page.subtitle }}</small> {% endif %}
+      </h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="offset-lg-2 col-lg-8 col-md-12">
+      <small>
+        {% if page.tags.size > 0 %}
+          <div class="float-xs-right">
+            <i class="fa fa-tags"></i>
+            {% for tag in page.tags %}
+              <span class="tag tag-default">{{tag}}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+        <div>
+          <i class='fa fa-clock-o'></i> {{ page.duration }}
+          &nbsp;—&nbsp;
+          <i class='fa fa-cog'></i> {{ page.type }}
+        </div>
+      </small>
+    </div>
+  </div>
+  {% if page.illustration %}
+    <div class="row spacer-20">
+      <div class="offset-lg-2 col-lg-8 col-md-12">
+        {% capture asset %}talks/{{page.slug}}{% endcapture %}
+        {% include components/image.html
+          description=page.illustration.description
+          name=page.illustration.name
+          source=page.illustration.source
+          legend=page.illustration.legend
+          asset=asset
+          top=true
+        %}
+      </div>
+    </div>
+  {% endif %}
+  <div class="row spacer-40">
+    <div class="offset-lg-2 col-lg-8 col-md-12">
+      <h2>Résumé</h2>
+      {{ page.abstract }}
+
+      {% if page.sessions.size > 0 %}
+        <h2>Sessions</h2>
+        <ul>
+          {% for session in page.sessions %}
+          <li>
+            <i class='fa fa-calendar'></i> {{ session.date | date: "%b %-d, %Y" }}
+            —
+            {% if session.url %}
+              <a href="{{ session.url }}">{{session.name}}</a>
+            {% else %}
+              {{session.name}}
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+    </div>
+  </div>
+  <div class="row spacer-40">
+    <div class="offset-lg-2 col-lg-8 col-md-12 text-xs-right">
+      <div class="float-xs-right">{% include components/share_with.html %}</div>
+      <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
+    </div>
+  </div>
+
+  {% for author_id in page.authors %}
+    {% assign author = site.data.people[author_id] %}
+    {% include components/people.html people=author %}
+  {% endfor %}
+
+  <div class="row">
+    <div class="offset-lg-2 col-lg-8 col-md-12">
+      {% if page.contributors.size > 0 %}
+      <hr>
+      Contributeurs: <i>{{ page.contributors | join: ', ' }}</i>
+      {% endif %}
+    </div>
+  </div>
+
+</div>
