@@ -26,7 +26,7 @@ description: |
 {: .blockquote}
 > Focus est un mot anglais emprunté au latin qui veut dire foyer ou point, c'est le lieu où plusieurs choses se concentrent
 
-La définition de "focus" sur Wikipedia me rappel mes cours d'optique avec les expériences où l'on voit converger tous les rayons lumineux vers un même point avant de se disperser. Calculer ce point de convergence était beaucoup plus compliqué que de le trouver expérimentalement.
+La définition de "focus" sur Wikipedia nous rappelle nos cours d'optique avec les expériences où l'on voit converger tous les rayons lumineux vers un même point avant de se disperser. Calculer ce point de convergence était beaucoup plus compliqué que de le trouver expérimentalement.
 
 Dans le contexte qui nous occupe aujourd'hui, c'est un peu l'inverse, le point de focus d'une équipe, c'est un encours de travail à un, donc très simple à calculer, mais dans la pratique très difficile à atteindre.
 
@@ -89,7 +89,7 @@ En dehors de discuter de design commun et d'identifier les défauts de processus
 
 - Une synchronisation quasi-permanente, le daily se recentre alors sur une question : "Allons-nous tenir nos engagements ?".
 - Une véritable équipe qui se connaît parfaitement et qui travaille en collaboration tout le temps.
-- Un vrai partage du code et des fonctionnalités de l'application entre tous les membres de l'équipe, d'ailleurs tout le monde travail sur la même branche de code.
+- Un vrai partage du code et des fonctionnalités de l'application entre tous les membres de l'équipe, d'ailleurs tout le monde travaille sur la même branche de code.
 - Des livraisons sans bug avec une régularité sans précédent.
 - Cela force à faire des choix et donc à faire beaucoup plus attention à la valeur business.
 
@@ -103,7 +103,7 @@ Après avoir réorganisé le bureau pour pouvoir projeter l'écran d'un des dév
 {: .font-italic}
 --- Avez-vous observé quelque chose que l'on pourrait améliorer ?<br>
 --- Non<br>
---- Vous trouvez ça normale de mettre plus de 6 minutes à compiler le projet ?<br>
+--- Vous trouvez ça normal de mettre plus de 6 minutes à compiler le projet ?<br>
 --- Heu ... Oui, c'est toujours comme ça, mais on fait autre chose en attendant.<br>
 --- Ha, je vais quand même le noter sur un postit et l'afficher au mur.
 
