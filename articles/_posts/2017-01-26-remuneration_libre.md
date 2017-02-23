@@ -25,7 +25,7 @@ description: |
   background-color: #fed393;
   border-color: #c47401;
   color: #955901;
-  min-height: 2em;
+  min-height: 4em;
 }
 
 .highlight-current::before {
@@ -45,7 +45,7 @@ description: |
   background-color: #bdd8e3;
   border-color: #3d7890;
   color: #2a5363;
-  min-height: 100px;
+  min-height: 4em;
 }
 
 .highlight-rule::before {
@@ -65,7 +65,7 @@ description: |
   background-color: #b7ede0;
   border-color: #1e7c66;
   color: #196553;
-  min-height: 90px;
+  min-height: 4em;
 }
 
 .highlight-customize::before {
@@ -76,17 +76,6 @@ description: |
   display: block;
   float: left;
 }
-
-/*
-p::first-letter {
-  font-family:lobster;
-  font-size:3.5em;
-  padding-right:0.2em;
-  float:left;
-  color:red;
-}
-*/
-
 </style>
 
 
