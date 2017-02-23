@@ -17,5 +17,13 @@ summary: |
   *Implementing Beyond Budgeting* is both a theoretical introduction and a practical guide to bringing such a more empowered and adaptive management model to life. Drawing on the author’s twenty years of Beyond Budgeting experience, this book not only demonstrates the serious problems with traditional management through numerous practical examples. It also follows several companies on their Beyond Budgeting journey, including Scandinavia’s largest company Statoil where the author has been heading up implementation since 2005. You'll get a first-hand glimpse at the reality of transitioning a large multinational company, and gain a real-world perspective on what successful implementation entails.
 
   This new second edition has been significantly revised and expanded. It covers the amazing development of the Beyond Budgeting movement and how the Statoil implementation journey has continued since the first edition of this book was published in 2009, sustaining major events like for instance the 2015 oil price crash. A new chapter on “Beyond Budgeting and Agile” has also been added. New implementation experiences, great new case stories, new management innovation examples and management metaphors (traffic controls!) are introduced, as well as the author’s latest reflections on a range of management issues including target setting, forecasting, performance evaluation and incentives.
-
+references:
+  - name: Beyond Budgeting
+    url: http://bbrt.org/
+    description: |
+      Le site de référence sur le Beyond Budgeting.
+  - name: "Beyond Budgeting : Budgétisation et Agilité"
+    url: http://blog.soat.fr/2013/11/beyond-budgeting-budgetisation-et-agilite/
+    description: |
+      Un article en français sur Beyond Budgeting.
 ---
