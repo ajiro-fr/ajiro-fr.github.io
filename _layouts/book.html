@@ -54,6 +54,23 @@ layout: default
     </div>
   </div>
 
+  {% if page.references.size > 0 %}
+    <div class="row">
+      <div class="offset-md-2 col-md-8 col-xs-12">
+        <h2>Références</h2>
+        <ul>
+        {% for reference in page.references %}
+          <li>
+            <a href="{{ reference.url }}">{{reference.name}}</a>
+            {{reference.description | markdownify}}
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endif %}
+
+
   {% if page.comments %}
   <div class="row">
     <div class="offset-md-2 col-md-8 col-xs-12">
