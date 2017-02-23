@@ -1,6 +1,7 @@
 /* == General */
 
 .text-justify {
+  text-align: justify;
   word-wrap: break-word;
   -moz-hyphens: auto;
   -epub-hyphens: auto;
@@ -203,12 +204,6 @@ body {
   font-size: 8px;
 }
 
-.article {
-  text-align: justify;
-  word-wrap: break-word;
-  -moz-hyphens: auto;
-  -epub-hyphens: auto;
-}
 
 .panel-game {
   border-color: #3d7890;
