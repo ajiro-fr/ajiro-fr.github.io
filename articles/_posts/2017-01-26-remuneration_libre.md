@@ -13,9 +13,10 @@ tags:
   - politique
 illustration:
   name: ginko-biloba
-description: |
-  Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés.
 ---
+
+Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés.
+
 <style>
 .highlight {
   padding: 0.75rem 1.25rem;
@@ -63,9 +64,6 @@ description: |
   content: '\f0d0';
 }
 </style>
-
-
-Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés.
 
 
 ## Avant-propos
