@@ -17,7 +17,6 @@ description: |
   Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés.
 ---
 <style>
-
 .highlight {
   padding: 0.75rem 1.25rem;
   margin-bottom: 1rem;
@@ -26,49 +25,42 @@ description: |
   min-height: 4em;
 }
 
-.current {
+.highlight::before {
+  font-family: FontAwesome;
+  font-size: 2em;
+  width: 1.3em;
+  display: block;
+  float: left;
+}
+
+.highlight.current {
   background-color: #fed393;
   border-color: #c47401;
   color: #955901;
 }
 
-.current::before {
+.highlight.current::before {
   content: '\f1da';
-  font-family: FontAwesome;
-  font-size: 2em;
-  width: 1.3em;
-  display: block;
-  float: left;
 }
 
-.rule {
+.highlight.rule {
   background-color: #bdd8e3;
   border-color: #3d7890;
   color: #2a5363;
 }
 
-.rule::before {
+.highlight.rule::before {
   content: '\f046';
-  font-family: FontAwesome;
-  font-size: 2em;
-  width: 1.3em;
-  display: block;
-  float: left;
 }
 
-.customize {
+.highlight.customize {
   background-color: #b7ede0;
   border-color: #1e7c66;
   color: #196553;
 }
 
-.customize::before {
+.highlight.customize::before {
   content: '\f0d0';
-  font-family: FontAwesome;
-  font-size: 2em;
-  width: 1.3em;
-  display: block;
-  float: left;
 }
 </style>
 
