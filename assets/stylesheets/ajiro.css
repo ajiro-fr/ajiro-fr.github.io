@@ -6,18 +6,6 @@
   -epub-hyphens: auto;
 }
 
-.spacer-20 {
-  margin-top: 20px;
-}
-
-.spacer-40 {
-  margin-top: 40px;
-}
-
-.spacer-80 {
-  margin-top: 80px;
-}
-
 .debug {
   border: solid 1px red;
 }

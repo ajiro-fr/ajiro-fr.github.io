@@ -69,7 +69,7 @@ layout: default
     </div>
   </div>
   {% if page.illustration %}
-    <div class="row spacer-20">
+    <div class="row mt-2">
       <div class="offset-lg-2 col-lg-8 col-md-12">
         {% capture asset %}articles/{{page.slug}}{% endcapture %}
         {% include components/image.html
@@ -83,12 +83,12 @@ layout: default
       </div>
     </div>
   {% endif %}
-  <div class="row spacer-40">
+  <div class="row mt-3">
     <div class="offset-lg-2 col-lg-8 col-md-12">
       {{ content }}
     </div>
   </div>
-  <div class="row spacer-40">
+  <div class="row mt-3">
     <div class="offset-lg-2 col-lg-8 col-md-12 text-xs-right">
       <div class="float-xs-right">{% include components/share_with.html %}</div>
       <a class="btn btn-default" href="https://github.com/ajiro-fr/ajiro-fr.github.io/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>

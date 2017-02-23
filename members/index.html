@@ -5,24 +5,24 @@ description: >
   Les membres d'Ajiro
 ---
 
-<div class="row spacer-20">
+<div class="row mt-2">
   <div class="col-xs-12 text-xs-center">
     <h1>{{page.title}}</h1>
   </div>
 </div>
 
-{% capture people_id %}
-  {% for people in site.data.people %}
-    {{ people | first }}
-  {% endfor %}
-{% endcapture %}
+<div class='row mb-3'>
+  {% capture people_id %}
+    {% for people in site.data.people %}
+      {{ people | first }}
+    {% endfor %}
+  {% endcapture %}
 
-{% assign sorted_people_id = people_id | split:' ' |  sort %}
-{% for people_id in sorted_people_id %}
-  {% assign people = site.data.people[people_id] %}
-  {% if people.member %}
-    {% include components/people.html people=people %}
-  {% endif %}
-{% endfor %}
-<div class='row spacer-40'>
+  {% assign sorted_people_id = people_id | split:' ' |  sort %}
+  {% for people_id in sorted_people_id %}
+    {% assign people = site.data.people[people_id] %}
+    {% if people.member %}
+      {% include components/people.html people=people %}
+    {% endif %}
+  {% endfor %}
 </div>
