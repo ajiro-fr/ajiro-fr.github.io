@@ -21,4 +21,7 @@ sessions:
   - date: "2016-11-29"
     name: Lean Kanban France 2016
     url: http://2016.leankanban.fr
+links:
+  - name: Article de la présentation à l'Agile Tour Lille
+    url: /articles/2016/10/17/engagez_vous_qu_ils_disaient.html
 ---

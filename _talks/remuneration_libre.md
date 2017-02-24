@@ -19,5 +19,9 @@ sessions:
   - date: 2017-02-13
     name: Session privée chez ANEO
     url: http://aneo.eu/
-
+links:
+  - name: Article de la présentation chez ANEO
+    url: /articles/2017/01/27/concours-aneo-remuneration.html
+  - name: Le modèle de rémunération libre
+    url: /articles/2017/01/26/remuneration_libre.html
 ---

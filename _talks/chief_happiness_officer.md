@@ -19,4 +19,7 @@ sessions:
   - date: 2016-06-23
     name: Normandie Web Expert Summer Festival 2016
     url: http://summer-festival.nwx.fr/
+links:
+  - name: Article de la présentation au Normandie Web Expert Summer Festival 2016
+    url: /articles/2016/09/20/chief_happiness_officer.html
 ---

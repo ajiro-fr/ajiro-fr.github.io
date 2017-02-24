@@ -67,6 +67,16 @@ layout: default
               {% endfor %}
             </ul>
           {% endif %}
+
+          {% if page.links.size > 0 %}
+            <h2>Liens</h2>
+            <ul>
+              {% for item in page.links %}
+              <li><a href="{{ item.url }}">{{item.name}}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+
         </div>
       </div>
     </div>
