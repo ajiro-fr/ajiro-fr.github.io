@@ -12,6 +12,7 @@ layout: null
       </url>
     {% endunless %}
   {% endfor %}
+
   {% for item in site.posts %}
   {% unless item.hidden %}
     <url>
@@ -22,6 +23,7 @@ layout: null
     </url>
   {% endunless %}
   {% endfor %}
+
   {% for item in site.books %}
   {% unless item.hidden %}
     <url>
@@ -31,7 +33,18 @@ layout: null
     </url>
   {% endunless %}
   {% endfor %}
+
   {% for item in site.games %}
+  {% unless item.hidden %}
+    <url>
+      <loc>{{ site.url }}{{ item.url }}</loc>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+  {% endunless %}
+  {% endfor %}
+
+  {% for item in site.talks %}
   {% unless item.hidden %}
     <url>
       <loc>{{ site.url }}{{ item.url }}</loc>
