@@ -16,7 +16,7 @@ description: |
 
 ## Même question, même réponse ?
 
-Si je peux poser la même question plusieurs fois avec des protocoles de décision différents, je n'aurais pas nécessairement la même réponse. _Qu'est-ce qu'il raconte ?_ Et bien, vous allez jouer pour comprendre.
+Si je peux poser la même question plusieurs fois avec des protocoles de décision différents, je n'aurais pas nécessairement la même réponse. _« Qu'est-ce qu'il raconte ? »_ Et bien, vous allez jouer pour comprendre.
 
 Tous les jours ou presque, vous prenez des décisions. Certaines sont plus simples que d'autres, car elles ne sont pas nécessairement collectives. Tiens, ce matin, j'hésite entre thé ou café. Dès lors que l'on prend une décision avec au moins deux personnes, cela devient plus compliqué. Sans souvent en avoir conscience, on utilise alors un protocole de décision. En voici une liste non-exhaustive.
 
