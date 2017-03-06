@@ -18,7 +18,7 @@ illustration:
 
 {% include img.html
     name='3303753789_0ddbd281bb'
-    source='https://c2.staticflickr.com/4/3315/3303753789_0ddbd281bb_z.jpg?zz=1'
+    source='https://flic.kr/p/62WAUe'
 %}
 
 ## Le futur est la répétition du passé : je prédis
