@@ -1,7 +1,7 @@
 ---
 title: "À chaque environnement son organisation adaptée"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
