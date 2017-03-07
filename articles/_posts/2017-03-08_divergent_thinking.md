@@ -100,7 +100,7 @@ Arrivé à cette étape et si vous avez un peu pris le temps de jouer, vous comm
     source='https://www.flickr.com/photos/nickgray/10786488'
 %}
 
-### Fluency - Nombre de réponses.
+### Fluency
 Dans cette catégorie, on mesure la maturité par le nombre de réponses apportées. C'est la capacité à générer du volume.
 
 **Usages alternatifs**
@@ -125,7 +125,7 @@ Vous commencez à être des vrais pros du divergent thinking avec tout cet entra
     source='https://www.flickr.com/photos/gerwinfilius/7426798698'
 %}
 
-### Elaboration - La quantité de détail pour une réponse.
+### Elaboration
 
 **La figure incomplète**
 {% include img.html
