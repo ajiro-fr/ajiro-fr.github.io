@@ -16,7 +16,7 @@ description: |
 
 ## Même question, même réponse ?
 
-Si je peux poser la même question plusieurs fois avec des protocoles de décision différents, je n'aurais pas nécessairement la même réponse. _« Qu'est-ce qu'il raconte ? »_ Et bien, vous allez jouer pour comprendre.
+Je peux poser la même question plusieurs fois avec des protocoles de décision différents, je n'aurais pas nécessairement la même réponse. _« Qu'est-ce qu'il raconte ? »_ Et bien, vous allez jouer pour comprendre.
 
 Tous les jours ou presque, vous prenez des décisions. Certaines sont plus simples que d'autres, car elles ne sont pas nécessairement collectives. Tiens, ce matin, j'hésite entre thé ou café. Dès lors que l'on prend une décision avec au moins deux personnes, cela devient plus compliqué. Sans souvent en avoir conscience, on utilise alors un protocole de décision. En voici une liste non-exhaustive.
 
@@ -103,7 +103,7 @@ Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de 
     source='https://www.flickr.com/photos/beegee49/32761926650'
 %}
 
-Le but de jouer et donc d'utiliser les protocoles est d'en faire ressentir les effets. Il n'y a pour moi pas un protocole de décision à utiliser dans tous les cas. Il y a un choix à faire en connaissance de cause :
+Le but de jouer et donc d'utiliser les protocoles est d'en faire ressentir les effets. Il n'y a pour moi pas un protocole de décision à utiliser dans tous les cas. La bonne nouvelle c'est que vous avez le choix, la mauvaise c'est que vous avez le choix :
 
 - HIPPo : j'ai quand même un peu de mal avec le HIPPo qui peut cependant avoir parfois son intérêt dans les situations d'urgence où il faut arrêter de réfléchir.
 - Consensus : c'est un protocole intéressant quand la décision impacte tout le monde comme définir la vision de l'organisation. Plus le nombre de personnes augmente, plus on arrive à des blocages. Il est possible de commencer par le consensus et passer en majorité en cas de blocage.
