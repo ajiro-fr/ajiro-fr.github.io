@@ -20,65 +20,61 @@ Si je peux poser la même question plusieurs fois avec des protocoles de décisi
 
 Tous les jours ou presque, vous prenez des décisions. Certaines sont plus simples que d'autres, car elles ne sont pas nécessairement collectives. Tiens, ce matin, j'hésite entre thé ou café. Dès lors que l'on prend une décision avec au moins deux personnes, cela devient plus compliqué. Sans souvent en avoir conscience, on utilise alors un protocole de décision. En voici une liste non-exhaustive.
 
+
+## HIPPo
+
 {% include img.html
     name='8702937869_a0f09b9697'
     source='https://www.flickr.com/photos/jamieanderson/8702937869'
 %}
 
-## HIPPo
-
 Comme vous l'aurez deviné, c'est un acronyme que voilà décrypté : Highest Paid Person Opinion. Pour faire simple, c'est la personne la mieux payée (une autre façon de dire le chef) qui décide pour tout le monde.
 
+## Consensus
 
 {% include img.html
     name='5700609302_16bb1386e0'
     source='https://www.flickr.com/photos/vegaseddie/5700609302/'
 %}
 
-## Consensus
-
 Toutes les personnes qui participent à la décision doivent être d'accord.
 
+## Majorité
 
 {% include img.html
     name='6251799625_a07a8ec3dd'
     source='https://www.flickr.com/photos/caelie/6251799625/'
 %}
 
-## Majorité
-
 Pour qu'une décision soit prise, une majorité de personnes doivent être d'accord. Il existe quelques variantes avec majorité absolue ou relative, à deux tours...
 
+## Consentement (Cf core protocols Decider)
 
 {% include img.html
     name='15327443317_1359a5f239'
     source='https://www.flickr.com/photos/48090400@N05/15327443317'
 %}
 
-## Consentement (Cf core protocols Decider)
-
 Une personne propose une réponse à une question. Alors les autres participants peuvent répondre par 3 choix :
 - Je suis d'accord : pouce levé
 - Je consens : main horizontale ou à plat. En consentant, j'exprime une opinion. Je consens que la personne ayant proposé aille plus loin.
 - Je mets mon veto : pouce en bas. Si je mets un veto et contrairement à l'ONU, je dois expliquer les raisons de mon veto et proposer une porte de sortie. Je serais d'accord si... Pour que la décision soit prise, il ne faut pas de veto et une majorité de vote 'Pour'.
 
+## Conseil (Cf protocole Advice de Gore)
 
 {% include img.html
     name='6878515664_f586d07bc2'
     source='https://www.flickr.com/photos/71508688@N00/6878515664'
 %}
 
-## Conseil (Cf protocole Advice de Gore)
-
 Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de toutes les personnes impactées par sa décision ainsi que de prendre conseil auprès des personnes compétentes sur le sujet de la décision. Ensuite, la personne prend sa décision.
 
+## Le jeu
 
 {% include img.html
     name='2625563385_6d2a215481'
     source='https://www.flickr.com/photos/thomaslife/2625563385'
 %}
-
-## Le jeu
 
 1. Imprimer les questions ci-jointes et les découper pour en faire un paquet. Trouver au moins 2 personnes pour jouer avec vous. Le chiffre optimal est 5 joueurs.
 2. Pendant 30 secondes, répondre aux questions avec le protocole HIPPo
@@ -87,13 +83,12 @@ Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de 
 5. Pendant 3 minutes, répondre aux questions avec le protocole Consentement. Une personne lit la question et fait une proposition.
 6. Debrief. Qu'avez-vous constaté pendant les précédentes étapes.
 
+## Que constate-t-on généralement ?
 
 {% include img.html
     name='14272213208_04881213a2'
     source='https://www.flickr.com/photos/viktorkarppinen/14272213208'
 %}
-
-## Que constate-t-on généralement ?
 
 1. Attention aux doigts coupés. Il faut avoir des amis même si des connaissances suffisent.
 2. Les décisions sont prises rapidement. Les autres personnes sont frustrées et donc peu engagées. Dans le monde du travail, c'est en général assez lent, car il faut trouver un slot disponible dans l'agenda du big boss. Des études ont aussi montré que les décisions n'étaient pas nécessairement les meilleures d'un point de vue économique. Pour compléter, l'armée considère qu'une décision prend 3 fois plus de temps à prendre pour chaque niveau hiérarchique remonté.
@@ -101,13 +96,12 @@ Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de 
 4. On prend beaucoup de décisions de manière rapide, car dès que la question est lue, chacun donne son vote. Cela tue la discussion. Il y aussi parfois de la frustration, car des personnes sont toujours dans la minorité. Elles n'arrivent plus à faire des propositions.
 5. On retrouve de nouveau de la discussion avec des propositions qui arrivent à passer. Des blocages apparaissent de temps à autre.
 
+## Quel protocole utiliser ?
 
 {% include img.html
     name='32761926650_329eec689c'
     source='https://www.flickr.com/photos/beegee49/32761926650'
 %}
-
-## Quel protocole utiliser ?
 
 Le but de jouer et donc d'utiliser les protocoles est d'en faire ressentir les effets. Il n'y a pour moi pas un protocole de décision à utiliser dans tous les cas. Il y a un choix à faire en connaissance de cause :
 
