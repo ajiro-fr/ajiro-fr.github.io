@@ -128,7 +128,7 @@ Vous commencez à être des vrais pros du divergent thinking avec tout cet entra
 ### Elaboration
 
 **La figure incomplète**
-{% include img.html
+{% include img-large.html
     name='forme'
 %}
 Vous avez 5 minutes pour compléter de manière originale ce dessin.
