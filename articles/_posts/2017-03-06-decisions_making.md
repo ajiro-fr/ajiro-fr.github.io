@@ -30,6 +30,7 @@ Tous les jours ou presque, vous prenez des décisions. Certaines sont plus simpl
 
 Comme vous l'aurez deviné, c'est un acronyme que voilà décrypté : Highest Paid Person Opinion. Pour faire simple, c'est la personne la mieux payée (une autre façon de dire le chef) qui décide pour tout le monde.
 
+
 ## Consensus
 
 {% include img.html
@@ -39,6 +40,7 @@ Comme vous l'aurez deviné, c'est un acronyme que voilà décrypté : Highest Pa
 
 Toutes les personnes qui participent à la décision doivent être d'accord.
 
+
 ## Majorité
 
 {% include img.html
@@ -47,6 +49,7 @@ Toutes les personnes qui participent à la décision doivent être d'accord.
 %}
 
 Pour qu'une décision soit prise, une majorité de personnes doivent être d'accord. Il existe quelques variantes avec majorité absolue ou relative, à deux tours...
+
 
 ## Consentement (Cf core protocols Decider)
 
@@ -60,6 +63,7 @@ Une personne propose une réponse à une question. Alors les autres participants
 - Je consens : main horizontale ou à plat. En consentant, j'exprime une opinion. Je consens que la personne ayant proposé aille plus loin.
 - Je mets mon veto : pouce en bas. Si je mets un veto et contrairement à l'ONU, je dois expliquer les raisons de mon veto et proposer une porte de sortie. Je serais d'accord si... Pour que la décision soit prise, il ne faut pas de veto et une majorité de vote 'Pour'.
 
+
 ## Conseil (Cf protocole Advice de Gore)
 
 {% include img.html
@@ -69,6 +73,7 @@ Une personne propose une réponse à une question. Alors les autres participants
 
 Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de toutes les personnes impactées par sa décision ainsi que de prendre conseil auprès des personnes compétentes sur le sujet de la décision. Ensuite, la personne prend sa décision.
 
+
 ## Le jeu
 
 {% include img.html
@@ -76,12 +81,13 @@ Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de 
     source='https://www.flickr.com/photos/thomaslife/2625563385'
 %}
 
-1. Imprimer les questions ci-jointes et les découper pour en faire un paquet. Trouver au moins 2 personnes pour jouer avec vous. Le chiffre optimal est 5 joueurs.
+1. Imprimer [les questions] et les découper pour en faire un paquet. Trouver au moins 2 personnes pour jouer avec vous. Le chiffre optimal est 5 joueurs.
 2. Pendant 30 secondes, répondre aux questions avec le protocole HIPPo
 3. Pendant 3 minutes, répondre aux questions avec le protocole Consensus. Si vous n'arrivez pas à prendre une décision commune, passez à la prochaine.
 4. Pendant 3 minutes, répondre aux questions avec le protocole Majorité.
 5. Pendant 3 minutes, répondre aux questions avec le protocole Consentement. Une personne lit la question et fait une proposition.
 6. Debrief. Qu'avez-vous constaté pendant les précédentes étapes.
+
 
 ## Que constate-t-on généralement ?
 
@@ -95,6 +101,7 @@ Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de 
 3. Il y a beaucoup de discussions et d'échanges. C'est donc un protocole qui peut être lent. Autre point, il finit assez souvent sur un blocage et pour réussir à trouver un consensus, on se retrouve à prendre une solution moyenne qui ne satisfait personne. On parle de nivellement par le bas.
 4. On prend beaucoup de décisions de manière rapide, car dès que la question est lue, chacun donne son vote. Cela tue la discussion. Il y aussi parfois de la frustration, car des personnes sont toujours dans la minorité. Elles n'arrivent plus à faire des propositions.
 5. On retrouve de nouveau de la discussion avec des propositions qui arrivent à passer. Des blocages apparaissent de temps à autre.
+
 
 ## Quel protocole utiliser ?
 
@@ -113,3 +120,6 @@ Le but de jouer et donc d'utiliser les protocoles est d'en faire ressentir les e
 
 
 En conclusion voici mon conseil : **avant de prendre une décision, choisissez le protocole qui vous semble le plus approprié.**
+
+
+[les questions]: /assets/articles/decisions_making/Questions_AdaptiveOrganizations.pdf
