@@ -57,6 +57,8 @@ Domaine d'application / Limites : avoir un but commun (vision) permet la prise d
 
 Exemples : outre le monde des start-ups qui sont par essence évolutives, Statoil et Gore sont les sociétés qui nous viennent en tête. Statoil a réussi à se développer dans un contexte de prix du baril bas (les bienfaits du désordre) et Gore pour ses exemples de créativité comme les cordes de guitare ou le fil dentaire grâce à l’autonomie donnée à ses collaborateurs associés.
 
+## La minute théologique
+Si j'en reviens à mon titre, l'organisation "je prédis" correspond à l'environnement compliqué du modèle [Cynefin]. Les relations de cause à effet sont claires. L'organisation "j'évolue" est quant à elle adaptée à l'environnement complexe. Les relations de cause à effet ne sont pas bien connues et l'on est dans le monde de l'expérimentation. "Je réagis", c'est plus le cul entre deux chaises. J'applique des patterns des deux environnements complexe et compliqué. 
 
-
+[Cynefin]: https://en.wikipedia.org/wiki/Cynefin_framework
 [VUCA]: https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity
