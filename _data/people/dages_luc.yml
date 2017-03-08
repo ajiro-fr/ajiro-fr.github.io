@@ -2,6 +2,8 @@ name: Luc Dages
 member: false
 photo: luc.dages.jpg
 social:
+- url: https://twitter.com/ldages
+  icon: fa-twitter
 - url: https://fr.linkedin.com/in/luc-dages
   icon: fa-linkedin
 bio: |
