@@ -9,7 +9,7 @@ tags:
   - divergent thinking
   - idées
 illustration:
-  name: 8066664674_9bdf00c329_o
+  name: 8066664674_9bdf00c329
   source: https://www.flickr.com/photos/marcozielske/8066664674
 description: |
   Créativité et divergent thinking : Théorie et cas pratiques
@@ -22,11 +22,11 @@ Pour la suite, je préfère ne pas traduire divergent thinking ainsi que certain
 Dans la théorie de la créativité de Guilford, les 16 facteurs de production du divergent thinking peuvent être groupés en 4 catégories : Originality, Fluency, Flexibility & Elaboration).
 
 {% include img.html
-    name='283195818_582284e108_o'
+    name='283195818_582284e108'
     source='https://www.flickr.com/photos/caseyatthebat/283195818'
-%} 
- 
-### Originality 
+%}
+
+### Originality
 Le critère d'évaluation de cette catégorie est la rareté statistique de la réponse. J'aime bien cette définition de 'out of the box' à savoir une vision statistique.
 
 **Collective group ideation**
@@ -34,7 +34,7 @@ Utilisez les nombres suivants 2, 3, 5, 10, 24 et des opérations (telles que ( )
 
 **Raconter une histoire**
 {% include img.html
-    name='8406001448_c4ec830e6e_k'
+    name='8406001448_c4ec830e6e'
     source='https://www.flickr.com/photos/danielygo/8406001448'
 %}
 
@@ -42,7 +42,7 @@ A partir de l'image ci dessus, racontez une histoire.
 
 **Le poème**
 {% include img.html
-    name='3043542126_30b003e3aa_o'
+    name='3043542126_30b003e3aa'
     source='https://www.flickr.com/photos/peter_from_wellington/3043542126/'
 %}
 
@@ -51,14 +51,14 @@ A partir de l'image ci dessus, écrivez un poème.
 **Out of the box**
 Utilisez 6 allumettes pour faire 4 triangles équilatéraux
 
-Il existe deux grandes familles de théories de la créativité. Pour l'une d'entre elles, il existe des clusters de créativité qui ne sont pas liés entre eux. Dans les exemples ci dessus, je peux être performant en verbalisation, moyen en écriture et mauvais en mathématiques. Finalement, peu d'expériences ont été menées pour valider les théories relatives à la créativité. Elles ont été réalisé avec quelques classes du nord est des états-unis. Sans entrainement au divergent thinking préalablement aux tests, la théorie des clusters est validée. 
+Il existe deux grandes familles de théories de la créativité. Pour l'une d'entre elles, il existe des clusters de créativité qui ne sont pas liés entre eux. Dans les exemples ci dessus, je peux être performant en verbalisation, moyen en écriture et mauvais en mathématiques. Finalement, peu d'expériences ont été menées pour valider les théories relatives à la créativité. Elles ont été réalisé avec quelques classes du nord est des états-unis. Sans entrainement au divergent thinking préalablement aux tests, la théorie des clusters est validée.
 
 {% include img.html
-    name='15982126683_582edcedcd_o'
+    name='15982126683_582edcedcd'
     source='https://www.flickr.com/photos/old-fi/15982126683'
 %}
 
-### Flexibility 
+### Flexibility
 Cette catégorie fait référence au degré de différence des réponses, ou autrement dit les réponses viennent elles d'un seul ou de plusieurs domaines.
 
 **Remote associates test**
@@ -77,7 +77,7 @@ Cet exercice est très culturel et j'ai d'ailleurs dû créer moi-même le jeu e
 D'où le jeu suivant qui est utile pour voir différemment les choses. Vous allez voir une scène en endossant 5 modes de pensée différents (https://fr.wikipedia.org/wiki/M%C3%A9thode_des_six_chapeaux). Décrivez la scène ci dessous avec les prismes suivants :
 
 {% include img.html
-    name='7789321354_7a713a2b97_k'
+    name='7789321354_7a713a2b97'
     source='https://www.flickr.com/photos/rowanuniversitypublications/7789321354/'
 %}
 
@@ -96,7 +96,7 @@ D'où le jeu suivant qui est utile pour voir différemment les choses. Vous alle
 Arrivé à cette étape et si vous avez un peu pris le temps de jouer, vous commencez à être meilleur en divergent thinking. C'est ce qui ressort de la théorie unifiée de la créativité. Vous avez globalement progressé. Cela a été démontré par une étude toujours dans le nord est des états unis.
 
 {% include img.html
-    name='10786488_7850bee435_o'
+    name='10786488_7850bee435'
     source='https://www.flickr.com/photos/nickgray/10786488'
 %}
 
@@ -104,13 +104,13 @@ Arrivé à cette étape et si vous avez un peu pris le temps de jouer, vous comm
 Dans cette catégorie, on mesure la maturité par le nombre de réponses apportées. C'est la capacité à générer du volume.
 
 **Usages alternatifs**
-En 2 minutes, trouvez autant d'usage possible à un caddie de supermarché. Pour l'anecdote, certains en ont utilisé un comme barbecue. 
+En 2 minutes, trouvez autant d'usage possible à un caddie de supermarché. Pour l'anecdote, certains en ont utilisé un comme barbecue.
 
 **Pattern breaking**
 {% include img.html
     name='labyrinthe'
 %}
-Tracez un chemin du point A au point B. 
+Tracez un chemin du point A au point B.
 
 **Des solutions infinies**
 Divisez un carré en quatre parties égales
@@ -121,7 +121,7 @@ La solution commune est de tracer un trait en passant dans le labyrinthe. Une au
 Vous commencez à être des vrais pros du divergent thinking avec tout cet entrainement. Par contre, êtes vous juste meilleur pour tracer des traits ou meilleur tout court ? Il a été montré que faire avant un atelier de divergence quelques petits exercices aide à être plus performant pendant l'atelier. De même le manque de sommeil ou une légère alcoolisation sont des facteurs positifs à la génération d'idées originales.
 
 {% include img.html
-    name='7426798698_82ab4a03f1_o'
+    name='7426798698_82ab4a03f1'
     source='https://www.flickr.com/photos/gerwinfilius/7426798698'
 %}
 
