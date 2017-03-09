@@ -1,7 +1,7 @@
 ---
 title: "Dis-moi comment tu prends tes décisions, je te dirais comment tu innoves"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
