@@ -1,5 +1,5 @@
 ---
-title: "Dis-moi comment tu prends tes décisions, je te dirais comment tu innoves"
+title: "Dis-moi comment tu prends tes décisions, je te dirai comment tu innoves"
 lang: fr
 hidden: false
 authors:
