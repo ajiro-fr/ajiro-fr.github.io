@@ -1,7 +1,7 @@
 ---
 title: "Toi aussi tu peux avoir des idées originales"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
@@ -17,7 +17,7 @@ description: |
 ---
 Qu'est ce que la créativité ? John Baer dans 'Creativity and divergent thinking' (fil rouge de se post) pense que l'on mélange en ce moment les termes créativité et 'Divergent thinking'. De son point de vue, il serait plus juste de dire que la créativité correspond à une activité de génération d'idées hors du cadre (divergent thinking) suivi d'une activité de sélection (convergent thinking). Aujourd'hui, nous avons globalement des difficultés à sortir du cadre. D'où le fait que l'étape de sélection est aujourd'hui simple et donc pas encore un défi. Une autre définition du divergent thinking pour être de créer des solutions originales à des problèmes.
 
-Pour la suite, je préfère ne pas traduire divergent thinking ainsi que certains termes pour ne pas modifier le sens. Je vais aussi essayer de vous faire toucher du doigt par l'exercice ce qu'est le divergent thinking.
+Pour la suite, je préfère ne pas traduire divergent thinking ainsi que certains termes pour ne pas modifier le sens. Je vais aussi essayer de vous faire toucher du doigt par l'exercice ce qu'est le divergent thinking. Dès que vous voyez un titre en gras suivi d'un texte en italique, c'est que c'est à vous de jouer (have fun). 
 
 Dans la théorie de la créativité de Guilford, les 16 facteurs de production du divergent thinking peuvent être groupés en 4 catégories : Originality, Fluency, Flexibility & Elaboration).
 
@@ -83,17 +83,18 @@ D'où le jeu suivant qui est utile pour voir différemment les choses. Vous alle
     source='https://www.flickr.com/photos/rowanuniversitypublications/7789321354/'
 %}
 
-_- Chapeau blanc : Pensée factuelle. Faits._
-_- Chapeau rouge : Critique émotionnelle. Emotion._
-_- Chapeau noir : Critique négative. Dangers et risques._
-_- Chapeau jaune : Critique positive. Reves._
-_- Chapeau vert : Créativité. Idées._
+- Chapeau blanc : Pensée factuelle. Faits.
+- Chapeau rouge : Critique émotionnelle. Emotion.
+- Chapeau noir : Critique négative. Dangers et risques.
+- Chapeau jaune : Critique positive. Reves.
+- Chapeau vert : Créativité. Idées.
 
 **Lateral thinking**
-_- Nommez une ancienne invention toujours utilisée aujourd'hui qui permet aux gens de voir à travers les murs._
-_- Que pouvez vous tenir dans votre main droite, mais pas dans la gauche ?_
-_- Soit 6 verres alignées sur une table. Les 3 premiers sont remplis de jus d'orange. Les 3 derniers sont vides. En bougeant juste un verre, pouvez vous faire une série de 6 verres alignés alternativement remplis puis vides ?_
-_- Vous devez choisir entre 3 pièces. La première est pleine de flammes, la deuxième remplie de tigres qui n'ont pas mangé depuis 3 ans et la troisième d'assassings avec des armes à feux chargées. Laquelle choisissez vous ?_
+_Trouvez les réponses aux questions suivantes :_
+- Nommez une ancienne invention toujours utilisée aujourd'hui qui permet aux gens de voir à travers les murs.
+- Que pouvez vous tenir dans votre main droite, mais pas dans la gauche ?
+- Soit 6 verres alignées sur une table. Les 3 premiers sont remplis de jus d'orange. Les 3 derniers sont vides. En bougeant juste un verre, pouvez vous faire une série de 6 verres alignés alternativement remplis puis vides ?
+- Vous devez choisir entre 3 pièces. La première est pleine de flammes, la deuxième remplie de tigres qui n'ont pas mangé depuis 3 ans et la troisième d'assassings avec des armes à feux chargées. Laquelle choisissez vous ?
 
 Arrivé à cette étape et si vous avez un peu pris le temps de jouer, vous commencez à être meilleur en divergent thinking. C'est ce qui ressort de la théorie unifiée de la créativité. Vous avez globalement progressé. Cela a été démontré par une étude toujours dans le nord est des états unis.
 
@@ -123,7 +124,7 @@ La solution commune est de tracer un trait en passant dans le labyrinthe. Une au
 
 Vous commencez à être des vrais pros du divergent thinking avec tout cet entrainement. Par contre, êtes vous juste meilleur pour tracer des traits ou meilleur tout court ? Il a été montré que faire avant un atelier de divergence quelques petits exercices aide à être plus performant pendant l'atelier. De même le manque de sommeil ou une légère alcoolisation sont des facteurs positifs à la génération d'idées originales.
 
-### Elaboration
+## Elaboration
 
 {% include img.html
     name='7426798698_82ab4a03f1'
