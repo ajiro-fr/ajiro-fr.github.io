@@ -16,13 +16,12 @@ illustration:
 
 À l’heure où il est question d’entreprise agile, d’environnement [VUCA] (Volatile, Incertain, Complexe, Ambigu), d’organisations adaptatives, il est parfois difficile de comprendre de quoi on parle. Nous vous proposons un modèle pour décrire à quoi des organisations peuvent ressembler dans la vraie vie.
 
+## Le futur est la répétition du passé : je prédis
 
 {% include img.html
     name='3303753789_0ddbd281bb'
     source='https://flic.kr/p/62WAUe'
 %}
-
-## Le futur est la répétition du passé : je prédis
 
 Description : le capitaine tient la barre et donne le cap à suivre pour l'organisation. Cette information est ensuite cascadée dans la structure au moyen d'ordres à exécuter. Chaque personne a un rôle clair et connaît donc son périmètre de responsabilités. En cas de changement de cap, la stabilité est privilégiée, car elle permet de bien maîtriser ce que l'on fait et d'être sûr d'arriver ensemble au bon endroit. La synchronisation entre les membres d'équipage est garantie par des procédures claires et précises. Comme ces dernières ont été optimisées, il est nécessaire de les respecter pour une efficacité maximale. À chaque accident, elles sont complétées.
 
@@ -30,13 +29,12 @@ Domaine d'application / Limites : ce modèle s'appuie sur le postulat que l'on e
 
 Exemple : l’éducation nationale. C’est une organisation qui connaît longtemps à l’avance le nombre d’élèves qu’elle a aura à gérer.
 
+## Le monde change : je réagis
 
 {% include img.html
     name='Abeille_Flandre_mg_5452'
     source='https://upload.wikimedia.org/wikipedia/commons/f/fd/Abeille_Flandre_mg_5452.jpg'
 %}
-
-## Le monde change : je réagis
 
 Description : le tacticien, la capitaine, le barreur, etc. définissent ensemble l'objectif à atteindre. La mission est ensuite expliquée à toutes les parties l'organisation pour qu'elles la déclinent à leur niveau. L'information qui circule entre les équipes de l'organisation est définie par les décisions qu'elles vont prendre. Des points de synchronisation réguliers permettent aux équipes de réajuster leurs objectifs et de redéfinir les interfaces avec les autres. L'apprentissage, l’initiative, l’innovation… les nouvelles pratiques sont développées par des programmes, concours, challenges… La qualité est une norme par défaut.
 
@@ -44,13 +42,12 @@ Domaine d'application / Limites : les organisations qui utilisent ce modèle son
 
 Exemples : les grosses entreprises qui lancent des programmes de transformation digitale. Elles ont compris qu’elles devaient s’adapter et elles s’ajustent. On pourrait ajouter le souhait exprimé de travailler plus avec le monde des start-ups.
 
+## De nouvelles opportunités apparaissent : j'évolue
 
 {% include img.html
     name='booked-1420350_1280'
     source='https://pixabay.com/p-1420350/?no_redirect'
 %}
-
-## De nouvelles opportunités apparaissent : j'évolue
 
 Description : toutes les personnes de l'organisation partagent la même vision (se déplacer entre les iles de Colombie britannique). Chaque groupe définit ses objectifs propres au regard de la vision (vers Swartz bay ou Nanaimo) et des conditions de marché (mer). Une personne peut être membre de plusieurs groupes en fonction des besoins de la structure et des envies de la personne (j’adore Vancouver Island du nord au sud). Les horizons de temps varient dans l'organisation en fonction des objectifs. L'information est accessible, mais pas nécessairement disponible par défaut. En demandant une information (où passer dans la baie ?), l'expert en plus de donner l'information échange avec le demandeur et donne ensuite les conditions d’utilisation en fonction de la demande. Cet échange de connaissances est une des formes d'apprentissage qui permet d'améliorer la connaissance globale de l'organisation. L'initiative est favorisée par un environnement favorable à l'expérimentation (droit à l'erreur, processus de décision rapide par consentement, autonomie…) les groupes se synchronisent directement au regard de l’objectif global avec par exemple une pratique de double lien.
 
