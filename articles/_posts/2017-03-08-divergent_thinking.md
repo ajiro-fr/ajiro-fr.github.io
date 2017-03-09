@@ -64,14 +64,14 @@ Il existe deux grandes familles de théories de la créativité. Pour l'une d'en
 Cette catégorie fait référence au degré de différence des réponses, ou autrement dit les réponses viennent elles d'un seul ou de plusieurs domaines.
 
 **Remote associates test**
-_Trouvez un mot qui fait une paire avec les 3 précédents. Exemple : Discothèque, Sandwich, Golf. Réponse possible : Club
-Coiffure, Fracture, Canard
-Croisement, Extincteur, Testament
-Peche, Insecte, Coche
-Panier, Poule, Boeuf
-Ile, Lait, Mamelon
-Roi, Echec, Clown
-Vin, Pomme, Chéri_
+_Trouvez un mot qui fait une paire avec les 3 précédents. Exemple : Discothèque, Sandwich, Golf. Réponse possible : Club_
+- Coiffure, Fracture, Canard
+- Croisement, Extincteur, Testament
+- Peche, Insecte, Coche
+- Panier, Poule, Boeuf
+- Ile, Lait, Mamelon
+- Roi, Echec, Clown
+- Vin, Pomme, Chéri
 
 Cet exercice est très culturel et j'ai d'ailleurs dû créer moi-même le jeu en français car les suites en anglais traduites en français ne donnaient rien. En effet, ce jeu est basé sur les associations et elles n'existent pas nécessairement dans toutes les langues. Il joue sur les connections que vous faites entre les mots. Plus vous avez de mots qui vous viennent en tête quand je vous donne un mot, plus votre capacité à diverger est grande. Vous ouvrez les options. Un jour un collègue m'a demandé comment j'avais trouvé une photo pour un article. J'ai répondu que je ne savais plus par où j'étais passé, mais que c'était par association d'idées. Quand vous faites cela, vous passez par ce que l'on appelle des noeuds cachés et des rebonds. Maintenant que je fais plus attention, je navigue plus rapidement entre les idées. Et d'ailleurs plus je pratique, plus je suis rapide. Si vous voulez progresser, essayez de chercher d'autres chemins et ne restez pas dans l'habitude.
 
