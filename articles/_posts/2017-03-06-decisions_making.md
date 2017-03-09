@@ -11,7 +11,7 @@ illustration:
   name: 8388318279_09e20b0107
   source: https://www.flickr.com/photos/aftab/8388318279
 description: |
-  Où on l'on parle de protocole de prise de décision.
+  Comment prendre une décisions sans générer de la frustration tout en générant de l'engagement et de l'initiative. Il s'agit souvent de choisir le bon protocole de prise de décisions.
 ---
 
 ## Même question, même réponse ?
