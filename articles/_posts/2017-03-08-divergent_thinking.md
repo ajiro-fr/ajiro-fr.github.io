@@ -17,7 +17,7 @@ description: |
 ---
 Qu'est ce que la créativité ? John Baer dans 'Creativity and divergent thinking' (fil rouge de se post) pense que l'on mélange en ce moment les termes créativité et 'Divergent thinking'. De son point de vue, il serait plus juste de dire que la créativité correspond à une activité de génération d'idées hors du cadre (divergent thinking) suivi d'une activité de sélection (convergent thinking). Aujourd'hui, nous avons globalement des difficultés à sortir du cadre. D'où le fait que l'étape de sélection est aujourd'hui simple et donc pas encore un défi. Une autre définition du divergent thinking pour être de créer des solutions originales à des problèmes.
 
-Pour la suite, je préfère ne pas traduire divergent thinking ainsi que certains termes pour ne pas modifier le sens. Je vais aussi essayer de vous faire toucher du doigt par l'exercice ce qu'est le divergent thinking. Dès que vous voyez un titre en gras suivi d'un texte en italique, c'est que c'est à vous de jouer (have fun). 
+Pour la suite, je préfère ne pas traduire divergent thinking ainsi que certains termes pour ne pas modifier le sens. Je vais aussi essayer de vous faire toucher du doigt par l'exercice ce qu'est le divergent thinking. Dès que vous voyez un titre en gras suivi d'un texte en italique, c'est que c'est à vous de jouer (have fun).
 
 Dans la théorie de la créativité de Guilford, les 16 facteurs de production du divergent thinking peuvent être groupés en 4 catégories : Originality, Fluency, Flexibility & Elaboration).
 
@@ -30,10 +30,10 @@ Dans la théorie de la créativité de Guilford, les 16 facteurs de production d
 
 Le critère d'évaluation de cette catégorie est la rareté statistique de la réponse. J'aime bien cette définition de 'out of the box' à savoir une vision statistique.
 
-**Collective group ideation**
+## Collective group ideation
 _Utilisez les nombres suivants 2, 3, 5, 10, 24 et des opérations (telles que ( ), *, :, +, -, exp) pour atteindre le chiffre 120._
 
-**Raconter une histoire**
+### Raconter une histoire
 {% include img.html
     name='8406001448_c4ec830e6e'
     source='https://www.flickr.com/photos/danielygo/8406001448'
@@ -41,7 +41,7 @@ _Utilisez les nombres suivants 2, 3, 5, 10, 24 et des opérations (telles que ( 
 
 _A partir de l'image ci dessus, racontez une histoire._
 
-**Le poème**
+### Le poème
 {% include img.html
     name='3043542126_30b003e3aa'
     source='https://www.flickr.com/photos/peter_from_wellington/3043542126/'
@@ -49,7 +49,7 @@ _A partir de l'image ci dessus, racontez une histoire._
 
 _A partir de l'image ci dessus, écrivez un poème._
 
-**Out of the box**
+### Out of the box
 _Utilisez 6 allumettes pour faire 4 triangles équilatéraux_
 
 Il existe deux grandes familles de théories de la créativité. Pour l'une d'entre elles, il existe des clusters de créativité qui ne sont pas liés entre eux. Dans les exemples ci dessus, je peux être performant en verbalisation, moyen en écriture et mauvais en mathématiques. Finalement, peu d'expériences ont été menées pour valider les théories relatives à la créativité. Elles ont été réalisé avec quelques classes du nord est des états-unis. Sans entrainement au divergent thinking préalablement aux tests, la théorie des clusters est validée.
@@ -63,7 +63,7 @@ Il existe deux grandes familles de théories de la créativité. Pour l'une d'en
 
 Cette catégorie fait référence au degré de différence des réponses, ou autrement dit les réponses viennent elles d'un seul ou de plusieurs domaines.
 
-**Remote associates test**
+### Remote associates test
 _Trouvez un mot qui fait une paire avec les 3 précédents. Exemple : Discothèque, Sandwich, Golf. Réponse possible : Club_
 - Coiffure, Fracture, Canard
 - Croisement, Extincteur, Testament
@@ -75,7 +75,7 @@ _Trouvez un mot qui fait une paire avec les 3 précédents. Exemple : Discothèq
 
 Cet exercice est très culturel et j'ai d'ailleurs dû créer moi-même le jeu en français car les suites en anglais traduites en français ne donnaient rien. En effet, ce jeu est basé sur les associations et elles n'existent pas nécessairement dans toutes les langues. Il joue sur les connections que vous faites entre les mots. Plus vous avez de mots qui vous viennent en tête quand je vous donne un mot, plus votre capacité à diverger est grande. Vous ouvrez les options. Un jour un collègue m'a demandé comment j'avais trouvé une photo pour un article. J'ai répondu que je ne savais plus par où j'étais passé, mais que c'était par association d'idées. Quand vous faites cela, vous passez par ce que l'on appelle des noeuds cachés et des rebonds. Maintenant que je fais plus attention, je navigue plus rapidement entre les idées. Et d'ailleurs plus je pratique, plus je suis rapide. Si vous voulez progresser, essayez de chercher d'autres chemins et ne restez pas dans l'habitude.
 
-**Six Thinking Hats**
+### Six Thinking Hats
 D'où le jeu suivant qui est utile pour voir différemment les choses. Vous allez voir une scène en endossant 5 modes de pensée différents (https://fr.wikipedia.org/wiki/M%C3%A9thode_des_six_chapeaux). _Décrivez la scène ci dessous avec les prismes suivants :_
 
 {% include img.html
@@ -89,7 +89,7 @@ D'où le jeu suivant qui est utile pour voir différemment les choses. Vous alle
 - Chapeau jaune : Critique positive. Reves.
 - Chapeau vert : Créativité. Idées.
 
-**Lateral thinking**
+### Lateral thinking
 _Trouvez les réponses aux questions suivantes :_
 - Nommez une ancienne invention toujours utilisée aujourd'hui qui permet aux gens de voir à travers les murs.
 - Que pouvez vous tenir dans votre main droite, mais pas dans la gauche ?
@@ -107,19 +107,19 @@ Arrivé à cette étape et si vous avez un peu pris le temps de jouer, vous comm
 
 Dans cette catégorie, on mesure la maturité par le nombre de réponses apportées. C'est la capacité à générer du volume.
 
-**Usages alternatifs**
+### Usages alternatifs
 _En 2 minutes, trouvez autant d'usage possible à un caddie de supermarché. Pour l'anecdote, certains en ont utilisé un comme barbecue._
 
-**Pattern breaking**
+### Pattern breaking
 {% include img.html
     name='labyrinthe'
 %}
 _Tracez un chemin du point A au point B._
 
-**Des solutions infinies**
+### Des solutions infinies
 _Divisez un carré en quatre parties égales_
 
-**Pattern breaking (solutions possibles)**
+### Pattern breaking (solutions possibles)
 La solution commune est de tracer un trait en passant dans le labyrinthe. Une autre consiste à faire fi du labyrinthe et tracer une droite entre les deux points. Une dernière peut être de faire des beaux zigouigouis ou autres arabesques entres les deux points.
 
 Vous commencez à être des vrais pros du divergent thinking avec tout cet entrainement. Par contre, êtes vous juste meilleur pour tracer des traits ou meilleur tout court ? Il a été montré que faire avant un atelier de divergence quelques petits exercices aide à être plus performant pendant l'atelier. De même le manque de sommeil ou une légère alcoolisation sont des facteurs positifs à la génération d'idées originales.
@@ -131,7 +131,7 @@ Vous commencez à être des vrais pros du divergent thinking avec tout cet entra
     source='https://www.flickr.com/photos/gerwinfilius/7426798698'
 %}
 
-**La figure incomplète**
+### La figure incomplète
 {% include img-large.html
     name='forme'
 %}
@@ -148,6 +148,6 @@ Il reste des points que vous pouvez cependant garder en tête pour vous aider da
 ...
 - Trouvez une autre idée :-)
 
-Une partie des réponses aux problèmes de cet article sont dans ce [document] : 
+Une partie des réponses aux problèmes de cet article sont dans ce [document] :
 
 [document]: /assets/articles/divergent_thinking/ASEE_-_Divergent_Thinking_-_Paper_-_MODIFIED_-_FINAL_2012.pdf
