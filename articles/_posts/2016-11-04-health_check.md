@@ -29,7 +29,7 @@ Vous avez sans doute déjà observé qu'il est difficile de penser à toutes les
   source='https://www.flickr.com/photos/rakerman/5013183813'
 %}
 
-Avoir des conversations productives avec une base en anglais n'est pas évident pour tout le monde, c'est pourquoi nous avons traduit le jeu en français. Nous en avons profité pour refaire l'esthétique des cartes. Il va sans dire que notre version de ce jeu de cartes est voué à évoluer, n'hésitez donc pas à partager vos idées d'améliorations sur [github](https://github.com/ajiro-fr/publication), nous les étudierons avec plaisir.
+Avoir des conversations productives avec une base en anglais n'est pas évident pour tout le monde, c'est pourquoi nous avons traduit le jeu en français. Nous en avons profité pour refaire l'esthétique des cartes. Il va sans dire que notre version de ce jeu de cartes est voué à évoluer, n'hésitez donc pas à partager vos idées d'améliorations sur [github](https://github.com/ajiro-fr/publications), nous les étudierons avec plaisir.
 
 {% include img.html
   name='hand'
