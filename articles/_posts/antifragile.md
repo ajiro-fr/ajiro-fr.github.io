@@ -7,7 +7,7 @@ authors:
 tags:
   - mindset
 illustration:
-  name: 8066664674_9bdf00c329
+  name: 4979620728_b75820b377_o
   source: https://www.flickr.com/photos/luce/4979620728
 description: |
   L'improbable peut être source d'opportunités ou de problèmes. Il suffit de regarder la pièce du bon côté.
@@ -21,21 +21,33 @@ Ces deux premiers exemples ont permis de défricher la notion d'antifragile, mai
 
 Pour expliquer les 3 notions, je vais partir d'un exemple. Soit un couple qui habite rue parmentier et qui a rendez vous pour aller voir  un film avec sa copine au mk2 Gambetta.
 
-https://www.flickr.com/photos/78205255@N00/294984179
+{% include img.html
+    name='294984179_6b08f84f15_o'
+    source='https://www.flickr.com/photos/78205255@N00/294984179'
+%}
 
 - Le garçon fragile: S'il y a un incident sur la ligne 3 du métro, il attend patiemment que l'incident se termine. Il est fragile aux évènements extérieurs, ce qui peut lui causer des soucis avec sa moitié.
 
-https://www.flickr.com/photos/60653520@N06/9200364919/
+{% include img.html
+    name='9200364919_840fcb9b8c_o'
+    source='https://www.flickr.com/photos/60653520@N06/9200364919/'
+%}
 
 - Le garçon robuste: Il prend de la marge avant de partir et il connait les itinéraires alternatifs pour arriver à l'heure. Il a pris des mesures pour mettre sous contrôle le risque. Il s'agit de limiter l'impact de la volatilité.
 
-https://en.wikipedia.org/wiki/Lernaean_Hydra#/media/File:Lernaean_Hydra_Getty_Villa_83.AE.346.jpg
+{% include img.html
+    name='Lernaean_Hydra_Getty_Villa_83.AE.346'
+    source='https://en.wikipedia.org/wiki/Lernaean_Hydra#/media/File:Lernaean_Hydra_Getty_Villa_83.AE.346.jpg'
+%}
 
 - Le garçon antifragile: Il sait que tôt ou tard un évènement exceptionnel arrivera (alerte à la bombe dans le métro) et il voit cela comme des opportunités qui s'offrent à lui. Au lieu d'aller au cinéma, on peut aussi se faire un théatre. 
 
 Le passage de fragile à robuste réside dans la capacité à avoir plusieurs options. Je suis robuste quand je résiste à un évènement extérieur. De robuste à antifragile, il s'agit plus de passer d'options à options positives. Tout réside dans l'exposition à des environnements extérieurs et cela réside plus dans l'exposition de l'option. 
 
-https://senseofawareness.com/2012/01/01/antifragility-and-the-year-of-the-cut/
+{% include img.html
+    name='gain-vs-pain-convex-antifragile-upper-vs-concave-negative-convex-fragile-lower'
+    source='https://senseofawareness.com/2012/01/01/antifragility-and-the-year-of-the-cut/'
+%}
 
 Pour Nassim Taleb, il y a peu ou pas d'exposition linéaire. Vous êtes dans une exposition convexe quand vous pouvez profiter d'un évènement rare et concave dans le cas contraire. L'important dans le concept est d'identifier le cas de figure dans lequel vous êtes. Si vous êtes dans le cas "j'ai tout à gagner et pas grand chose à perdre", vous êtes dans le cas d'une situation antifragile. Dans le cas du garçon qui va au cinéma, je suis plutôt dans une situation inverse à savoir que j'ai plus à perdre qu'à gagner. 
 
@@ -43,18 +55,26 @@ Je peux arriver plus tôt au cinéma. Je ne sais cependant pas bien quoi en fair
 
 Il s'agit d'identifier les cas où la volatilité nous est favorable. Nassim Taleb croit d'ailleurs peu au cas médian à savoir se placer à une exposition moyenne. Il conseille de choisir où prendre des risques (exposition convexe) et où être très conservateur (exposition concave). 
 
-https://www.flickr.com/photos/edoardo-defalchi/4443019709
-
 Je vais reprendre un cas qui m'est déjà arrivé dans le passé. Suite à une mise à jour impromptu (par une autre équipe) de la version de la base de données d'un serveur de traitement que nous utilisions, tous nos batchs étaient KO. Exposition convexe ou concave? Au point où nous en étions, nous n'avions pas grand chose à perdre. Au mieux on remettait le service en route, au pire cela ne marchait toujours pas. Nous avons pris la décision de faire la montée de version sans tests préalables. Au final, le service est reparti tout de suite et nous avons gagné beaucoup de jours de tests. La question centrale de l'antifragilité, c'est l'exposition à la volatilité. Je suis antifragile quand je profite du désordre. C'est le second titre du livre : Les bienfaits du désordre.
 
-https://www.flickr.com/photos/ryanh/43936630
+{% include img.html
+    name='43936630_efc181a7a1_o'
+    source='https://www.flickr.com/photos/ryanh/43936630'
+%}
 
 L'autre point rabaché par Nassim Taleb, c'est que la volatilité peut être bonne et il tape donc sur ceux qu'ils appellent les fragilistas. A côté de lui, je suis un sympathique personnage :-) Prenons une maison avec une propreté standard. Si j'ai des enfants ils seront de temps en temps malades. Il y aura une certaine variabilité sur leur état de forme. Le système enfant saura par contre comment se réguler. Prenons maintenant une maison super super propre avec zéro microbe qui traine. L'enfant ne sera jamais malade ... ou presque. Le jour où il sera malade, le système enfant n'étant pas habitué à se réguler	la variation sera très forte. C'est ce que Nassim Taleb décrit comme les mondes du mediocristan et de l'extremistan. Le mediocristan a l'habitude de la volatilité et cela est géré dans ses procédures standard. Il est très peu sensible à des évènements exceptionnels. Dans le monde de l'extremistan, la volatilité est faible généralement sous contrainte. Quand la dite contrainte cède, on sera retrouve alors avec une très forte variabilité de type crise. Si je fais un parallèle avec le monde du développement informatique, je pourrais dire qu'avoir des écarts entre les estimés et les réalisés est naturel. Cela est aussi la preuve que je ne refais pas deux fois la même chose. Je suis dans le monde du mediocristan avec des écarts mais pas ou peu d'écart exceptionnel. Je pars du principe que l'écart entre consommé et réalisé doit être sous contrôle. La volatilité naturelle est faible. Lorsqu'un projet est en crise, il passe directement du vert au rouge. Je suis dans le monde de l'extremistan. 
 
-https://www.flickr.com/photos/purpleslog/2881627173
+{% include img.html
+    name='2881627173_6b7d1fd0bb_o'
+    source='https://www.flickr.com/photos/purpleslog/2881627173'
+%}
+
 
 Un des points que je retiens du livre concerne les cygnes noirs autre nom que l'on peut donner à des évènements exceptionnels. La probabilité qu'un évènement exceptionnel arrive croit avec le temps. La probabilité qu'une alerte à la bombe bloque demain toute la défense est très faible. Par contre, la probabilité que cela arrive lors du prochain trimeste est certes faible mais moins faible que précédemment. La probabilité qu'un évènement rare donné arrive est faible. Par contre la probabilité qu'un évènement rare arrive est loin d'être négligeable. Il y aura d'autres Leicester champion de Premier League, Brexit,... Une fois que l'on en a conscience, le tout reste de se placer du bon côté de l'exposition : parieur ou bookmaker. Il y aura des signes noirs et se dire que ce qui est statistiquement improbable n'arrivera pas est 'fragile'.
 
-https://www.flickr.com/photos/ashleyrosex/4023079556/
+{% include img.html
+    name='4023079556_e9b853023b_o'
+    source='https://www.flickr.com/photos/ashleyrosex/4023079556/'
+%}
  
 Pour passer de fragile à robuste, il est nécessaire de changer régulièrement de chemins pour garder des options ouvertes. De robuste à antifragile, il s'agit plus d'identifier le potentiel des options et de profiter de l'improbable. Toutes les options ne sont pas de la couverture au risque. Il y a beaucoup plus d'options "Pas grand chose à perdre, tout à gagner" que l'on ne le pense. Il faut laisser sa chance au hasard :-)
