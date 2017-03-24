@@ -45,8 +45,8 @@ Pour expliquer les 3 notions, je vais partir d'un exemple. Soit un couple qui ha
 Le passage de fragile à robuste réside dans la capacité à avoir plusieurs options. Je suis robuste quand je résiste à un évènement extérieur. De robuste à antifragile, il s'agit plus de passer d'options à options positives. Tout réside dans l'exposition à des environnements extérieurs et cela réside plus dans l'exposition de l'option.
 
 {% include img-large.html
-    name='gain-vs-pain-convex-antifragile-upper-vs-concave-negative-convex-fragile-lower'
-    source='https://senseofawareness.com/2012/01/01/antifragility-and-the-year-of-the-cut/'
+    name='7458416986_5ec949b9e9_k.jpg'
+    source='https://www.flickr.com/photos/plantjunkie/7458416986/'
 %}
 
 Pour Nassim Taleb, il y a peu ou pas d'exposition linéaire. Vous êtes dans une exposition convexe quand vous pouvez profiter d'un évènement rare et concave dans le cas contraire. L'important dans le concept est d'identifier le cas de figure dans lequel vous êtes. Si vous êtes dans le cas "j'ai tout à gagner et pas grand chose à perdre", vous êtes dans le cas d'une situation antifragile. Dans le cas du garçon qui va au cinéma, je suis plutôt dans une situation inverse à savoir que j'ai plus à perdre qu'à gagner.
