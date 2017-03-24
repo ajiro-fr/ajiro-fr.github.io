@@ -2,7 +2,6 @@
 layout: game
 hidden: true
 title: "World Café"
-subtitle: "World Cafe"
 tags:
 - intelligence collective
 objectives: |
