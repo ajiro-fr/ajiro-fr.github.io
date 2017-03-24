@@ -21,26 +21,32 @@ Ces deux premiers exemples ont permis de défricher la notion d'antifragile, mai
 
 Pour expliquer les 3 notions, je vais partir d'un exemple. Soit un couple qui habite rue parmentier et qui a rendez vous pour aller voir  un film avec sa copine au mk2 Gambetta.
 
+- Le garçon fragile
+
 {% include img.html
     name='294984179_6b08f84f15'
     source='https://www.flickr.com/photos/78205255@N00/294984179'
 %}
 
-- Le garçon fragile: S'il y a un incident sur la ligne 3 du métro, il attend patiemment que l'incident se termine. Il est fragile aux évènements extérieurs, ce qui peut lui causer des soucis avec sa moitié.
+S'il y a un incident sur la ligne 3 du métro, il attend patiemment que l'incident se termine. Il est fragile aux évènements extérieurs, ce qui peut lui causer des soucis avec sa moitié.
+
+- Le garçon robuste
 
 {% include img.html
     name='9200364919_840fcb9b8c'
     source='https://www.flickr.com/photos/60653520@N06/9200364919/'
 %}
 
-- Le garçon robuste: Il prend de la marge avant de partir et il connait les itinéraires alternatifs pour arriver à l'heure. Il a pris des mesures pour mettre sous contrôle le risque. Il s'agit de limiter l'impact de la volatilité.
+Il prend de la marge avant de partir et il connait les itinéraires alternatifs pour arriver à l'heure. Il a pris des mesures pour mettre sous contrôle le risque. Il s'agit de limiter l'impact de la volatilité.
+
+- Le garçon antifragile
 
 {% include img.html
     name='Lernaean_Hydra_Getty_Villa_83.AE.346'
     source='https://en.wikipedia.org/wiki/Lernaean_Hydra#/media/File:Lernaean_Hydra_Getty_Villa_83.AE.346.jpg'
 %}
 
-- Le garçon antifragile: Il sait que tôt ou tard un évènement exceptionnel arrivera (rail cassé sur la ligne 3) et il voit cela comme des opportunités qui s'offrent à lui. Au lieu d'aller au cinéma, je peux finir le livre que j'ai commencé.
+Il sait que tôt ou tard un évènement exceptionnel arrivera (rail cassé sur la ligne 3) et il voit cela comme des opportunités qui s'offrent à lui. Au lieu d'aller au cinéma, je peux finir le livre que j'ai commencé.
 
 Le passage de fragile à robuste réside dans la capacité à avoir plusieurs options. Je suis robuste quand je résiste à un évènement extérieur. De robuste à antifragile, il s'agit plus de passer d'options à options positives. Tout réside dans l'exposition à des environnements extérieurs et cela réside plus dans l'exposition de l'option.
 
