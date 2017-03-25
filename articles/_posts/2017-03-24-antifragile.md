@@ -7,7 +7,7 @@ authors:
 tags:
   - mindset
 illustration:
-  name: 9773993495_fc2b58e6c8_o
+  name: 9773993495_fc2b58e6c8
   source: https://www.flickr.com/photos/ameztegui/9773993495
 description: |
   L'improbable peut être source d'opportunités ou de problèmes. Il suffit de regarder la pièce du bon côté.
@@ -51,7 +51,7 @@ Il sait que tôt ou tard un évènement exceptionnel arrivera (rail cassé sur l
 Le passage de fragile à robuste réside dans la capacité à avoir plusieurs options. Je suis robuste quand je résiste à un évènement extérieur. De robuste à antifragile, il s'agit plus de passer d'options à options positives. Tout réside dans l'exposition à des environnements extérieurs et cela réside plus dans l'exposition de l'option.
 
 {% include img-large.html
-    name='7458416986_5ec949b9e9_k.jpg'
+    name='7458416986_5ec949b9e9.jpg'
     source='https://www.flickr.com/photos/plantjunkie/7458416986/'
 %}
 
@@ -61,7 +61,7 @@ Je peux arriver plus tôt au cinéma. Je ne sais cependant pas bien quoi en fair
 
 
 {% include img-large.html
-    name='14584921913_33a6064062_k'
+    name='14584921913_33a6064062'
     source='https://www.flickr.com/photos/cc_chapman/14584921913'
 %}
 
@@ -77,7 +77,7 @@ Je vais reprendre un cas qui m'est déjà arrivé dans le passé. Suite à une m
 L'autre point rabaché par Nassim Taleb, c'est que la volatilité peut être bonne et il tape donc sur ceux qu'ils appellent les fragilistas. A côté de lui, je suis un sympathique personnage :-) Prenons une maison avec une propreté standard. Si j'ai des enfants ils seront de temps en temps malades. Il y aura une certaine variabilité sur leur état de forme. Le système enfant saura par contre comment se réguler. Prenons maintenant une maison super super propre avec zéro microbe qui traine. L'enfant ne sera jamais malade ... ou presque. Le jour où il sera malade, le système enfant n'étant pas habitué à se réguler	la variation sera très forte. C'est ce que Nassim Taleb décrit comme les mondes du mediocristan et de l'extremistan. Le mediocristan a l'habitude de la volatilité et cela est géré dans ses procédures standard. Il est très peu sensible à des évènements exceptionnels. Dans le monde de l'extremistan, la volatilité est faible généralement sous contrainte. Quand la dite contrainte cède, on sera retrouve alors avec une très forte variabilité de type crise. Si je fais un parallèle avec le monde du développement informatique, je pourrais dire qu'avoir des écarts entre les estimés et les réalisés est naturel. Cela est aussi la preuve que je ne refais pas deux fois la même chose. Je suis dans le monde du mediocristan avec des écarts mais pas ou peu d'écart exceptionnel. Je pars du principe que l'écart entre consommé et réalisé doit être sous contrôle. La volatilité naturelle est faible. Lorsqu'un projet est en crise, il passe directement du vert au rouge. Je suis dans le monde de l'extremistan.
 
 {% include img.html
-    name='4610174352_03f639c332_o'
+    name='4610174352_03f639c332'
     source='https://www.flickr.com/photos/ajburcarannis/4610174352'
 %}
 
