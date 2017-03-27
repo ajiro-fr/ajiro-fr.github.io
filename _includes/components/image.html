@@ -1,20 +1,24 @@
 <div style=" overflow: hidden; ">
-  <img alt="{{include.description}}"
-       src="/assets/{{include.asset}}/{{include.name}}-800p.jpg"
-       class="rounded
-        {% if include.top %}
-          article__img-top
-        {% else %}
-          img-fluid
+  <figure>
+    <img alt="{{include.description}}"
+         src="/assets/{{include.asset}}/{{include.name}}-800p.jpg"
+         class="rounded
+          {% if include.top %}
+            article__img-top
+          {% else %}
+            img-fluid
+          {% endif %}
+          "
+         />
+      <figcaption>
+        {% if include.source %}
+          <span class="img-credit float-xs-right">
+            <a href="{{include.source}}">Source</a>
+          </span>
         {% endif %}
-        "
-       />
-  {% if include.source %}
-    <span class="img-credit float-xs-right">
-      <a href="{{include.source}}">Source</a>
-    </span>
-  {% endif %}
-  {% if include.legend %}
-    <span><small>{{include.legend}}</small></span>
-  {% endif %}
+        {% if include.legend %}
+          <span><small>{{include.legend}}</small></span>
+        {% endif %}
+      </figcaption>
+  </figure>
 </div>
