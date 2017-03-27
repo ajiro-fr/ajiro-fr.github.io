@@ -1,9 +1,10 @@
 ---
 title: "Antifragile, les bienfaits du désordre"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
+  - dages_luc
 tags:
   - mindset
 illustration:
