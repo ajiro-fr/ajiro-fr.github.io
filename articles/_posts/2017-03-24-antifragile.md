@@ -50,8 +50,8 @@ Il sait que tôt ou tard un évènement exceptionnel arrivera (rail cassé sur l
 
 Le passage de fragile à robuste réside dans la capacité à avoir plusieurs options. Je suis robuste quand je résiste à un évènement extérieur. De robuste à antifragile, il s'agit plus de passer d'options à options positives. Tout réside dans l'exposition à des environnements extérieurs et cela réside plus dans l'exposition de l'option.
 
-{% include img-large.html
-    name='7458416986_5ec949b9e9.jpg'
+{% include img.html
+    name='7458416986_5ec949b9e9'
     source='https://www.flickr.com/photos/plantjunkie/7458416986/'
 %}
 
@@ -60,7 +60,7 @@ Pour Nassim Taleb, il y a peu ou pas d'exposition linéaire. Vous êtes dans une
 Je peux arriver plus tôt au cinéma. Je ne sais cependant pas bien quoi en faire à part acheter du pop corn. Le gain est faible. Le perte potentielle liée à la volatilité est par contre fort. Au mieux je vais gagner quelques minutes, au pire je perds des heures. Prenons un exemple inverse : Vous êtes invités à une soirée où vous ne connaissez pas grand monde à une date où vous n'avez rien d'autre de prévu. Au pire vous avez perdu un aller retour en taxi. Au mieux, vous avez rencontré la femme de votre vie.
 
 
-{% include img-large.html
+{% include img.html
     name='14584921913_33a6064062'
     source='https://www.flickr.com/photos/cc_chapman/14584921913'
 %}
