@@ -7,6 +7,8 @@ authors:
   - dages_luc
 tags:
   - mindset
+categories:
+  - mindset
 illustration:
   name: 9773993495_fc2b58e6c8
   source: https://www.flickr.com/photos/ameztegui/9773993495
