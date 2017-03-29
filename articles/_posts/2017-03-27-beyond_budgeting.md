@@ -1,7 +1,7 @@
 ---
 title: "Beyond budgeting: l'agilité pour les exécutifs"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
