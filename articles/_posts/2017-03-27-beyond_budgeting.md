@@ -13,10 +13,10 @@ illustration:
   source: https://www.flickr.com/photos/thomashawk/9728779746/in/album-72157629801645943
 # ou ça https://www.flickr.com/photos/hotair2112/122501322
 description: |
-  Beyond budgeting : Business agility for C-level. Beyond Budgeting c'est la capacité à donner de l'agilité au niveau de l'organisation et donc des exécutifs. Sans eux, rien n'est possible. Avec eux, tout le monde peut prendre des initiatives.
-
+  Beyond Budgeting : Business agility for C-level. Beyond Budgeting c'est la capacité à donner de l'agilité au niveau de l'organisation et donc des exécutifs. Sans eux, rien n'est possible. Avec eux, tout le monde peut prendre des initiatives.
 ---
-Beyond budgeting c'est une autre façon de voir le budget mais aussi une autre façon de voir le management. Beyond budgeting ne vise pas à supprimer le pourquoi on budgete, mais à rendre le budget plus orienté valeur que coût.
+
+[Beyond Budgeting] c'est une autre façon de voir le budget mais aussi une autre façon de voir le management. Beyond budgeting ne vise pas à supprimer le pourquoi on budgete, mais à rendre le budget plus orienté valeur que coût.
 
 Pour l'expliquer, je vais partir des 12 principes du Beyond Budgeting et expliquer ce que cela peut vouloir dire dans la vraie vie. Ils n'existent pas encore en français et je ne me lance pas dans la traduction.
 
@@ -163,3 +163,11 @@ _Reward shared success against competition; not against fixed performance contra
 %}
 
 Je vais essayer de faire que le système de récompenses soit vertueux dans le sens où il encourage le travail de groupe. Il s'agit aussi de ne pas créer de la fausse concurrence entre silos de la même organisation. L'autre notion derrière ce principe est le relatif versus l'absolu. Comme je considère que je ne peux prédire le futur, je ne peux donc pas donner de cible absolue. Si je le fais, elle sera parfois accessible, parfois non et parfois trop facile. En donnant des cibles relatives, mes objectifs sont plus résilients aux changements de contexte. Je ne découvre pas en fin d'année que mes objectifs ne sont plus d'actualité. Définir des objectifs relatifs fait que l'on se sort en général des objectifs trop opérationnels qui sont plus de la fiche de poste.
+
+---
+Sources:
+
+- [Beyond Budgeting]
+
+
+[Beyond Budgeting]: /books/implementing_beyond_budgeting-bogsnes_bjarte.html
