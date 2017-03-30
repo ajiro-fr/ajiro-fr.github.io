@@ -116,6 +116,8 @@ _Set directional, ambitious and relative goals; avoid fixed and cascaded targets
 
 Quelle est la différence entre cascader et translater ? Je cascade quand je décline l'indicateur de haut en bas. Tout le monde a le même. Je translate quand chacun a partir de l'objectif global détermine ce que cela veut dire pour lui. Chacun utilise les indicateurs qui font du sens à son niveau. Il n'est pas nécessaire de rapprocher car la somme des sous éléments est par construction supérieur au global. Le fait de mettre des objectifs relatifs évite l'effet j'en garde sous le pied pour l'année prochaine. L'important est d'être ambitieux : Je vise le mieux et on verra ensuite où je suis vraiment.
 
+Un des points importants avec Beyond Budgeting, c'est de ne pas lier les objectifs, le prévisionnel et l'allocation de ressources. Si je mets dans les objectifs de quelqu'un la réussite d'un projet, il va être peu enclin à l'arrêter si jamais il ne fait plus de sens. Si je ne dois pas avoir d'écart entre mon prévisionnel et mon objectif budgétaire, je vais me débrouiller pour que les deux soient alignés. Tout le challenge est de définir des objectifs ambitieux plutôt non opérationnels et relatifs, de suivre au fur et à mesure ce qu'il advient dans la vraie vie pour m'aider à évoluer et d'allouer au bon moment les ressources nécessaires pour déliver le plus de valeur possible.
+
 
 ## 9. Plan and forecasts
 
