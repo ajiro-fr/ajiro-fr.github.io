@@ -8,6 +8,8 @@ tags:
   - entreprise libérée
   - management
   - rex
+categories:
+  - organisation
 illustration:
   name: 16611440342_3d225442c1
   source: https://www.flickr.com/photos/jcflac/16611440342/

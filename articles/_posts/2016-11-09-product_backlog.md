@@ -7,6 +7,8 @@ authors:
 tags:
   - produit
   - methodologie
+categories:
+  - product
 illustration:
   name: 13916708955_b012236d81
   source: https://www.flickr.com/photos/myharries/13916708955

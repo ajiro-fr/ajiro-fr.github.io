@@ -9,6 +9,8 @@ tags:
   - product
   - tactique theorique
   - initiative
+categories:
+  - product
 illustration:
   name: 138245187_3f2bafe0bc
   source: https://www.flickr.com/photos/thomashawk/138245187/
@@ -84,7 +86,7 @@ L'attaque en force a pour but de submerger ou d'éradiquer une force. **Son succ
 
 En développement produit, c'est la tactique assez simple du rentre dedans. Je fonce tout droit sans me poser trop de questions et sans nécessairement chercher à masquer mes ambitions. C'est donc plutôt une tactique de riches.
 
-Pour donner un exemple actuel, nous pensons à SFR et les rachats consécutifs des droits de la Premiere League ainsi que les chaines découverte de Discovery. Je paie cher et je pars sur un affrontement direct.  
+Pour donner un exemple actuel, nous pensons à SFR et les rachats consécutifs des droits de la Premiere League ainsi que les chaines découverte de Discovery. Je paie cher et je pars sur un affrontement direct.
 
 
 {% include img.html

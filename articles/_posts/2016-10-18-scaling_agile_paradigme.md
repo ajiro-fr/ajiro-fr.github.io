@@ -7,6 +7,8 @@ authors:
 tags:
   - agile
   - scaling
+categories:
+  - organisation
 illustration:
   name: 14519782386_808b0c6faf
   source: https://www.flickr.com/photos/infomastern/14519782386

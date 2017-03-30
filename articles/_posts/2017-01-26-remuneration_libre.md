@@ -11,6 +11,8 @@ tags:
   - entreprise libérée
   - management
   - politique
+categories:
+  - organisation
 illustration:
   name: ginko-biloba
 ---

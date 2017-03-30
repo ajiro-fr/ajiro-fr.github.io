@@ -7,6 +7,8 @@ authors:
 tags:
   - prise de decision
   - core protocols
+categories:
+  - people
 illustration:
   name: 8388318279_09e20b0107
   source: https://www.flickr.com/photos/aftab/8388318279

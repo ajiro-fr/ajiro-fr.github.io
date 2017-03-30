@@ -9,6 +9,8 @@ tags:
   - adapt
   - organisation
   - VUCA
+categories:
+  - organisation
 illustration:
   name: xraycristal
   source: https://commons.wikimedia.org/wiki/File%3ACSIRO_ScienceImage_296_Protein_Crystals_Use_in_XRay_Crystallography.jpg

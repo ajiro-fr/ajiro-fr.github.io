@@ -8,6 +8,8 @@ tags:
   - out of the box
   - divergent thinking
   - idées
+categories:
+  - mindset
 illustration:
   name: 8066664674_9bdf00c329
   source: https://www.flickr.com/photos/marcozielske/8066664674
@@ -52,7 +54,7 @@ _A partir de l'image ci dessus, écrivez un poème._
 ### Out of the box
 _Utilisez 6 allumettes pour faire 4 triangles équilatéraux_
 
-Le premier exercice est un exercice de divergence de type verbaliser, le deuxième écrire et le dernier mathématiques géométrie. 
+Le premier exercice est un exercice de divergence de type verbaliser, le deuxième écrire et le dernier mathématiques géométrie.
 
 Il existe deux grandes familles de théories de la créativité. Pour l'une d'entre elles, il existe des clusters de créativité qui ne sont pas liés entre eux. Dans les exemples ci dessus, je peux être performant en verbalisation, moyen en écriture et mauvais en mathématiques. Finalement, peu d'expériences ont été menées pour valider les théories relatives à la créativité. Elles ont été réalisé avec quelques classes du nord est des états-unis et donc ne sur concluons pas. Sans entrainement au divergent thinking préalablement aux tests, la théorie des clusters est validée.
 

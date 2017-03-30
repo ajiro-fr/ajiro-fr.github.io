@@ -7,6 +7,8 @@ authors:
 tags:
   - organisation
   - beyond budgeting
+categories:
+  - organisation
 illustration:
   name: 7767446928_71febf16d9
   source: https://www.flickr.com/photos/bobostudio/7767446928

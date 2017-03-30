@@ -12,6 +12,8 @@ tags:
   - management
   - team
   - équipe
+categories:
+  - craft
 illustration:
   name: light-focused
   source: https://www.flickr.com/photos/carolinabio/6846795611

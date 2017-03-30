@@ -9,6 +9,8 @@ tags:
   - initiative
   - product
   - tactique theorique
+categories:
+  - product
 illustration:
   name: 7742118900_bff8cd1638
   source: https://www.flickr.com/photos/steelmastersteelbuildings/7742118900

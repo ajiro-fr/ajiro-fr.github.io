@@ -7,6 +7,8 @@ authors:
 tags:
   - pensée
   - methodologie
+categories:
+  - craft
 illustration:
   name: 4671006254_b646ef737c
   source: https://flic.kr/p/87L8qA

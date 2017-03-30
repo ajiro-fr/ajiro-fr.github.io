@@ -7,6 +7,8 @@ authors:
 tags:
   - product
   - kata
+categories:
+  - product
 illustration:
   name: 8505252736_b73998d301
   source: https://www.flickr.com/photos/gabrielgm/8505252736/
@@ -21,7 +23,7 @@ Voici un résumé des différentes étapes :
 - [Explorer] pour s’ouvrir le champ des possibles
 - [Décider] pour se focaliser sur ce qui semble faire le plus de sens
 - [Construire] parce qu’à l’arrivée il y a un client
-- [Valider] car rien ne vaut le feedback client 
+- [Valider] car rien ne vaut le feedback client
 
 C'est super ton truc, mais à quoi ça sert ? Tu ne vas pas m'apprendre à faire des spécifications. C'est le style de remarque que j'entends assez souvent et ma réponse est simple : j'explique des concepts qui s'appliquent dans le paradigme des systèmes complexes. On y croit ou pas, je ne débats pas des avantages et inconvénients d'une approche par rapport à une autre. Je présente une façon de voir les choses.
 

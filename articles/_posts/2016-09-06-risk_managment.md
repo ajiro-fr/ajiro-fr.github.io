@@ -10,6 +10,8 @@ tags:
   - militaire
   - concepts
   - management
+categories:
+  - mindset
 illustration:
   name: 3112796093_b2eca43e06
   source: https://flic.kr/p/5K4TQa
