@@ -166,6 +166,8 @@ _Reward shared success against competition; not against fixed performance contra
 
 Je vais essayer de faire que le système de récompenses soit vertueux dans le sens où il encourage le travail de groupe. Il s'agit aussi de ne pas créer de la fausse concurrence entre silos de la même organisation. L'autre notion derrière ce principe est le relatif versus l'absolu. Comme je considère que je ne peux prédire le futur, je ne peux donc pas donner de cible absolue. Si je le fais, elle sera parfois accessible, parfois non et parfois trop facile. En donnant des cibles relatives, mes objectifs sont plus résilients aux changements de contexte. Je ne découvre pas en fin d'année que mes objectifs ne sont plus d'actualité. Définir des objectifs relatifs fait que l'on se sort en général des objectifs trop opérationnels qui sont plus de la fiche de poste.
 
+Pour conclure, tous ses principes peuvent être pris séparément et c'est d'ailleurs ce que le Beyond Budgeting Institute conseille de faire pour une évolution vers le Beyond Budgeting. Par contre, ils créent tous ensemble un système cohérent et il est donc peu conseillé de ne prendre qu'un bout comme par exemple les rolling forecast sans questionnement sur la fixation d'objectifs.
+
 ---
 Sources:
 
