@@ -23,7 +23,7 @@ Pour l'expliquer, je vais partir des 12 principes du Beyond Budgeting et expliqu
 
 ## 1. Purpose
 
-_Engage and inspire people around bold and noble causes; not around shot term financial targets._
+_Engage and inspire people around bold and noble causes; not around short term financial targets._
 
 {% include img.html
     name='31603760921_bdd62aee10'
