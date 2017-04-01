@@ -16,7 +16,7 @@ description: |
   L'improbable peut être source d'opportunités ou de problèmes. Il suffit de regarder la pièce du bon côté.
 ---
 
-J'ai un peu l'impression d'être au pied d'une montagne et plus par la face nord que la sud. Me voici donc en train de parler d'un de me sujets fétiches depuis 6 mois à savoir Antifragile les bienfaits du désordre de Nicholas Nassim Taleb. Antifragile c'est un livre, mais c'est surtout une autre façon de voir les choses.
+J'ai un peu l'impression d'être au pied d'une montagne et plus par la face nord que la sud. Me voici donc en train de parler d'un de me sujets fétiches depuis 6 mois à savoir _[Antifragile: Les bienfaits du désordre]_ de Nicholas Nassim Taleb. Antifragile c'est un livre, mais c'est surtout une autre façon de voir les choses.
 
 Commençons par un exemple à savoir le chaos monkey de NetFlix. Pour ceux qui ne connaissent pas, c'est un bot qui fait tomber les serveurs de production. Est ce antifragile ? Oui et non à savoir que le système global peut être antifragile avec des éléments du système qui sont fragiles. C'est con un serveur, si tu l'arrêtes il ne marche plus. La notion d'antifragile est donc contextuelle. L'antifragilité c'est la capacité à ressortir plus fort d'un évènement non prévu. Le meilleur exemple, c'est l'hydre que combat Hercule. Quand vous lui coupez une tête, il en repousse deux. Vous allez le voir plus tard, le système netflix est plus robuste (résilient) qu'antifragile.
 
@@ -100,3 +100,10 @@ Pour passer de fragile à robuste, il est nécessaire de changer régulièrement
     name='4023079556_e9b853023b'
     source='https://www.flickr.com/photos/ashleyrosex/4023079556/'
 %}
+
+---
+Sources:
+- [Antifragile: Les bienfaits du désordre]
+
+
+[Antifragile: Les bienfaits du désordre]: /books/antifragile-nassim_nicholas_taleb.html
