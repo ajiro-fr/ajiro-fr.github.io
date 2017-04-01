@@ -1,6 +1,6 @@
 ---
-title: "Rémunération libre"
-subtitle: "Proposition pour un partage innovant de la valeur et des risques"
+title: Rémunération libre
+subtitle: Proposition pour un partage innovant de la valeur et des risques
 lang: fr
 hidden: false
 authors:
