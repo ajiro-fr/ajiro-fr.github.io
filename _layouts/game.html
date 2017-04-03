@@ -23,28 +23,31 @@ layout: default
       %}
       {% endif %}
 
-      <h2>Objectifs</h2>
-      <p>{{page.objectives|markdownify}}</p>
+      <div class="card talk-card">
+        <div class="card-block">
+          <h2>Objectifs</h2>
+          <p>{{page.objectives|markdownify}}</p>
+          <p>
+            <i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> {{page.duration}}
+            <br>
+            <i class="fa fa-fw fa-users" aria-hidden="true"></i> {{page.participants}}
+            {% if page.tags.size > 0 %}
+              <br>
+              <i class="fa fa-fw fa-tags"></i>
+              {% for tag in page.tags %}
+                <span class="tag tag-default">{{tag}}</span>
+              {% endfor %}
+            {% endif %}
+          </p>
 
-      <p>
-        <i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> {{page.duration}}
-        <br>
-        <i class="fa fa-fw fa-users" aria-hidden="true"></i> {{page.participants}}
-        {% if page.tags.size > 0 %}
-          <br>
-          <i class="fa fa-fw fa-tags"></i>
-          {% for tag in page.tags %}
-            <span class="tag tag-default">{{tag}}</span>
+          <h2>Materiel</h2>
+          <ul>
+          {% for item in page.materials %}
+            <li>{{item|markdownify}}</li>
           {% endfor %}
-        {% endif %}
-      </p>
-
-      <h2>Materiel</h2>
-      <ul>
-      {% for item in page.materials %}
-        <li>{{item|markdownify}}</li>
-      {% endfor %}
-      </ul>
+          </ul>
+        </div>
+      </div>
 
       {{ content }}
 
