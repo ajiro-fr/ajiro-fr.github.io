@@ -38,6 +38,9 @@
   color: #3B3B3B
 }
 
+.bg-light-gray {
+  background-color: #f7f7f9;
+}
 
 h1, h2, h3 {
   color: #3B3B3B;
@@ -254,8 +257,4 @@ body {
 
 .talk-illustration {
   width: 100%;
-}
-
-.talk-card {
-  background-color: #f7f7f9;
 }
