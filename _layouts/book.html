@@ -28,8 +28,12 @@ layout: default
       </p>
 
       {% if page.summary %}
-        <h2>Résumé</h2>
-        <p>{{page.summary | markdownify}}</p>
+        <div class="card talk-card">
+          <div class="card-block">
+            <h2>Résumé</h2>
+            <p>{{page.summary | markdownify}}</p>
+          </div>
+        </div>
       {% endif %}
 
       {% if page.notes %}
