@@ -1,6 +1,6 @@
 ---
 layout: game
-hidden: true
+hidden: false
 title: "World Café"
 tags:
 - intelligence collective
