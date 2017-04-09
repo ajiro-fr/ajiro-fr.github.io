@@ -19,100 +19,32 @@ illustration:
 
 Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés.
 
-<style>
-.highlight {
-  padding: 0.75rem 1.25rem;
-  margin-bottom: 1rem;
-  border: 1px solid transparent;
-  border-radius: 0.25rem;
-  min-height: 4em;
-}
 
-.highlight::before {
-  font-family: FontAwesome;
-  font-size: 2em;
-  width: 1.3em;
-  display: block;
-  float: left;
-}
+## Nos objectifs d'une rémunération libre
 
-.highlight.current {
-  background-color: #fed393;
-  border-color: #c47401;
-  color: #955901;
-}
+**Notre intention avec notre proposition est de montrer comment développer le bonheur au travail tout en favorisant l'efficacité collective.**
 
-.highlight.current::before {
-  content: '\f1da';
-}
-
-.highlight.rule {
-  background-color: #bdd8e3;
-  border-color: #3d7890;
-  color: #2a5363;
-}
-
-.highlight.rule::before {
-  content: '\f046';
-}
-
-.highlight.customize {
-  background-color: #b7ede0;
-  border-color: #1e7c66;
-  color: #196553;
-}
-
-.highlight.customize::before {
-  content: '\f0d0';
-}
-</style>
-
-
-## Les objectifs d'une rémunération libre
-
-**Notre intention avec notre proposition est de favoriser l’esprit d’équipe pour créer de la performance collective qui bénéficie à l’ensemble des individus.**
-
-
-### L'intérêt collectif:
-
-L’idée centrale est que l’intérêt collectif est le meilleur moyen de servir l’intérêt de chacun.
-
-- Il permet d’avoir un objectif commun, car chaque salarié comprend que son intérêt personnel passe par la réussite du projet, à savoir rendre possible la création de richesse par l’entreprise.
-- Il incite chaque salarié à être acteur des décisions qui tendent vers une amélioration de l’ensemble.
-- La transparence, la responsabilité, la collaboration, l’entraide deviennent positifs pour le salarié.
-- Il incite à avoir une culture de la solution plutôt que du problème, car l’équipe fait corps : les autres salariés sont des partenaires et non des concurrents.
-
-Dans cette dynamique, la rémunération sert avant tout à la répartition des risques et des richesses créées par l’entreprise.
-
-Pour que cette vision commune se construise sereinement, certains fondamentaux semblent nécessaires :
-
-- Le principe de transparence : Si nous voulons que le salarié soit en mesure d’être responsable, il doit pouvoir comprendre les différents enjeux de l’entreprise (notamment ses contraintes financières). Ainsi, l’information doit être disponible et son accès facilité. Cela permet des discussions constructives.
-- Le principe de responsabilité : Tous les salariés devenant acteurs de l’entreprise il doit avoir une vision claire de son rôle à lui et de celui des autres. Le principe de responsabilité est directement lié à celui de liberté / pouvoir. En effet, donner à chacun la possibilité d’être décisionnaire de la stratégie d’entreprise, demande à ce que chacun soit conscient de son rôle dans la viabilité de cette dernière.
-- Le principe de pression sociale : Dans un contexte où une place plus grande est laissée à la liberté individuelle, il est possible que des intérêts divergents apparaissent. C’est là que l’intérêt commun reprend toute son importance puisque ce dernier prendra le dessus. Ainsi si un salarié se voyait aller dans un sens qui semble contraire à l’intérêt collectif (demander à avoir une rémunération qui déstabilise l’équilibre de l’entreprise par exemple), il y aura un système de pression sociale de la part de l’ensemble qui verra alors que le meilleur moyen de préserver l’intérêt collectif est d’intervenir auprès du salarié en question.
-- Le principe d’équité : Pour que le collectif fonctionne, il est important que chaque maillon de la chaine ait sa place.
-- Le principe de la bonté de l’Homme : L’idée ici est que chacun fait de son mieux pour l’intérêt collectif. Lorsque des divergences apparaissent cela permet de les traités avec bienveillance en se rappelant que chacun a peut-être une vision différentes des moyens à mettre en œuvre mais que l’objectif est bien le même.
-
-## Description des différentes composantes de la rémunération libre
-
-Pour que tout cela soit possible, il devient évident que le système de rémunération doit être compris et accepté par tous les acteurs de l’entreprise pour être volontairement appliqué par l’ensemble des collaborateurs.
-
-Ainsi l’idée de rémunération libre doit partir des salariés, d’abord par la mise en place de règles communes (système de rémunération, grille de salaire, mode d’évaluation), et ensuite par le pouvoir individuel de chacun, toujours en lien avec le collectif, de se positionner à l’intérieur de ce système.
-
-Il faudra donc avant tout que les salariés comprennent les enjeux financiers de l’entreprise. Pour cela la transparence financière de l’entreprise sera un point important.
-
-Le système proposé ici se veut être un modèle de ce qui peut être fait pour favoriser au maximum tout ce qui a été dit plus haut. Il se veut juste (plutôt qu’égalitaire : tout le monde le même salaire), pour deux raisons :
+La rémunération sert avant tout à la répartition des risques et des richesses créées par l’entreprise. Nous avons opté pour une répartition juste, plutôt qu'égalitaire, pour les deux raisons suivantes.
 
 - D’abord parce que chacun a des envies, besoins différents, ainsi un salarié peut tout à fait de lui-même avoir envie de s’investir beaucoup ou non, ainsi cela permet de différencier les contributions que chacun souhaite apporter.
-- Ensuite le système juste permet le système égalitaire (il est possible de choisir que chacun ait le même salaire), alors que l’inverse n’est pas vrai. Le système juste est donc le plus ouvert et permet une discussion plus riche avec un modèle plus adaptable.
+- Ensuite le système juste permet le système égalitaire (il est possible de choisir que chacun ait le même salaire), alors que l’inverse n’est pas vrai.
+
+Un système de rémunération libre doit être construit, compris et accepté par tous les acteurs de l'entreprise.
+
+D'abord par la capacité de chacun de se positionner à l’intérieur de ce système.
+Ensuite, tous les acteurs de l'entreprise doivent comprendre les enjeux de l’entreprise, donc la transparence (y compris financière) de l’entreprise sera un point important.
+Enfin par la mise en place de règles communes (système de rémunération, grille de salaire, mode d’évaluation).
+
+
+## Description de la rémunération libre
 
 Le système de rémunération libre proposé ici s’appuie sur 3 composantes :
 1. Le salaire fixe
 2. La part variable
 3. La redistribution des bénéfices
 
-### Les trois composantes de la rémunération
 
-#### Le salaire fixe
+### Le salaire fixe
 
 Le salaire fixe est défini par chaque salarié.
 Il se base sur une grille de salaire définie de manière commune par l’ensemble des salariés, en fonction des contraintes financières de l’entreprise et de leur vision de la rémunération.
@@ -125,25 +57,25 @@ Ci-dessous une proposition de grille de salaires à modifier par l’ensemble de
 {: .table}
 |  Niveau  |  Salaire   |  Niveau  |  Salaire   |
 |:--------:|:----------:|:--------:|:----------:|
-| A        | 1500-1600  | G        | 4500-4600  |
-| B        | 2000-2100  | H        | 5000-5100  |
-| C        | 2500-2600  | I        | 6000-6100  |
-| D        | 3000-3100  | J        | 7000-7100  |
-| E        | 3500-3600  | K        | 8000-8100  |
-| F        | 4000-4100  | L        | 9000-9100  |
+| A        | 2500-2600  | E        | 4500-4600  |
+| B        | 3000-3100  | F        | 5000-5100  |
+| C        | 3500-3600  | G        | 6000-6100  |
+| D        | 4000-4100  | H        | 7000-7100  |
 
 La grille de salaire peut-être étayées d’exemples permettant d’expliciter la vision commune de ce à quoi correspondent les différents niveaux de salaire (niveau d’expertise, de complexité, de pénibilité etc.).
-Cela permet de vérifier par des exemples concrets que l’ensemble des salariés partage bien une même réalité de chaque niveau de salaire. Ensuite cela sera une aide pour que chacun puisse se situer plus facilement dans la grille de salaire et de choisir un niveau qu’il estime juste pour lui et pour l’entreprise.
+Cela permet de vérifier par des exemples concrets que l’ensemble des salariés partage bien une même réalité de chaque niveau de salaire. Ensuite cela sera une aide pour que chacun puisse se situer plus facilement dans la grille de salaire et choisir un niveau qu’il estime juste pour lui et pour l’entreprise.
 Enfin, toujours dans la même dynamique, la grille de salaire, ainsi que le positionnement de chaque salarié dans cette grille doit répondre au principe de transparence.
 
-#### Le salaire variable
+
+### La part variable
 
 Le salarié peut choisir de rendre variable une partie de son salaire fixe. Cette part variable est choisie par le salarié en même temps que le choix du salaire fixe.
 Cela démontre une volonté individuelle d’investir dans l’entreprise, permettant ainsi à celle-ci de disposer de plus de liquidités.
 Concrètement le salaire variable sera versé au salarié à la clôture des comptes, si le bilan comptable de l’entreprise le permet.
 Lors de la redistribution des bénéfices en fin d’exercice, les personnes qui ont fait le choix de cette prise de risque sont “remboursées” en priorité ; ce “prêt” à l’entreprise est bonifié par un coefficient multiplicateur défini par l’ensemble des salariés. Dans le cas où les bénéfices de l’entreprise ne permettent pas de couvrir les variables volontaires bonifiées, une répartition sera faite au prorata de la part de salaire “prêtée” par le salarié à l’entreprise.
 
-#### La redistribution des bénéfices
+
+### La redistribution des bénéfices
 
 En fin d’exercice, l’entreprise définit, explique et publie la répartition des bénéfices de l’entreprise entre :
 - les investissements ;
@@ -152,8 +84,10 @@ En fin d’exercice, l’entreprise définit, explique et publie la répartition
 - la redistribution des bénéfices.
 La redistribution des bénéfices est faite au prorata temporis annuel des salariés, sous une forme compatible avec la législation et la fiscalité.
 
-Ci-après le mécanisme global présenté via un exemple fictif.
 
+## Exemple
+
+Ci-après le mécanisme global présenté via un exemple fictif.
 
 {% include img.html
     name='choix_salaires'
@@ -175,7 +109,6 @@ Ils laissent le reste dans l’entreprise pour en partager les risques.
 
 Léon a été embauché en milieu d’année, il n’a donc pas de variable (cf. paragraphe “L’embauche et l’intégration”).
 
-
 {% include img.html
     name='choix_part_variable'
 %}
@@ -189,13 +122,11 @@ C’est la fin de l’année, le moment de faire le bilan financier. La sociét�
 
 Part variable, accompagnée de la bonification correspondante, calculée en utilisant le coefficient multiplicateur décidé par l’ensemble des salariés.
 
-
 {% include img.html
     name='versement_benefices'
 %}
 
 Les résultats sont tellement bons, qu’il reste de quoi verser une redistribution des bénéfices à tous les salariés. Léon n’étant là que depuis 6 mois, il n’a que la moitié de cette participation.
-
 
 {% include img.html
     name='remuneration'
@@ -203,20 +134,31 @@ Les résultats sont tellement bons, qu’il reste de quoi verser une redistribut
 
 Au final voici les rémunérations annuelles de nos quatre amis.
 
-Pour aller plus loin, quelques notions compatibles avec le système de Rémunération libre.
 
-## Quelques notions complémentaires
+## Quelques notions complémentaires et conséquences
 
-### Les variations de salaire:
 
-Plusieurs modalités de variation peuvent être décidées par les salariés lors de la mise en place d’une rémunération libre. Ci-dessous deux exemples sont présentés, ils peuvent bien entendu se cumuler.
-Variation de salaire globale : il s’agit de mettre à jour la grille de salaire. Le coefficient de variation sera appliqué de la même manière à tous les salariés
-Variation à l’initiative du salarié : chaque salarié peut voir ses envies changer, en voulant s’impliquer plus, ou s’impliquer moins dans son travail. Il pourra alors de sa propre initiative demander à changer de niveau de salaire.
-Sur ces bases, de nombreuses autres modalités peuvent être imaginées pour cadrer plus ou moins le choix de la rémunération.
-- Les revues de salaire sont réalisées individuellement et un système de revue par les autres salariés est organisé (la possibilité de donner un avis, via un outil par exemple).
-- Les revues de salaire seront réalisées par chacun à des périodes clés définies.
-- Les revues de salaires seront toutes réalisées sur les mêmes périodes à la fréquence définie.
-- Des journées annuelles de revues des rémunérations peuvent regrouper tous les acteurs et permettent de parcourir en groupe le processus de réévaluation pour le bénéfice de l’ensemble du groupe.
+### Les variations de rémunération
+
+Que ce soit un salarié ou un actionnaire qui souhaite changer sa rémunération, il est fortement conseillé de discuter pour s’harmoniser et éviter de mettre en péril l’entreprise.
+
+Les modalité de ces variations sont à décider ensemble.
+
+Par exemple :
+- modifier la grille pour tous les acteurs ;
+- un salarié de revoir à la hausse ou à la baisse sa rémunération, de revoir la répartition fixe variable ;
+- limiter les modifications de rémunération dans l'année (date d'anniversaire d'embauche, tous les mois, date commune pour tous, ...)
+
+Les RH et les syndicats peuvent aider ces changements, en particulier pour les personnes qui ont du mal à se positionner.
+
+
+### L'embauche et l’intégration
+
+Les modalités d’intégration d’un nouveau salarié venant d’un environnement où le système serait différent peuvent se dérouler comme suit :
+L’embauche d’un nouveau salarié se fera en utilisant la grille de salaire. Comme d’habitude, le salaire sera négocié durant le processus de recrutement
+Durant une période à définir dans le système de rémunération libre mis en place, le nouveau salarié est en mode observation, ainsi, il ne lui est pas proposé de mettre une partie de son salaire fixe en variable. Par contre, le cas échéant, le nouveau salarié touche également la redistribution des bénéfices au prorata temporis.
+Cette période a pour vocation de faire comprendre le fonctionnement de l’entreprise au nouveau salarié. Elle peut éventuellement être complétée d’un parrainage par un autre salarié pour faciliter la compréhension du système.
+
 
 ### L'évaluation
 
@@ -228,12 +170,6 @@ L’évaluation permet de :
 - fixer les objectifs individuels pour l’année à venir.
 Ici encore, c’est à l’équipe de décider des modalités d’évaluation préconisées. L’évaluation est-elle obligatoire ou conseillée, pour tous ou que pour ceux qui souhaitent aller vers une variation de salaire, est-elle individuelle ou collective, accompagnée ou non ? C’est à l’ensemble des salariés de prendre une décision commune pour que les modalités correspondent à leur vision commune de la rémunération libre.
 
-### L'embauche et l'inétgration
-
-Les modalités d’intégration d’un nouveau salarié venant d’un environnement où le système serait différent peuvent se dérouler comme suit :
-L’embauche d’un nouveau salarié se fera en utilisant la grille de salaire. Comme d’habitude, le salaire sera négocié durant le processus de recrutement
-Durant une période à définir dans le système de rémunération libre mis en place, le nouveau salarié est en mode observation, ainsi, il ne lui est pas proposé de mettre une partie de son salaire fixe en variable. Par contre, le cas échéant, le nouveau salarié touche également la redistribution des bénéfices au prorata temporis.
-Cette période a pour vocation de faire comprendre le fonctionnement de l’entreprise au nouveau salarié. Elle peut éventuellement être complétée d’un parrainage par un autre salarié pour faciliter la compréhension du système.
 
 ### Les RH et le management
 
@@ -242,6 +178,7 @@ Dans un système de rémunération libre, les attentes des salariés par rapport
 - de l’accompagnement dans la réflexion et le choix pour le bien du salarié et de l’entreprise (définition de dispositifs de prise de recul, aide dans le choix des évolutions de carrière possibles, dans les choix d’outils de progression, échange sur les envies, mise en perspective, etc.).
 Ainsi, la direction et les RH dans ce mode de fonctionnement basculent vers un rôle d’animation des valeurs et de la vision pour garantir la cohésion du groupe, afin que les décisions individuelles soient cohérentes pour l’organisation.
 Les RH permettent d’accompagner le salarié dans sa prise de décision, tout en se gardant de prendre la décision à sa place, il a un rôle de facilitateur.
+
 
 ### La motivation
 
@@ -260,6 +197,35 @@ Voici quelques exemples de sources de motivation qui pourront être travaillées
 - Créer des espaces d’échanges en groupe pour des sujets personnels, de montée en compétences ou pour les décisions qui impactent toute l’entreprise.
 - L’équité dans le traitement : que les règles soient claires et appliquées de la même façon par tous. Certaines organisations disposent d’une commission de discipline qui est chargée de résoudre, avec le salarié et un groupe de pairs, un écart aux règles convenues.
 Travailler sur ces sources de motivations permet également d’attirer de nouveaux talents qui souhaitent rejoindre l’entreprise pour des raisons qui sont plus proches des valeurs et de la vision de l’entreprise.
+
+
+### La pression sociale
+
+Dans un contexte où une place plus grande est laissée à la liberté individuelle, il est possible que des intérêts divergents apparaissent. C’est là que l’intérêt commun reprend toute son importance puisque ce dernier prendra le dessus. Ainsi si un salarié se voyait aller dans un sens qui semble contraire à l’intérêt collectif (demander à avoir une rémunération qui déstabilise l’équilibre de l’entreprise par exemple), il y aura un système de pression sociale de la part de l’ensemble qui verra alors que le meilleur moyen de préserver l’intérêt collectif est d’intervenir auprès du salarié en question.
+TODO: Protéger les plus faibles...
+
+
+### Raison d’être de l'entreprise
+
+
+
+
+
+
+
+### L'intérêt collectif:
+
+Pour que cette vision commune se construise sereinement, certains fondamentaux semblent nécessaires :
+
+- Le principe de transparence : Si nous voulons que le salarié soit en mesure d’être responsable, il doit pouvoir comprendre les différents enjeux de l’entreprise (notamment ses contraintes financières). Ainsi, l’information doit être disponible et son accès facilité. Cela permet des discussions constructives.
+- Le principe de responsabilité : Tous les salariés devenant acteurs de l’entreprise il doit avoir une vision claire de son rôle à lui et de celui des autres. Le principe de responsabilité est directement lié à celui de liberté / pouvoir. En effet, donner à chacun la possibilité d’être décisionnaire de la stratégie d’entreprise, demande à ce que chacun soit conscient de son rôle dans la viabilité de cette dernière.
+- Le principe de pression sociale : Dans un contexte où une place plus grande est laissée à la liberté individuelle, il est possible que des intérêts divergents apparaissent. C’est là que l’intérêt commun reprend toute son importance puisque ce dernier prendra le dessus. Ainsi si un salarié se voyait aller dans un sens qui semble contraire à l’intérêt collectif (demander à avoir une rémunération qui déstabilise l’équilibre de l’entreprise par exemple), il y aura un système de pression sociale de la part de l’ensemble qui verra alors que le meilleur moyen de préserver l’intérêt collectif est d’intervenir auprès du salarié en question.
+- Le principe d’équité : Pour que le collectif fonctionne, il est important que chaque maillon de la chaîne ait sa place.
+- Le principe de la bonté de l’Homme : L’idée ici est que chacun fait de son mieux pour l’intérêt collectif. Lorsque des divergences apparaissent cela permet de les traiter avec bienveillance en se rappelant que chacun a peut-être une vision différentes des moyens à mettre en œuvre mais que l’objectif est bien le même.
+
+
+
+
 
 
 
