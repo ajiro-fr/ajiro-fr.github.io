@@ -154,10 +154,13 @@ Les RH et les syndicats peuvent aider ces changements, en particulier pour les p
 
 ### L'embauche et l’intégration
 
-Les modalités d’intégration d’un nouveau salarié venant d’un environnement où le système serait différent peuvent se dérouler comme suit :
-L’embauche d’un nouveau salarié se fera en utilisant la grille de salaire. Comme d’habitude, le salaire sera négocié durant le processus de recrutement
-Durant une période à définir dans le système de rémunération libre mis en place, le nouveau salarié est en mode observation, ainsi, il ne lui est pas proposé de mettre une partie de son salaire fixe en variable. Par contre, le cas échéant, le nouveau salarié touche également la redistribution des bénéfices au prorata temporis.
-Cette période a pour vocation de faire comprendre le fonctionnement de l’entreprise au nouveau salarié. Elle peut éventuellement être complétée d’un parrainage par un autre salarié pour faciliter la compréhension du système.
+Ce modèle de rémunération étant peu répandu, il convient d'accompagner les nouveaux salariés. Les fonctions RH et les syndicats peuvent aider, ainsi que les collègues. Un mécanisme de parrainage peut aussi s'avérer utile.
+
+Nous préconisons qu'un nouvel embauché ai une rémunération choisie dans la grille avec un variable commun à tous les embauches (sans variable, 10%, etc.).
+Il y aurait ensuite une période d'observation d'une durée à définir (1 an par exemple) qui aurait pour vocation de faire comprendre le fonctionnement de l’entreprise au nouveau salarié.
+À l'issue de cette période d'observation, le salarié pourra alors choisir lui même sa rémunération.
+
+Le cas échéant, le nouveau salarié touche également la redistribution des bénéfices au prorata temporis.
 
 
 ### L'évaluation
