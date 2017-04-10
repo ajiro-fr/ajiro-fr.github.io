@@ -17,6 +17,11 @@ illustration:
   name: ginko-biloba
 ---
 
+TODO harmonisation du vocabulaire :
+    - utiliser le terme organisation, plutôt que entreprise
+    - rémunération plutôt que salaire
+    - acteur plutôt que salarié
+
 Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés.
 
 
@@ -163,9 +168,9 @@ Il y aurait ensuite une période d'observation d'une durée à définir (1 an pa
 Le cas échéant, le nouveau salarié touche également la redistribution des bénéfices au prorata temporis.
 
 
-### L'évaluation
+### L'évaluation annuelle
 
-Dans le système de rémunération libre l’intérêt de l’évaluation évolue. Elle permet un système non figé dont la flexibilité facilite l’adaptation de la rémunération aux changements individuels et collectifs. Elle peut évidemment être un support pertinent pour entamer une variation individuelle de salaire.
+Dans le système de rémunération libre l’intérêt de l’évaluation annuelle évolue. Elle permet un système non figé dont la flexibilité facilite l’adaptation de la rémunération aux changements individuels et collectifs. Elle peut évidemment être un support pertinent pour entamer une variation individuelle de salaire.
 L’évaluation permet de :
 - prendre du recul sur l’année écoulée : faire un bilan connu du salarié, des collaborateurs, du management, etc. ;
 - mesurer : l’évolution de l’expérience, des compétences, l’adéquation entre la personne et son rôle dans l’entreprise, etc. ;
@@ -205,18 +210,18 @@ Travailler sur ces sources de motivations permet également d’attirer de nouve
 ### La pression sociale
 
 Dans un contexte où une place plus grande est laissée à la liberté individuelle, il est possible que des intérêts divergents apparaissent. C’est là que l’intérêt commun reprend toute son importance puisque ce dernier prendra le dessus. Ainsi si un salarié se voyait aller dans un sens qui semble contraire à l’intérêt collectif (demander à avoir une rémunération qui déstabilise l’équilibre de l’entreprise par exemple), il y aura un système de pression sociale de la part de l’ensemble qui verra alors que le meilleur moyen de préserver l’intérêt collectif est d’intervenir auprès du salarié en question.
-TODO: Protéger les plus faibles...
+
+Malheureusement ce mécanisme de régulation de groupe va défavoriser les personnes qui ont dû mal à valoriser leurs actions et qui risquent donc de se retrouver en situation de faiblesse par rapport au groupe.
+Les fonctions RH ou les syndicats peuvent limiter ces effets.
 
 
-### Raison d’être de l'entreprise
+### La cohésion de l'organisation
 
+TODO:
+- raison d'être
+- transparence
+- ligne de flottaison de gore ?
 
-
-
-
-
-
-### L'intérêt collectif:
 
 Pour que cette vision commune se construise sereinement, certains fondamentaux semblent nécessaires :
 
