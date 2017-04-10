@@ -15,6 +15,15 @@ categories:
   - organisation
 illustration:
   name: ginko-biloba
+thanks: |
+  Nous tenons à remercier chaleureusement les personnes qui nous ont accordé une denrée rare et même très rare, qu’est leur temps, pour relire ce document et nous permettre d’en faire la meilleure version possible que nous sommes en mesure de faire. Un grand merci à :
+
+  - Anne Dupérat : pour sa relecture attentive, ses remarques pertinentes et son encouragement à changer le monde.
+  - Céline : pour son pragmatisme et son oeil bienveillant et pragmatique.
+  - Claire Morin : pour avoir su trouver plusieurs risques de notre proposition pour certains salariés.
+  - Hélène et Patrick : pour leurs corrections du style et l’apport de clarifications.
+  - Michel Chaudy : l’auteur de l’ouvrage “Faire des hommes libres” qui avec sa connaissance de l’économie sociale et solidaire et sa connaissance des communautés de travail de Marcel Barbu a su nous challenger.
+  - Pierre Salanon : l’homme aux convictions qui a su nous donner un retour objectif et franc sur notre proposition tant sur le fond que la forme.
 ---
 
 TODO harmonisation du vocabulaire :
@@ -274,20 +283,6 @@ Pour que cette vision commune se construise sereinement, certains fondamentaux s
 17. Azaé, partage des risques avec le principe de variable volontaire, dans un contexte de travailleur non-salariés.
 
 18. Goood! comme inspiration de modalités de prises de recul et d’évolution du salarié.
-
-
-## Remerciements
-
-Nous tenons à remercier chaleureusement les personnes qui nous ont accordé une denrée rare et même très rare, qu’est leur temps, pour relire ce document et nous permettre d’en faire la meilleure version possible que nous sommes en mesure de faire. Un grand merci à :
-
-- Anne Dupérat : pour sa relecture attentive, ses remarques pertinentes et son encouragement à changer le monde.
-- Céline : pour son pragmatisme et son oeil bienveillant et pragmatique.
-- Claire Morin : pour avoir su trouver plusieurs risques de notre proposition pour certains salariés.
-- Hélène et Patrick Albiez : pour leurs corrections du style et l’apport de clarifications.
-- Michel Chaudy : l’auteur de l’ouvrage “Faire des hommes libres” qui avec sa connaissance de l’économie sociale et solidaire et sa connaissance des communautés de travail de Marcel Barbu a su nous challenger.
-- Pierre Salanon : l’homme aux convictions qui a su nous donner un retour objectif et franc sur notre proposition tant sur le fond que la forme.
-
-Nous avons pu compléter notre proposition grâce à vous. Merci.
 
 
 ---
