@@ -18,10 +18,12 @@ summary: |
   Through the book, and with the help of Herman, Carmen discovers and slowly adopts #NoEstimates which helps her turn that project around. Just like I expect it will help with the project you are in right now. The book also includes many concrete approaches you can use to adopt #NoEstimates, or just adopt those practices on their own.
 references:
   - name: "#NoEstimates Book"
+    icon: external-link
     url: http://noestimatesbook.com/
     description: |
       Le site du livre.
   - name: "The NoEstimates Movement by Ron Jeffries"
+    icon: external-link
     url: http://ronjeffries.com/xprog/articles/the-noestimates-movement/
     description: |
       Un article sur #NoEstimate.

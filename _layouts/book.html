@@ -65,7 +65,10 @@ layout: default
         <ul>
         {% for reference in page.references %}
           <li>
-            <a href="{{ reference.url }}">{{reference.name}}</a>
+            <a href="{{ reference.url }}">
+              {% if reference.icon %}<i class="fa fa-{{reference.icon}}"></i>{% endif %}
+              {{reference.name}}
+            </a>
             {{reference.description | markdownify}}
           </li>
         {% endfor %}
