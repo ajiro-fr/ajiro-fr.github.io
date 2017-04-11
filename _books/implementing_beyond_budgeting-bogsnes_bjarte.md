@@ -18,12 +18,12 @@ summary: |
 
   This new second edition has been significantly revised and expanded. It covers the amazing development of the Beyond Budgeting movement and how the Statoil implementation journey has continued since the first edition of this book was published in 2009, sustaining major events like for instance the 2015 oil price crash. A new chapter on “Beyond Budgeting and Agile” has also been added. New implementation experiences, great new case stories, new management innovation examples and management metaphors (traffic controls!) are introduced, as well as the author’s latest reflections on a range of management issues including target setting, forecasting, performance evaluation and incentives.
 references:
-  - name: Beyond Budgeting
+  - title: Beyond Budgeting
     icon: external-link
     url: http://bbrt.org/
     description: |
       Le site de référence sur le Beyond Budgeting.
-  - name: "Beyond Budgeting : Budgétisation et Agilité"
+  - title: "Beyond Budgeting : Budgétisation et Agilité"
     icon: external-link
     url: http://blog.soat.fr/2013/11/beyond-budgeting-budgetisation-et-agilite/
     description: |

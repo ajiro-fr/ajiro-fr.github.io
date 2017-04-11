@@ -67,7 +67,7 @@ layout: default
           <li>
             <a href="{{ reference.url }}">
               {% if reference.icon %}<i class="fa fa-{{reference.icon}}"></i>{% endif %}
-              {{reference.name}}
+              {{reference.title | markdown }}
             </a>
             {{reference.description | markdownify}}
           </li>
