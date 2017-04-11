@@ -20,9 +20,11 @@ sessions:
   - date: 2015-11-03
     name: Lean Kanban France 2015
     url: http://2015.leankanban.fr/
-links:
-  - name: Vidéo de la session sur InfoQ
+references:
+  - title: Vidéo de la session sur InfoQ
+    icon: youtube-play
     url: https://www.infoq.com/fr/presentations/lkfr-severin-legras-metrics-manifesto
-  - name: Slides sur SlideShare
+  - title: Slides sur SlideShare
+    icon: slideshare
     url: http://www.slideshare.net/SverinLegras/lkfr2015-metrics-manifesto
 ---
