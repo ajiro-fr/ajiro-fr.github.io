@@ -235,6 +235,10 @@ body {
   display:         flex;
 }
 
+.article-thanks {
+  font-size: 1rem;
+}
+
 .article-list__calendar {
   font-size: 1rem;
 }
