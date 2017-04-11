@@ -43,39 +43,11 @@ layout: default
     </div>
   </div>
 
-  {% capture links %}
-    {% for article in site.categories.articles %}
-      {% unless article.hidden %}
-        {% if article.content contains page.url %}
-          <li>
-            <a href="{{ article.url }}">
-              <i class="fa fa-file-text-o"></i>
-              {{ article.title }}
-            </a>
-          </li>
-        {% endif %}
-      {% endunless %}
-    {% endfor %}
-
-    {% for reference in page.references %}
-      <li>
-        <a href="{{ reference.url }}">
-          {% if reference.icon %}<i class="fa fa-{{reference.icon}}"></i>{% endif %}
-          {{reference.title | markdown }}
-        </a>
-        {{reference.description | markdownify}}
-      </li>
-    {% endfor %}
-  {% endcapture %}
-
-  {% if links != "" %}
-    <div class="row">
-      <div class="offset-md-2 col-md-8 col-xs-12">
-        <h2>Références</h2>
-        <ul>{{links}}</ul>
-      </div>
+  <div class="row">
+    <div class="offset-md-2 col-md-8 col-xs-12">
+      {% include components/references.html %}
     </div>
-  {% endif %}
+  </div>
 
   {% if page.comments %}
   <div class="row">

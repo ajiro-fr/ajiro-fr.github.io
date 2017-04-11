@@ -1,0 +1,31 @@
+{% capture links %}
+  {% for article in site.categories.articles %}
+    {% unless article.hidden %}
+      {% if article.content contains page.url %}
+        <li>
+          <a href="{{ article.url }}">
+            <i class="fa fa-file-text-o"></i>
+            {{ article.title }}
+          </a>
+        </li>
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+
+  {% for reference in page.references %}
+    <li>
+      <a href="{{ reference.url }}">
+        {% if reference.icon %}<i class="fa fa-{{reference.icon}}"></i>{% endif %}
+        {{reference.title | markdown }}
+      </a>
+      {{reference.description | markdownify}}
+    </li>
+  {% endfor %}
+{% endcapture %}
+
+{% assign has_links = links | strip_newlines  | strip %}
+
+{% if has_links != "" %}
+  <h2>References</h2>
+  <ul>{{links}}</ul>
+{% endif %}
