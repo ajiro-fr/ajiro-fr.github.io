@@ -43,40 +43,35 @@ layout: default
     </div>
   </div>
 
-  <div class="row">
-    <div class="offset-md-2 col-md-8 col-xs-12">
-      <h2>Liens</h2>
-      <ul>
-        {% for article in site.categories.articles %}
-        {% unless article.hidden %}
-        {% if article.content contains page.url %}
-          <li><a href="{{ article.url }}">{{ article.title }}</a></li>
-        {% endif %}
-        {% endunless %}
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
+  {% capture links %}
+  {% for article in site.categories.articles %}
+  {% unless article.hidden %}
+  {% if article.content contains page.url %}
+    <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+  {% endif %}
+  {% endunless %}
+  {% endfor %}
+  {% endcapture %}
 
-  {% if page.references.size > 0 %}
+  {% if page.references.size > 0 or links != "" %}
     <div class="row">
       <div class="offset-md-2 col-md-8 col-xs-12">
         <h2>Références</h2>
         <ul>
-        {% for reference in page.references %}
-          <li>
-            <a href="{{ reference.url }}">
-              {% if reference.icon %}<i class="fa fa-{{reference.icon}}"></i>{% endif %}
-              {{reference.title | markdown }}
-            </a>
-            {{reference.description | markdownify}}
-          </li>
-        {% endfor %}
+          {{links}}
+          {% for reference in page.references %}
+            <li>
+              <a href="{{ reference.url }}">
+                {% if reference.icon %}<i class="fa fa-{{reference.icon}}"></i>{% endif %}
+                {{reference.title | markdown }}
+              </a>
+              {{reference.description | markdownify}}
+            </li>
+          {% endfor %}
         </ul>
       </div>
     </div>
   {% endif %}
-
 
   {% if page.comments %}
   <div class="row">
