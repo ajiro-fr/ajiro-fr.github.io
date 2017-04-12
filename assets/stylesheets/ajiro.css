@@ -158,6 +158,19 @@ body {
   color: inherit;
 }
 
+#home--values {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: #3D7890;
+  color: #ffffff;
+}
+
+#home--values h1,
+#home--values h2,
+#home--values h3 {
+  color: #fff;
+}
+
 .value-icon {
   font-size: 60px;
 }
@@ -170,14 +183,29 @@ body {
   list-style-type: none;
 }
 
+.home__rdv-libelle {
+  padding-left: 10px;
+}
+
+.home__rdv-detail {
+  display : flex; 
+  flex-direction: row;
+  align-items: center;
+}
+
+.bg-orange {
+  background-color: #c47401;
+}
+
+.bg-green {
+  background-color: #1e7c66;
+}
 
 .organisation-logo {
+
   display: inline-block;
-
   margin: 2px;
-
   text-align: center;
-
   border: 1px solid white;
   border-radius: 6px;
   background-color: white;
@@ -262,3 +290,4 @@ body {
 .talk-illustration {
   width: 100%;
 }
+
