@@ -88,4 +88,4 @@ Pour la direction, elle verra une accélération des prises de décision, de l'a
 [Reinventing Organisations]: /books/reinventing_organisations-laloux_frederic.html
 [l’escalade d’engagement]: https://en.wikipedia.org/wiki/Escalation_of_commitment
 [signaux faibles]: https://fr.wikipedia.org/wiki/Signaux_faibles
-[Management selon Shiba]: /books/management_selon_shiba.html
+[Management selon Shiba]: /books/management_selon_shiba-shiba_shoji.html
