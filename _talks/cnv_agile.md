@@ -10,9 +10,14 @@ tags:
   - communication
   - concept
 illustration:
-  name: illustration
+  name: communication
+  url: https://www.flickr.com/photos/uncoolbob/15322582642
 abstract: |
-  Résumé
+  La Communication Non Violente (ou Communication Bienveillante) au service de l'agilité. Lors de cette conférence, accessible à tous, nous vous proposons de voir ensemble comment la CNV peut venir enrichir l'agilité, comment elle participe à l'éclaircissement de la pensée, ainsi qu'à la fluidification et l'enrichissement des relations.
+  Durant cette présentation nous répondrons notamment aux questions suivantes: Quel lien entre la CNV et l'Agilité ? Comment utiliser le processus CNV dans le travail de tous les jours ? De quel façon la CNV permettra de révéler le leadership et l'autonomie de chacun ?
+
+  En sortant de cette session, les scrums master animerons différemment les rituels, PO et membres d'équipes auront de nouveaux outils pour mieux communiquer entre eux. L'ensemble des participants devraient également avoir envie d'approfondir la CNV. Enfin, cette session devrait offrir aux participants une nouvelle grille de lecture des interactions communicationnelles.
+
 ---
 
 # Titre
