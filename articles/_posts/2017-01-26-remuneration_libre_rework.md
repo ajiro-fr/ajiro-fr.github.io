@@ -268,7 +268,7 @@ Pour que cette vision commune se construise sereinement, certains fondamentaux s
 
 9. [FoodCoop et sa commission de discipline](https://foodcooplefilm.com/)
 
-10. Peter Senge, _La cinquième discipline_, 2015, ISBN: 978-2212559378.
+10. [Peter Senge, _La cinquième discipline_](/books/cinquieme_discipline-senge_peter.html)
 
 11. Isaac Getz, Brian Carney, _Liberté & cie : Quand la liberté des salariés fait le succès des entreprises_, 2016, ISBN: 978-2081379510.
 
