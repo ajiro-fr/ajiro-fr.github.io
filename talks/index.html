@@ -25,6 +25,9 @@ description: |
             <a href="{{ item.url }}">
               <h4 class="card-title">{{ item.title }}</h4>
             </a>
+            {% if item.in_progress %}
+              <p class="text-muted"><small><i class="fa fa-wrench"></i> En préparation</small></p>
+            {% endif %}
           </div>
         </div>
     </div>

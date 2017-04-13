@@ -25,6 +25,10 @@ layout: default
           <i class='fa fa-clock-o'></i> {{ page.duration }}
           &nbsp;—&nbsp;
           <i class='fa fa-cog'></i> {{ page.type }}
+          {% if page.in_progress %}
+          &nbsp;—&nbsp;
+          <span class="text-muted"><i class="fa fa-wrench"></i> En préparation</span>
+          {% endif %}
         </div>
       </small>
     </div>
