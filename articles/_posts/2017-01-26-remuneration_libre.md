@@ -539,37 +539,35 @@ D’autre part, nous pensons qu’il faut être vigilant et accompagner de faço
 
 2. Jean-François Draperi, [_Godin, inventeur de l'économie sociale_](http://editionsrepas.free.fr/editions-repas-livre-godin.html), 2008, réédition 2014, ISBN : 2-9520180-4-9.
 
-3. Daniel Pink, *La vérité sur ce qui nous motive*, 2016, ISBN: 978-2081379527.
+3. [Daniel Pink, _La vérité sur ce qui nous motive_](/books/verite_sur_ce_qui_nous_motive-pink_daniel.html)
 
-4. Daniel Pink, [_The surprising truth about what motivates us_](https://www.youtube.com/watch?v=u6XAPnuFjJc).
+4. [Gravity payments](https://gravitypayments.com), salaire unique à 70k\$.
 
-5. [Gravity payments](https://gravitypayments.com), salaire unique à 70k\$.
+5. [La ligne de flottaison de Gore](http://www.oser-entreprendre.fr/rencontre-avec-w-l-gore-associe-frederic-amariutei/)
 
-6. [La ligne de flottaison de Gore](http://www.oser-entreprendre.fr/rencontre-avec-w-l-gore-associe-frederic-amariutei/)
+6. Robert Sutton, _Objectif zéro sale con_, 2012, ISBN: 978-2266225755.
 
-7. Robert Sutton, _Objectif zéro sale con_, 2012, ISBN: 978-2266225755.
+7. [La politique salariale de Buffer](https://buffer.com/salary) et notamment sa transparence.
 
-8. [La politique salariale de Buffer](https://buffer.com/salary) et notamment sa transparence.
+8. Jurgen Apello, [_Holacracy, Sociocracy, Wirearchy, Crowdocracy, whateverocracy..._](https://www.youtube.com/watch?v=VqujZnZWTbE).
 
-9. Jurgen Apello, [_Holacracy, Sociocracy, Wirearchy, Crowdocracy, whateverocracy..._](https://www.youtube.com/watch?v=VqujZnZWTbE).
+9. [FoodCoop et sa commission de discipline](https://foodcooplefilm.com/)
 
-10. [FoodCoop et sa commission de discipline](https://foodcooplefilm.com/)
+10. Peter Senge, _La cinquième discipline_, 2015, ISBN: 978-2212559378.
 
-11. Peter Senge, _La cinquième discipline_, 2015, ISBN: 978-2212559378.
+11. Isaac Getz, Brian Carney, _Liberté & cie : Quand la liberté des salariés fait le succès des entreprises_, 2016, ISBN: 978-2081379510.
 
-12. Isaac Getz, Brian Carney, _Liberté & cie : Quand la liberté des salariés fait le succès des entreprises_, 2016, ISBN: 978-2081379510.
+12. [Frédéric Laloux, _Reinventing organizations_](/books/reinventing_organisations-laloux_frederic.html)
 
-13. Frédéric Laloux, _Reinventing organizations : Vers des communautés de travail inspirées_, 2015, ISBN: 978-2354561055.
+13. Jean François Zobrist, _La belle histoire de Favi : l'entreprise qui croit que l'homme est bon Tome 1 Nos belles histoires_, 2014, ISBN: 978-2917587003.
 
-14. Jean François Zobrist, _La belle histoire de Favi : l'entreprise qui croit que l'homme est bon Tome 1 Nos belles histoires_, 2014, ISBN: 978-2917587003.
+14. Jean François Zobrist, _La belle histoire de Favi : l'entreprise qui croit que l'homme est bon Tome 2 Notre management et nos outils_, 2014, ISBN: 978-2917587010
 
-15. Jean François Zobrist, _La belle histoire de Favi : l'entreprise qui croit que l'homme est bon Tome 2 Notre management et nos outils_, 2014, ISBN: 978-2917587010
+15. [Shoji Shiba, _Le management selon Shiba_](/books/management_selon_shiba-shiba_shoji.html)
 
-16. Shoji Shiba, _Le management selon Shiba : Capter les signaux du changement pour une performance durable_, 2007, ISBN: 978-2212538434.
+16. Azaé, partage des risques avec le principe de variable volontaire, dans un contexte de travailleur non-salariés.
 
-17. Azaé, partage des risques avec le principe de variable volontaire, dans un contexte de travailleur non-salariés.
-
-18. Goood! comme inspiration de modalités de prises de recul et d’évolution du salarié.
+17. Goood! comme inspiration de modalités de prises de recul et d’évolution du salarié.
 
 
 ## Remerciements
