@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "La cnv au service de l'agilité"
+title: "La CNV au service de l'agilité"
 duration: 1H
 type: Présentation
 authors:
@@ -27,12 +27,10 @@ _Max 1000 caractères, qui répondent clairement aux questions suivantes :
 * Quelles sont les connaissances préalables nécessaires ? 
 * Que retireront les participants de cette session ?_
 
-* Scrum master, coach, PO, membre d'équipes agiles
-* Avoir quelques bases en agilité, comme connaitre les noms des rituelles
-* En sortant de cette session, les participants devraient avoir envie d'approfondir la CNV pour mieux communiquer entre eux, mieux communiquer avec le PO, animer différemment les rétrospectives, etc. Cette session devrait également offrir aux participants une nouvelle grille de lecture des interactions communicationnelles
-
 La Communication Non Violente (ou Communication Bienveillante) au service de l'agilité. Lors de cette conférence, nous vous proposons de voir ensemble comment la CNV peut venir enrichir l'agilité, comment elle participe à l'éclaircissement de la pensée, ainsi qu'à la fluidification et l'enrichissement des relations.
-Durant cette heure de présentation nous tenterons notamment de répondre aux questions suivantes: Qu'est ce que la CNV? Quel lien avec l'Agilité? Et enfin: Comment l'utiliser pour améliorer le travail d'équipe?
+Durant cette heure de présentation nous tenterons notamment de répondre aux questions suivantes: Qu'est ce que la CNV? Quel lien avec l'Agilité ? Et enfin: Comment l'utiliser pour améliorer le travail d'équipe ?
+
+En sortant de cette session, les scrums master aurons envie d'animer différemment les différents rituels, PO et membres d'équipes auront de nouvelles billes pour mieux communiquer entre eux. Enfin, l'ensemble des participants devraient avoir envie d'approfondir la CNV. Cette session devrait également offrir aux participants une nouvelle grille de lecture des interactions communicationnelles.
 
 # Pertinence pour AgileFrance
 _En quoi cette session fait-elle avancer la communauté agile francophone ? Cette session est-elle innovante ou inhabituelle par son sujet ou son format ? Cette réponse est uniquement dédiée aux comité d'organisation._
