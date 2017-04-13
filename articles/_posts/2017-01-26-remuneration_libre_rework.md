@@ -27,11 +27,12 @@ thanks: |
 ---
 
 TODO harmonisation du vocabulaire :
-    - utiliser le terme organisation, plutôt que entreprise
-    - rémunération plutôt que salaire
-    - acteur plutôt que salarié
+    - utiliser le terme entreprise plutôt que organisation
+    - salarié plutôt que acteur / intervenant
+    - rémunération plutôt que salaire ok
 
-Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés.
+
+Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les acteurs de l'organisation.
 
 
 ## Nos objectifs d'une rémunération libre
@@ -41,52 +42,52 @@ Voici une formalisation d'un modèle de rémunération basé sur une rémunérat
 La rémunération sert avant tout à la répartition des risques et des richesses créées par l’entreprise. Nous avons opté pour une répartition juste, plutôt qu'égalitaire, pour les deux raisons suivantes.
 
 - D’abord parce que chacun a des envies, besoins différents, ainsi un salarié peut tout à fait de lui-même avoir envie de s’investir beaucoup ou non, ainsi cela permet de différencier les contributions que chacun souhaite apporter.
-- Ensuite le système juste permet le système égalitaire (il est possible de choisir que chacun ait le même salaire), alors que l’inverse n’est pas vrai.
+- Ensuite le système juste permet le système égalitaire (il est possible de choisir que chacun ait la même rémunération), alors que l’inverse n’est pas vrai.
 
 Un système de rémunération libre doit être construit, compris et accepté par tous les acteurs de l'entreprise.
 
 D'abord par la capacité de chacun de se positionner à l’intérieur de ce système.
 Ensuite, tous les acteurs de l'entreprise doivent comprendre les enjeux de l’entreprise, donc la transparence (y compris financière) de l’entreprise sera un point important.
-Enfin par la mise en place de règles communes (système de rémunération, grille de salaire, mode d’évaluation).
+Enfin par la mise en place de règles communes (système de rémunération, grille de rémunération, mode d’évaluation).
 
 
 ## Description de la rémunération libre
 
 Le système de rémunération libre proposé ici s’appuie sur 3 composantes :
-1. Le salaire fixe
+1. La rémunération fixe
 2. La part variable
 3. La redistribution des bénéfices
 
 
-### Le salaire fixe
+### La rémunération fixe
 
-Le salaire fixe est défini par chaque salarié.
-Il se base sur une grille de salaire définie de manière commune par l’ensemble des salariés, en fonction des contraintes financières de l’entreprise et de leur vision de la rémunération.
+La rémunération fixe est défini par chaque salarié.
+Il se base sur une grille de rémunérations définie de manière commune par l’ensemble des salariés, en fonction des contraintes financières de l’entreprise et de leur vision de la rémunération.
 La rémunération globale doit être :
 - Cohérente avec le marché du travail
 - Compatible avec les besoins de trésorerie et d’investissement de l’entreprise
 - Compatible avec les besoins du salarié pour vivre sans se poser de question
-Ci-dessous une proposition de grille de salaires à modifier par l’ensemble des salariés :
+Ci-dessous une proposition de grille de rémunérations à modifier par l’ensemble des salariés :
 
 {: .table}
-|  Niveau  |  Salaire   |  Niveau  |  Salaire   |
+|  Niveau  |  Rémunération   |  Niveau  |  Rémunération   |
 |:--------:|:----------:|:--------:|:----------:|
 | A        | 2500-2600  | E        | 4500-4600  |
 | B        | 3000-3100  | F        | 5000-5100  |
 | C        | 3500-3600  | G        | 6000-6100  |
 | D        | 4000-4100  | H        | 7000-7100  |
 
-La grille de salaire peut-être étayées d’exemples permettant d’expliciter la vision commune de ce à quoi correspondent les différents niveaux de salaire (niveau d’expertise, de complexité, de pénibilité etc.).
-Cela permet de vérifier par des exemples concrets que l’ensemble des salariés partage bien une même réalité de chaque niveau de salaire. Ensuite cela sera une aide pour que chacun puisse se situer plus facilement dans la grille de salaire et choisir un niveau qu’il estime juste pour lui et pour l’entreprise.
-Enfin, toujours dans la même dynamique, la grille de salaire, ainsi que le positionnement de chaque salarié dans cette grille doit répondre au principe de transparence.
+La grille de rémunération peut-être étayées d’exemples permettant d’expliciter la vision commune de ce à quoi correspondent les différents niveaux de rémunération (niveau d’expertise, de complexité, de pénibilité etc.).
+Cela permet de vérifier par des exemples concrets que l’ensemble des salariés partage bien une même réalité de chaque niveau de rémunération. Ensuite cela sera une aide pour que chacun puisse se situer plus facilement dans la grille de rémunération et choisir un niveau qu’il estime juste pour lui et pour l’entreprise.
+Enfin, toujours dans la même dynamique, la grille de rémunération, ainsi que le positionnement de chaque salarié dans cette grille doit répondre au principe de transparence.
 
 
 ### La part variable
 
-Le salarié peut choisir de rendre variable une partie de son salaire fixe. Cette part variable est choisie par le salarié en même temps que le choix du salaire fixe.
+Le salarié peut choisir de rendre variable une partie de sa rémunération fixe. Cette part variable est choisie par le salarié en même temps que le choix de la rémunération fixe.
 Cela démontre une volonté individuelle d’investir dans l’entreprise, permettant ainsi à celle-ci de disposer de plus de liquidités.
-Concrètement le salaire variable sera versé au salarié à la clôture des comptes, si le bilan comptable de l’entreprise le permet.
-Lors de la redistribution des bénéfices en fin d’exercice, les personnes qui ont fait le choix de cette prise de risque sont “remboursées” en priorité ; ce “prêt” à l’entreprise est bonifié par un coefficient multiplicateur défini par l’ensemble des salariés. Dans le cas où les bénéfices de l’entreprise ne permettent pas de couvrir les variables volontaires bonifiées, une répartition sera faite au prorata de la part de salaire “prêtée” par le salarié à l’entreprise.
+Concrètement la part variable sera versée au salarié à la clôture des comptes, si le bilan comptable de l’entreprise le permet.
+Lors de la redistribution des bénéfices en fin d’exercice, les personnes qui ont fait le choix de cette prise de risque sont “remboursées” en priorité ; ce “prêt” à l’entreprise est bonifié par un coefficient multiplicateur défini par l’ensemble des salariés. Dans le cas où les bénéfices de l’entreprise ne permettent pas de couvrir les variables volontaires bonifiées, une répartition sera faite au prorata de la part de rémunération“prêtée” par le salarié à l’entreprise.
 
 
 ### La redistribution des bénéfices
@@ -107,17 +108,17 @@ Ci-après le mécanisme global présenté via un exemple fictif.
     name='choix_salaires'
 %}
 
-Léo, Léa et Léonie ont tous les 3 choisi leur salaire dans la grille. Léon arrive en cours d’année (juillet) son salaire est négocié dans la grille.
+Léo, Léa et Léonie ont tous les 3 choisi leur rémunération dans la grille. Léon arrive en cours d’année (juillet) sa rémunération est négociée dans la grille.
 
 {% include img.html
     name='choix_part_fixe'
 %}
 
-Léo a choisi de ne recevoir tous les mois que 60% de son salaire en salaire fixe.
+Léo a choisi de ne recevoir tous les mois que 60% de sa rémunération en rémunération fixe.
 
-Léa a un plus grand besoin de liquidité dans son couple, elle vient d’avoir un bébé. Elle a donc choisi de prendre 80% de son salaire en salaire fixe.
+Léa a un plus grand besoin de liquidité dans son couple, elle vient d’avoir un bébé. Elle a donc choisi de prendre 80% de sa rémunération en rémunération fixe.
 
-Léonie a fait le choix de ne recevoir que 50% de son salaire en salaire fixe.
+Léonie a fait le choix de ne recevoir que 50% de sa rémunération en rémunération fixe.
 
 Ils laissent le reste dans l’entreprise pour en partager les risques.
 
@@ -177,21 +178,22 @@ Il y aurait ensuite une période d'observation d'une durée à définir (1 an pa
 Le cas échéant, le nouveau salarié touche également la redistribution des bénéfices au prorata temporis.
 
 
+
 ### L'évaluation annuelle
 
-Dans le système de rémunération libre l’intérêt de l’évaluation annuelle évolue. Elle permet un système non figé dont la flexibilité facilite l’adaptation de la rémunération aux changements individuels et collectifs. Elle peut évidemment être un support pertinent pour entamer une variation individuelle de salaire.
+Dans le système de rémunération libre l’intérêt de l’évaluation annuelle évolue. Elle permet un système non figé dont la flexibilité facilite l’adaptation de la rémunération aux changements individuels et collectifs. Elle peut évidemment être un support pertinent pour entamer une variation individuelle de rémunération.
 L’évaluation permet de :
 - prendre du recul sur l’année écoulée : faire un bilan connu du salarié, des collaborateurs, du management, etc. ;
 - mesurer : l’évolution de l’expérience, des compétences, l’adéquation entre la personne et son rôle dans l’entreprise, etc. ;
 - planifier : définir les évolutions dans l’entreprise et les formations ou autres moyens d’accompagnement de cette évolution ;
 - fixer les objectifs individuels pour l’année à venir.
-Ici encore, c’est à l’équipe de décider des modalités d’évaluation préconisées. L’évaluation est-elle obligatoire ou conseillée, pour tous ou que pour ceux qui souhaitent aller vers une variation de salaire, est-elle individuelle ou collective, accompagnée ou non ? C’est à l’ensemble des salariés de prendre une décision commune pour que les modalités correspondent à leur vision commune de la rémunération libre.
+Ici encore, c’est à l’équipe de décider des modalités d’évaluation préconisées. L’évaluation est-elle obligatoire ou conseillée, pour tous ou que pour ceux qui souhaitent aller vers une variation de rémunération, est-elle individuelle ou collective, accompagnée ou non ? C’est à l’ensemble des salariés de prendre une décision commune pour que les modalités correspondent à leur vision commune de la rémunération libre.
 
 
 ### Les RH et le management
 
 Dans un système de rémunération libre, les attentes des salariés par rapport aux fonctions managériales et aux fonctions support seront différentes de celles qui existent aujourd’hui. Le salarié reprenant le pouvoir de décision et étant prêt à partager les risques et bénéfices de l’entreprise, ce qu’il va attendre de ces entités sera essentiellement :
-- de la transparence et de la pédagogie (explication de la grille, du mode de fonctionnement, de l’adéquation salaire/personne, etc.) ;
+- de la transparence et de la pédagogie (explication de la grille, du mode de fonctionnement, de l’adéquation rémunération/personne, etc.) ;
 - de l’accompagnement dans la réflexion et le choix pour le bien du salarié et de l’entreprise (définition de dispositifs de prise de recul, aide dans le choix des évolutions de carrière possibles, dans les choix d’outils de progression, échange sur les envies, mise en perspective, etc.).
 Ainsi, la direction et les RH dans ce mode de fonctionnement basculent vers un rôle d’animation des valeurs et de la vision pour garantir la cohésion du groupe, afin que les décisions individuelles soient cohérentes pour l’organisation.
 Les RH permettent d’accompagner le salarié dans sa prise de décision, tout en se gardant de prendre la décision à sa place, il a un rôle de facilitateur.
