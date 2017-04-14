@@ -16,5 +16,3 @@ references:
     url: http://editionsrepas.free.fr/editions-repas-livre-boimondau.html
     description: Description du livre sur le site de l'éditeur.
 ---
-
-,
