@@ -250,7 +250,7 @@ Pour que cette vision commune se construise sereinement, certains fondamentaux s
 
 ## Nos sources d’inspiration
 
-1. Michel Chaudy, [_Faire des hommes libres : Boimondau et les Communautés de Travail à Valence_](http://editionsrepas.free.fr/editions-repas-livre-boimondau.html), 2008, ISBN : 2-9520180-5-7.
+1. [Michel Chaudy, _Faire des hommes libres](/books/faire_des_hommes_libres-chaudy_michel.html)
 
 2. Jean-François Draperi, [_Godin, inventeur de l'économie sociale_](http://editionsrepas.free.fr/editions-repas-livre-godin.html), 2008, réédition 2014, ISBN : 2-9520180-4-9.
 
