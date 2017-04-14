@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Objectif zéro sale con
+title: Objectif zéro-sale-con
 authors:
 -  SUTTON, Robert
 publisher: Pocket, Coll. « Pocket Evolution »
