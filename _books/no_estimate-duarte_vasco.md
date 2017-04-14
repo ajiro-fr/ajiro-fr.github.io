@@ -5,7 +5,6 @@ authors:
 - DUARTE, Vasco
 publisher: Oikosofy Series
 year: 2016
-cover: no_estimate-duarte_vasco.jpg
 summary: |
   *How to always be on time, and not risk missing important deadlines or go over budget*
 

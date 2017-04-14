@@ -15,9 +15,7 @@ description: |
   <div class='row mt-1'>
     <div class='col-md-1 col-xs-2'>
       <a href="{{ item.url }}">
-        {% if item.cover %}
-          <img class="book-cover" alt="{{ item.title }}" src="/assets/books/{{item.cover}}" />
-        {% endif %}
+        <img class="book-cover" alt="{{ item.title }} cover" src="/assets/{{item.id}}.jpg" />
       </a>
     </div>
     <div class='col-md-11 col-xs-10'>

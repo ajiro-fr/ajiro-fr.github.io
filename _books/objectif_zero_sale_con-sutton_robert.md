@@ -6,7 +6,6 @@ authors:
 publisher: Pocket, Coll. « Pocket Evolution »
 year: 2012
 isbn: "978-2266225755"
-cover: objectif_zero_sale_con-sutton_robert.jpg
 summary: |
   **Robert SUTTON** est professeur de management à la Stanford Engineering School. Il est l'auteur de Faits et foutaises dans le management,écrit avec Jeffrey Pfeffer (2007), Objectif Zéro-sale-con (2007, 2010) et Petit chef ou vrai patron ? (2010).
 

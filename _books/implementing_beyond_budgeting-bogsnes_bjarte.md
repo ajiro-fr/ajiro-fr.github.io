@@ -8,7 +8,6 @@ address:
 edition: 2e édition
 year: 2016
 isbn: 978-1-119-15247-7
-cover: implementing_beyond_budgeting-bogsnes_bjarte.jpg
 summary: |
   **The future of management is here!**
 

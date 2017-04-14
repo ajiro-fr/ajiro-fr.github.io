@@ -6,7 +6,6 @@ authors:
 publisher: Les Belles Lettres
 year: 2013
 isbn: "978-2251444765"
-cover: antifragile-nassim_nicholas_taleb.jpg
 summary: |
   __Le hasard nous rend meilleurs__
 

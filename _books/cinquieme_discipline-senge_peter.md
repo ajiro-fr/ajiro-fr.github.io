@@ -6,7 +6,6 @@ authors:
 publisher: Eyrolles
 year: 2015
 isbn: "978-2212559378"
-cover: cinquieme_discipline-senge_peter.jpg
 summary: |
   Nouvelle édition d'un classique du management dans lequel Peter Senge, professeur au MIT, développe l'idée suivante : pour toute organisation, l'avantage concurrentiel durable se trouve dans la capacité à apprendre plus vite que la concurrence. Cela passe par la maîtrise de cinq disciplines complémentaires :
 
