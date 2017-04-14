@@ -250,7 +250,7 @@ Pour que cette vision commune se construise sereinement, certains fondamentaux s
 
 ## Nos sources d’inspiration
 
-1. [Michel Chaudy, _Faire des hommes libres](/books/faire_des_hommes_libres-chaudy_michel.html).
+1. [Michel Chaudy, _Faire des hommes libres_](/books/faire_des_hommes_libres-chaudy_michel.html).
 
 2. [Jean-François Draperi, _Godin, inventeur de l'économie sociale_](/books/godin_inventeur_de_l_economie_sociale-draperi_jean_francois.html).
 
@@ -270,7 +270,7 @@ Pour que cette vision commune se construise sereinement, certains fondamentaux s
 
 10. [Peter Senge, _La cinquième discipline_](/books/cinquieme_discipline-senge_peter.html).
 
-11. Isaac Getz, Brian Carney, _Liberté & cie : Quand la liberté des salariés fait le succès des entreprises_, 2016, ISBN: 978-2081379510.
+11. [Isaac Getz, Brian Carney, _Liberté & cie_](/books/liberte_cie-getz_isaac.html).
 
 12. [Frédéric Laloux, _Reinventing organizations_](/books/reinventing_organisations-laloux_frederic.html).
 
