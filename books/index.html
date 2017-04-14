@@ -11,16 +11,19 @@ description: |
   </div>
 </div>
 
-<div class='row mt-3'>
-  {% for item in site.books %}
-    <div class='col-md-3 col-xs-12'>
+{% for item in site.books %}
+  <div class='row mt-1'>
+    <div class='col-md-1 col-xs-2'>
       <a href="{{ item.url }}">
-        <div class="card">
-          {% if item.cover %}
-            <img class="card-img-top book-cover" alt="{{ item.title }}" src="/assets/books/{{item.cover}}" />
-          {% endif %}
-        </div>
+        {% if item.cover %}
+          <img class="book-cover" alt="{{ item.title }}" src="/assets/books/{{item.cover}}" />
+        {% endif %}
       </a>
     </div>
-  {% endfor %}
-</div>
+    <div class='col-md-11 col-xs-10'>
+      <a href="{{ item.url }}">
+        <h2>{{ item.title }} {% if item.authors %}<br/><small>{{ item.authors | join: ', ' }}</small>{% endif %}</h2>
+      </a>
+    </div>
+  </div>
+{% endfor %}

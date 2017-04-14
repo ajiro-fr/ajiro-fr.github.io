@@ -188,7 +188,7 @@ body {
 }
 
 .home__rdv-detail {
-  display : flex; 
+  display : flex;
   flex-direction: row;
   align-items: center;
 }
@@ -290,4 +290,3 @@ body {
 .talk-illustration {
   width: 100%;
 }
-
