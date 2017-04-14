@@ -260,7 +260,7 @@ Pour que cette vision commune se construise sereinement, certains fondamentaux s
 
 5. [La ligne de flottaison de Gore](http://www.oser-entreprendre.fr/rencontre-avec-w-l-gore-associe-frederic-amariutei/).
 
-6. Robert Sutton, _Objectif zéro sale con_, 2012, ISBN: 978-2266225755.
+6. [Robert Sutton, _Objectif zéro sale con_](/books/objectif_zero_sale_con-sutton_robert.html).
 
 7. [La politique salariale de Buffer](https://buffer.com/salary) et notamment sa transparence.
 
