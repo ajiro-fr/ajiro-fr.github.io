@@ -274,9 +274,9 @@ Pour que cette vision commune se construise sereinement, certains fondamentaux s
 
 12. [Frédéric Laloux, _Reinventing organizations_](/books/reinventing_organisations-laloux_frederic.html).
 
-13. Jean François Zobrist, _La belle histoire de Favi : l'entreprise qui croit que l'homme est bon Tome 1 Nos belles histoires_, 2014, ISBN: 978-2917587003.
+13. [Jean François Zobrist, _La belle histoire de Favi : Nos belles histoires_](/books/belle_histoire_de_favi_1-zobrist_jean_francois.html).
 
-14. Jean François Zobrist, _La belle histoire de Favi : l'entreprise qui croit que l'homme est bon Tome 2 Notre management et nos outils_, 2014, ISBN: 978-2917587010.
+14. [Jean François Zobrist, _La belle histoire de Favi : Tome 2 Notre management et nos outils_](/books/belle_histoire_de_favi_2-zobrist_jean_francois.html).
 
 15. [Shoji Shiba, _Le management selon Shiba_](/books/management_selon_shiba-shiba_shoji.html).
 
