@@ -1,7 +1,7 @@
 ---
 title: "Créativité et convergence thinking : Séparer le bon grain de l'ivraie"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
