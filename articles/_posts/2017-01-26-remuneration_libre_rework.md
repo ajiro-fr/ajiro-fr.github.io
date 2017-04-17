@@ -26,13 +26,7 @@ thanks: |
   - Pierre Salanon : l’homme aux convictions qui a su nous donner un retour objectif et franc sur notre proposition tant sur le fond que la forme.
 ---
 
-TODO harmonisation du vocabulaire :
-    - utiliser le terme entreprise plutôt que organisation
-    - salarié plutôt que acteur / intervenant
-    - rémunération plutôt que salaire ok
-
-
-Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les acteurs de l'entreprise.
+Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés de l'entreprise.
 
 
 ## Nos objectifs d'une rémunération libre
@@ -44,10 +38,10 @@ La rémunération sert avant tout à la répartition des risques et des richesse
 - D’abord parce que chacun a des envies, besoins différents, ainsi un salarié peut tout à fait de lui-même avoir envie de s’investir beaucoup ou non, ainsi cela permet de différencier les contributions que chacun souhaite apporter.
 - Ensuite le système juste permet le système égalitaire (il est possible de choisir que chacun ait la même rémunération), alors que l’inverse n’est pas vrai.
 
-Un système de rémunération libre doit être construit, compris et accepté par tous les acteurs de l'entreprise.
+Un système de rémunération libre doit être construit, compris et accepté par tous les salariés de l'entreprise.
 
 D'abord par la capacité de chacun de se positionner à l’intérieur de ce système.
-Ensuite, tous les acteurs de l'entreprise doivent comprendre les enjeux de l’entreprise, donc la transparence (y compris financière) de l’entreprise sera un point important.
+Ensuite, tous les salariés de l'entreprise doivent comprendre les enjeux de l’entreprise, donc la transparence (y compris financière) de l’entreprise sera un point important.
 Enfin par la mise en place de règles communes (système de rémunération, grille de rémunération, mode d’évaluation).
 
 
@@ -160,7 +154,7 @@ Que ce soit un salarié ou un actionnaire qui souhaite changer sa rémunération
 Les modalité de ces variations sont à décider ensemble.
 
 Par exemple :
-- modifier la grille pour tous les acteurs ;
+- modifier la grille pour tous les salariés ;
 - un salarié de revoir à la hausse ou à la baisse sa rémunération, de revoir la répartition fixe variable ;
 - limiter les modifications de rémunération dans l'année (date d'anniversaire d'embauche, tous les mois, date commune pour tous, ...)
 
