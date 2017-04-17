@@ -32,7 +32,7 @@ TODO harmonisation du vocabulaire :
     - rémunération plutôt que salaire ok
 
 
-Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les acteurs de l'organisation.
+Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les acteurs de l'entreprise.
 
 
 ## Nos objectifs d'une rémunération libre
@@ -105,7 +105,7 @@ La redistribution des bénéfices est faite au prorata temporis annuel des salar
 Ci-après le mécanisme global présenté via un exemple fictif.
 
 {% include img.html
-    name='choix_salaires'
+    name='choix_remunerations'
 %}
 
 Léo, Léa et Léonie ont tous les 3 choisi leur rémunération dans la grille. Léon arrive en cours d’année (juillet) sa rémunération est négociée dans la grille.
@@ -195,7 +195,7 @@ Ici encore, c’est à l’équipe de décider des modalités d’évaluation pr
 Dans un système de rémunération libre, les attentes des salariés par rapport aux fonctions managériales et aux fonctions support seront différentes de celles qui existent aujourd’hui. Le salarié reprenant le pouvoir de décision et étant prêt à partager les risques et bénéfices de l’entreprise, ce qu’il va attendre de ces entités sera essentiellement :
 - de la transparence et de la pédagogie (explication de la grille, du mode de fonctionnement, de l’adéquation rémunération/personne, etc.) ;
 - de l’accompagnement dans la réflexion et le choix pour le bien du salarié et de l’entreprise (définition de dispositifs de prise de recul, aide dans le choix des évolutions de carrière possibles, dans les choix d’outils de progression, échange sur les envies, mise en perspective, etc.).
-Ainsi, la direction et les RH dans ce mode de fonctionnement basculent vers un rôle d’animation des valeurs et de la vision pour garantir la cohésion du groupe, afin que les décisions individuelles soient cohérentes pour l’organisation.
+Ainsi, la direction et les RH dans ce mode de fonctionnement basculent vers un rôle d’animation des valeurs et de la vision pour garantir la cohésion du groupe, afin que les décisions individuelles soient cohérentes pour l’entreprise.
 Les RH permettent d’accompagner le salarié dans sa prise de décision, tout en se gardant de prendre la décision à sa place, il a un rôle de facilitateur.
 
 
@@ -214,7 +214,7 @@ Voici quelques exemples de sources de motivation qui pourront être travaillées
 - La possibilité de faire entendre sa voix en optant pour des modes d’organisation où tous ceux qui veulent s’exprimer en ont l’opportunité (Holacratie, Sociocratie, etc.).
 - Créer des espaces de discussion en face à face réguliers pour des sujets personnels en laissant au salarié le choix de son partenaire.
 - Créer des espaces d’échanges en groupe pour des sujets personnels, de montée en compétences ou pour les décisions qui impactent toute l’entreprise.
-- L’équité dans le traitement : que les règles soient claires et appliquées de la même façon par tous. Certaines organisations disposent d’une commission de discipline qui est chargée de résoudre, avec le salarié et un groupe de pairs, un écart aux règles convenues.
+- L’équité dans le traitement : que les règles soient claires et appliquées de la même façon par tous. Certaines entreprises disposent d’une commission de discipline qui est chargée de résoudre, avec le salarié et un groupe de pairs, un écart aux règles convenues.
 Travailler sur ces sources de motivations permet également d’attirer de nouveaux talents qui souhaitent rejoindre l’entreprise pour des raisons qui sont plus proches des valeurs et de la vision de l’entreprise.
 
 
@@ -226,7 +226,7 @@ Malheureusement ce mécanisme de régulation de groupe va défavoriser les perso
 Les fonctions RH ou les syndicats peuvent limiter ces effets.
 
 
-### La cohésion de l'organisation
+### La cohésion de l'entreprise
 
 TODO:
 - raison d'être
