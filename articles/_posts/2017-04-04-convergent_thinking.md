@@ -23,7 +23,7 @@ Cet article est la suite naturelle de celui sur [créativité et divergent think
     source='https://www.flickr.com/photos/jillclardy/2426924116'
 %}
 
-Quel est le fruit rouge ? Quel est le fruit du milieu ? Etonnament, en posant deux questions différentes on peut avoir deux réponses différentes. C'est la même chose sur les solutions proposées suite à des ateliers de divergence. Il s'agit de revenir à la question initiale.
+Quel est le fruit rouge ? Quel est le fruit du milieu ? Etonnamment, en posant deux questions différentes on peut avoir deux réponses différentes. C'est la même chose sur les solutions proposées suite à des ateliers de divergence. Il s'agit de revenir à la question initiale.
 
 Comment je vais savoir si une idée est bonne ? Reformulée, je pourrais aussi dire : Comment savoir si une solution va bien répondre au problème ? Une première étape de la convergence est de vérifier si les solutions proposées répondent bien à la question initiale. Si ce n'est pas le cas, il faut normalement les supprimer. Je dis normalement car il y a aussi la possibilité de changer de direction (attention cependant à ne pas se perdre en route).
 
@@ -80,7 +80,7 @@ Une fois que vous avez défini le nombre d'options que vous souhaitez garder ouv
 
 Est ce qu'une fois que l'on a décidé, la sélection est terminée ? Comme vous pouvez le deviner, la réponse est non. Ce que l'on a fait, c'est choisir les options qui nous paraissent les plus intéressantes à explorer. Cela reste des options qui devront être validées. Elles pourront être remises en cause par des feedbacks (user tests ou production). La convergence, c'est la capacité à se concentrer sur ce qui nous semble être l'essentiel. J'en remets un deuxième couche sur la boucle de feedback. Pour qu'elle soit efficace, il est nécessaire de se demander à l'avance ce qui nous permettra de dire que c'est un succès.
 
-Ensuite, les cycles de décision doivent être adaptés au cycle de feedback. Si j'ai du feedback en continu mais que je prends des décisions tous les 3 mois, le feedback ne sert quasiment pas. A l'opposé si j'ai du feeback tous les jours et que je fais des ajustements permanents, j'ai le risque de me perdre. C'est l'exemple du cas statistiquement improbable mais qui peut arriver et m'induire en erreur. Personnellement, j'utilise une approche du type : Répétition de (Divergence - Convergence - Feedback - Feedback - Feedback)
+Ensuite, les cycles de décision doivent être adaptés au cycle de feedback. Si j'ai du feedback en continu mais que je prends des décisions tous les 3 mois, le feedback ne sert quasiment pas. A l'opposé si j'ai du feedback tous les jours et que je fais des ajustements permanents, j'ai le risque de me perdre. C'est l'exemple du cas statistiquement improbable mais qui peut arriver et m'induire en erreur. Personnellement, j'utilise une approche du type : Répétition de (Divergence - Convergence - Feedback - Feedback - Feedback)
 
 [créativité et divergent thinking]: /articles/2017/03/08/divergent_thinking.html
 [IDEO]: https://www.fastcodesign.com/3069069/ideo-studied-innovation-in-100-companies-heres-what-it-found
