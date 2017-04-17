@@ -44,6 +44,8 @@ D'abord par la capacité de chacun de se positionner à l’intérieur de ce sys
 Ensuite, tous les salariés de l'entreprise doivent comprendre les enjeux de l’entreprise, donc la transparence (y compris financière) de l’entreprise sera un point important.
 Enfin par la mise en place de règles communes (système de rémunération, grille de rémunération, mode d’évaluation).
 
+Précision de vocabulaire : nous avons décidé d’utiliser les termes entreprise et salariés pour simplifier le document. Notre modèle s'adresse à toute organisation (entreprise, association, ...) qui est amenée à répartir les richesses crées. De même, nous avons utilisé le terme salarié pour nommer les différentes personnes qui ont une rémunération de leur travail dans l'entreprise, donc les salariés et le dirigeants.
+
 
 ## Description de la rémunération libre
 
