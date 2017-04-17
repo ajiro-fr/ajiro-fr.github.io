@@ -66,9 +66,9 @@ Il s'agit d'une étape plus analytique où je vais évaluer des solutions avec d
 %}
 
 
-Suite aux précédents tamis, j'ai réduit le champ des possibles. Il ne me reste plus qu'à choisir la meilleure solution. Euh pourquoi LA meilleure ? Et comment je saurais que c'est la MEILLEURE ? C'est deux questions poussent à se dire qu'il ne faut pas fermer les options trop vite. Une étude d'IDEO (https://www.fastcodesign.com/3069069/ideo-studied-innovation-in-100-companies-heres-what-it-found) a montré que les organisations les plus créatives gardent en général plusieurs options ouvertes jusque tard. Elles n'hésitent pas à développer plusieurs solutions. Comme auparavant, il n'y a pas de vérité absolue. Si vous êtes dans une start up avec peu de cash, vous pouvez être amené à devoir en choisir une seule solution. C'est pour cela que l'on dit souvent que décider c'est faire un pari. Une des questions à avoir en tête, c'est comment saurez vous que c'est un succès? C'est une question vitale.
+Suite aux précédents tamis, j'ai réduit le champ des possibles. Il ne me reste plus qu'à choisir la meilleure solution. Euh pourquoi LA meilleure ? Et comment je saurais que c'est la MEILLEURE ? C'est deux questions poussent à se dire qu'il ne faut pas fermer les options trop vite. Une étude d'[IDEO] a montré que les organisations les plus créatives gardent en général plusieurs options ouvertes jusque tard. Elles n'hésitent pas à développer plusieurs solutions. Comme auparavant, il n'y a pas de vérité absolue. Si vous êtes dans une start up avec peu de cash, vous pouvez être amené à devoir en choisir une seule solution. C'est pour cela que l'on dit souvent que décider c'est faire un pari. Une des questions à avoir en tête, c'est comment saurez vous que c'est un succès? C'est une question vitale.
 
-Une fois que vous avez défini le nombre d'options que vous souhaitez garder ouvertes, il ne vous reste plus qu'à décider. Pour cela, choissisez un protocole de décision (http://ajiro.fr/articles/2017/03/06/decisions_making.html) et allez y.
+Une fois que vous avez défini le nombre d'options que vous souhaitez garder ouvertes, il ne vous reste plus qu'à décider. Pour cela, choissisez un [protocole de décision] et allez y.
 
 
 ## La fin ?
@@ -81,3 +81,6 @@ Une fois que vous avez défini le nombre d'options que vous souhaitez garder ouv
 Est ce qu'une fois que l'on a décidé, la sélection est terminée ? Comme vous pouvez le deviner, la réponse est non. Ce que l'on a fait, c'est choisir les options qui nous paraissent les plus intéressantes à explorer. Cela reste des options qui devront être validées. Elles pourront être remises en cause par des feedbacks (user tests ou production). La convergence, c'est la capacité à se concentrer sur ce qui nous semble être l'essentiel. J'en remets un deuxième couche sur la boucle de feedback. Pour qu'elle soit efficace, il est nécessaire de se demander à l'avance ce qui nous permettra de dire que c'est un succès.
 
 Ensuite, les cycles de décision doivent être adaptés au cycle de feedback. Si j'ai du feedback en continu mais que je prends des décisions tous les 3 mois, le feedback ne sert quasiment pas. A l'opposé si j'ai du feeback tous les jours et que je fais des ajustements permanents, j'ai le risque de me perdre. C'est l'exemple du cas statistiquement improbable mais qui peut arriver et m'induire en erreur. Personnellement, j'utilise une approche du type : Répétition de (Divergence - Convergence - Feedback - Feedback - Feedback)
+
+[IDEO]: https://www.fastcodesign.com/3069069/ideo-studied-innovation-in-100-companies-heres-what-it-found
+[protocole de décision]: http://ajiro.fr/articles/2017/03/06/decisions_making.html
