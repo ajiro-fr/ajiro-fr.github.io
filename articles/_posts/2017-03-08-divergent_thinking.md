@@ -17,7 +17,7 @@ description: |
   Créativité et divergent thinking : Théorie et cas pratiques
 
 ---
-Qu'est ce que la créativité ? John Baer dans 'Creativity and divergent thinking' (fil rouge de ce post) pense que l'on mélange en ce moment les termes créativité et 'Divergent thinking'. De son point de vue, il serait plus juste de dire que la créativité correspond à une activité de génération d'idées hors du cadre (divergent thinking) suivi d'une activité de sélection (convergent thinking). Aujourd'hui, nous avons globalement des difficultés à sortir du cadre. D'où le fait que l'étape de sélection est aujourd'hui simple et donc pas encore un défi. Une autre définition du divergent thinking peut être de créer des solutions originales à des problèmes.
+Qu'est ce que la créativité ? John Baer dans 'Creativity and divergent thinking' (fil rouge de ce post) pense que l'on mélange en ce moment les termes créativité et 'Divergent thinking'. De son point de vue, il serait plus juste de dire que la créativité correspond à une activité de génération d'idées hors du cadre (divergent thinking) suivi d'une activité de sélection ([convergent thinking]). Aujourd'hui, nous avons globalement des difficultés à sortir du cadre. D'où le fait que l'étape de sélection est aujourd'hui simple et donc pas encore un défi. Une autre définition du divergent thinking peut être de créer des solutions originales à des problèmes.
 
 Pour la suite, je préfère ne pas traduire divergent thinking ainsi que certains termes pour ne pas modifier le sens. Je vais aussi essayer de vous faire toucher du doigt par l'exercice ce qu'est le divergent thinking. Dès que vous voyez un titre en gras suivi d'un texte en italique, c'est que c'est à vous de jouer (have fun).
 
@@ -156,4 +156,5 @@ Il reste des points que vous pouvez cependant garder en tête pour vous aider da
 
 Une partie des réponses aux problèmes de cet article sont dans ce [document] :
 
+[convergent thinking]: /articles/2017/04/04/convergent_thinking.html
 [document]: /assets/articles/divergent_thinking/ASEE_-_Divergent_Thinking_-_Paper_-_MODIFIED_-_FINAL_2012.pdf
