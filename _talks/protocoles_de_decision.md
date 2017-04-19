@@ -37,10 +37,13 @@ Aussi, certains protocoles de décisions sont de leviers pour donner plus d’au
 En groupe, les participants vont découvrir et pratiquer au moins ces 5 protocoles&nbsp;:
 - HiPPO,
 - consensus,
-- majorité,
+- vote (majorité),
 - consentement (core protocols)
 - advice process,
-- tirage au sort (si assez de temps).
+- tirage au sort (si assez de temps)
+- grille de décision
+- expert
+- débat
 
 Ensuite, nous allons débriefer en groupe pour explorer chacun de ces protocoles, leurs forces et faiblesses, leurs usages, ...
 
