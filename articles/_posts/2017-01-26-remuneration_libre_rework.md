@@ -189,7 +189,7 @@ Ici encore, c’est à l’équipe de décider des modalités d’évaluation pr
 ### Les RH et le management
 
 Dans un système de rémunération libre, les attentes des salariés par rapport aux fonctions managériales et aux fonctions support seront différentes de celles qui existent aujourd’hui. Le salarié reprenant le pouvoir de décision et étant prêt à partager les risques et bénéfices de l’entreprise, ce qu’il va attendre de ces entités sera essentiellement :
-- de la transparence et de la pédagogie (explication de la grille, du mode de fonctionnement, de l’adéquation rémunération/personne, etc.) ;
+- de la transparence et de la pédagogie (explication de la grille, du mode de fonctionnement, de l’adéquation entre rémunération et personne, etc.) ;
 - de l’accompagnement dans la réflexion et le choix pour le bien du salarié et de l’entreprise (définition de dispositifs de prise de recul, aide dans le choix des évolutions de carrière possibles, dans les choix d’outils de progression, échange sur les envies, mise en perspective, etc.).
 Ainsi, la direction et les RH dans ce mode de fonctionnement basculent vers un rôle d’animation des valeurs et de la vision pour garantir la cohésion du groupe, afin que les décisions individuelles soient cohérentes pour l’entreprise.
 Les RH permettent d’accompagner le salarié dans sa prise de décision, tout en se gardant de prendre la décision à sa place, il a un rôle de facilitateur.
