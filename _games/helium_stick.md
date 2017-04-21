@@ -29,7 +29,7 @@ illustration:
 5. Expliquez que l'objectif est de faire descendre la barre jusqu'au sol tout en gardant toujours les doigts en contact avec la barre. Si la barre tombe ou que les doigts perdent le contact, on recommence.
 6. Lâchez la barre.
 
-## Remarques / Déroulé
+## Déroulé
 
 - La barre a tendance à monter. Plus il y a de participants et plus la pression est grande, plus ce jeu est difficile. Plus il y a de pressions, plus c'est difficile.
 - Après 5 à 10 minutes d'essai, certains groupes peuvent se décourager. Le facilitateur peut faire des suggestions ou proposer au groupe de d’arrêter temporairement le jeu pour discuter de la statégie.
