@@ -25,7 +25,7 @@ illustration:
 1. Demandez aux participants de se mettre sur une ligne face à face.
 2. Demandez aux participants de pointer leurs index et de les tenir horizontaux.
 3. Posez la barre d’hélium sur les doigts.
-4. Avant de lâcher la barre, Demandez au participants d'ajuster la hauteur de leurs doigts pour que la barre soit bien horizontale et que tous les doigts touchent la barre par le dessous.
+4. Demandez au participants d'ajuster la hauteur de leurs doigts pour que la barre soit bien horizontale et que tous les doigts touchent la barre par le dessous.
 5. Expliquez que l'objectif est de faire descendre la barre jusqu'au sol tout en gardant toujours les doigts en contact avec la barre. Si la barre tombe ou que les doigts perdent le contact, on recommence.
 6. Lâchez la barre.
 
