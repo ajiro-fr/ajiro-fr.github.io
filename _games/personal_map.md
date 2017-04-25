@@ -2,7 +2,6 @@
 layout: game
 hidden: false
 title: "Carte personelle"
-subtitle: "Personal map"
 tags:
 - managment 3.0
 - partage

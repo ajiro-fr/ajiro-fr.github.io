@@ -2,7 +2,6 @@
 layout: game
 hidden: false
 title: "La barre d’hélium"
-subtitle: "Helium Stick"
 tags:
   - systèmique
   - partage
