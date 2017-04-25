@@ -61,9 +61,6 @@ references:
 Cet exercice permet une initiation à la pensée systèmique. Les actions de chacun ont un effet sur le système et le résultat est déroutant car l'effet obtenu est l'inverse de celui souhaité. Dans cette situation beaucoup de participants sont aggacés et finissent par chercher des coupables. Ce faisant, ils rajoutent à la pression et complexifient l'exercice.
 
 
-{% include components/references.html %}
-
-
 ## Bibliographie
 
 - Booth Sweeney, L. & D. Meadows (1996). The systems thinking playbook: Exercises to stretch and build learning and systems thinking capabilities. The Turning Point Foundation.
