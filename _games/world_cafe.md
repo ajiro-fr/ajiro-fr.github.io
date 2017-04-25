@@ -15,9 +15,22 @@ materials:
 illustration:
   name: illustration
   source: https://www.flickr.com/photos/bumbus/8213341375/
+references:
+  - title: World Cafe
+    url: http://www.theworldcafe.com/
+    icon: external-link
+  - title: World Cafe
+    icon: wikipedia-w
+    url: https://en.wikipedia.org/wiki/World_Caf%C3%A9_%28conversational_process%29
+  - title: Journal du net
+    icon: external-link
+    url: http://www.journaldunet.com/management/efficacite-personnelle/1154533-world-cafe/
+  - title: World cafe questions
+    icon: external-link
+    url: http://whatidiscover.blogspot.fr/2007/06/world-cafe-questions.html
 ---
 
-L'objectif général du [World Cafe] est rappelé par l'organisateur, ainsi que le processus. Il est important de rappeler aux participants de le laisser porter par ce processus et de ne pas chercher à aller directement à l'objectif.
+L'objectif général du _World Cafe_ est rappelé par l'organisateur, ainsi que le processus. Il est important de rappeler aux participants de le laisser porter par ce processus et de ne pas chercher à aller directement à l'objectif.
 
 
 ## Le format est habituellement le suivant
@@ -33,7 +46,7 @@ L'objectif général du [World Cafe] est rappelé par l'organisateur, ainsi que 
 
 ## La problématique
 
-Les organisateurs doivent définir la problématique du [World Cafe] pour délimiter les sujets de discussions.
+Les organisateurs doivent définir la problématique du _World Cafe_ pour délimiter les sujets de discussions.
 Il est important que cette problématique soit exprimée positivement et qu'elle implique tout les participants.
 Par exemple, _"Comment trouver de nouveaux client ?"_ plutôt que _"Pourquoi nous n'avons pas eu de nouveaux client ?"_.
 
@@ -77,13 +90,3 @@ Dans l'idéal, les questions sont au nombre de trois. La première question perm
 - Quels sont les défis à relever et comment pourrons-nous les relever?
 - Quelle conversation, si elle était commencée aujourd'hui, pouvait se propager d'une manière qui créait de nouvelles possibilités pour l'avenir de [notre situation]?
 - Quelle semence pouvons-nous planter ensemble aujourd'hui et qui pourrait faire la plus grande différence demain pour [notre situation]?
-
----
-Sources:
-
-- [World Cafe]
-- [Wikipedia](https://en.wikipedia.org/wiki/World_Caf%C3%A9_%28conversational_process%29)
-- [Journal du net](http://www.journaldunet.com/management/efficacite-personnelle/1154533-world-cafe/)
-- [World cafe questions](http://whatidiscover.blogspot.fr/2007/06/world-cafe-questions.html)
-
-[World Cafe]: http://www.theworldcafe.com/
