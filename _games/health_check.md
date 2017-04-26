@@ -24,26 +24,40 @@ references:
   - title: Squad Health Check model (spotify)
     icon: external-link
     url: https://labs.spotify.com/2014/09/16/squad-health-check-model/
+ressources:
+- name: Health Check (français)
+  file: health_check/health-check-fr.pdf
+  icon: fr.svg
+- name: Health Check (anglais)
+  file: health_check/health-check-en.pdf
+  icon: en.svg
 ---
 
 ## Présentation
 
 Le Checking d'équipe, est un moyen de mesure visuel pour connaitre l'état d'une équipe à un instant donné.
 Chaque carte de checking représente un élément de la vie de l'équipe (ambiance, rythme, fun, qualité etc.), elle est accompagnée d'un exemple de ce qui se passe quand cet élément va mal, et d'un exemple de ce qui se passe quand cet élément va bien.
+
 Chaque participant va être amené à exprimer son ressenti par rapport à chacun des éléments sélectionnés. Plusieurs façons d'utiliser les cartes sont possibles, nous vous donnerons quelques pistes dans la rubrique variante.
 Cette atelier offre toute sa richesse lorsque l'équipe se l'approprie et qu'il devient un outil que l'on utilise régulièrement (vous pouvez commencer par le faire tous les trimestres et adapter en fonction du ressenti de l'équipe).
 
 ## Règles
 
 1. Sélectionnez et/ou créez les cartes des éléments sur lesquels vous souhaitez faire le point * durant cette activité (il est recommandé de limité à 10 le nombre d'éléments).
+
 2. Rassemblez toutes les personnes concernées au même endroit, installez-vous de manière à ce que tout le monde puisse voir le centre de la table.
+
 3. Pour une première utilisation présentez le déroulement et découvrez ensemble, toutes les cartes sur lesquelles l'équipe aura à s'exprimer. Expliciter également ce que signifie chaque vote :
   - :-) : ne signifie pas forcément que c'est parfait, simplement que l'équipe se sent bien sur cet élément, et qu'il n'y a pas de besoin d'amélioration majeure pour l'instant.
   - :-/ : signifie qu'il y a quelques problèmes notoire que l'on souhaite souligner, mais qu'il n'y a pas d'état d'urgence.
   - :-( : signifie qu'il y a urgence, la situation est grave, il faut qu'on fasse quelque chose.
+
 4. Si vous souhaitez utiliser les cartes de votes : distribuez des cartes de votes à chaque participants (1 carte de chaque).
+
 5. Faites défiler les cartes les unes après les autres, et demandez à chaque membre de s'exprimer selon le modèle d'expression choisi (parole libre, un mot, carte de vote etc.), définissez un temps d'expression selon la couleur que vous souhaitez donner à l'échange.
+
 6. Entre chaque carte, prenez le temps de prendre en compte le vote pour pouvoir y revenir plus tard et les visualiser**.
+
 7. Dans le cas d'une utilisation ponctuelle, et en fonction des objectifs visés, choisissez de discuter de chaque élément séparément, ou de faire un bilan à la fin.
      Dans le cas d'un usage régulier il peut être intéressant de garder une trace** des anciennes séances auxquelles on peut se référer pour discuter de l'évolution de chaque élément. (Qu'est ce qui va mieux? Qu'est ce qui va moins bien?)
 
