@@ -19,7 +19,7 @@ materials:
 rules: ""
 illustration:
   name: illustration
-  source: https://www.flickr.com/photos/51803685@N06/8168482154/
+  source: https://pixabay.com/fr/battement-de-coeur-impulsion-163709/
 references:
   - title: Squad Health Check model (spotify)
     icon: external-link
