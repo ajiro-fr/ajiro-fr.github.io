@@ -1,6 +1,7 @@
 ---
 layout: game
 hidden: false
+sorted: world cafe
 title: "World Café"
 tags:
 - intelligence collective

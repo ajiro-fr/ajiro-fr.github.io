@@ -1,6 +1,7 @@
 ---
 layout: game
 hidden: false
+sorted: carte personelle
 title: "Carte personelle"
 tags:
 - managment 3.0

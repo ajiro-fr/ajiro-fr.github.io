@@ -1,6 +1,7 @@
 ---
 layout: game
 hidden: false
+sorted: barre d'helium
 title: "La barre d’hélium"
 tags:
   - systèmique

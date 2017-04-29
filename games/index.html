@@ -11,7 +11,9 @@ noindex: true
   </div>
 </div>
 
-{% for game in site.games %}
+{% assign sorted_games = site.games |  sort: 'sorted' %}
+
+{% for game in sorted_games %}
 {% unless game.hidden %}
 <div class="row mt-3">
   <div class="offset-sm-2 col-md-8 col-xs-12">

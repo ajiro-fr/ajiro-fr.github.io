@@ -1,6 +1,7 @@
 ---
 layout: game
 hidden: false
+sorted: checking d'equipe
 title: "Checking d'équipe"
 tags:
   - systèmique

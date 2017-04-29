@@ -1,6 +1,7 @@
 ---
 layout: game
 hidden: false
+sorted: ecouter
 title: "S'écouter"
 tags:
 - équipe

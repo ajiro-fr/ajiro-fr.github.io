@@ -1,6 +1,7 @@
 ---
 layout: game
 hidden: false
+sorted: six chapeaux d’edward de bono
 title: "Les six chapeaux d’Edward de Bono"
 tags:
   - brainstorming
