@@ -1,0 +1,292 @@
+/* == General */
+
+.text-justify {
+  text-align: justify;
+  word-wrap: break-word;
+  -moz-hyphens: auto;
+  -epub-hyphens: auto;
+}
+
+.debug {
+  border: solid 1px red;
+}
+
+
+/* == Colors */
+
+.rose {
+  color: #CD3349;
+}
+
+.bleu {
+  color: #3D7890;
+}
+
+.rouille {
+  color: #C47401;
+}
+
+.violet {
+  color: #8F074B;
+}
+
+.vert {
+  color: #1E7C66
+}
+
+.anthracite {
+  color: #3B3B3B
+}
+
+.bg-light-gray {
+  background-color: #f7f7f9;
+}
+
+h1, h2, h3 {
+  color: #3B3B3B;
+}
+
+.jumbotron {
+  font-size: 1.6rem;
+}
+
+/* == Fonts */
+
+@font-face {
+  font-family: "Linux Biolinum";
+  font-weight: normal;
+  font-style: normal;
+  font-smooth: always;
+
+  src: url('/assets/fonts/LinBiolinum_R.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Linux Biolinum";
+  font-weight: normal;
+  font-style: italic;
+  font-smooth: always;
+
+  src: url('/assets/fonts/LinBiolinum_RI.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Linux Biolinum";
+  font-weight: bold;
+  font-style: normal;
+  font-smooth: always;
+
+  src: url('/assets/fonts/LinBiolinum_RB.otf') format('opentype');
+}
+
+body {
+  background-repeat: no-repeat;
+  font-family: 'Linux Biolinum';
+  font-size: 22px;
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+  body {
+    background-image: none;
+  }
+  .site-footer {
+    background-color: #3D7890;
+  }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+  body {
+    background-image: url('/assets/images/footer.svg') ;
+    background-position: 82% 100%;
+  }
+  .site-footer {
+    background-color: transparent;
+  }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+}
+
+
+/* == Sections */
+
+.site-header {
+  background-color: #3d7890;
+}
+
+.site-footer {
+  display: table;
+
+  width: 100%;
+  margin-top : 2em;
+  padding-top : 2em;
+  padding-bottom : 2em;
+
+  color: #eeeeec;
+}
+
+.circled-icon i {
+  width: 38px;
+  height: 38px;
+  margin: 2px;
+
+  text-align: center;
+  vertical-align: middle;
+
+  color: #000000;
+  border-radius: 50%;
+  background-color: #eeeeec;
+
+  font-size: 25px;
+  line-height: 42px;
+}
+
+.circled-icon a {
+  text-decoration: none;
+
+  color: inherit;
+}
+
+#home--values {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: #3D7890;
+  color: #ffffff;
+}
+
+#home--values h1,
+#home--values h2,
+#home--values h3 {
+  color: #fff;
+}
+
+.value-icon {
+  font-size: 60px;
+}
+
+.value ul
+{
+  margin:0;
+  padding:0;
+
+  list-style-type: none;
+}
+
+.home__rdv-libelle {
+  padding-left: 10px;
+}
+
+.home__rdv-detail {
+  display : flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.bg-orange {
+  background-color: #c47401;
+}
+
+.bg-green {
+  background-color: #1e7c66;
+}
+
+.organisation-logo {
+
+  display: inline-block;
+  margin: 2px;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 6px;
+  background-color: white;
+}
+
+.organisation-logo:hover {
+  border: 1px solid #eee;
+
+  filter: none;
+}
+
+.organisation-logo div {
+  line-height: 12px;
+}
+
+.organisation-logo a {
+  text-decoration: none;
+
+  color: inherit;
+}
+
+.organisation-logo img {
+  width: 100px;
+}
+
+.img-credit {
+  font-size: 8px;
+}
+
+
+.panel-game {
+  border-color: #3d7890;
+  height: 100%;
+}
+.panel-game > .panel-heading {
+  color: #fff;
+  background-color: #3d7890;
+  border-color: #3d7890;
+}
+.panel-game > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #3d7890;
+}
+.panel-game > .panel-heading .badge {
+  color: #3d7890;
+  background-color: #fff;
+}
+.panel-game > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #3d7890;
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+
+.article-thanks {
+  font-size: 1rem;
+}
+
+.article-list__calendar {
+  font-size: 1rem;
+}
+
+.article__img-top {
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  max-height: 400px;
+}
+
+.cookie-consent {
+  font-size: 12px;
+  margin-bottom: 0;
+}
+
+.book-cover {
+  width: 100%;
+}
+
+.talk-illustration {
+  width: 100%;
+}
