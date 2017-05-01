@@ -48,6 +48,15 @@ def write_file(path, content):
 def no_translation(name, content):
     return content
 
+def remove_lines(*lines):
+    def process(name, content):
+        result = []
+        for line in content.split('\n'):
+            if not line in lines:
+                result.append(line)
+        return string.join(result, '\n')
+    return process
+
 
 def copy_illustration(path, name):
     def process(item, source, target):
@@ -80,11 +89,11 @@ translate(
     items=list_items('_books'),
     destination='books',
     translators=[
-        process_file_content(no_translation),
+        process_file_content(remove_lines('layout: book')),
         copy_illustration('assets/books', 'cover')])
 
 translate(
     items=list_items('_games'),
     destination='games',
     translators=[
-        process_file_content(no_translation)])
+        process_file_content(remove_lines('layout: game'))])
