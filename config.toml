@@ -1,8 +1,0 @@
-languageCode = "fr-fr"
-title = "Ajiro"
-baseurl = "http://ajiro.fr/"
-theme = "template-ajiro"
-
-[taxonomies]
-author = "authors"
-tag = "tags"
