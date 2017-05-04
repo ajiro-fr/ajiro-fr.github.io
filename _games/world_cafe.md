@@ -36,13 +36,15 @@ L'objectif général du _World Cafe_ est rappelé par l'organisateur, ainsi que 
 
 ## Le format est habituellement le suivant
 
-1. Les participants sont répartis par groupes de 3 ou 4 personnes par table.
-2. L'organisateur pose alors la première question et laisse 20 minutes de discussions libres.
-3. L'organisateur peut éventuellement demander si des personnes souhaitent rapporter au groupe entier un élément intéressant.
-4. Chaque table désigne un hôte qui va rester, les autres personnes sont alors les ambassadeurs et vont se répartir sur les autres tables. Cela permet la pollinisation des idées.
-5. Les nouvelles tables ainsi formées peuvent échanger quelques minutes pour se raconter ce qui c'est passé, l'hôte pouvant expliquer les notes et discussions de la table.
-6. L'organisateur pose alors la question suivante et le processus se répète sur les étapes 2 à 6 jusqu'à épuisement des questions.
-7. Une séance plénière peut être organisée pour synthétiser le travail.
+1. L'organisateur rapelle la problématique.
+2. L'organisateur explique le processus et invite les participants à se laisser porter par ce processus.
+3. Les participants sont répartis par groupes de 3 ou 4 personnes par table.
+4. L'organisateur pose alors la première question et laisse 20 minutes de discussions libres.
+5. L'organisateur peut éventuellement demander si des personnes souhaitent rapporter au groupe entier un élément intéressant.
+6. Chaque table désigne un hôte qui va rester, les autres personnes sont alors les ambassadeurs et vont se répartir sur les autres tables. Cela permet la pollinisation des idées.
+7. Les nouvelles tables ainsi formées peuvent échanger quelques minutes pour se raconter ce qui c'est passé, l'hôte pouvant expliquer les notes et discussions de la table.
+8. L'organisateur pose alors la question suivante et le processus se répète sur les étapes 2 à 6 jusqu'à épuisement des questions.
+9. Une séance plénière peut être organisée pour synthétiser le travail.
 
 
 ## La problématique
