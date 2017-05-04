@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+  <body>
+    {{ partial "header" . }}
+
+
+    <div class="container">
+      <div class="text-justify">
+        <div class="row mt-3">
+          <div class="offset-md-2 col-md-8 col-xs-12">
+            <h1>
+              {{ .Title }}
+              {{ with .Params.subtitle }}<br/><small>{{ . }}</small>{{ end }}
+              <br/><small>{{delimit .Params.Authors ';'}}</small>
+            </h1>
+          </div>
+        </div>
+        <div class="row mt-3">
+          <div class="col-md-2 col-xs-12">
+            <img alt="{{ .Title }} cover"src="{{ .Permalink }}/cover.jpg" class="img-fluid"/>
+          </div>
+          <div class="col-md-8 col-xs-12">
+            <p>
+              {{delimit .Params.Authors ','}}
+              <i>{{.Title}}
+              {{ with .Params.subtitle }} — {{ . }}{{ end }}</i>.
+              {{ with .Params.edition }}{{ . }}. {{ end }}
+              {{ with .Params.address }}{{ . }} : {{ end }}
+              {{ with .Params.publisher }}{{ . }}, {{ end }}
+              {{ with .Params.year }}{{ . }}. {{ end }}
+              {{ with .Params.isbn }}ISBN: {{ . }}{{ end }}
+            </p>
+
+            {{ with .Params.summary }}
+              <div class="card bg-light-gray">
+                <div class="card-block">
+                  <h2>Résumé</h2>
+                  <p>{{. | markdownify}}</p>
+                </div>
+              </div>
+            {{ end }}
+
+            {{ with .Params.notes }}
+              <h2>Notes</h2>
+              <p>{{. | markdownify}}</p>
+            {{ end }}
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{ partial "footer" . }}
+  </body>
+</html>
