@@ -97,3 +97,9 @@ translate(
     destination='games',
     translators=[
         process_file_content(remove_lines('layout: game'))])
+
+#translate(
+#    items=list_items('articles/_posts'),
+#    destination='articles',
+#    translators=[
+#        process_file_content(no_translation)])
