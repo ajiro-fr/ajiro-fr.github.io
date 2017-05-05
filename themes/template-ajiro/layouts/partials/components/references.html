@@ -1,21 +1,30 @@
-<h2>References</h2>
-{{ range .Params.references }}
-<li>
-  <a href="{{ .url }}">
-    {{ with .icon }}<i class="fa fa-{{ . }}"></i>{{end}}
-    {{.title | markdownify }}
-  </a>
-  <p>{{.description | markdownify}}</p>
-</li>
-{{ end }}
+{{ $.Scratch.Add "references" (slice ) }}
 {{ $value := .Dir }}
 {{ range $page := .Site.Pages }}
   {{ if in $page.RawContent $value }}
-  <li>
-    <a href="{{ .URL }}">
-      <i class="fa fa-file-text-o"></i>
-      {{ .Title | markdownify }}
-    </a>
-  </li>
+  {{ $.Scratch.Add "references" $page }}
   {{ end }}
+{{ end }}
+
+{{ if or ( $.Scratch.Get "references") (.Params.references)  }}
+  <h2>References</h2>
+  <ul>
+    {{ range .Params.references }}
+    <li>
+      <a href="{{ .url }}">
+        {{ with .icon }}<i class="fa fa-{{ . }}"></i>{{end}}
+        {{.title | markdownify }}
+      </a>
+      <p>{{.description | markdownify}}</p>
+    </li>
+    {{ end }}
+    {{ range ( $.Scratch.Get "references") }}
+    <li>
+      <a href="{{ .URL }}">
+        <i class="fa fa-file-text-o"></i>
+        {{ .Title | markdownify }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
 {{ end }}
