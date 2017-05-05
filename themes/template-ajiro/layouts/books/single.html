@@ -45,9 +45,16 @@
               <h2>Notes</h2>
               <p>{{. | markdownify}}</p>
             {{ end }}
-
           </div>
         </div>
+
+        <p>{{ .Content }}</p>
+        <div class="row  mt-3">
+          <div class="offset-md-2 col-md-8 col-xs-12">
+            {{ partial "components/references" . }}
+          </div>
+        </div>
+
       </div>
     </div>
 

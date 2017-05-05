@@ -1,0 +1,21 @@
+<h2>References</h2>
+{{ range .Params.references }}
+<li>
+  <a href="{{ .url }}">
+    {{ with .icon }}<i class="fa fa-{{ . }}"></i>{{end}}
+    {{.title | markdownify }}
+  </a>
+  <p>{{.description | markdownify}}</p>
+</li>
+{{ end }}
+{{ $value := .Dir }}
+{{ range $page := .Site.Pages }}
+  {{ if in $page.RawContent $value }}
+  <li>
+    <a href="{{ .URL }}">
+      <i class="fa fa-file-text-o"></i>
+      {{ .Title | markdownify }}
+    </a>
+  </li>
+  {{ end }}
+{{ end }}
