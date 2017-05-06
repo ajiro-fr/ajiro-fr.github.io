@@ -16,8 +16,10 @@ exclude:
 - Gemlfile
 - run
 - quick-run
-- themes
 - content
+- data
+- static
+- themes
 
 defaults:
 - scope:
