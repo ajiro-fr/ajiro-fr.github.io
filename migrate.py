@@ -48,6 +48,9 @@ def write_file(path, content):
 def no_translation(name, content):
     return content
 
+def to_yaml(name, content):
+    return "---\n" + content + "---\n"
+
 def remove_lines(*lines):
     def process(name, content):
         result = []
@@ -62,6 +65,15 @@ def copy_illustration(path, name):
     def process(item, source, target):
         shutil.copyfile(
             os.path.join(path, nameof(item) + '.jpg'),
+            os.path.join(target, name + '.jpg'))
+    return process
+
+
+def copy_people_photo(path, name):
+    def process(item, source, target):
+        first, last = nameof(item).split('_')
+        shutil.copyfile(
+            os.path.join(path, last + '.' + first + '.jpg'),
             os.path.join(target, name + '.jpg'))
     return process
 
@@ -97,6 +109,13 @@ translate(
     destination='games',
     translators=[
         process_file_content(remove_lines('layout: game'))])
+
+translate(
+    items=list_items('_data/people', '*.yaml'),
+    destination='people',
+    translators=[
+        process_file_content(to_yaml),
+        copy_people_photo('assets/images/team', 'photo')])
 
 #translate(
 #    items=list_items('articles/_posts'),
