@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+  <body>
+    {{ partial "header" . }}
+      <div class="container">
+        <div class='row mt-3'>
+          <div class='col-md-12 col-xs-12 text-xs-center'>
+            <h1>Les jeux serieux</h1>
+          </div>
+        </div>
+
+        {{ range sort .Pages "Params.sorted" }}
+          <div class="row mt-3">
+            <div class="offset-sm-2 col-md-8 col-xs-12">
+              <h3>
+                <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+              </h3>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    {{ partial "footer" . }}
+  </body>
+</html>
