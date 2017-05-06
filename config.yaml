@@ -3,9 +3,9 @@ title: Ajiro
 baseurl: http://ajiro.fr/
 theme: template-ajiro
 
-#taxonomies:
-#  author: authors
-#  tag: tags
+taxonomies:
+  author: authors
+  tag: tags
 
 params:
   version:
