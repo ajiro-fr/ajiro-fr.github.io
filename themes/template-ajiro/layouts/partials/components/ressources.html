@@ -1,0 +1,13 @@
+{{ if .Params.ressources }}
+  <h2>Ressources</h2>
+  <ul>
+    {{ range .Params.ressources }}
+      <li>
+        <a href="/assets/resources/{{ .file }}">
+          <i class="fa fa-download"></i> {{ .name }}
+          {{ with .icon}}<img class="float-xs-right" src='/assets/images/{{ . }}' height="30">{{ end }}
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

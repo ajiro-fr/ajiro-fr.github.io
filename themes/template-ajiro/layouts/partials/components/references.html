@@ -13,9 +13,9 @@
     <li>
       <a href="{{ .url }}">
         {{ with .icon }}<i class="fa fa-{{ . }}"></i>{{end}}
-        {{.title | markdownify }}
+        {{ with .title }}{{ . | markdownify }}{{ end }}
       </a>
-      <p>{{.description | markdownify}}</p>
+      <p>{{ with .description}}{{ . | markdownify }}{{ end }}</p>
     </li>
     {{ end }}
     {{ range ( $.Scratch.Get "references") }}

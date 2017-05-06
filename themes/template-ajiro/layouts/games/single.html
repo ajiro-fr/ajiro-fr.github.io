@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+  <body>
+    {{ partial "header" . }}
+
+
+    <div class="container">
+      <div class="text-justify">
+        <div class="row mt-3">
+          <div class="offset-md-2 col-md-8 col-xs-12">
+            <h1>
+              {{ .Title }}
+            </h1>
+
+            <div class="card bg-light-gray">
+              <div class="card-block">
+                <h2>Objectifs</h2>
+                <p>{{ .Params.objectives | markdownify }}</p>
+                <p>
+                  <i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> {{ .Params.duration }}
+                  <br>
+                  <i class="fa fa-fw fa-users" aria-hidden="true"></i> {{ .Params.participants }}
+                  {{ if .Params.Tags }}
+                    <br>
+                    <i class="fa fa-fw fa-tags"></i>
+                    {{ range .Params.Tags }}
+                      <span class="tag tag-default">{{ . }}</span>
+                    {{ end }}
+                  {{ end }}
+                </p>
+
+                <h2>Materiel</h2>
+                <ul>
+                  {{ range .Params.materials}}
+                    <li>{{ . }}</li>
+                  {{ end }}
+                </ul>
+
+                {{ partial "components/ressources" . }}
+
+              </div>
+            </div>
+
+            {{ .Content }}
+
+            {{ partial "components/references" . }}
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{ partial "footer" . }}
+  </body>
+</html>
