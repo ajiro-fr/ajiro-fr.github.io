@@ -16,6 +16,8 @@ exclude:
 - Gemlfile
 - run
 - quick-run
+- themes
+- content
 
 defaults:
 - scope:
