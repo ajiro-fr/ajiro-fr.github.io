@@ -1,0 +1,19 @@
+{{ if .Params.comments }}
+  <div class="row mt-3">
+    <div class="offset-md-2 col-md-8 col-xs-12">
+      <h2>Commentaires</h2>
+    </div>
+  </div>
+
+  {{ range .Params.comments }}
+    <div class="row mt-2">
+      <div class="col-md-2 col-xs-12 text-xs-right">
+          <img alt="Photo {{.author}}" width="80" class="rounded-circle" src="/assets/images/people/{{.author}}.jpg" />
+      </div>
+      <div class="col-md-8 col-xs-12">
+        {{ .content | markdownify }}
+        <div class="text-xs-right">&mdash; <em>{{ (index $.Site.Data.people .author).name }}</em></div>
+      </div>
+    </div>
+  {{ end }}
+{{ end }}

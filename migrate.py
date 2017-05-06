@@ -5,12 +5,9 @@ import shutil
 import string
 import fnmatch
 
-BASE='.'
-TARGET='content'
-
 
 def list_items(directory, pattern="*.md"):
-    for root, dirs, files in os.walk(os.path.join(BASE, directory)):
+    for root, dirs, files in os.walk(directory):
         for f in files:
             if fnmatch.fnmatch(f, pattern):
                 yield (f, os.path.join(root, f))
@@ -78,8 +75,17 @@ def copy_people_photo(path, name):
     return process
 
 
+def copy_file():
+    def process(item, source, destination):
+        ensure_directory(destination)
+        shutil.copyfile(source, os.path.join(destination, item))
+    return process
+
+
 def process_file_content(translator):
-    def process(item, source, target):
+    def process(item, source, destination):
+        target = os.path.join(destination, nameof(item))
+        ensure_directory(target)
         write_file(
             os.path.join(target, 'index.md'),
             translator(
@@ -91,31 +97,22 @@ def process_file_content(translator):
 
 def translate(items, destination, translators):
     for item, source in items:
-        target = os.path.join(TARGET, destination, nameof(item))
-        ensure_directory(target)
         for translator in translators:
-            translator(item, source, target)
+            translator(item, source, destination)
 
 
 translate(
     items=list_items('_books'),
-    destination='books',
+    destination='content/books',
     translators=[
         process_file_content(remove_lines('layout: book')),
         copy_illustration('assets/books', 'cover')])
 
 translate(
     items=list_items('_games'),
-    destination='games',
+    destination='content/games',
     translators=[
         process_file_content(remove_lines('layout: game'))])
-
-translate(
-    items=list_items('_data/people', '*.yaml'),
-    destination='people',
-    translators=[
-        process_file_content(to_yaml),
-        copy_people_photo('assets/images/team', 'photo')])
 
 #translate(
 #    items=list_items('articles/_posts'),
