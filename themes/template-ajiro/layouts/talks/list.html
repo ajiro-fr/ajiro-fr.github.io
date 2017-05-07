@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+  <body>
+    {{ partial "header" . }}
+      <div class="container">
+        <div class='row mt-3'>
+          <div class='col-md-12 col-xs-12 text-xs-center'>
+            <h1>Nos talks</h1>
+          </div>
+        </div>
+
+        <div class="row mt-3">
+          {{ range sort .Pages }}
+            <div class='col-md-4 col-xs-12'>
+              <div class="card">
+                <a href="{{ .Permalink }}">
+                  <img
+                    class="card-img-top talk-illustration"
+                    alt="{{ .Title }}"
+                    src="{{ .Permalink }}/illustration__thumbnail-wide.jpg" />
+                </a>
+                <div class="card-block">
+                  <a href="{{ .Permalink }}">
+                    <h4 class="card-title">{{ .Title }}</h4>
+                  </a>
+                  {{ if .Params.in_progress }}
+                    <p class="text-muted"><small><i class="fa fa-wrench"></i> En préparation</small></p>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    {{ partial "footer" . }}
+  </body>
+</html>
