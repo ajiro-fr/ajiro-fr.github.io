@@ -1,6 +1,5 @@
 name: Hervé Taboucou
 member: true
-photo: taboucou_herve.jpg
 social:
 - url: mailto:herve.taboucou@gmail.com
   icon: fa-envelope
@@ -12,7 +11,6 @@ social:
   icon: fa-linkedin
 - url: http://fr.viadeo.com/fr/profile/herve.taboucou
   icon: fa-viadeo
-
 bio: |
   Je suis consultant en transformation d'organisation et coach de managers en transition vers l'agile.
   Dans mes activités antérieures, j'ai été ingénieur R&D puis manager dans l'industrie du contrôle aérien.
