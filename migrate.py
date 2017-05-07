@@ -114,6 +114,12 @@ translate(
     translators=[
         process_file_content(remove_lines('layout: game'))])
 
+translate(
+    items=list_items('_talks'),
+    destination='content/talks',
+    translators=[
+        process_file_content(remove_lines('layout: talk'))])
+
 #translate(
 #    items=list_items('articles/_posts'),
 #    destination='articles',
