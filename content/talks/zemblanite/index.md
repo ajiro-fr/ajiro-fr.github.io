@@ -1,7 +1,7 @@
 ---
 title: "La zemblanité dans nos équipes"
 duration: 1H
-type: Présentation
+genre: Présentation
 authors:
   - olivier_albiez
   - clavier_thomas

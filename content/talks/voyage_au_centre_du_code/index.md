@@ -1,7 +1,7 @@
 ---
 title: Voyage au centre du code.
 duration: 2H
-type: Présentation
+genre: Présentation
 authors:
   - albiez_olivier
   - clavier_thomas

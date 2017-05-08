@@ -1,7 +1,7 @@
 ---
 title: Le nouveau rôle de Chief Happiness Officer
 duration: 1H
-type: Présentation
+genre: Présentation
 authors:
   - legras_severin
 tags:

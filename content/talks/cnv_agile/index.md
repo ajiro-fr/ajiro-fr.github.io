@@ -1,7 +1,7 @@
 ---
 title: "La CNV au service de l'agilité"
 duration: 1H
-type: Présentation
+genre: Présentation
 in_progress: true
 authors:
   - quille_julie
