@@ -13,6 +13,10 @@
               {{ .Title }}
             </h1>
 
+            {{ if isset .Params "illustration"}}
+              {{ partial "components/image" (dict "image" .Params.illustration "path" .Permalink ) }}
+            {{ end }}
+
             <div class="card bg-light-gray">
               <div class="card-block">
                 <h2>Objectifs</h2>
