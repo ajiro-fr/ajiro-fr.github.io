@@ -1,0 +1,17 @@
+<div style=" overflow: hidden; ">
+  <figure>
+    <img alt="{{ .image.description }}"
+         src="{{ .path }}/{{ .image.name | default "illustration" }}{{ .format }}.jpg"
+         class="rounded {{ .class | default "img-fluid" }}"/>
+    <figcaption>
+      {{ with .image.source }}
+        <span class="img-credit float-xs-right">
+          <a href="{{ . }}">Source</a>
+        </span>
+      {{ end }}
+      {{ with .image.legend }}
+        <span><small>{{ . }}</small></span>
+      {{ end }}
+    </figcaption>
+  </figure>
+</div>

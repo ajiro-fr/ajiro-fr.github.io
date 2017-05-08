@@ -37,13 +37,7 @@
 
         <div class="row mt-2">
           <div class="offset-lg-2 col-lg-8 col-md-12">
-            <div style=" overflow: hidden; ">
-              <figure>
-                <img alt="Illustration"
-                     src="{{ .Permalink }}/illustration__thumbnail-wide.jpg"
-                     class="rounded article__img-top"/>
-              </figure>
-            </div>
+            {{ partial "components/image" (dict "image" .Params.illustration "path" .Permalink ) }}
           </div>
         </div>
 
