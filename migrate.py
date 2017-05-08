@@ -66,6 +66,16 @@ def copy_illustration(path, name):
     return process
 
 
+def copy_articles_assets(path):
+    def process(item, source, target):
+        year,month,day,name = nameof(item).split('-', 3)
+        for item_name, item_path in list_items(os.path.join(path, name), "*"):
+            shutil.copyfile(
+                item_path,
+                os.path.join(target, nameof(item), item_name))
+    return process
+
+
 def copy_people_photo(path, name):
     def process(item, source, target):
         first, last = nameof(item).split('_')
@@ -101,33 +111,34 @@ def translate(items, destination, translators):
             translator(item, source, destination)
 
 
-translate(
-    items=list_items('_books'),
-    destination='content/books',
-    translators=[
-        process_file_content(remove_lines('layout: book')),
-        copy_illustration('assets/books', 'cover')])
-
-translate(
-    items=list_items('_games'),
-    destination='content/games',
-    translators=[
-        process_file_content(remove_lines('layout: game'))])
-
-translate(
-    items=list_items('_talks'),
-    destination='content/talks',
-    translators=[
-        process_file_content(remove_lines('layout: talk'))])
-
-translate(
-    items=list_items('_tales'),
-    destination='content/tales',
-    translators=[
-        process_file_content(remove_lines('layout: tale'))])
+#translate(
+#    items=list_items('_books'),
+#    destination='content/books',
+#    translators=[
+#        process_file_content(remove_lines('layout: book')),
+#        copy_illustration('assets/books', 'cover')])
 
 #translate(
-#    items=list_items('articles/_posts'),
-#    destination='articles',
+#    items=list_items('_games'),
+#    destination='content/games',
 #    translators=[
-#        process_file_content(no_translation)])
+#        process_file_content(remove_lines('layout: game'))])
+
+#translate(
+#    items=list_items('_talks'),
+#    destination='content/talks',
+#    translators=[
+#        process_file_content(remove_lines('layout: talk'))])
+
+#translate(
+#    items=list_items('_tales'),
+#    destination='content/tales',
+#    translators=[
+#        process_file_content(remove_lines('layout: tale'))])
+
+translate(
+    items=list_items('articles/_posts'),
+    destination='content/articles',
+    translators=[
+        process_file_content(no_translation),
+        copy_articles_assets('assets/articles')])
