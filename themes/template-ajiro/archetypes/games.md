@@ -2,6 +2,7 @@
 hidden: false
 sorted:
 title:
+genre:
 tags:
   -
 objectives: |
@@ -15,5 +16,5 @@ illustration:
 references:
   - title:
     icon:
-    url: 
+    url:
 ---
