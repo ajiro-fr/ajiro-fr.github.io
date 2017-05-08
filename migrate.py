@@ -120,6 +120,12 @@ translate(
     translators=[
         process_file_content(remove_lines('layout: talk'))])
 
+translate(
+    items=list_items('_tales'),
+    destination='content/tales',
+    translators=[
+        process_file_content(remove_lines('layout: tale'))])
+
 #translate(
 #    items=list_items('articles/_posts'),
 #    destination='articles',

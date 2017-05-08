@@ -11,10 +11,17 @@
   <ul>
     {{ range .Params.references }}
     <li>
+      {{ if .url }}
       <a href="{{ .url }}">
         {{ with .icon }}<i class="fa fa-{{ . }}"></i>{{end}}
         {{ with .title }}{{ . | markdownify }}{{ end }}
       </a>
+      {{ else }}
+      <span>
+        {{ with .icon }}<i class="fa fa-{{ . }}"></i>{{end}}
+        {{ with .title }}{{ . | markdownify }}{{ end }}
+      </span>
+      {{ end }}
       <p>{{ with .description}}{{ . | markdownify }}{{ end }}</p>
     </li>
     {{ end }}
