@@ -2,9 +2,8 @@
 hidden: false
 sorted:
 title:
-genre:
 tags:
-  -
+-
 objectives: |
 
 duration:
