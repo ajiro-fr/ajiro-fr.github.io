@@ -6,7 +6,6 @@ authors:
   - retiere_samuel
 tags:
   - convergent thinking
-  -
   - prise de decision
 illustration:
   name: 9347498251_6feb2cdaebo
