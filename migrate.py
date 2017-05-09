@@ -1,9 +1,10 @@
 #!/usr/bin/python
 
+import fnmatch
 import os
+import re
 import shutil
 import string
-import fnmatch
 
 
 def list_items(directory, pattern="*.md"):
@@ -48,6 +49,16 @@ def no_translation(name, content):
 def to_yaml(name, content):
     return "---\n" + content + "---\n"
 
+
+def chain(*translators):
+    def process(name, content):
+        result = content
+        for translator in translators:
+            result = translator(name, result)
+        return result
+    return process
+
+
 def remove_lines(*lines):
     def process(name, content):
         result = []
@@ -55,6 +66,12 @@ def remove_lines(*lines):
             if not line in lines:
                 result.append(line)
         return string.join(result, '\n')
+    return process
+
+
+def replace_pattern(pattern, repl, flags):
+    def process(name, content):
+        return re.sub(pattern, repl, content, 0, flags)
     return process
 
 
@@ -67,9 +84,18 @@ def copy_illustration(path, name):
 
 
 def copy_articles_assets(path):
+    def cleanup_image_name(item_name):
+        name,ext = os.path.splitext(item_name)
+        return name[:-2] + ext
     def process(item, source, target):
         year,month,day,name = nameof(item).split('-', 3)
         for item_name, item_path in list_items(os.path.join(path, name), "*"):
+            if item_name == "toto.txt":
+                continue
+            if fnmatch.fnmatch(item_name, "*-800p*"):
+                continue
+            if fnmatch.fnmatch(item_name, "*-o*"):
+                item_name = cleanup_image_name(item_name)
             shutil.copyfile(
                 item_path,
                 os.path.join(target, nameof(item), item_name))
@@ -140,5 +166,35 @@ translate(
     items=list_items('articles/_posts'),
     destination='content/articles',
     translators=[
-        process_file_content(no_translation),
+        process_file_content(
+            chain(
+                replace_pattern(
+                    pattern="""{% include img.html\s*name=['"](?P<name>.*)['"]\s*source=['"](?P<source>.*)['"]\s*%}""",
+                    repl="""{{< img name="\g<1>" source="\g<2>" >}}""",
+                    flags=re.MULTILINE),
+                replace_pattern(
+                    pattern="""{% include img.html\s*name=['"](?P<name>.*)['"]\s*%}""",
+                    repl="""{{< img name="\g<1>" >}}""",
+                    flags=re.MULTILINE),
+                replace_pattern(
+                    pattern="""{% include img.html\s*name=['"](?P<name>.*)['"]\s*legend=['"](?P<legend>.*)['"]\s*source=['"](?P<source>.*)['"]\s*%}""",
+                    repl="""{{< img name="\g<1>" legend="\g<2>" source="\g<3>" >}}""",
+                    flags=re.MULTILINE),
+                replace_pattern(
+                    pattern="""{% include img.html\s*name=['"](?P<name>.*)['"]\s*legend=['"](?P<legend>.*)['"]\s*%}""",
+                    repl="""{{< img name="\g<1>" legend="\g<2>" >}}""",
+                    flags=re.MULTILINE),
+                replace_pattern(
+                    pattern="""{% include img-large.html\s*name=['"](?P<name>.*)['"]\s*source=['"](?P<source>.*)['"]\s*%}""",
+                    repl="""{{< img-large name="\g<1>" source="\g<2>" >}}""",
+                    flags=re.MULTILINE),
+                replace_pattern(
+                    pattern="""{% include img-large.html\s*name=['"](?P<name>.*)['"]\s*%}""",
+                    repl="""{{< img-large name="\g<1>" >}}""",
+                    flags=re.MULTILINE),
+                replace_pattern(
+                    pattern="""{% include youtube.html\s*video=['"](?P<video>.*)['"]\s*%}""",
+                    repl="""{{< youtube \g<1> >}}""",
+                    flags=re.MULTILINE),
+            )),
         copy_articles_assets('assets/articles')])
