@@ -1,0 +1,21 @@
+<div class="row">
+  <div class="offset-md-2 col-md-8 offset-xs-1 col-xs-10 text-xs-center">
+    <div style=" overflow: hidden; ">
+      <figure>
+        <img alt="{{ .Get "description" | default "illustration" }}"
+             src="{{ .Get "name"}}__thumbnail-wide.jpg"
+             class="rounded {{ .Get "class" | default "img-fluid" }}"/>
+          <figcaption>
+            {{ with .Get "source" }}
+              <span class="img-credit float-xs-right">
+                <a href="{{ . }}">Source</a>
+              </span>
+            {{ end }}
+            {{ with .Get "legend" }}
+              <span><small>{{ . }}</small></span>
+            {{ end }}
+          </figcaption>
+      </figure>
+    </div>
+  </div>
+</div>
