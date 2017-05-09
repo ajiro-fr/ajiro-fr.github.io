@@ -17,10 +17,7 @@ Je les ai découpé en 5 parties [Comprendre], [Explorer], [Décider], [Construi
 
 Je suis maintenant à l'étape où j'ai mis une solution en face d'un problème. Je peux éventuellement en développer plusieurs (de solutions) pour les mettre ensuite en concurrence.
 
-{% include img.html
-    name='15709722809_42433e78c4'
-    source='https://www.flickr.com/photos/axeleng/15709722809'
-%}
+{{< img name="15709722809_42433e78c4" source="https://www.flickr.com/photos/axeleng/15709722809" >}}
 
 ## Episode 1 : découpage en US
 
@@ -45,10 +42,7 @@ Dans un deuxième temps, on triera les User Stories par ordre croissant de risqu
 S'entraîner à découper une solution. Pendant la précédente séance, nous avons découpé un besoin.
 
 
-{% include img.html
-    name='2077095993_54c06f30d5'
-    source='https://www.flickr.com/photos/21396607@N05/2077095993'
-%}
+{{< img name="2077095993_54c06f30d5" source="https://www.flickr.com/photos/21396607@N05/2077095993" >}}
 
 ## Episode 2 : scénario de tests
 
@@ -80,10 +74,7 @@ Alors on me demande de me connecter
 S'entraîner à exprimer des scénarios de tests sous la forme canonique Gherkin et que ce soit des exemples (pas une reformulation de la spécification). Les verbes du contexte doivent être au passé et il ne doit y avoir (sauf cas exceptionnel) qu'un seul évènement. Il est très important que le scénario ait un nom qui reflète ce que l'on teste.
 
 
-{% include img.html
-    name='16091673593_3d28e34e05'
-    source='https://www.flickr.com/photos/bburky_/16091673593/'
-%}
+{{< img name="16091673593_3d28e34e05" source="https://www.flickr.com/photos/bburky_/16091673593/" >}}
 
 ## Episode 3 : Extreme quotation
 

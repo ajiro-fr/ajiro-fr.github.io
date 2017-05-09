@@ -19,10 +19,7 @@ Appelons cette entreprise la _DDI_ (Dupond et Dupont Industrie), afin de préser
 
 
 
-{% include img.html
-    name='27753216112_370dc9aca6'
-    source='https://www.flickr.com/photos/jarkophotos/27753216112/'
-%}
+{{< img name="27753216112_370dc9aca6" source="https://www.flickr.com/photos/jarkophotos/27753216112/" >}}
 
 ## Le récit
 
@@ -59,10 +56,7 @@ Pour le moment, elle trouve les salariés plus motivés et l'ambiance de travail
 De son côté, la médecine du travail constate des changements positifs quant au stress des salariés, lors des visites médicales.
 
 
-{% include img.html
-    name='11225546704_c31742a555'
-    source='https://www.flickr.com/photos/44371727@N05/11225546704/'
-%}
+{{< img name="11225546704_c31742a555" source="https://www.flickr.com/photos/44371727@N05/11225546704/" >}}
 
 ## Mes propositions pour la suite
 

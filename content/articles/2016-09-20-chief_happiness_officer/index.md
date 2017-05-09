@@ -20,4 +20,4 @@ Dans cette conférence donnée au [Normandie Web Expert Summer Festival 2016](ht
 
 Retrouvez cette courte vidéo de 18 minutes sur [Youtube](https://www.youtube.com/watch?v=_frmk6LVQwM)
 
-{% include youtube.html video='_frmk6LVQwM' %}
+{{< youtube _frmk6LVQwM >}}

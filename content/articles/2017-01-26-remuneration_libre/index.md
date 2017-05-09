@@ -163,9 +163,7 @@ Les principaux effets du système tel qu’il existe (qui sont souvent inconscie
 
 Le système de rémunération actuel engendre une culture de la peur dont quelques symptômes sont représentés dans le schéma ci-dessous. La performance du collectif se trouve alors impactée.
 
-{% include img-large.html
-    name='defauts'
-%}
+{{< img-large name="defauts" >}}
 
 
 ## Notre proposition en quelques mots
@@ -179,9 +177,7 @@ Notre proposition s’applique à tous les travailleurs de l’entreprise (trava
 **Notre intention avec notre proposition est de favoriser l’esprit d’équipe pour créer de la performance collective qui bénéficie à l’ensemble des individus.**
 
 
-{% include img-large.html
-    name='maison'
-%}
+{{< img-large name="maison" >}}
 
 Notre maison de la rémunération du XXIème siècle est décrite dans la suite du document en suivant la composition des briques.
 
@@ -333,15 +329,11 @@ Nous attirons l’attention sur le fait qu’une décision, ayant des conséquen
 Ci-après le mécanisme global présenté via un exemple fictif.
 
 
-{% include img.html
-    name='choix_salaires'
-%}
+{{< img name="choix_salaires" >}}
 
 Léo, Léa et Léonie ont tous les 3 choisi leur salaire dans la grille. Léon arrive en cours d’année (juillet) son salaire est négocié dans la grille.
 
-{% include img.html
-    name='choix_part_fixe'
-%}
+{{< img name="choix_part_fixe" >}}
 
 Léo a choisi de ne recevoir tous les mois que 60% de son salaire en salaire fixe.
 
@@ -354,30 +346,22 @@ Ils laissent le reste dans l’entreprise pour en partager les risques.
 Léon a été embauché en milieu d’année, il n’a donc pas de variable (cf. paragraphe “L’embauche et l’intégration”).
 
 
-{% include img.html
-    name='choix_part_variable'
-%}
+{{< img name="choix_part_variable" >}}
 
 C’est la fin de l’année, le moment de faire le bilan financier. La société a fait une très bonne année, elle peut donc verser à nos 4 amis la totalité de leur part variable.
 
 
-{% include img.html
-    name='versement_bonification'
-%}
+{{< img name="versement_bonification" >}}
 
 Part variable, accompagnée de la bonification correspondante, calculée en utilisant le coefficient multiplicateur décidé par l’ensemble des salariés.
 
 
-{% include img.html
-    name='versement_benefices'
-%}
+{{< img name="versement_benefices" >}}
 
 Les résultats sont tellement bons, qu’il reste de quoi verser une redistribution des bénéfices à tous les salariés. Léon n’étant là que depuis 6 mois, il n’a que la moitié de cette participation.
 
 
-{% include img.html
-    name='remuneration'
-%}
+{{< img name="remuneration" >}}
 
 Au final voici les rémunérations annuelles de nos quatre amis.
 

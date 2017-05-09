@@ -25,40 +25,28 @@ Tous les jours ou presque, vous prenez des décisions. Certaines sont plus simpl
 
 ## HIPPo
 
-{% include img.html
-    name='8702937869_a0f09b9697'
-    source='https://www.flickr.com/photos/jamieanderson/8702937869'
-%}
+{{< img name="8702937869_a0f09b9697" source="https://www.flickr.com/photos/jamieanderson/8702937869" >}}
 
 Comme vous l'aurez deviné, c'est un acronyme que voilà décrypté : Highest Paid Person Opinion. Pour faire simple, c'est la personne la mieux payée (une autre façon de dire le chef) qui décide pour tout le monde.
 
 
 ## Consensus
 
-{% include img.html
-    name='5700609302_16bb1386e0'
-    source='https://www.flickr.com/photos/vegaseddie/5700609302/'
-%}
+{{< img name="5700609302_16bb1386e0" source="https://www.flickr.com/photos/vegaseddie/5700609302/" >}}
 
 Toutes les personnes qui participent à la décision doivent être d'accord.
 
 
 ## Majorité
 
-{% include img.html
-    name='6251799625_a07a8ec3dd'
-    source='https://www.flickr.com/photos/caelie/6251799625/'
-%}
+{{< img name="6251799625_a07a8ec3dd" source="https://www.flickr.com/photos/caelie/6251799625/" >}}
 
 Pour qu'une décision soit prise, une majorité de personnes doivent être d'accord. Il existe quelques variantes avec majorité absolue ou relative, à deux tours...
 
 
 ## Consentement (Cf core protocols Decider)
 
-{% include img.html
-    name='15327443317_1359a5f239'
-    source='https://www.flickr.com/photos/48090400@N05/15327443317'
-%}
+{{< img name="15327443317_1359a5f239" source="https://www.flickr.com/photos/48090400@N05/15327443317" >}}
 
 Une personne propose une réponse à une question. Alors les autres participants peuvent répondre par 3 choix :
 - Je suis d'accord : pouce levé
@@ -68,20 +56,14 @@ Une personne propose une réponse à une question. Alors les autres participants
 
 ## Conseil (Cf protocole Advice de Gore)
 
-{% include img.html
-    name='6878515664_f586d07bc2'
-    source='https://www.flickr.com/photos/71508688@N00/6878515664'
-%}
+{{< img name="6878515664_f586d07bc2" source="https://www.flickr.com/photos/71508688@N00/6878515664" >}}
 
 Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de toutes les personnes impactées par sa décision ainsi que de prendre conseil auprès des personnes compétentes sur le sujet de la décision. Ensuite, la personne prend sa décision.
 
 
 ## Le jeu
 
-{% include img.html
-    name='2625563385_6d2a215481'
-    source='https://www.flickr.com/photos/thomaslife/2625563385'
-%}
+{{< img name="2625563385_6d2a215481" source="https://www.flickr.com/photos/thomaslife/2625563385" >}}
 
 1. Imprimer [les questions] et les découper pour en faire un paquet. Trouver au moins 2 personnes pour jouer avec vous. Le chiffre optimal est 5 joueurs.
 2. Pendant 30 secondes, répondre aux questions avec le protocole HIPPo
@@ -93,10 +75,7 @@ Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de 
 
 ## Que constate-t-on généralement ?
 
-{% include img.html
-    name='14272213208_04881213a2'
-    source='https://www.flickr.com/photos/viktorkarppinen/14272213208'
-%}
+{{< img name="14272213208_04881213a2" source="https://www.flickr.com/photos/viktorkarppinen/14272213208" >}}
 
 1. Attention aux doigts coupés. Il faut avoir des amis même si des connaissances suffisent.
 2. Les décisions sont prises rapidement. Les autres personnes sont frustrées et donc peu engagées. Dans le monde du travail, c'est en général assez lent, car il faut trouver un slot disponible dans l'agenda du big boss. Des études ont aussi montré que les décisions n'étaient pas nécessairement les meilleures d'un point de vue économique. Pour compléter, l'armée considère qu'une décision prend 3 fois plus de temps à prendre pour chaque niveau hiérarchique remonté.
@@ -107,10 +86,7 @@ Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de 
 
 ## Quel protocole utiliser ?
 
-{% include img.html
-    name='32761926650_329eec689c'
-    source='https://www.flickr.com/photos/beegee49/32761926650'
-%}
+{{< img name="32761926650_329eec689c" source="https://www.flickr.com/photos/beegee49/32761926650" >}}
 
 Le but de jouer et donc d'utiliser les protocoles est d'en faire ressentir les effets. Il n'y a pour moi pas un protocole de décision à utiliser dans tous les cas. La bonne nouvelle c'est que vous avez le choix, la mauvaise c'est que vous avez le choix :
 

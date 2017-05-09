@@ -14,10 +14,7 @@ illustration:
 
 Comme je ne sais pas trop ce que je vais faire l'année prochaine, c'est le bon moment pour se poser et de se demander comment je ferais une transformation continuous delivery si je devais en refaire une. J'annonce la couleur, je vise la lune.
 
-{% include img.html
-    name='6805521463_9dfaf313fe'
-    source='http://flic.kr/p/bno5qX'
-%}
+{{< img name="6805521463_9dfaf313fe" source="http://flic.kr/p/bno5qX" >}}
 
 Je vais faire mon vendeur de tapis / promoteur (pour parler process com) pour lancer le débat, je ferai en un an ce que j'ai fait en 3. Quand je dis "je", je parle de moi avec mes amis coachs craft et devops. Ça vous intéresse de savoir comment je ferai, eh bien, je vais vous le dire.
 
@@ -31,17 +28,11 @@ Les transformations Agile / Continuous Delivery que j'ai vues ressemblent géné
 
 C'est super progressif, mais super lent.
 
-{% include img.html
-    name='2037551808_0465ccc90a'
-    source='http://flic.kr/p/473ZaA'
-%}
+{{< img name="2037551808_0465ccc90a" source="http://flic.kr/p/473ZaA" >}}
 
 Cela a pu être nécessaire, car les ressources pour le faire n'étaient pas nécessairement disponibles sur la place parisienne et qu'il fallait les former. Cela n'est plus vrai aujourd'hui. Et donc comment aller vers du continuous delivery (of value) et gagner un avantage concurrentiel business. Me voici au pied du mur (ou du Fitz Roy pour ceux qui connaissent)
 
-{% include img.html
-    name='6337221390_7bac147fdb'
-    source='https://flic.kr/p/aDZV8L'
-%}
+{{< img name="6337221390_7bac147fdb" source="https://flic.kr/p/aDZV8L" >}}
 
 Et donc :
 
@@ -53,50 +44,35 @@ Et donc :
 Clairement, c'est une approche disruptive pour une société qui voit le continuous delivery comme une condition de survie.
 
 
-{% include img.html
-    name='7707975616_6a95bc129a'
-    source='https://flic.kr/p/cK8oBj'
-%}
+{{< img name="7707975616_6a95bc129a" source="https://flic.kr/p/cK8oBj" >}}
 
 ## Recrutement
 
 L'approche traditionnelle de "je forme en bas et je monte au fur et à mesure", c'est bien, mais comme c'est lent, je passe ma vie à reformer dès que des nouveaux arrivent. Autant diminuer l'effort en prenant des bons. Si je prends des coachs, c'est majoritairement au début pour prendre les personnes qu'il faut. Côté technique, codingame (ou un truc dans le genre) comme premier filtre sur l'algorithmique, puis kata et revue de kata pour tester les qualités de clean code et testing. Côté maitrise d'ouvrage, des exercices de découpage de besoins métier et d'interviews utilisateurs. Je teste aussi la capacité à livrer de la documentation de manière incrémentale. Dans la pratique, je mets un coach dans tous les recrutements avec véto possible et j'implique tout le monde dans le recrutement et pas juste le chef qui décide.
 
 
-{% include img.html
-    name='9859823713_be11efb7c4'
-    source='http://flic.kr/p/g2hb5z'
-%}
+{{< img name="9859823713_be11efb7c4" source="http://flic.kr/p/g2hb5z" >}}
 
 ## Budget
 
 Comment on peut être agile quand les projets à faire sont déterminés de manière annuelle avec roadmap annuelle et reporting sur l'avancement. Sans fluidification budgétaire, point de salut. Passons à un budget glissant (cf principe du beyond budgeting). Dis comme cela, c'est facile. Dans la pratique, cela frotte beaucoup, mais le gain est tellement énorme. Le nombre de projets que je vois aller au bout alors qu'ils auraient dû être coupés ou réorientés est juste trop important. Je suis soft, j'avais envie de dire énorme.
 
 
-{% include img.html
-    name='3243817815_6948dd2cff'
-    source='http://flic.kr/p/5WDq2n'
-%}
+{{< img name="3243817815_6948dd2cff" source="http://flic.kr/p/5WDq2n" >}}
 
 ## Projet vers produit
 
 C'est la suite de la partie budgétaire. Nous allons maintenant devoir donner de l'avancement en fonction des impacts business et non plus de livrables IT. Cela veut dire repenser l'approche et donc amener des outils de mesure de l'impact et non des outils de mesure du coût. Il y a tout ce qui tourne autour de la validation des hypothèses (lean start up, interview métiers, sketching, prototypage, ...) et aussi autour de la métrologie. On peut tout mesurer, l'essentiel est de savoir quelle décision on veut prendre avec une mesure. Un des changements le plus important que j'ai vu, c'est en changeant un modèle d'expression de besoins et en rajoutant une question "qu'est-ce que tu pourras faire demain que tu ne peux pas faire aujourd'hui ?". Sur ce thème, cela risque de frotter avec les communautés de chef de projet. D'où la question sur le recrutement.
 
 
-{% include img.html
-    name='5314175290_70a64f66f4'
-    source='http://flic.kr/p/96AxaU'
-%}
+{{< img name="5314175290_70a64f66f4" source="http://flic.kr/p/96AxaU" >}}
 
 ## L'organisation
 
 Avant de m'attaquer à la polyvalence des équipes, je regarde la traditionnelle question du hamburger. Est-ce que j'ai une organisation alignée business ou couche technique. Si c'est la deuxième réponse, on peut essayer des transformations agiles d'équipe, mais cela va tellement frotter que le ratio énergie/impact sera mauvais. Il vaut mieux mettre les pieds dans le plat tout de suite plutôt que de faire du palliatif. Cela n'est pas un hasard si j'ai mis la gestion produit avant, cela va tellement pousser à un alignement business que cela facilite grandement cette étape.
 
 
-{% include img.html
-    name='8480148004_7d542db588'
-    source='http://flic.kr/p/dVmYym'
-%}
+{{< img name="8480148004_7d542db588" source="http://flic.kr/p/dVmYym" >}}
 
 
 ## Les mains dans le cambouis
@@ -104,10 +80,7 @@ Avant de m'attaquer à la polyvalence des équipes, je regarde la traditionnelle
 Y a plus qu'à. L'avantage d'avoir faire les autres étapes avant, c'est que quand on arrive à cette étape, on a déjà du meilleur staff, un alignement valeur, une couche managériale alignée... Et donc là, c'est roule ma poule, cela peut aller super vite. Les derniers accompagnements que j'ai faits avec un bon staff dès le début ont duré environ 3 mois. Si je compare par rapport à une transformation classique d'une équipe qui s'étale plus sur 6 mois, c'est 2 fois plus rapide. Et c'est d'ailleurs vrai en délai comme en charge.
 
 
-{% include img.html
-    name='5777267048_5e452030be'
-    source='http://flic.kr/p/9Nw1dy'
-%}
+{{< img name="5777267048_5e452030be" source="http://flic.kr/p/9Nw1dy" >}}
 
 ## Ma conclusion
 

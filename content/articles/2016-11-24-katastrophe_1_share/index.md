@@ -20,10 +20,7 @@ Dans la première étape « comment créer une compréhension commune », nous a
 
 À ceux qui trouvent les exercices suivants faciles, les exercices de compréhension sont un échauffement. Cela va se compliquer dans les prochains posts :-)
 
-{% include img.html
-    name='4556624994_5447d3ab79'
-    source='https://www.flickr.com/photos/limevelyn/4556624994'
-%}
+{{< img name="4556624994_5447d3ab79" source="https://www.flickr.com/photos/limevelyn/4556624994" >}}
 
 ## Episode 1 : Mind Map
 
@@ -40,10 +37,7 @@ En groupe sur un slot de 10 minutes, partager et dessiner une mind map sur le su
 Être capable de comprendre le point de vue des autres. Ne pas tenter d’imposer à tous sa propre vision.
 
 
-{% include img.html
-    name='3882449431_2793909038'
-    source='https://www.flickr.com/photos/photographybypaul/3882449431'
-%}
+{{< img name="3882449431_2793909038" source="https://www.flickr.com/photos/photographybypaul/3882449431" >}}
 
 ## Episode 2 : Interview utilisateur
 
@@ -64,10 +58,7 @@ Le but n’est pas de savoir si madame Michu a vraiment un problème pour se fou
 - Est-ce que j’essaie bien de comprendre les problèmes ou est-ce que je propose / vend une solution ? On sait que j’ai en tête Auchan Direct, mais nous ne sommes pas dans une étape de vente.
 
 
-{% include img.html
-    name='26472155_8cc5066b66'
-    source='https://www.flickr.com/photos/gideon/26472155/'
-%}
+{{< img name="26472155_8cc5066b66" source="https://www.flickr.com/photos/gideon/26472155/" >}}
 
 ## Episode 3 : Elevator pitch & canvas
 

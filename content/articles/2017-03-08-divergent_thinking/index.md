@@ -25,10 +25,7 @@ Dans la théorie de la créativité de Guilford, les 16 facteurs de production d
 
 ## Originality
 
-{% include img.html
-    name='283195818_582284e108'
-    source='https://www.flickr.com/photos/caseyatthebat/283195818'
-%}
+{{< img name="283195818_582284e108" source="https://www.flickr.com/photos/caseyatthebat/283195818" >}}
 
 Le critère d'évaluation de cette catégorie est la rareté statistique de la réponse. J'aime bien cette définition de 'out of the box' à savoir une vision statistique.
 
@@ -36,18 +33,12 @@ Le critère d'évaluation de cette catégorie est la rareté statistique de la r
 _Utilisez les nombres suivants 2, 3, 5, 10, 24 et des opérations (telles que ( ), *, :, +, -, exp) pour atteindre le chiffre 120._
 
 ### Raconter une histoire
-{% include img.html
-    name='8406001448_c4ec830e6e'
-    source='https://www.flickr.com/photos/danielygo/8406001448'
-%}
+{{< img name="8406001448_c4ec830e6e" source="https://www.flickr.com/photos/danielygo/8406001448" >}}
 
 _A partir de l'image ci dessus, racontez une histoire._
 
 ### Le poème
-{% include img.html
-    name='3043542126_30b003e3aa'
-    source='https://www.flickr.com/photos/peter_from_wellington/3043542126/'
-%}
+{{< img name="3043542126_30b003e3aa" source="https://www.flickr.com/photos/peter_from_wellington/3043542126/" >}}
 
 _A partir de l'image ci dessus, écrivez un poème._
 
@@ -60,10 +51,7 @@ Il existe deux grandes familles de théories de la créativité. Pour l'une d'en
 
 ## Flexibility
 
-{% include img.html
-    name='15982126683_582edcedcd'
-    source='https://www.flickr.com/photos/old-fi/15982126683'
-%}
+{{< img name="15982126683_582edcedcd" source="https://www.flickr.com/photos/old-fi/15982126683" >}}
 
 Cette catégorie fait référence au degré de différence des réponses ou autrement dit les réponses viennent elles d'un seul ou de plusieurs domaines.
 
@@ -84,10 +72,7 @@ Réponses possibles : Mouche, Broche, Feu, Oeuf, Sein, Fou, Amour
 ### Six Thinking Hats
 D'où le jeu suivant qui est utile pour voir différemment les choses. Vous allez voir une scène en endossant 5 modes de pensée différents (https://fr.wikipedia.org/wiki/M%C3%A9thode_des_six_chapeaux). _Décrivez la scène ci dessous avec les prismes suivants :_
 
-{% include img.html
-    name='7789321354_7a713a2b97'
-    source='https://www.flickr.com/photos/rowanuniversitypublications/7789321354/'
-%}
+{{< img name="7789321354_7a713a2b97" source="https://www.flickr.com/photos/rowanuniversitypublications/7789321354/" >}}
 
 - Chapeau blanc : Pensée factuelle. Faits.
 - Chapeau rouge : Critique émotionnelle. Emotion.
@@ -106,10 +91,7 @@ Arrivé à cette étape et si vous avez un peu pris le temps de jouer, vous comm
 
 ## Fluency
 
-{% include img.html
-    name='10786488_7850bee435'
-    source='https://www.flickr.com/photos/nickgray/10786488'
-%}
+{{< img name="10786488_7850bee435" source="https://www.flickr.com/photos/nickgray/10786488" >}}
 
 Dans cette catégorie, on mesure la maturité par le nombre de réponses apportées. C'est la capacité à générer du volume.
 
@@ -117,9 +99,7 @@ Dans cette catégorie, on mesure la maturité par le nombre de réponses apport�
 _En 2 minutes, trouvez autant d'usage possible à un caddie de supermarché. Pour l'anecdote, certains en ont utilisé un comme barbecue._
 
 ### Pattern breaking
-{% include img.html
-    name='labyrinthe'
-%}
+{{< img name="labyrinthe" >}}
 _Tracez un chemin du point A au point B._
 
 ### Des solutions infinies
@@ -132,15 +112,10 @@ Vous commencez à être des vrais pros du divergent thinking avec tout cet entra
 
 ## Elaboration
 
-{% include img.html
-    name='7426798698_82ab4a03f1'
-    source='https://www.flickr.com/photos/gerwinfilius/7426798698'
-%}
+{{< img name="7426798698_82ab4a03f1" source="https://www.flickr.com/photos/gerwinfilius/7426798698" >}}
 
 ### La figure incomplète
-{% include img-large.html
-    name='forme'
-%}
+{{< img-large name="forme" >}}
 _Vous avez 5 minutes pour compléter de manière originale ce dessin._
 
 Maintenant que vous vous êtes bien amusés, j'ai gardé la mauvaise nouvelle pour la fin. Il a été constaté que de l'entrainement au divergent thinking vous fait progresser dans un type d'exercice (énigmes,...) ou dans un cluster (verbaliser, écrire, algèbre,..). Il a été constaté que des personnes entrainées au divergent thinking sont meilleures globalement que celles qui ne le sont pas. Par contre si elles ont globalement progressé, elles ont aussi régressé sur certains domaines et cela de manière assez aléatoire. La conclusion de l'étude, c'est que l'on ne connait pas aujourd'hui les facteurs (le pluriel est important) qui favorise la pensée créatrice. Cela ne dit pas que les exercices ne servent à rien, cela veut dire que l'on maitrise mal les effets. Il n'est pas sûr qu'il soit nécessaire de s'entrainer avant de jouer le match. Le plus efficace semble être de jouer beaucoup de matchs.

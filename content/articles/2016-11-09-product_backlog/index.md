@@ -20,10 +20,7 @@ Il y a quelques années, le product backlog se résumait pour moi à des User St
 
 Je saute l'étape où je décide quelle initiative je lance car c'est un sujet pour un futur post et que je ne veux pas le résumer à deux lignes. Je parlerai matrice de décisions et coût du retard.
 
-{% include img.html
-    name='4882669123_38df0fcf8e'
-    source='https://www.flickr.com/photos/dgeen/4882669123'
-%}
+{{< img name="4882669123_38df0fcf8e" source="https://www.flickr.com/photos/dgeen/4882669123" >}}
 
 ## Etape 2 : Réflechis avant de foncer
 
@@ -41,10 +38,7 @@ Je garde la partie solution dans le canvas pour ne pas brider et pour la conduit
 _Output : L'initiative parait faire du sens à savoir que je sais à quel problème je réponds. Au regard des hypothèses et des risques, l'initiative est viable._
 
 
-{% include img.html
-    name='19869181208_15677d3cb7'
-    source='https://www.flickr.com/photos/p_valdivieso/19869181208'
-%}
+{{< img name="19869181208_15677d3cb7" source="https://www.flickr.com/photos/p_valdivieso/19869181208" >}}
 
 ## Etape 3 : Le jalonnement
 
@@ -54,10 +48,7 @@ J'ai un embryon de solution viable et j'ai levé certaines hypothèses. Je vais 
 _Output : Mon initiative est découpée en gros glaçons (jalons) et j'ai une idée de l'enchainement temporel._
 
 
-{% include img.html
-    name='8599735985_0f513948a1'
-    source='https://www.flickr.com/photos/p_valdivieso/8599735985'
-%}
+{{< img name="8599735985_0f513948a1" source="https://www.flickr.com/photos/p_valdivieso/8599735985" >}}
 
 ## Etape 4 : L'expérience utilisateur
 
@@ -66,10 +57,7 @@ Je prends les premiers jalons et je zoome. Je ne vais pas produire du logiciel p
 {: .bleu}
 _Output : Je connais mes scénarios d'usage mininum (MVE). Je saurai prendre des décisions après activation en production car je connais mes conditions de succès._
 
-{% include img.html
-    name='8185003116_a1d8be49ff'
-    source='https://www.flickr.com/photos/vialbost/8185003116'
-%}
+{{< img name="8185003116_a1d8be49ff" source="https://www.flickr.com/photos/vialbost/8185003116" >}}
 
 ## Etape 5 : La solution
 
@@ -83,10 +71,7 @@ Et donc qu'est-ce que c'est une User Story ? Et bien, c'est un morceau fonctionn
 {: .bleu}
 _Output : J'ai la description de la solution avec critère d'acceptance._
 
-{% include img.html
-    name='28642020772_aac9123977'
-    source='https://www.flickr.com/photos/p_valdivieso/28642020772'
-%}
+{{< img name="28642020772_aac9123977" source="https://www.flickr.com/photos/p_valdivieso/28642020772" >}}
 
 ## Etape 6 : La délivrance
 
@@ -100,10 +85,7 @@ Une fois un MVE mis en production, on mesure la valeur réelle de l'indicateur b
 {: .bleu}
 _Output : Mesure réelle de l'indicateur métier à mettre au regard des conditions de succès. Je peux prendre des décisions métier (continuer, pivoter/inflechir, remodeler)._
 
-{% include img.html
-    name='8390935488_b1c6c2b117'
-    source='https://www.flickr.com/photos/art_roman_p/8390935488'
-%}
+{{< img name="8390935488_b1c6c2b117" source="https://www.flickr.com/photos/art_roman_p/8390935488" >}}
 
 ## Aparté : La minute théologique
 
@@ -111,10 +93,7 @@ La question «_Comment saurez-vous que c'est un succès ?_» permet de connaitre
 
 Côté "valeur", je considère que la "Business value" relative ne sert pas à grand chose. Cela peut aider pour de la priorisation Valeur / Effort, mais quelle est la valeur réelle en production d'un item estimé à une valeur relative de 20 ? Et bien je n'en ai aucune idée et je ne vois pas comment on peut savoir. A l'arrivée, on ne peut prendre aucune décision suite au passage en production. J'ai donc complètement arrêté de l'utiliser et je ne garde que l'indicateur métier du jalon et/ou du MVE. Si j'y arrive, j'utilise plutôt la notion de coût du retard (cost of delay pour les intimes).
 
-{% include img.html
-    name='17773896554_bf0774fc4c'
-    source='https://www.flickr.com/photos/p_valdivieso/17773896554'
-%}
+{{< img name="17773896554_bf0774fc4c" source="https://www.flickr.com/photos/p_valdivieso/17773896554" >}}
 
 ## Etape 7, 8, 9, 10... : La routine
 
@@ -126,10 +105,7 @@ A l'arrivée, un product backlog, ça ressemble à ça :
 
 ## Conclusion : Garder du lien
 
-{% include img.html
-    name='6888100281_4b7b238dba'
-    source='https://www.flickr.com/photos/p_valdivieso/6888100281'
-%}
+{{< img name="6888100281_4b7b238dba" source="https://www.flickr.com/photos/p_valdivieso/6888100281" >}}
 
 Le gros gain à travailler ainsi, c'est que vous êtes capable à tout moment de faire le lien entre les problèmes auxquels vous voulez répondre et la solution que vous mettez en face. On résume souvent le product backlog à une description d'une solution et je trouve cela trop limitant. J'ai trop souvent vu une décorrelation entre le business case d'un projet et l'exécution au jour le jour.
 

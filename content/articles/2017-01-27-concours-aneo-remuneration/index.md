@@ -32,7 +32,7 @@ La participation à ce concours nous apparaît donc comme une formidable opportu
 
 Dans le cadre de sa transformation et de la recherche que nous effectuons sur de nouveaux types de management et d’organisation, **ANEO souhaite réfléchir à des modes de rémunération innovants, et plus précisément à la décorrélation de l’évaluation annuelle et de la rémunération**.
 
-{% include youtube.html video='jEE3NmGNKHc' %}
+{{< youtube jEE3NmGNKHc >}}
 
 Pour cela, ANEO souhaite utiliser le canal de l’**intelligence collective** et a décidé de lancer un **concours** de réflexion sur les « rémunérations ». Qu’est-ce qui les déclenche, selon quelles modalités, à quelles fréquences, etc…???
 
