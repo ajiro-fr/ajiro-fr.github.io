@@ -1,4 +1,5 @@
 ---
+date: 2016-09-06
 title: "La prise de risque dans l'entreprise, éclairages inattendus des militaires"
 lang: fr
 hidden: false

@@ -1,4 +1,5 @@
 ---
+date: 2017-01-25
 title: "Product Development et Tactique Théorique : Aux abris"
 lang: fr
 hidden: false

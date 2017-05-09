@@ -1,4 +1,5 @@
 ---
+date: 2016-09-20
 title: "Le nouveau rôle de Chief Happiness Officer"
 lang: fr
 hidden: false

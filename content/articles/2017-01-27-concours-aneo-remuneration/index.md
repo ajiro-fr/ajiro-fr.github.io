@@ -1,4 +1,5 @@
 ---
+date: 2017-01-27
 title: "Concours ANEO : innovation sur la rémunération"
 lang: fr
 hidden: false

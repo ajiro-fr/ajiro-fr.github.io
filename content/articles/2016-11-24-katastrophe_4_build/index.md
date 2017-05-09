@@ -1,4 +1,5 @@
 ---
+date: 2016-11-24
 title: "Product Developement : Des katas de construction"
 lang: fr
 hidden: true

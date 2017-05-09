@@ -1,4 +1,5 @@
 ---
+date: 2017-01-16
 title: "Simplifiez votre organisation pour redonner de la manoeuvrabilité"
 lang: fr
 hidden: false

@@ -1,4 +1,5 @@
 ---
+date: 2017-03-27
 title: "Beyond budgeting: l'agilité pour les exécutifs"
 lang: fr
 hidden: false

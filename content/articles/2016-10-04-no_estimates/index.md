@@ -1,4 +1,5 @@
 ---
+date: 2016-10-04
 title: "#NoEstimates, concentrons nous sur l'essentiel"
 lang: fr
 hidden: false

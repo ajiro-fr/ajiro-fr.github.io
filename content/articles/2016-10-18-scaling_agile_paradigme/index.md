@@ -1,4 +1,5 @@
 ---
+date: 2016-10-18
 title: "L'agilité à l'échelle : Du nécessaire changement de paradigme"
 lang: fr
 hidden: false

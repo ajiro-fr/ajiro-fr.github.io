@@ -1,4 +1,5 @@
 ---
+date: 2017-01-16
 title: "Product Development et Tactique Théorique : Chargez"
 lang: fr
 hidden: false

@@ -1,4 +1,5 @@
 ---
+date: 2017-01-26
 title: "Pour réduire vos coûts, changez votre organisation"
 lang: fr
 hidden: false

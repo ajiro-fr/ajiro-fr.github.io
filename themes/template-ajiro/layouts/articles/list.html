@@ -10,7 +10,7 @@
           </div>
         </div>
 
-        {{ range sort .Pages "Lastmod" "asc" }}
+        {{ range sort .Pages "Lastmod" "desc" }}
         {{ if not .Params.hidden }}
           <div class="row mt-3">
             <div class="col-md-3 text-xs-right ">

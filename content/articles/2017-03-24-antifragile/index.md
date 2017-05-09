@@ -1,4 +1,5 @@
 ---
+date: 2017-03-24
 title: "Antifragile, les bienfaits du désordre"
 lang: fr
 hidden: false

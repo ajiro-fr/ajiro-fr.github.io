@@ -1,4 +1,5 @@
 ---
+date: 2016-12-05
 title: "Product Developement : Des katas de validation"
 lang: fr
 hidden: true

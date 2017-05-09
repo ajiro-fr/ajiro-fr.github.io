@@ -1,4 +1,5 @@
 ---
+date: 2016-09-13
 title: "Si je devais refaire une transformation continuous delivery de zéro"
 lang: fr
 hidden: false

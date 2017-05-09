@@ -69,6 +69,13 @@ def remove_lines(*lines):
     return process
 
 
+def add_date():
+    def process(name, content):
+        year,month,day,_ = nameof(name).split('-', 3)
+        return "---\ndate: %s-%s-%s\n%s" % (year,month,day,content[4:])
+    return process
+
+
 def replace_pattern(pattern, repl, flags):
     def process(name, content):
         return re.sub(pattern, repl, content, 0, flags)
@@ -168,6 +175,7 @@ translate(
     translators=[
         process_file_content(
             chain(
+                add_date(),
                 replace_pattern(
                     pattern="""{% include img.html\s*name=['"](?P<name>.*)['"]\s*source=['"](?P<source>.*)['"]\s*%}""",
                     repl="""{{< img name="\g<1>" source="\g<2>" >}}""",

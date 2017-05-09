@@ -1,4 +1,5 @@
 ---
+date: 2016-10-17
 title: "Engagez-vous qu'ils disaient !"
 date: 2016-10-17
 lang: fr

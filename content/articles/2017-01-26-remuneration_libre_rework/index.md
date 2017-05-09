@@ -1,4 +1,5 @@
 ---
+date: 2017-01-26
 title: Rémunération libre
 subtitle: Proposition pour un partage innovant de la valeur et des risques
 lang: fr
