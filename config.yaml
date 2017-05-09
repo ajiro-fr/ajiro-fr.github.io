@@ -3,6 +3,8 @@ title: Ajiro
 baseurl: http://ajiro.fr/
 theme: template-ajiro
 
+enableEmoji: true
+
 taxonomies:
   author: authors
   tag: tags
