@@ -1,6 +1,4 @@
 TODO:
-- Migration des articles
-  - Metadata articles dans les articles
 - Ajout des archetypes (articles, talks, books, ...)
 - pages pour les categories
 - Ajouter les derniers articles sur la landing page
