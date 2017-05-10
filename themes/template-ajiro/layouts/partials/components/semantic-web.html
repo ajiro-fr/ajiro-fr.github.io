@@ -1,0 +1,38 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage":{
+    "@type":"WebPage",
+    "@id":"{{ .Permalink }}"
+  },
+  "headline": "{{ .Title | jsonify }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ .Permalink }}{{ .Params.illustration.name | default "illustration" }}__thumbnail-wide.jpg",
+    "width": "750 px",
+  },
+  "datePublished": "{{ .Date | dateFormat "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod | dateFormat "2006-01-02T15:04:05Z07:00" }}",
+  "author": [
+    {{ range .Params.authors }}
+      {"@type": "Person", "name": "{{ (index $.Site.Data.people .).name }}"}
+    {{ end }}
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ajiro",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://ajiro.fr/assets/images/logo-ajiro.png",
+      "width": "400 px",
+      "height": "174 px"
+    }
+  },
+  {{ if .Params.description }}
+    "description": "{{ .Params.description | jsonify }}"
+  {{ else  }}
+    "description": "{{ .Summary | jsonify}}"
+  {{ end }}
+}
+</script>
