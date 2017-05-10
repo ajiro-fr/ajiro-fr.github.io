@@ -4,10 +4,13 @@ baseurl: http://ajiro.fr/
 theme: template-ajiro
 
 enableEmoji: true
+googleAnalytics: "UA-89122379-1"
 
 taxonomies:
   author: authors
   tag: tags
+
+
 
 params:
   version:

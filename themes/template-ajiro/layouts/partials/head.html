@@ -32,4 +32,9 @@
   <script src='/assets/vendor/jquery-{{.Site.Params.version.jquery}}.min.js' defer></script>
   <script src='/assets/vendor/bootstrap-{{.Site.Params.version.bootstrap}}/js/bootstrap.min.js' defer></script>
   <script src='/assets/javascripts/cookie-consent.js' defer></script>
+
+  {{ $environment := getenv "hugo_env" | default "dev" }}
+  {{ if eq $environment "production" }}
+    {{ template "_internal/google_analytics_async.html" . }}
+  {{ end }}
 </head>
