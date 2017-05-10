@@ -1,7 +1,7 @@
 <div style=" overflow: hidden; ">
   <figure>
     <img alt="{{ .image.description }}"
-         src="{{ .path }}/{{ .image.name | default "illustration" }}{{ .format }}.jpg"
+         src="{{ .path }}/{{ .image.name | default "illustration" }}__thumbnail-wide.jpg"
          class="rounded {{ .class | default "img-fluid" }}"/>
     <figcaption>
       {{ with .image.source }}
