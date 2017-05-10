@@ -80,8 +80,3 @@ Cette atelier offre toute sa richesse lorsque l'équipe se l'approprie et qu'il 
 L'essentiel du debrief dépendra de ce que vous souhaitez exploiter.
 - Vous souhaitez simplement que l'équipe visualise son état : à la fin de l'atelier demandez à chaque participant ce qu'il pense du résultat et s'il s'y retrouve.
 - Vous souhaitez utiliser les résultats pour proposer des axes d'amélioration : choisissez 1 à 3 cartes parmi celles qui ont réunis le plus de mauvais votes, accompagnez l'équipe pour qu'elle décide d'un ou deux mesures qui peuvent venir améliorer ces points (notez également les décisions prises dans le suivi d'activité pour pouvoir s'y référer au prochain atelier Checking d'équipe).
-
-
-[happy]: happy.svg
-[sad]: sad.svg
-[crying]: crying.svg
