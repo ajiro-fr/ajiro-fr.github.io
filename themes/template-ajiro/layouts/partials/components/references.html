@@ -27,7 +27,7 @@
     {{ end }}
     {{ range ( $.Scratch.Get "references") }}
     <li>
-      <a href="{{ .URL }}">
+      <a href="{{ .url }}">
         <i class="fa fa-file-text-o"></i>
         {{ .Title | markdownify }}
       </a>
