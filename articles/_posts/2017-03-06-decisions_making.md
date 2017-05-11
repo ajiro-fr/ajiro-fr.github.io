@@ -75,6 +75,14 @@ Une personne propose une réponse à une question. Alors les autres participants
 
 Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de toutes les personnes impactées par sa décision ainsi que de prendre conseil auprès des personnes compétentes sur le sujet de la décision. Ensuite, la personne prend sa décision.
 
+## Le hasard fait bien les choses
+
+{% include img.html
+    name='6878515664_f586d07bc2'
+    source='https://www.flickr.com/photos/chompas/4032383776'
+%}
+
+Il y a quelques temps j'aurais trouvé cette proposition un peu farfelue. Dans 'Antifragile, Nicholas Taleb parle de la façon dont il visite les villes en allant au hasard. Il découvre ainsi des endroits qu'aucun guide n'a indiqué. Cela m'a rappelé comment je jouais parfois à un jeu du nom de Diplomacy. Par défaut, c'est un jeu sans hasard et donc pourquoi jouer au début pour décider d'un mouvement ? A force de jouer avec les mêmes personnes, j'étais devenu prévisible. En utilisant le hasard, j'ai introduit de l'incertitude qui in fine m'a été bénéfique. J'ai fait des coups que je n'aurais sûrement pas fait normalement. Ce protocole est aussi intéressant quand aucun élément ne permet une décision rationnelle. Ne passons pas trop de temps à réfléchir et agissons. 
 
 ## Le jeu
 
