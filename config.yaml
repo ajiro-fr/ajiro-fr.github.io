@@ -9,9 +9,8 @@ googleAnalytics: "UA-89122379-1"
 
 taxonomies:
   author: authors
+  category: categories
   tag: tags
-
-
 
 params:
   version:
