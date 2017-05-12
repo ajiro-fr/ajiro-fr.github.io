@@ -7,6 +7,7 @@ theme: template-ajiro
 
 enableEmoji: true
 googleAnalytics: "UA-89122379-1"
+metaDataFormat: yaml
 
 taxonomies:
   author: authors
