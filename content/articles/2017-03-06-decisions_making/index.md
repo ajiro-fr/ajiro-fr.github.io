@@ -67,7 +67,6 @@ Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de 
 
 Il y a quelques temps j'aurais trouvé cette proposition un peu farfelue. Dans 'Antifragile, Nicholas Taleb parle de la façon dont il visite les villes en allant au hasard. Il découvre ainsi des endroits qu'aucun guide n'a indiqué. Cela m'a rappelé comment je jouais parfois à un jeu du nom de Diplomacy. Par défaut, c'est un jeu sans hasard et donc pourquoi jouer au début pour décider d'un mouvement ? A force de jouer avec les mêmes personnes, j'étais devenu prévisible. En utilisant le hasard, j'ai introduit de l'incertitude qui in fine m'a été bénéfique. J'ai fait des coups que je n'aurais sûrement pas fait normalement. Ce protocole est aussi intéressant quand aucun élément ne permet une décision rationnelle. Ne passons pas trop de temps à réfléchir et agissons.
 
-
 ## Le jeu
 
 {{< img name="2625563385_6d2a215481" source="https://www.flickr.com/photos/thomaslife/2625563385" >}}
