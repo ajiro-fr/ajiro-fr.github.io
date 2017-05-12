@@ -16,57 +16,55 @@ categories:
   - organisation
 illustration:
   name: ginko-biloba
+style: |
+  .highlight {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    min-height: 4em;
+  }
+
+  .highlight::before {
+    font-family: FontAwesome;
+    font-size: 2em;
+    width: 1.3em;
+    display: block;
+    float: left;
+  }
+
+  .highlight.current {
+    background-color: #fed393;
+    border-color: #c47401;
+    color: #955901;
+  }
+
+  .highlight.current::before {
+    content: '\f1da';
+  }
+
+  .highlight.rule {
+    background-color: #bdd8e3;
+    border-color: #3d7890;
+    color: #2a5363;
+  }
+
+  .highlight.rule::before {
+    content: '\f046';
+  }
+
+  .highlight.customize {
+    background-color: #b7ede0;
+    border-color: #1e7c66;
+    color: #196553;
+  }
+
+  .highlight.customize::before {
+    content: '\f0d0';
+  }
 ---
 
 Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés.
-
-<style>
-.highlight {
-  padding: 0.75rem 1.25rem;
-  margin-bottom: 1rem;
-  border: 1px solid transparent;
-  border-radius: 0.25rem;
-  min-height: 4em;
-}
-
-.highlight::before {
-  font-family: FontAwesome;
-  font-size: 2em;
-  width: 1.3em;
-  display: block;
-  float: left;
-}
-
-.highlight.current {
-  background-color: #fed393;
-  border-color: #c47401;
-  color: #955901;
-}
-
-.highlight.current::before {
-  content: '\f1da';
-}
-
-.highlight.rule {
-  background-color: #bdd8e3;
-  border-color: #3d7890;
-  color: #2a5363;
-}
-
-.highlight.rule::before {
-  content: '\f046';
-}
-
-.highlight.customize {
-  background-color: #b7ede0;
-  border-color: #1e7c66;
-  color: #196553;
-}
-
-.highlight.customize::before {
-  content: '\f0d0';
-}
-</style>
 
 
 ## Avant-propos
@@ -118,8 +116,8 @@ Les modes de fonctionnement actuels sont mis en avant de cette façon dans le te
 {{% /style %}}
 
 {{% style class="highlight rule" %}}
-{{% /style %}}
 Les règles applicables à notre modèle de rémunération sont indiquées comme cela.
+{{% /style %}}
 
 {{% style class="highlight customize" %}}
 Les éléments laissés à la discrétion de l'entreprise sont identifiés dans le reste du texte de cette façon.

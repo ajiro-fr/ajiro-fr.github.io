@@ -4,6 +4,11 @@
 
 
   <body>
+    {{ with .Params.style}}
+      <style>
+        {{ . | safeCSS }}
+      </style>
+    {{ end }}
     {{ partial "components/semantic-web" . }}
     {{ partial "header" . }}
 
