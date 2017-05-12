@@ -11,7 +11,7 @@ illustration:
   name: 200504_CostaRica_dsc_1129
   source: http://retiere.com/albums/CostaRica2005/#725
 ---
-Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le dernier post d’exercices d’une série de 5.
+Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le second post d’exercices d’une série de 5.
 
 Je les ai découpé en 5 parties [Comprendre], [Explorer], [Décider], [Construire], [Valider] qui correspondent peu ou prou au [design sprint] de google ventures. Je vais utiliser le fil rouge de la vente en ligne de produits frais avec comme exemple Auchan Direct.
 
