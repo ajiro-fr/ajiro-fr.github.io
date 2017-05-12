@@ -41,6 +41,12 @@ layout: default
 }
 </script>
 
+{% if page.style %}
+  <style>
+    {{ page.style }}
+  </style>
+{% endif %}
+
 <div class="text-justify">
   <div class="row mt-3">
     <div class="offset-lg-2 col-lg-8 col-md-12">
