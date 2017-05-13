@@ -25,12 +25,16 @@ menu:
     - Name: "Articles"
       Pre: "<i class='fa fa-file-text-o'></i>"
       URL: /articles/
+      Weight: 10
     - Name: "Talks"
       Pre: "<i class='fa fa-desktop'></i>"
       URL: /talks/
+      Weight: 20
     - Name: "Livres"
       Pre: "<i class='fa fa-book'></i>"
       URL: /books/
+      Weight: 30
     - Name: "RSS"
       Pre: "<i class='fa fa-rss'></i>"
       URL: /feed.all.xml
+      Weight: 40
