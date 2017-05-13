@@ -29,10 +29,6 @@
       "height": "174 px"
     }
   },
-  {{ if .Params.description }}
-    "description": "{{ .Params.description | jsonify }}"
-  {{ else  }}
-    "description": "{{ .Summary | jsonify}}"
-  {{ end }}
+  "description": "{{ partial "components/article-description" . | jsonify }}"
 }
 </script>

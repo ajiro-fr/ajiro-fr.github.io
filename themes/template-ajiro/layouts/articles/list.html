@@ -41,11 +41,7 @@
             </div>
             <div class="col-md-5 col-xs-12">
               <div class="text-justify">
-                {{ if .Params.description }}
-                  {{ .Params.description | markdownify }}
-                {{ else  }}
-                  {{ .Summary }}
-                {{ end }}
+                {{ partial "components/article-description" . }}
               </div>
               {{ if .Params.Tags }}
                 <small>
