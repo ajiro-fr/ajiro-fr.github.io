@@ -12,7 +12,11 @@
         <img alt="Ajiro Icon" src="/assets/images/logo-ajiro.svg" height="32">
       </a>
       <ul class="nav navbar-nav">
-        <li class='nav-item'><a class='nav-link' href='/members/'><i class="fa fa-users"></i> Membres</a></li>
+        {{ range .Site.Menus.left }}
+        <li class='nav-item'>
+          <a class='nav-link' href='{{ .URL }}'>{{ .Pre }} <span>{{ .Name }}</span></a>
+        </li>
+        {{ end }}
       </ul>
       <ul class="nav navbar-nav float-md-right">
         {{ range .Site.Menus.right }}
