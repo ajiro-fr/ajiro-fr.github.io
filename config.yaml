@@ -24,7 +24,7 @@ menu:
   left:
     - Name: "Membres"
       Pre: "<i class='fa fa-users'></i>"
-      URL: /people/
+      URL: /members/
       Weight: 10
   right:
     - Name: "Articles"
