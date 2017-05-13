@@ -24,10 +24,7 @@
                   <i class="fa fa-fw fa-users" aria-hidden="true"></i> {{ .Params.participants }}
                   {{ if .Params.Tags }}
                     <br>
-                    <i class="fa fa-fw fa-tags"></i>
-                    {{ range .Params.Tags }}
-                      <span class="tag tag-default">{{ . }}</span>
-                    {{ end }}
+                    {{ partial "components/tags" . }}
                   {{ end }}
                 </p>
 

@@ -49,10 +49,7 @@
               </div>
               {{ if .Params.Tags }}
                 <small>
-                <i class="fa fa-tags"></i>
-                {{ range .Params.Tags }}
-                  <span class="tag tag-default">{{ . }}</span>
-                {{ end }}
+                {{ partial "components/tags" . }}
                 </small>
               {{ end }}
             </div>

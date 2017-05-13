@@ -12,10 +12,7 @@
             <small>
               {{ if .Params.tags }}
                 <div class="float-xs-right">
-                  <i class="fa fa-tags"></i>
-                  {{ range .Params.tags }}
-                    <span class="tag tag-default">{{ . }}</span>
-                  {{ end }}
+                  {{ partial "components/tags" . }}
                 </div>
               {{ end }}
               <div>
