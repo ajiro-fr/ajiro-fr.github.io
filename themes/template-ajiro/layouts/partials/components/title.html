@@ -1,0 +1,4 @@
+<h1>
+  {{ .Title | markdownify }}
+  {{ with .Params.subtitle }}<br/><small>{{ . }}</small>{{ end }}
+</h1>

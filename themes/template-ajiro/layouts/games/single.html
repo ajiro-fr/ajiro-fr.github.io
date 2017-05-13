@@ -8,9 +8,7 @@
       <div class="text-justify">
         <div class="row mt-3">
           <div class="offset-md-2 col-md-8 col-xs-12">
-            <h1>
-              {{ .Title }}
-            </h1>
+            {{ partial "components/title" . }}
 
             {{ if isset .Params "illustration"}}
               {{ partial "components/image" (dict "image" .Params.illustration "path" .Permalink ) }}

@@ -9,8 +9,7 @@
         <div class="row mt-3">
           <div class="offset-md-2 col-md-8 col-xs-12">
             <h1>
-              {{ .Title }}
-              {{ with .Params.subtitle }}<br/><small>{{ . }}</small>{{ end }}
+              {{ partial "components/title" . }}
               <br/><small>{{delimit .Params.Authors ';'}}</small>
             </h1>
           </div>
