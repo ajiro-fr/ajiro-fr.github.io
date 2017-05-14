@@ -21,7 +21,7 @@
           <div class="col-md-8 col-xs-12">
             <p>
               {{delimit .Params.Authors ','}}
-              <i>{{.Title}}
+              <i>{{.Title | markdownify }}
               {{ with .Params.subtitle }} — {{ . }}{{ end }}</i>.
               {{ with .Params.edition }}{{ . }}. {{ end }}
               {{ with .Params.address }}{{ . }} : {{ end }}

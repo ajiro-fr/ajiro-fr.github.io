@@ -1,38 +1,38 @@
-<!DOCTYPE html>
-<html>
-  {{ partial "head" . }}
-  <body>
-    {{ partial "header" . }}
-    <section class="block1">
-      <div class="container">
-        {{ range $key, $value := (.Paginator 9).Pages }}
-          {{ $col := add $key 1 }}
-          {{ if eq (mod $col 3) 1 }}
-            <div class="row">
-          {{end}}
-              <div class='col-md-4'>
-                <article class='subblock'>
-                  <a href="{{ .Permalink }}"><img src="{{ .Permalink }}/illustration__thumbnail-square.jpg" class="img-responsive"/></a>
 
-                  <h2><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
-                  <div class="summary">
+
+
                     {{ .Description | markdownify }}
                   </div>
-
+                  <a href="{{ .Permalink }}"><img src="{{ .Permalink }}/illustration__thumbnail-square.jpg" class="img-responsive"/></a>
+                  <div class="summary">
+                  <h2><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
                 </article>
+                <article class='subblock'>
               </div>
-          {{ if modBool $col 3 }}
-            </div>
-          {{end}}
-        {{ end }}
-        <div class="row">
-          <div class='col-md-12 text-center'>
+              <div class='col-md-4'>
             {{ template "_internal/pagination.html" . }}
+            </div>
+            <div class="row">
+          {{ $col := add $key 1 }}
+          {{ if eq (mod $col 3) 1 }}
+          {{ if modBool $col 3 }}
+          {{end}}
+          {{end}}
           </div>
+          <div class='col-md-12 text-center'>
+        {{ end }}
+        {{ range $key, $value := (.Paginator 9).Pages }}
         </div>
-
+        <div class="row">
       </div>
-    </section>
+      <div class="container">
     {{ partial "footer" . }}
+    {{ partial "header" . }}
+    </section>
+    <section class="block1">
+  {{ partial "head" . }}
   </body>
+  <body>
+<!DOCTYPE html>
 </html>
+<html>

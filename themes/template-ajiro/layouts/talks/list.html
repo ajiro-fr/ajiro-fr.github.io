@@ -22,7 +22,7 @@
                 </a>
                 <div class="card-block">
                   <a href="{{ .Permalink }}">
-                    <h4 class="card-title">{{ .Title }}</h4>
+                    <h4 class="card-title">{{ .Title | markdownify }}</h4>
                   </a>
                   {{ if .Params.in_progress }}
                     <p class="text-muted"><small><i class="fa fa-wrench"></i> En préparation</small></p>
