@@ -32,7 +32,7 @@
                     {{ range $value.Pages.ByDate.Reverse }}
                       <p>
                         <span class="categories-timestamp">
-                          <time datetime="{{ .Lastmod }}">{{ .Date.Format "02 Jan" }}</time>
+                          <time datetime="{{ .Lastmod }}">{{ .Date | dateFormat "02 Jan" }}</time>
                         </span>
                         <a href="{{ .Permalink }}">{{ .Title }}</a>
                       </p>
