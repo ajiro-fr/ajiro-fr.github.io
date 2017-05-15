@@ -10,7 +10,7 @@
           <div class="offset-md-2 col-md-8 col-xs-12">
             <h1>
               {{ partial "components/title" . }}
-              <br/><small>{{delimit .Params.Authors ';'}}</small>
+              <br/><small>{{delimit .Params.book_authors ';'}}</small>
             </h1>
           </div>
         </div>
@@ -20,7 +20,7 @@
           </div>
           <div class="col-md-8 col-xs-12">
             <p>
-              {{delimit .Params.Authors ','}}
+              {{delimit .Params.book_authors ','}}
               <i>{{.Title | markdownify }}
               {{ with .Params.subtitle }} — {{ . }}{{ end }}</i>.
               {{ with .Params.edition }}{{ . }}. {{ end }}

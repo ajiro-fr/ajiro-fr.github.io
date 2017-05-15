@@ -6,7 +6,9 @@
       <div class="container">
         <div class='row mt-3'>
           <div class='offset-sm-2 col-md-8 col-xs-12 text-xs-center'>
-            {{ partial "components/title" . }}
+            <h1>
+              {{ partial "components/title" . }}
+            </h1>
           </div>
         </div>
 
@@ -19,7 +21,7 @@
             </div>
             <div class='col-md-11 col-xs-10'>
               <a href="{{ .Permalink }}">
-                <h2>{{ .Title | markdownify }}<br><small>{{delimit .Params.Authors ';'}}</small></h2>
+                <h2>{{ .Title | markdownify }}<br><small>{{delimit .Params.book_authors ';'}}</small></h2>
               </a>
             </div>
           </div>

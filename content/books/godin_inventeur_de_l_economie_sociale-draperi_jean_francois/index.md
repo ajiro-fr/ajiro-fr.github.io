@@ -1,7 +1,7 @@
 ---
 title: Godin, inventeur de l'économie sociale
 subtitle: Mutualiser, coopérer, s'associer.
-authors:
+book_authors:
 - DRAPERI, Jean-François
 publisher: Editions REPAS, Coll. « Pratiques utopiques »
 year: 2014

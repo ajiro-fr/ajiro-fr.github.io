@@ -1,6 +1,6 @@
 ---
 title: Objectif zéro-sale-con
-authors:
+book_authors:
 -  SUTTON, Robert
 publisher: Pocket, Coll. « Pocket Evolution »
 year: 2012
