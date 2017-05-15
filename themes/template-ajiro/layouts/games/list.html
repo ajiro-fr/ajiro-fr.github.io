@@ -8,12 +8,14 @@
   </div>
 
   {{ range sort .Pages "Params.sorted" }}
-    <div class="row mt-3">
-      <div class="offset-sm-2 col-md-8 col-xs-12">
-        <h3>
-          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-        </h3>
+    {{ if not .Params.hidden }}
+      <div class="row mt-3">
+        <div class="offset-sm-2 col-md-8 col-xs-12">
+          <h3>
+            <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+          </h3>
+        </div>
       </div>
-    </div>
+    {{ end }}
   {{ end }}
 {{ end }}

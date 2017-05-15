@@ -7,7 +7,7 @@
     </div>
   </div>
 
-  {{ range $key, $value := .Pages }}
+  {{ range .Pages }}
     <div class='row mt-1'>
       <div class='col-md-1 col-xs-2'>
         <a href="{{ .Permalink }}">
