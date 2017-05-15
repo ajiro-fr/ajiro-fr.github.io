@@ -1,0 +1,18 @@
+craft:
+  title: Tools & Craft
+  icon: wrench
+mindset:
+  title: Mindset
+  icon: globe
+organisation:
+  title: Organisation
+  icon: building
+people:
+  title: People
+  icon: users
+product:
+  title: Produit
+  icon: cubes
+project:
+  title: Projets
+  icon: line-chart
