@@ -1,38 +1,25 @@
-
-
-
-                    {{ .Description | markdownify }}
-                  </div>
-                  <a href="{{ .Permalink }}"><img src="{{ .Permalink }}/illustration__thumbnail-square.jpg" class="img-responsive"/></a>
-                  <div class="summary">
-                  <h2><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
-                </article>
-                <article class='subblock'>
-              </div>
-              <div class='col-md-4'>
-            {{ template "_internal/pagination.html" . }}
-            </div>
-            <div class="row">
-          {{ $col := add $key 1 }}
-          {{ if eq (mod $col 3) 1 }}
-          {{ if modBool $col 3 }}
-          {{end}}
-          {{end}}
-          </div>
-          <div class='col-md-12 text-center'>
-        {{ end }}
-        {{ range $key, $value := (.Paginator 9).Pages }}
-        </div>
-        <div class="row">
-      </div>
-      <div class="container">
-    {{ partial "footer" . }}
-    {{ partial "header" . }}
-    </section>
-    <section class="block1">
-  {{ partial "head" . }}
-  </body>
-  <body>
 <!DOCTYPE html>
-</html>
 <html>
+  {{ partial "head" . }}
+  <body>
+    {{ partial "header" . }}
+      <div class="container">
+        <div class='row mt-3'>
+          <div class='col-lg-12 text-xs-center'>
+            {{ partial "components/title" . }}
+          </div>
+        </div>
+
+        {{ range sort .Pages "Lastmod" "desc" }}
+          <div class="row mt-3">
+            <div class="col-xs-12">
+              <h3>
+                <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+              </h3>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    {{ partial "footer" . }}
+  </body>
+</html>
