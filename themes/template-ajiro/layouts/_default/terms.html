@@ -1,38 +1,28 @@
-<!DOCTYPE html>
-<html>
-  {{ partial "head" . }}
-  <body>
-    {{ partial "header" . }}
-    <section class="block1">
-      <div class="container">
-        <div class="col-md-8 col-md-offset-2">
-          <h1 id="title">{{ .Title }}</h1>
-          <div class="panel-group" id="accordion">
-          {{ range $key, $value := .Data.Terms.ByCount }}
-            <div class="panel panel-default">
-              <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-{{$key}}">
-                <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{$key}}">
-                    {{ $value.Name }}
-                    <span class="badge pull-right">{{ $value.Count }}</span>
-                  </a>
-                </h4>
-              </div>
-              <div id="collapse-{{$key}}" class="panel-collapse collapse">
-                <div class="panel-body">
-                  <ul>
-                  {{ range $value.Pages.ByDate.Reverse }}
-                    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-                  {{ end }}
-                  </ul>
-                </div>
-              </div>
-            </div>
-          {{ end }}
+{{ define "main" }}
+  <div class="col-md-8 col-md-offset-2">
+    <h1 id="title">{{ .Title }}</h1>
+    <div class="panel-group" id="accordion">
+    {{ range $key, $value := .Data.Terms.ByCount }}
+      <div class="panel panel-default">
+        <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-{{$key}}">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{$key}}">
+              {{ $value.Name }}
+              <span class="badge pull-right">{{ $value.Count }}</span>
+            </a>
+          </h4>
+        </div>
+        <div id="collapse-{{$key}}" class="panel-collapse collapse">
+          <div class="panel-body">
+            <ul>
+            {{ range $value.Pages.ByDate.Reverse }}
+              <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+            </ul>
           </div>
         </div>
       </div>
-    </section>
-    {{ partial "footer" . }}
-  </body>
-</html>
+    {{ end }}
+    </div>
+  </div>
+{{ end }}
