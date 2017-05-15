@@ -1,46 +1,33 @@
-<!DOCTYPE html>
-<html>
-  {{ partial "head" . }}
-  <body>
-    {{ partial "header" . }}
+{{ define "main" }}
+  <div class="row mt-3">
+    <div class="offset-lg-2 col-lg-8 col-md-12">
+      <h1>
+        {{ partial "components/title" . }}
+      </h1>
+    </div>
+  </div>
 
-    <div class="container">
-      <div class="text-justify">
-        <div class="row mt-3">
-          <div class="offset-lg-2 col-lg-8 col-md-12">
-            <h1>
-              {{ partial "components/title" . }}
-            </h1>
-          </div>
-        </div>
-
-        <div class="row mt-2">
-          <div class="offset-lg-2 col-lg-8 col-md-12">
-            {{ if isset .Params "illustration"}}
-              {{ partial "components/image" (dict "image" .Params.illustration "path" .Permalink ) }}
-            {{ end }}
-          </div>
-        </div>
-
-        <div class="row mt-2">
-          <div class="offset-lg-2 col-lg-8 col-md-12">
-            {{ .Content }}
-          </div>
-        </div>
-
-        {{ range .Params.authors }}
-          {{ partial "components/people" (dict "id" . "data" (index $.Site.Data.people .) ) }}
-        {{ end }}
-
-        <div class="row mt-3">
-          <div class="offset-lg-2 col-lg-8 col-md-12">
-            {{ partial "components/references" . }}
-          </div>
-        </div>
-
+  {{ if isset .Params "illustration"}}
+    <div class="row mt-2">
+      <div class="offset-lg-2 col-lg-8 col-md-12">
+        {{ partial "components/image" (dict "image" .Params.illustration "path" .Permalink ) }}
       </div>
     </div>
+  {{ end }}
 
-    {{ partial "footer" . }}
-  </body>
-</html>
+  <div class="row mt-2">
+    <div class="offset-lg-2 col-lg-8 col-md-12 text-justify">
+      {{ .Content }}
+    </div>
+  </div>
+
+  {{ range .Params.authors }}
+    {{ partial "components/people" (dict "id" . "data" (index $.Site.Data.people .) ) }}
+  {{ end }}
+
+  <div class="row mt-3">
+    <div class="offset-lg-2 col-lg-8 col-md-12 text-justify">
+      {{ partial "components/references" . }}
+    </div>
+  </div>
+{{ end }}

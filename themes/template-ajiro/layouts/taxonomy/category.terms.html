@@ -1,44 +1,30 @@
-<!DOCTYPE html>
-<html>
-  {{ partial "head" . }}
-  <body>
-    {{ partial "header" . }}
-    <section class="block1">
-      <p>categories</p>
-      <div class="container">
-        <div class="col-md-8 col-md-offset-2">
-          <h1 id="title">{{ .Title | markdownify }}</h1>
-          <div class="panel-group" id="accordion">
-          {{ $data := .Data }}
-          {{ range $key, $value := .Data.Terms.ByCount }}
-            <div class="panel panel-default">
-              <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-{{$value.Name | urlize}}">
-                <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{$value.Name | urlize}}"><i class="fa fa-{{ $.Param "icon" }}"></i>
-                    {{ $value.Name }}
-                    <span class="badge pull-right">{{ $value.Count }}</span>
-                  </a>
-                </h4>
-                <!--
-                  {{ $data.Plural }}/{{ $value.Name | urlize }}
-                -->
-              </div>
-              <div id="collapse-{{$value.Name | urlize}}" class="panel-collapse collapse">
-                <div class="panel-body">
-                {{ range $value.Pages.ByDate.Reverse }}
-                  <p>
-                    <span class="categories-timestamp"><time datetime="{{ .Lastmod }}">{{ .Date.Format "02 Jan" }}</time></span>
-                    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-                  </p>
-                {{ end }}
-                </div>
-              </div>
-            </div>
+{{ define "main" }}
+  <div class="col-md-8 col-md-offset-2">
+    <h1 id="title">{{ .Title | markdownify }}</h1>
+    <div class="panel-group" id="accordion">
+    {{ $data := .Data }}
+    {{ range $key, $value := .Data.Terms.ByCount }}
+      <div class="panel panel-default">
+        <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-{{$value.Name | urlize}}">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{$value.Name | urlize}}"><i class="fa fa-{{ $.Param "icon" }}"></i>
+              {{ $value.Name }}
+              <span class="badge pull-right">{{ $value.Count }}</span>
+            </a>
+          </h4>
+        </div>
+        <div id="collapse-{{$value.Name | urlize}}" class="panel-collapse collapse">
+          <div class="panel-body">
+          {{ range $value.Pages.ByDate.Reverse }}
+            <p>
+              <span class="categories-timestamp"><time datetime="{{ .Lastmod }}">{{ .Date.Format "02 Jan" }}</time></span>
+              <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+            </p>
           {{ end }}
           </div>
         </div>
       </div>
-    </section>
-    {{ partial "footer" . }}
-  </body>
-</html>
+    {{ end }}
+    </div>
+  </div>
+{{ end }}

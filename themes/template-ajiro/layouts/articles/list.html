@@ -1,65 +1,57 @@
-<!DOCTYPE html>
-<html>
-  {{ partial "head" . }}
-  <body>
-    {{ partial "header" . }}
-      <div class="container">
-        <div class='row mt-3'>
-          <div class='col-lg-12 text-xs-center'>
-            <h1>
-              {{ partial "components/title" . }}
-            </h1>
-          </div>
-        </div>
+{{ define "main" }}
+  <div class='row mt-3'>
+    <div class='col-lg-12 text-xs-center'>
+      <h1>
+        {{ partial "components/title" . }}
+      </h1>
+    </div>
+  </div>
 
-        {{ range sort .Pages "Lastmod" "desc" }}
-        {{ if not .Params.hidden }}
-          <div class="row mt-3">
-            <div class="col-md-3 text-xs-right ">
-              <h3>
-                <div class="article-list__calendar">
-                  <i class='fa fa-calendar'></i> {{ .Lastmod | dateFormat "Jan 2, 2006"  }}
-                </div>
-                <div class="article-list__calendar">
-                  <i class='fa fa-clock-o'></i>
-                  <span class="reading-time" title="Temps de lecture">
-                    {{ .ReadingTime }} mins
-                  </span>
-                </div>
-              </h3>
+  {{ range sort .Pages "Lastmod" "desc" }}
+    {{ if not .Params.hidden }}
+      <div class="row mt-3">
+        <div class="col-md-3 text-xs-right ">
+          <h3>
+            <div class="article-list__calendar">
+              <i class='fa fa-calendar'></i> {{ .Lastmod | dateFormat "Jan 2, 2006"  }}
             </div>
-            <div class="col-md-8 col-xs-12">
-              <h3>
-                <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-              </h3>
+            <div class="article-list__calendar">
+              <i class='fa fa-clock-o'></i>
+              <span class="reading-time" title="Temps de lecture">
+                {{ .ReadingTime }} mins
+              </span>
             </div>
-          </div>
-          <div class="row">
-            <div class="col-md-3 text-xs-right block-right">
-              {{ range .Params.authors }}
-                {{ $author := index $.Site.Data.people . }}
-                <img alt="Photo {{ $author.name }}" width="80" class="rounded-circle" src="/assets/images/people/{{ . }}.jpg" />
-              {{ end }}
-            </div>
-            <div class="col-md-5 col-xs-12">
-              <div class="text-justify">
-                {{ partial "components/article-description" . }}
-              </div>
-              {{ if .Params.Tags }}
-                <small>
-                {{ partial "components/tags" . }}
-                </small>
-              {{ end }}
-            </div>
-            <div class="col-md-4 col-xs-12">
-              {{ if isset .Params "illustration"}}
-                {{ partial "components/image" (dict "image" .Params.illustration "path" .Permalink ) }}
-              {{ end }}
-            </div>
-          </div>
-        {{ end }}
-        {{ end }}
+          </h3>
+        </div>
+        <div class="col-md-8 col-xs-12">
+          <h3>
+            <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+          </h3>
+        </div>
       </div>
-    {{ partial "footer" . }}
-  </body>
-</html>
+      <div class="row">
+        <div class="col-md-3 text-xs-right block-right">
+          {{ range .Params.authors }}
+            {{ $author := index $.Site.Data.people . }}
+            <img alt="Photo {{ $author.name }}" width="80" class="rounded-circle" src="/assets/images/people/{{ . }}.jpg" />
+          {{ end }}
+        </div>
+        <div class="col-md-5 col-xs-12">
+          <div class="text-justify">
+            {{ partial "components/article-description" . }}
+          </div>
+          {{ if .Params.Tags }}
+            <small>
+            {{ partial "components/tags" . }}
+            </small>
+          {{ end }}
+        </div>
+        <div class="col-md-4 col-xs-12">
+          {{ if isset .Params "illustration"}}
+            {{ partial "components/image" (dict "image" .Params.illustration "path" .Permalink ) }}
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}

@@ -1,27 +1,19 @@
-<!DOCTYPE html>
-<html>
-  {{ partial "head" . }}
-  <body>
-    {{ partial "header" . }}
-      <div class="container">
-        <div class='row mt-3'>
-          <div class='col-md-12 col-xs-12 text-xs-center'>
-            <h1>
-              {{ partial "components/title" . }}
-            </h1>
-          </div>
-        </div>
+{{ define "main" }}
+  <div class='row mt-3'>
+    <div class='col-md-12 col-xs-12 text-xs-center'>
+      <h1>
+        {{ partial "components/title" . }}
+      </h1>
+    </div>
+  </div>
 
-        {{ range sort .Pages "Params.sorted" }}
-          <div class="row mt-3">
-            <div class="offset-sm-2 col-md-8 col-xs-12">
-              <h3>
-                <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-              </h3>
-            </div>
-          </div>
-        {{ end }}
+  {{ range sort .Pages "Params.sorted" }}
+    <div class="row mt-3">
+      <div class="offset-sm-2 col-md-8 col-xs-12">
+        <h3>
+          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+        </h3>
       </div>
-    {{ partial "footer" . }}
-  </body>
-</html>
+    </div>
+  {{ end }}
+{{ end }}

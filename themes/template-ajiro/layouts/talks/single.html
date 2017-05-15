@@ -1,84 +1,71 @@
-<!DOCTYPE html>
-<html>
-  {{ partial "head" . }}
-  <body>
-    {{ partial "header" . }}
-
-    <div class="container">
-      <div class="text-justify">
-        <div class="row mt-3">
-          <div class="offset-lg-2 col-lg-8 col-md-12">
-            <h1>
-              {{ partial "components/title" . }}
-            </h1>
-            <small>
-              {{ if .Params.tags }}
-                <div class="float-xs-right">
-                  {{ partial "components/tags" . }}
-                </div>
-              {{ end }}
-              <div>
-                <i class='fa fa-clock-o'></i> {{ .Params.duration }}
-                &nbsp;—&nbsp;
-                <i class='fa fa-cog'></i> {{ .Params.genre }}
-                {{ if .Params.in_progress }}
-                &nbsp;—&nbsp;
-                <span class="text-muted"><i class="fa fa-wrench"></i> En préparation</span>
-                {{ end }}
-              </div>
-            </small>
+{{ define "main" }}
+  <div class="row mt-3">
+    <div class="offset-lg-2 col-lg-8 col-md-12">
+      <h1>
+        {{ partial "components/title" . }}
+      </h1>
+      <small>
+        {{ if .Params.tags }}
+          <div class="float-xs-right">
+            {{ partial "components/tags" . }}
           </div>
-        </div>
-
-        <div class="row mt-2">
-          <div class="offset-lg-2 col-lg-8 col-md-12">
-            {{ if isset .Params "illustration"}}
-              {{ partial "components/image" (dict "image" .Params.illustration "path" .Permalink ) }}
-            {{ end }}
-          </div>
-        </div>
-
-        <div class="row mt-3">
-          <div class="offset-lg-2 col-lg-8 col-md-12">
-            <div class="card bg-light-gray">
-              <div class="card-block">
-                <h2>Résumé</h2>
-                {{ .Params.abstract | markdownify }}
-                {{ if .Params.sessions }}
-                  <h2>Sessions</h2>
-                  <ul>
-                    {{ range .Params.sessions }}
-                    <li>
-                      <i class='fa fa-calendar'></i> {{ .date | dateFormat "Jan 2, 2006" }}
-                      —
-                      {{ if .url }}
-                        <a href="{{ .url }}">{{.name}}</a>
-                      {{ else }}
-                        {{.name}}
-                      {{ end }}
-                    </li>
-                    {{ end }}
-                  </ul>
-                {{ end }}
-                {{ partial "components/references" . }}
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row mt-2">
-          <div class="offset-lg-2 col-lg-8 col-md-12">
-            {{ .Content }}
-          </div>
-        </div>
-
-        {{ range .Params.authors }}
-          {{ partial "components/people" (dict "id" . "data" (index $.Site.Data.people .) ) }}
         {{ end }}
+        <div>
+          <i class='fa fa-clock-o'></i> {{ .Params.duration }}
+          &nbsp;—&nbsp;
+          <i class='fa fa-cog'></i> {{ .Params.genre }}
+          {{ if .Params.in_progress }}
+          &nbsp;—&nbsp;
+          <span class="text-muted"><i class="fa fa-wrench"></i> En préparation</span>
+          {{ end }}
+        </div>
+      </small>
+    </div>
+  </div>
 
+  {{ if isset .Params "illustration"}}
+    <div class="row mt-2">
+      <div class="offset-lg-2 col-lg-8 col-md-12">
+        {{ partial "components/image" (dict "image" .Params.illustration "path" .Permalink ) }}
       </div>
     </div>
+  {{ end }}
 
-    {{ partial "footer" . }}
-  </body>
-</html>
+  <div class="row mt-3">
+    <div class="offset-lg-2 col-lg-8 col-md-12 text-justify">
+      <div class="card bg-light-gray">
+        <div class="card-block">
+          <h2>Résumé</h2>
+          {{ .Params.abstract | markdownify }}
+          {{ if .Params.sessions }}
+            <h2>Sessions</h2>
+            <ul>
+              {{ range .Params.sessions }}
+              <li>
+                <i class='fa fa-calendar'></i> {{ .date | dateFormat "Jan 2, 2006" }}
+                —
+                {{ if .url }}
+                  <a href="{{ .url }}">{{.name}}</a>
+                {{ else }}
+                  {{.name}}
+                {{ end }}
+              </li>
+              {{ end }}
+            </ul>
+          {{ end }}
+          {{ partial "components/references" . }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mt-2">
+    <div class="offset-lg-2 col-lg-8 col-md-12 text-justify">
+      {{ .Content }}
+    </div>
+  </div>
+
+  {{ range .Params.authors }}
+    {{ partial "components/people" (dict "id" . "data" (index $.Site.Data.people .) ) }}
+  {{ end }}
+{{ end }}
