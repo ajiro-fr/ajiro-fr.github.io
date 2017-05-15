@@ -2,6 +2,7 @@
 title: "La zemblanité dans nos équipes"
 duration: 1H
 genre: Présentation
+in_progress: true
 authors:
   - albiez_olivier
   - clavier_thomas
@@ -9,6 +10,7 @@ tags:
   - communication
   - conceptes
 illustration:
+  source: https://www.flickr.com/photos/jritch/4677823170/
   name: illustration
 abstract: |
   L'antonyme de la sérendipité, la zemblanité, est la faculté de découvrir des résultats malheureux, malchanceux et attendus !
