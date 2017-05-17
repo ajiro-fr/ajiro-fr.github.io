@@ -16,7 +16,7 @@
           <i class='fa fa-cog'></i> {{ .Params.genre }}
           {{ if .Params.in_progress }}
           &nbsp;—&nbsp;
-          <span class="text-muted"><i class="fa fa-wrench"></i> En préparation</span>
+          <span class="text-muted"><i class="fa fa-wrench"></i> {{ i18n "in_progress" }}</span>
           {{ end }}
         </div>
       </small>

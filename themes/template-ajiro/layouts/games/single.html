@@ -11,7 +11,7 @@
 
       <div class="card bg-light-gray">
         <div class="card-block">
-          <h2>Objectifs</h2>
+          <h2>{{ i18n "objectives" }}</h2>
           <p>{{ .Params.objectives | markdownify }}</p>
           <p>
             <i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> {{ .Params.duration }}
@@ -23,7 +23,7 @@
             {{ end }}
           </p>
 
-          <h2>Materiel</h2>
+          <h2>{{ i18n "materials" }}</h2>
           <ul>
             {{ range .Params.materials}}
               <li>{{ . }}</li>
