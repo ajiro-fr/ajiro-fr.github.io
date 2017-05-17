@@ -15,7 +15,7 @@ description: |
 ---
 
 
-## Le monde change, mon état d'esprit aussi ?
+## Tropisme
 
 {% include img.html
     name='17357695022_27c1b559cd'
@@ -24,27 +24,27 @@ description: |
 
 Tout d'abord petite séance de définition :
 - Un profil psychologique est quasi immuable, je suis persévérant de base, ESTJ, promoteur, etc. Il définit mes schémas de pensée et mes mécanismes d'actions.
-- Un état d'esprit représente la façon dont je vois le monde. Il évolue au fur et à mesure de notre vie. C'est la bonne nouvelle, il peut évoluer si on le souhaite.
+- Un état d'esprit représente la façon dont je vois le monde. Il évolue (ou pas) au fur et à mesure de notre vie. C'est la bonne nouvelle, il peut évoluer si on le souhaite.
 
 {% include img.html
     name='B79VBsaIEAA-UET'
     source='https://twitter.com/voinonen/status/558258366498488320'
 %}
 
-Et de quoi parle-t-on quand on parle de manager agile, 3.0, VUCA, etc ? Et bien d'état d'esprit et donc c'est plus une façon de voir le monde qu'autre. Il y a aujourd'hui deux courants de pensée dominants :
+Quand on parle de manager agile, 3.0, VUCA, etc, c'est un profil ou un état d'esprit ? Et bien d'état d'esprit car c'est plus une façon de voir le monde qu'autre. Il y a aujourd'hui deux courants de pensée dominants :
 - Je peux prédire le futur par la pensée factuelle car je suis capable de comprendre les relations de cause à effet. Je peux donc séparer les organisations en personnes qui pensent et en personnes qui éxécutent. C'est le domaine du compliqué ou Predict and Control dans le modèle Cynefin.
 - **Je m'adapte par l'expérimentation car je ne peux comprendre les relations de cause à effet.** Je suis dans le domaine du complexe autrement appelé Sense and Respond.
 
-## Manager dans un VUCA : Accepter l'incertitude
+## Manager dans un monde VUCA : Accepter l'incertitude
 
 {% include img.html
     name='31019239910_eb87edf97b'
     source='https://www.flickr.com/photos/fsadykov/31019239910'
 %}
 
-Personnellement, je pense que la prédiction était efficace au début de la révolution industrielle car le travail était répétitif. Dans une économie de la connaissance, je suis pour un management basé sur l'expérimentation. Dans la suite de ce post, je vais décrire ce que cela veut dire d'être un manager dans ce monde.
+Je pense que la prédiction était efficace au début de la révolution industrielle car le travail était répétitif. Dans une économie de la connaissance, je crois plus à un management basé sur l'expérimentation. Dans la suite de ce post, je vais décrire ce que cela veut dire d'être un manager dans ce monde.
 
-Il est maintenant temps que je définisse le terme VUCA. Cet acronyme vient de l'armée américaine pour expliquer comment se comporter dans les guerres non linéaires. C'est quoi le rapport entre l'armée et le management en entreprise. On voit souvent l'armée par le prisme du cinéma avec un QG qui décide et des hommes qui exécutent. La réalité est plus fine que cela. 
+Ca serait pas mal que tu définisses le terme VUCA que tu utilises depuis le début. Cet acronyme vient de l'armée américaine pour expliquer comment se comporter pendant les guerres non linéaires. C'est quoi le rapport entre l'armée et le management en entreprise? On voit souvent l'armée par le prisme du cinéma avec un QG qui décide et des hommes qui exécutent. La réalité est plus fine que cela. 
 
 ## Volatile
 
@@ -56,9 +56,10 @@ Il est maintenant temps que je définisse le terme VUCA. Cet acronyme vient de l
 Description : **Le challenge est inattendu ou instable et peut être d'une durée inconnue.** Le rythme du changement s'accélère. Des fenêtres d'opportunités s'ouvrent et se referment.
 
 Impacts :
-- Pour **accélérer la vitesse de prise de décision**, de l'autonomie au niveau bas dans l'organisation est nécessaire. L'armée explique qu'une décision prend trois fois plus de temps à être prise pour chaque échelon hiérarchique remonté. La priorité est donnée à une demande venant d'en bas.
+- Pour **accélérer la vitesse de prise de décision**, de l'autonomie au niveau bas dans l'organisation est nécessaire. L'armée explique qu'une décision prend trois fois plus de temps à être prise pour chaque échelon hiérarchique remonté. La priorité est donc donnée à répondre à une demande venant d'en bas. Je veux être capable de prendre une bonne vague quand elle apparait.
 - Pour être capable de prendre des décisions, les personnes doivent avec les compétences et l'information nécessaire à la prise de décision. Il est donc nécessaire de disséminer l'information.
-- On peut prendre des décisions quand on comprend l'objectif global. Je parle de niveau du dessus que ce soit hiérarchique ou pas. Les ordres doivent donner l'intention et les contraintes, mais ils ne doivent pas donner le comment.
+- On ne peut prendre des décisions quand on comprend l'objectif global. Ca serait pas mal de surfer la même vague. Je parle de l'objectif du niveau du dessus que ce soit hiérarchique ou pas. C'est toute la question autour de la translation des objectifs et non cascade du KPI.
+- Les ordres doivent donner l'intention et les contraintes, mais ils ne doivent pas donner le comment.
 
 Elément clé : **Le manager doit s'assurer que tout le monde comprend la vision** pour être capable de prendre des décisions à son niveau.
 
@@ -73,8 +74,8 @@ Description : Les prédictions ne peuvent être toutes justes, des évènements 
 
 Impacts :
 - Il est préférable d'**accepter l'incertitude** et de prévoir des scénarios flexibles. Il s'agit d'écouter pour comprendre ce qui se passe. On parle parfois du brouillard de la guerre, c'est à dire qu'il est parfois difficile de comprendre ce qui se déroule.
-- Pour profiter des évènements inattendus de type black swan (cf antifragile) et non pas les subir, il est intéressant d'ouvrir des perspectives. Que se passerait il si tel évènement arrivait ? Il s'agit de confronter des scénarios avec des modèles mentaux différents.
-- Comme on ne peut tout prévoir, une culture ouverte (open culture) permet de prendre conscience des mouvements externes (cf prospective et signaux failbles) et donc de mieux anticiper les mouvements futurs.
+- Pour profiter des évènements inattendus de type black swan (cf antifragile) et non pas les subir, il est intéressant d'ouvrir des perspectives. Que se passerait il si tel évènement arrivait ? Il s'agit de confronter des scénarios possibles avec des modèles mentaux différents.
+- Comme on ne peut tout prévoir, une culture ouverte (open culture) permet de mieux interpréter les évènements externes (cf prospective et signaux failbles) et donc de mieux anticiper les mouvements futurs.
 
 Elément clé : C'est un peu la métaphore du chène et du roseau, on cherche à plier et ne pas rompre. **Je ne tente pas de résister au vent (du changement), je l'accompagne.**
 
@@ -85,12 +86,12 @@ Elément clé : C'est un peu la métaphore du chène et du roseau, on cherche à
     source='https://www.flickr.com/photos/fotograzio/21276397114'
 %}
 
-Description : La situation a un nombre très important de dépendances et d'interconnexions. Le volume de données est trop important.
+Description : La situation a un nombre très important de dépendances et d'interconnexions. Le volume de données peut me submerger.
 
 Impacts :
-- J'ai de multiples options ouvertes en même temps et je dois garder le lien entre vision et exécution. Il est nécessaire de connaitre le **focus** prioritaire. Pour garder une bonne rapidité d'exécution, il est nécessaire que cette information soit connue de tous. C'est un des rôles importants du manager.
-- En fonction du déroulé des évènements, je vais devoir travailler avec de nombreux intervenants pas nécessairement dans la même ligne hiérarchique. On parle de **leaders collaboratifs** avec comme idée d'avancer vers un objectif sans chercher des solutions définitives. Il s'agit d'encourager le réseau plus que la hiérarchie. Cela veut dire sortir de sa structure pour avoir une vision plus systémique.
-- Le développement/évolution des personnes et de l'organisation se fait de manière organique. La structure n'est pas figée, elle bouge avec les besoins et les découvertes. L'important est donc plus de définir comment travailler ensemble que de définir des RACI qui figent dans le marbre les relations.
+- J'ai de multiples options ouvertes, mais dans le même temps je dois garder le lien entre vision et exécution. Il est nécessaire de connaitre le **focus** prioritaire. Pour garder une bonne rapidité d'exécution, cette information doit être connue de tous. C'est un des rôles importants du manager.
+- En fonction du déroulé des évènements, je vais devoir travailler avec de nombreux intervenants pas nécessairement dans ma ligne hiérarchique. On parle de **leaders collaboratifs** avec comme idée d'avancer vers un objectif sans chercher des solutions définitives. Il s'agit d'encourager le réseau plus que la hiérarchie. Cela veut dire sortir de sa structure pour avoir une vision plus systémique.
+- Le développement/évolution des personnes et de l'organisation se fait de manière organique. La structure n'est pas figée, elle bouge avec les besoins et les découvertes. L'important est donc plus de définir comment travailler ensemble que de définir des RACI qui figent dans le marbre les relations et donc l'organisation. La notion de fiche de poste devient caduque.
 
 Elément clé : La direction du vent change, mais pas mon cap. **L'organisation s'adapte aux conditions tout devant garder en tête ses priorités.** C'est un des rôles du manager que de rappeler le focus prioritaire au regard de l'objectif collectif.
 
@@ -107,7 +108,7 @@ Impacts :
 - Je ne peux par un raisonnement logique prédire les impacts futurs. Je vais passer par une logique d'**expérimentation pour valider mes hypothèses**. Cela signifie que des tests permettront d'invalider des hypothèses. Cela remet en cause la signification du mot échec. On parle d'apprentissage quand une expérimentation a permis de valider ou d'invalider une hypothèse. On parle d'échec quand on a mis trop de temps à apprendre ou qu'aucun apprentissage n'est présent après une expérimentation.
 - Si je veux que mes expérimentations soient tout le temps concluantes, je vais tester des hypothèses que je sais déjà valides. A faire cela, je tue l'innovation. Il est crucial de pouvoir remonter des résultats qui représentent la réalité. Une des options possibles pour favoriser l'innovation est de récompenser les personnes qui arrêtent des initiatives. Dans le même ordre d'idée, il est intéressant de **communiquer sur ce qui n'a pas marché**. Cela montre que l'on apprend et cela évite à tout le monde de prendre le même mur.
 - La prise d'initiative est d'autant plus possible que j'utilise des protocoles de décision qui aident à sortir par le haut. Je vais éviter l'utilisation du consensus pour aller plus vers du consentement.
-- Pour favoriser l'innovation, il est surtout question d'un environnement favorable. Je dois être capable de proposer des idées incongrues sans avoir la peur d'être jugé sous peine d'auto censure. Je parle ici de divergent thinking.
+- Pour favoriser l'innovation, il est plus question d'environnement favorable que de talent que je vais chercher à l'extérieur. Je dois être capable de proposer des idées incongrues sans avoir la peur d'être jugé sous peine d'auto censure. Je parle ici de divergent thinking.
 
 Elément clé : **Habituer vous à l'inconfortable**. Quand on innove, il y a toujours une période de doute où l'on se demande si l'on va dans la bonne direction.
 
