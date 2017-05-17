@@ -18,7 +18,7 @@
         <div>
           <i class='fa fa-calendar'></i> {{ .Lastmod | dateFormat "Jan 2, 2006"  }}
           &nbsp;—&nbsp;
-          <i class='fa fa-clock-o'></i> {{ .ReadingTime }} mins
+          <i class='fa fa-clock-o'></i> {{ i18n "reading_time" .ReadingTime }}
         </div>
       </small>
     </div>
