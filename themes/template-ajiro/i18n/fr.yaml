@@ -6,3 +6,16 @@ materials:
   other: Materiel
 in_progress:
   other: En préparation
+resources:
+  other: Ressources
+references:
+  other: Références
+comments:
+  other: Commentaires
+
+generated_date:
+  other: Site généré le
+
+cookie_consent:
+  other: |
+    En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de Cookies ou autres traceurs pour réaliser des statistiques de visites et vous proposer du contenu adapté à vos centres d’intérêts.

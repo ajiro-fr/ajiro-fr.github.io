@@ -5,7 +5,7 @@
         <div class="col-lg-12 ">
           <span>
             <small>
-              {{ .Site.Copyright | safeHTML }}. Site généré le {{ now | dateFormat "2 Jan 2006 à 15:04" }}.
+              {{ .Site.Copyright | safeHTML }}. {{ i18n "generated_date" }} {{ now | dateFormat "2 Jan 2006 à 15:04" }}.
             </small>
           </span>
         </div>

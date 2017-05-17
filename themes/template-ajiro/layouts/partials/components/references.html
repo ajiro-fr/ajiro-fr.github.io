@@ -7,7 +7,7 @@
 {{ end }}
 
 {{ if or ( $.Scratch.Get "references") (.Params.references)  }}
-  <h2>References</h2>
+  <h2>{{ i18n "references" }}</h2>
   <ul>
     {{ range .Params.references }}
     <li>
