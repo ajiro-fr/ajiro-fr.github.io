@@ -5,5 +5,4 @@ TODO:
 
 - regarder si on peut inferer la date depuis le répertoire
 
-- articles katastrophes ont une intro qui est fausse
 - migrer les descriptions des articles
