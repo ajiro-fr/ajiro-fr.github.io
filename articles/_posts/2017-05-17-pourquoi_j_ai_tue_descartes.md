@@ -1,5 +1,5 @@
 ---
-title: "Le manager dans un monde VUCA ou comment nous avons tué Descartes "
+title: "Le manager du monde VUCA ou comment nous avons tué Descartes "
 lang: fr
 hidden: true
 authors:
@@ -31,29 +31,27 @@ Tout d'abord petite séance de définition :
     source='https://twitter.com/voinonen/status/558258366498488320'
 %}
 
-Et de quoi parle-t-on quand on parle de manager agile, 3.0, VUCA, etc ? Et bien d'état d'esprit. Il y a aujourd'hui deux courants de pensée dominants :
-- Je peux prédire le futur par la pensée factuelle car je suis capable de comprendre les relations de cause à effet. Je peux donc séparer les organisations en personnes qui pensent et personnes qui éxécutent. C'est le domaine du compliqué ou Predict and Control dans le modèle Cynefin.
+Et de quoi parle-t-on quand on parle de manager agile, 3.0, VUCA, etc ? Et bien d'état d'esprit et donc c'est plus une façon de voir le monde qu'autre. Il y a aujourd'hui deux courants de pensée dominants :
+- Je peux prédire le futur par la pensée factuelle car je suis capable de comprendre les relations de cause à effet. Je peux donc séparer les organisations en personnes qui pensent et en personnes qui éxécutent. C'est le domaine du compliqué ou Predict and Control dans le modèle Cynefin.
 - **Je m'adapte par l'expérimentation car je ne peux comprendre les relations de cause à effet.** Je suis dans le domaine du complexe autrement appelé Sense and Respond.
 
-Pour la suite, je pars du postulat que les organisations adaptives ont besoin de managers, leur rôle est cependant différent de celui d'une organisation prédictive. Le manager adaptif, c'est un état d'esprit. C'est une autre façon de voir le monde.
-
+## Manager dans un VUCA : Accepter l'incertitude
 
 {% include img.html
     name='31019239910_eb87edf97b'
     source='https://www.flickr.com/photos/fsadykov/31019239910'
 %}
 
-## Manager dans un VUCA : Accepter l'incertitude
+Personnellement, je pense que la prédiction était efficace au début de la révolution industrielle car le travail était répétitif. Dans une économie de la connaissance, je suis pour un management basé sur l'expérimentation. Dans la suite de ce post, je vais décrire ce que cela veut dire d'être un manager dans ce monde.
 
-Personnellement, je pense que la prédiction était efficace au début de la révolution industrielle car le travail était répétitif. Dans une économie de la connaissance, je suis pour un management basé sur l'expérimentation. Dans la suite de ce post, je vais décrire ce que cela veut dire d'être un manager dans ce monde. Il est maintenant temps que je définisse un peu VUCA. Ce terme vient de l'armée américaine pour expliquer comment se comporter dans les guerres non linéaires. C'est quoi le rapport entre l'armée et le management en entreprise. On voit souvent l'armée par le prisme du cinéma avec un QG qui décide et des hommes qui exécutent. La réalité est plus fine que cela. Expliquons maintenant l'acronyme VUCA.
+Il est maintenant temps que je définisse le terme VUCA. Cet acronyme vient de l'armée américaine pour expliquer comment se comporter dans les guerres non linéaires. C'est quoi le rapport entre l'armée et le management en entreprise. On voit souvent l'armée par le prisme du cinéma avec un QG qui décide et des hommes qui exécutent. La réalité est plus fine que cela. 
 
+## Volatile
 
 {% include img.html
     name='30788820654_6e40c55baf'
     source='https://www.flickr.com/photos/troy_williams/30788820654/'
 %}
-
-## Volatile
 
 Description : **Le challenge est inattendu ou instable et peut être d'une durée inconnue.** Le rythme du changement s'accélère. Des fenêtres d'opportunités s'ouvrent et se referment.
 
@@ -64,13 +62,12 @@ Impacts :
 
 Elément clé : **Le manager doit s'assurer que tout le monde comprend la vision** pour être capable de prendre des décisions à son niveau.
 
+## Incertain
 
 {% include img.html
     name='14599513496_2173442aed'
     source='https://www.flickr.com/photos/52214493@N03/14599513496/'
 %}
-
-## Incertain
 
 Description : Les prédictions ne peuvent être toutes justes, des évènements inattendus arriveront.
 
@@ -81,13 +78,12 @@ Impacts :
 
 Elément clé : C'est un peu la métaphore du chène et du roseau, on cherche à plier et ne pas rompre. **Je ne tente pas de résister au vent (du changement), je l'accompagne.**
 
+## Complexe
 
 {% include img.html
     name='21276397114_eafa93c73b'
     source='https://www.flickr.com/photos/fotograzio/21276397114'
 %}
-
-## Complexe
 
 Description : La situation a un nombre très important de dépendances et d'interconnexions. Le volume de données est trop important.
 
@@ -98,13 +94,12 @@ Impacts :
 
 Elément clé : La direction du vent change, mais pas mon cap. **L'organisation s'adapte aux conditions tout devant garder en tête ses priorités.** C'est un des rôles du manager que de rappeler le focus prioritaire au regard de l'objectif collectif.
 
+## Ambigu
 
 {% include img.html
     name='14890437220_e3a3c4ff41'
     source='https://www.flickr.com/photos/39908901@N06/14890437220/'
 %}
-
-## Ambigu
 
 Description : Les relations de cause à effet ne sont pas claires.
 
@@ -116,13 +111,13 @@ Impacts :
 
 Elément clé : **Habituer vous à l'inconfortable**. Quand on innove, il y a toujours une période de doute où l'on se demande si l'on va dans la bonne direction.
 
+## Le mot de la fin
 
 {% include img.html
     name='71306306_7aa90f9754'
     source='https://www.flickr.com/photos/mederic/71306306'
 %}
 
-## Le mot de la fin
 J'espère vous avoir donné des éclairages sur le rôle du manager dans un environnement adaptif (ou VUCA pour le buzz word). Pour résumer nous allons vers des organisations plus décentralisées, avec un objectif méta à atteindre, de l'autonomie au niveau bas et des compétences qui bougent. C'est une façon de voir les choses qui rend inconcevable des organisations ou des personnes pensent et d'autres exécutent. Tout le monde peut proposer et c'est le monde de l'intelligence collective.
 
 Et comme j'aime bien être taquin, je finis par une question : Vous y croyez encore au schéma des boites de strate qui définissent avec les chefs la stratégie et les boites de conseil pour aider à l'exécution sur le terrain ?
