@@ -16,3 +16,6 @@ product:
 project:
   title: Projets
   icon: line-chart
+managment:
+  title: Management
+  icon: users
