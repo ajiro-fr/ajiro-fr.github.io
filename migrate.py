@@ -213,7 +213,7 @@ translate(
                     repl="""{{< youtube \g<1> >}}""",
                     flags=re.MULTILINE),
                 replace_pattern(
-                    pattern="""{:(?P<class>[^}]*)}\n(?P<text>.*?)\n\n""",
+                    pattern="""^{:(?P<class>[^}]*)}\n(?P<text>.*?)\n\n""",
                     repl=replace_style,
                     flags=re.MULTILINE | re.DOTALL),
             )),
