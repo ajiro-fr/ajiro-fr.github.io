@@ -7,6 +7,8 @@ authors:
 tags:
   - management
   - VUCA
+categories:
+  - management
 illustration:
   name: 72499441_b9215607bb
   source: https://www.flickr.com/photos/smallape/72499441/
@@ -32,7 +34,7 @@ Tout d'abord petite séance de définition :
 %}
 
 Quand on parle de manager agile, 3.0, VUCA, etc, c'est un profil ou un état d'esprit ? Et bien d'état d'esprit car c'est plus une façon de voir le monde qu'autre. Il y a aujourd'hui deux courants de pensée dominants :
-- Je peux prédire le futur par la pensée factuelle car je suis capable de comprendre les relations de cause à effet. Je peux donc séparer les organisations en personnes qui pensent et en personnes qui éxécutent. C'est le domaine du compliqué ou Predict and Control dans le modèle Cynefin.
+- Je peux prédire le futur par la pensée factuelle car je suis capable de comprendre les relations de cause à effet. Je peux donc séparer les organisations en personnes qui pensent et en personnes qui éxécutent. C'est le domaine du compliqué ou Predict and Control dans le modèle [Cynefin].
 - **Je m'adapte par l'expérimentation car je ne peux comprendre les relations de cause à effet.** Je suis dans le domaine du complexe autrement appelé Sense and Respond.
 
 ## Manager dans un monde VUCA : Accepter l'incertitude
@@ -44,7 +46,7 @@ Quand on parle de manager agile, 3.0, VUCA, etc, c'est un profil ou un état d'e
 
 Je pense que la prédiction était efficace au début de la révolution industrielle car le travail était répétitif. Dans une économie de la connaissance, je crois plus à un management basé sur l'expérimentation. Dans la suite de ce post, je vais décrire ce que cela veut dire d'être un manager dans ce monde.
 
-Ca serait pas mal que tu définisses le terme VUCA que tu utilises depuis le début. Cet acronyme vient de l'armée américaine pour expliquer comment se comporter pendant les guerres non linéaires. C'est quoi le rapport entre l'armée et le management en entreprise? On voit souvent l'armée par le prisme du cinéma avec un QG qui décide et des hommes qui exécutent. La réalité est plus fine que cela. 
+Ca serait pas mal que tu définisses le terme [VUCA] que tu utilises depuis le début. Cet acronyme vient de l'armée américaine pour expliquer comment se comporter pendant les guerres non linéaires. C'est quoi le rapport entre l'armée et le management en entreprise? On voit souvent l'armée par le prisme du cinéma avec un QG qui décide et des hommes qui exécutent. La réalité est plus fine que cela. 
 
 ## Volatile
 
@@ -56,7 +58,7 @@ Ca serait pas mal que tu définisses le terme VUCA que tu utilises depuis le dé
 Description : **Le challenge est inattendu ou instable et peut être d'une durée inconnue.** Le rythme du changement s'accélère. Des fenêtres d'opportunités s'ouvrent et se referment.
 
 Impacts :
-- Pour **accélérer la vitesse de prise de décision**, de l'autonomie au niveau bas dans l'organisation est nécessaire. L'armée explique qu'une décision prend trois fois plus de temps à être prise pour chaque échelon hiérarchique remonté. La priorité est donc donnée à répondre à une demande venant d'en bas. Je veux être capable de prendre une bonne vague quand elle apparait.
+- Pour **accélérer la vitesse de prise de décision**, de l'autonomie au niveau bas dans l'organisation est nécessaire. L'armée explique qu'une décision prend trois fois plus de temps à être prise pour chaque échelon hiérarchique remonté. La priorité est donc donnée à répondre à une demande venant d'en bas (Cf. [Tactique théorique]). Je veux être capable de prendre une bonne vague quand elle apparait.
 - Pour être capable de prendre des décisions, les personnes doivent avec les compétences et l'information nécessaire à la prise de décision. Il est donc nécessaire de disséminer l'information.
 - On ne peut prendre des décisions quand on comprend l'objectif global. Ca serait pas mal de surfer la même vague. Je parle de l'objectif du niveau du dessus que ce soit hiérarchique ou pas. C'est toute la question autour de la translation des objectifs et non cascade du KPI.
 - Les ordres doivent donner l'intention et les contraintes, mais ils ne doivent pas donner le comment.
@@ -122,3 +124,6 @@ Elément clé : **Habituer vous à l'inconfortable**. Quand on innove, il y a to
 J'espère vous avoir donné des éclairages sur le rôle du manager dans un environnement adaptif (ou VUCA pour le buzz word). Pour résumer nous allons vers des organisations plus décentralisées, avec un objectif méta à atteindre, de l'autonomie au niveau bas et des compétences qui bougent. C'est une façon de voir les choses qui rend inconcevable des organisations ou des personnes pensent et d'autres exécutent. Tout le monde peut proposer et c'est le monde de l'intelligence collective.
 
 Et comme j'aime bien être taquin, je finis par une question : Vous y croyez encore au schéma des boites de strate qui définissent avec les chefs la stratégie et les boites de conseil pour aider à l'exécution sur le terrain ?
+
+[Cynefin]: 
+[convergent thinking]: /articles/2017/04/04/convergent_thinking.html
