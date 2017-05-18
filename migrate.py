@@ -169,6 +169,14 @@ def translate(items, destination, translators):
 #    translators=[
 #        process_file_content(remove_lines('layout: tale'))])
 
+
+def replace_style(match):
+    classes = " ".join([s[1:] for s in match.group("class").split()])
+    text = match.group("text")
+    result = '{{% style class="' + classes + '" %}}\n' + text + '\n{{% /style %}}\n\n'
+    return result
+
+
 translate(
     items=list_items('articles/_posts'),
     destination='content/articles',
@@ -204,5 +212,9 @@ translate(
                     pattern="""{% include youtube.html\s*video=['"](?P<video>.*)['"]\s*%}""",
                     repl="""{{< youtube \g<1> >}}""",
                     flags=re.MULTILINE),
+                replace_pattern(
+                    pattern="""{:(?P<class>[^}]*)}\n(?P<text>.*?)\n\n""",
+                    repl=replace_style,
+                    flags=re.MULTILINE | re.DOTALL),
             )),
         copy_articles_assets('assets/articles')])
