@@ -59,11 +59,11 @@ Description : **Le challenge est inattendu ou instable et peut être d'une duré
 
 Impacts :
 - Pour **accélérer la vitesse de prise de décision**, de l'autonomie au niveau bas dans l'organisation est nécessaire. L'armée explique qu'une décision prend trois fois plus de temps à être prise pour chaque échelon hiérarchique remonté. La priorité est donc donnée à répondre à une demande venant d'en bas (Cf. [Tactique théorique]). Je veux être capable de prendre une bonne vague quand elle apparait.
-- Pour être capable de prendre des décisions, les personnes doivent avec les compétences et l'information nécessaire à la prise de décision. Il est donc nécessaire de disséminer l'information.
-- On ne peut prendre des décisions quand on comprend l'objectif global. Ca serait pas mal de surfer la même vague. Je parle de l'objectif du niveau du dessus que ce soit hiérarchique ou pas. C'est toute la question autour de la translation des objectifs et non cascade du KPI.
+- Pour être capable de prendre de bonnes décisions, les personnes doivent avoir les compétences et l'information nécessaire à la prise de décision. Il est donc nécessaire de disséminer l'information.
+- On ne peut prendre des décisions quand on comprend l'objectif global. Ca serait pas mal de surfer la même vague. Je parle de l'objectif du niveau du dessus que ce soit hiérarchique ou pas. C'est toute la question autour de la translation des objectifs (Cf. [OKR])et non cascade du KPI.
 - Les ordres doivent donner l'intention et les contraintes, mais ils ne doivent pas donner le comment.
 
-Elément clé : **Le manager doit s'assurer que tout le monde comprend la vision** pour être capable de prendre des décisions à son niveau.
+Elément clé : **Le manager doit s'assurer que tout le monde comprend la vision** pour être capable de prendre de bonnes décisions à son niveau.
 
 ## Incertain
 
@@ -76,7 +76,7 @@ Description : Les prédictions ne peuvent être toutes justes, des évènements 
 
 Impacts :
 - Il est préférable d'**accepter l'incertitude** et de prévoir des scénarios flexibles. Il s'agit d'écouter pour comprendre ce qui se passe. On parle parfois du brouillard de la guerre, c'est à dire qu'il est parfois difficile de comprendre ce qui se déroule.
-- Pour profiter des évènements inattendus de type black swan (cf antifragile) et non pas les subir, il est intéressant d'ouvrir des perspectives. Que se passerait il si tel évènement arrivait ? Il s'agit de confronter des scénarios possibles avec des modèles mentaux différents.
+- Pour profiter des évènements inattendus de type black swan (cf [Antifragile]) et non pas les subir, il est intéressant d'ouvrir des perspectives. Que se passerait il si tel évènement arrivait ? Il s'agit de confronter des scénarios possibles avec des modèles mentaux différents.
 - Comme on ne peut tout prévoir, une culture ouverte (open culture) permet de mieux interpréter les évènements externes (cf prospective et signaux failbles) et donc de mieux anticiper les mouvements futurs.
 
 Elément clé : C'est un peu la métaphore du chène et du roseau, on cherche à plier et ne pas rompre. **Je ne tente pas de résister au vent (du changement), je l'accompagne.**
@@ -109,8 +109,8 @@ Description : Les relations de cause à effet ne sont pas claires.
 Impacts :
 - Je ne peux par un raisonnement logique prédire les impacts futurs. Je vais passer par une logique d'**expérimentation pour valider mes hypothèses**. Cela signifie que des tests permettront d'invalider des hypothèses. Cela remet en cause la signification du mot échec. On parle d'apprentissage quand une expérimentation a permis de valider ou d'invalider une hypothèse. On parle d'échec quand on a mis trop de temps à apprendre ou qu'aucun apprentissage n'est présent après une expérimentation.
 - Si je veux que mes expérimentations soient tout le temps concluantes, je vais tester des hypothèses que je sais déjà valides. A faire cela, je tue l'innovation. Il est crucial de pouvoir remonter des résultats qui représentent la réalité. Une des options possibles pour favoriser l'innovation est de récompenser les personnes qui arrêtent des initiatives. Dans le même ordre d'idée, il est intéressant de **communiquer sur ce qui n'a pas marché**. Cela montre que l'on apprend et cela évite à tout le monde de prendre le même mur.
-- La prise d'initiative est d'autant plus possible que j'utilise des protocoles de décision qui aident à sortir par le haut. Je vais éviter l'utilisation du consensus pour aller plus vers du consentement.
-- Pour favoriser l'innovation, il est plus question d'environnement favorable que de talent que je vais chercher à l'extérieur. Je dois être capable de proposer des idées incongrues sans avoir la peur d'être jugé sous peine d'auto censure. Je parle ici de divergent thinking.
+- La prise d'initiative est d'autant plus possible que j'utilise des [protocoles de décision] qui aident à sortir par le haut. Je vais éviter l'utilisation du consensus pour aller plus vers du consentement.
+- Pour favoriser l'innovation, il est plus question d'environnement favorable que de talent que je vais chercher à l'extérieur. Je dois être capable de proposer des idées incongrues sans avoir la peur d'être jugé sous peine d'auto censure. Je parle ici de [divergent thinking].
 
 Elément clé : **Habituer vous à l'inconfortable**. Quand on innove, il y a toujours une période de doute où l'on se demande si l'on va dans la bonne direction.
 
@@ -125,5 +125,9 @@ J'espère vous avoir donné des éclairages sur le rôle du manager dans un envi
 
 Et comme j'aime bien être taquin, je finis par une question : Vous y croyez encore au schéma des boites de strate qui définissent avec les chefs la stratégie et les boites de conseil pour aider à l'exécution sur le terrain ?
 
-[Cynefin]: 
-[convergent thinking]: /articles/2017/04/04/convergent_thinking.html
+[Cynefin]: https://www.novencia.com/cynefin-design-thinking-sens/
+[VUCA]: https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity
+[Antifragile]: /articles/2017/03/24/antifragile.html
+[protocoles de décision]: /articles/2017/03/06/decisions_making.html
+[divergent thinking]: /articles/2017/03/08/divergent_thinking.html
+[OKR]: https://en.wikipedia.org/wiki/OKR
