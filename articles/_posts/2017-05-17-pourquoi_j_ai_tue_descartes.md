@@ -1,7 +1,7 @@
 ---
 title: "Le manager du monde VUCA ou comment nous avons tué Descartes "
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
