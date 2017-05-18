@@ -26,8 +26,9 @@ description: |
 
 ## Réduire l'encours
 
-{: .blockquote}
+{{% style class="blockquote" %}}
 > Focus est un mot anglais emprunté au latin qui veut dire foyer ou point, c'est le lieu où plusieurs choses se concentrent.
+{{% /style %}}
 
 La définition de "focus" sur Wikipedia nous rappelle nos cours d'optique avec les expériences où l'on voit converger tous les rayons lumineux vers un même point avant de se disperser. Calculer ce point de convergence était beaucoup plus compliqué que de le trouver expérimentalement.
 
@@ -55,13 +56,15 @@ Il était une fois une équipe de développement, ils étaient six en comptant l
 
 Alors que leur première réaction avait été :
 
-{: .blockquote}
+{{% style class="blockquote" %}}
 > On ne va jamais réussir à tous travailler sur la même histoire utilisateur, on va perdre plein de temps à s'attendre et à se marcher sur les pieds !
+{{% /style %}}
 
 Au bout d'une semaine de travail avec eux, le chef de projet nous disait :
 
-{: .blockquote}
+{{% style class="blockquote" %}}
 > En fait, je crois que l'on n'est pas suffisamment nombreux pour finir cette histoire utilisateur en moins d'une journée.
+{{% /style %}}
 
 Alors que s'est-il passé ? Que peut-on observer dans cette équipe ?
 
@@ -103,19 +106,21 @@ Quand nous sommes arrivés le premier jour dans cette équipe, nous avons commen
 Après avoir réorganisé le bureau pour pouvoir projeter l'écran d'un des développeurs sur un mur, nous avons attaqué l'histoire utilisateur en mode "Mob programming". Au bout de quelques minutes nous avons stoppé l'équipe :
 
 
-{: .font-italic}
+{{% style class="font-italic" %}}
 --- Avez-vous observé quelque chose que l'on pourrait améliorer ?<br>
 --- Non<br>
 --- Vous trouvez ça normal de mettre plus de 6 minutes à compiler le projet ?<br>
 --- Heu... Oui, c'est toujours comme ça, mais on fait autre chose en attendant.<br>
 --- Ha, je vais quand même le noter sur un post-it et l'afficher au mur.
+{{% /style %}}
 
 Nous avons alors repris le développement quelques minutes avant d'arrêter à nouveau l'équipe :
 
-{: .font-italic}
+{{% style class="font-italic" %}}
 --- Avez-vous observé quelque chose que l'on pourrait améliorer ?<br>
 --- Non mais ce n'est pas pareil, l'indexation prend forcément 2 heures, on ne peut pas faire autrement. Et puis on fait autre chose en attendant.<br>
 --- OK, je vais quand même le noter sur un post-it et l'afficher au mur.
+{{% /style %}}
 
 Au bout d'une demi-journée, l'histoire utilisateur n'était pas en production, elle était d'ailleurs loin d'être terminée, mais le mur était couvert de post-it.
 

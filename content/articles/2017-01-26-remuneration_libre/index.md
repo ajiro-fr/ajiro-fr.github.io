@@ -62,6 +62,7 @@ style: |
   .highlight.customize::before {
     content: '\f0d0';
   }
+
 ---
 
 Voici une formalisation d'un modèle de rémunération basé sur une rémunération libre, choisie par les salariés.
@@ -262,7 +263,6 @@ La grille de salaires est, comme nous l’avons dit précédemment, définie par
 {{% /style %}}
 
 Ci-dessous une proposition de grille de salaires à modifier par l'ensemble des salariés :
-
 
 {{% style class="table" %}}
 |  Niveau  |  Salaire   |  Niveau  |  Salaire   |

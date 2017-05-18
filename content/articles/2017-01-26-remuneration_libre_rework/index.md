@@ -66,13 +66,14 @@ La rémunération globale doit être :
 - Compatible avec les besoins du salarié pour vivre sans se poser de question
 Ci-dessous une proposition de grille de rémunérations à modifier par l’ensemble des salariés :
 
-{: .table}
+{{% style class="table" %}}
 |  Niveau  |  Rémunération   |  Niveau  |  Rémunération   |
 |:--------:|:----------:|:--------:|:----------:|
 | A        | 2500-2600  | E        | 4500-4600  |
 | B        | 3000-3100  | F        | 5000-5100  |
 | C        | 3500-3600  | G        | 6000-6100  |
 | D        | 4000-4100  | H        | 7000-7100  |
+{{% /style %}}
 
 La grille de rémunération peut-être étayées d’exemples permettant d’expliciter la vision commune de ce à quoi correspondent les différents niveaux de rémunération (niveau d’expertise, de complexité, de pénibilité etc.).
 Cela permet de vérifier par des exemples concrets que l’ensemble des salariés partage bien une même réalité de chaque niveau de rémunération. Ensuite cela sera une aide pour que chacun puisse se situer plus facilement dans la grille de rémunération et choisir un niveau qu’il estime juste pour lui et pour l’entreprise.

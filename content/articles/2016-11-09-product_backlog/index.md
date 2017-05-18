@@ -35,8 +35,9 @@ Il faut moins d'une demi journée pour le remplir. C'est clairement un atelier d
 
 Je garde la partie solution dans le canvas pour ne pas brider et pour la conduite du changement (ne pas dire tout de suite qu'il faut arrêter de partir direct sur la solution). L'important est de savoir à quel problème on répond et comme je garde ce formalisme pour trois niveaux de granularité je préfère garder le pavé solution même si cela peut paraitre prématuré. Une fois que j'ai rempli le canvas, j'ai explicité problème, embryon de solution et hypothèses sur lesquelles reposent mon initiative. Ensuite, on dérisque au besoin certaines questions/hypothèses par des interviews, études de marché...
 
-{: .bleu}
+{{% style class="bleu" %}}
 _Output : L'initiative parait faire du sens à savoir que je sais à quel problème je réponds. Au regard des hypothèses et des risques, l'initiative est viable._
+{{% /style %}}
 
 
 {{< img name="19869181208_15677d3cb7" source="https://www.flickr.com/photos/p_valdivieso/19869181208" >}}
@@ -45,8 +46,9 @@ _Output : L'initiative parait faire du sens à savoir que je sais à quel probl�
 
 J'ai un embryon de solution viable et j'ai levé certaines hypothèses. Je vais maintenant passer un premier tamis de découpage et identifier les grosses patates que j'appelle jalon et les mettre dans l'ordre. Pour cela, je pars souvent sur l'innovation game _'remember the future'_ sachant que l'on peut faire sans. À quoi sert cette étape ? À affiner pour ne pas partir sur un effet tunnel d'un an et à comprendre ce qui apporte le plus de valeur. Il y a une autre raison qui est lié au budget et au staffing. J'essaie d'identifier des jalons de 1 à 3 mois qui permettent de faire de l'allocation de ressources de type budget glissant (cf beyond budgeting) et aussi de garder une équipe sur un sujet pour quelque temps pour gérer la montée en compétences. À la fin de cette étape, j'ai découpé mon initiative en une poignée de jalons. La question «_Comment saurez-vous que c'est un succès ?_» du canvas au niveau jalon aide à savoir si on doit ou non continuer à allouer du budget.
 
-{: .bleu}
+{{% style class="bleu" %}}
 _Output : Mon initiative est découpée en gros glaçons (jalons) et j'ai une idée de l'enchainement temporel._
+{{% /style %}}
 
 
 {{< img name="8599735985_0f513948a1" source="https://www.flickr.com/photos/p_valdivieso/8599735985" >}}
@@ -55,8 +57,9 @@ _Output : Mon initiative est découpée en gros glaçons (jalons) et j'ai une id
 
 Je prends les premiers jalons et je zoome. Je ne vais pas produire du logiciel pendant 3 mois et livrer à la fin. Sans continuous delivery point de salut. Et donc comment je fais pour livrer au fur et à mesure ? Et bien qu'est-ce que tu peux activer en production qui permettra un changement de comportement utilisateur ? La question clé est «_Que pourrez vous faire demain que vous ne pouvez pas faire aujourd'hui ?_» Pour identifier si nous sommes ou non en présence d'une expérience (utilisateur) minimum viable (MVE). On peut faire le lien avec les scénarios d'usage des personas. Si je suis en continuous delivery, dès que MVE est terminé, c'est en production direct et donc un MVE est égal à une version. La question «_Comment saurez-vous que c'est un succès ?_» Au niveau MVE sert plus à réajuster les futurs développements qu'à pivoter ou arrêter.
 
-{: .bleu}
+{{% style class="bleu" %}}
 _Output : Je connais mes scénarios d'usage mininum (MVE). Je saurai prendre des décisions après activation en production car je connais mes conditions de succès._
+{{% /style %}}
 
 {{< img name="8185003116_a1d8be49ff" source="https://www.flickr.com/photos/vialbost/8185003116" >}}
 
@@ -69,8 +72,9 @@ Je charrie un peu en ne parlant de solution qu'à cette étape, mais ce n'est qu
 
 Et donc qu'est-ce que c'est une User Story ? Et bien, c'est un morceau fonctionnel d'un MVE. Cela peut être un bout de process, un bout d'écran, une fonctionnalité sans option... Pour savoir si on est dans la User Story ou la tache technique, il suffit de demander au représentant du métier s'il comprend ou non la fiche. Si c'est non, c'est que c'est une tache technique. Personnellement, je considère que si le découpage (slicing pour les intimes) est bien fait, le découpage en taches est inutile. De la forme canonique standard, je ne garde que _'En tant que, je veux que'_. Le _'parce que'_ est porté par le MVE.
 
-{: .bleu}
+{{% style class="bleu" %}}
 _Output : J'ai la description de la solution avec critère d'acceptance._
+{{% /style %}}
 
 {{< img name="28642020772_aac9123977" source="https://www.flickr.com/photos/p_valdivieso/28642020772" >}}
 
@@ -83,8 +87,9 @@ Dès que toutes les User Stories d'un MVE sont terminées, je passe en productio
 
 Une fois un MVE mis en production, on mesure la valeur réelle de l'indicateur business de condition de succès. On parle alors de feed-back de production. C'est le terrain qui parle. Plus le produit a un nombre élevé d'utilisateurs, plus la probabilité d'une différence entre feed-backs de non-production (démo) et feed-backs de production est importante. Cette mesure sert ensuite à réajuster le produit.
 
-{: .bleu}
+{{% style class="bleu" %}}
 _Output : Mesure réelle de l'indicateur métier à mettre au regard des conditions de succès. Je peux prendre des décisions métier (continuer, pivoter/inflechir, remodeler)._
+{{% /style %}}
 
 {{< img name="8390935488_b1c6c2b117" source="https://www.flickr.com/photos/art_roman_p/8390935488" >}}
 
