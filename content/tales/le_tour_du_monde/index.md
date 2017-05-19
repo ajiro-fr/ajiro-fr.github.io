@@ -1,4 +1,5 @@
 ---
+nositemap: true
 title: Le tour du monde
 authors:
 - dussault_laurent

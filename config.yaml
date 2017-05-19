@@ -44,3 +44,7 @@ menu:
       Pre: "<i class='fa fa-rss'></i>"
       URL: /feed.all.xml
       Weight: 40
+
+sitemap:
+  changefreq: "weekly"
+  filename: "sitemap.xml"

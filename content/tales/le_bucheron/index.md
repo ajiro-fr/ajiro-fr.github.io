@@ -1,4 +1,5 @@
 ---
+nositemap: true
 title: "Le bûcheron"
 illustration:
   source: https://www.flickr.com/photos/murph4513/5795270418/
