@@ -5,6 +5,7 @@ copyright: "&copy; 2016, Ajiro"
 baseurl: http://ajiro.fr/
 theme: template-ajiro
 
+enableRobotsTXT: true
 enableEmoji: true
 googleAnalytics: "UA-89122379-1"
 metaDataFormat: yaml
