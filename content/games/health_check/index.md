@@ -16,6 +16,9 @@ participants: "jusqu'à 15 - L'équipe / les personnes support"
 materials:
   - des cartes de checking
   - éventuellement les cartes de votes
+authors:
+  - albiez_olivier
+  - quille_julie
 illustration:
   name: illustration
   source: https://pixabay.com/fr/battement-de-coeur-impulsion-163709/
@@ -24,12 +27,12 @@ references:
     icon: external-link
     url: https://labs.spotify.com/2014/09/16/squad-health-check-model/
 ressources:
-- name: Health Check (français)
-  file: health_check/health-check-fr.pdf
-  icon: fr.svg
-- name: Health Check (anglais)
-  file: health_check/health-check-en.pdf
-  icon: en.svg
+  - name: Health Check (français)
+    file: health_check/health-check-fr.pdf
+    icon: fr.svg
+  - name: Health Check (anglais)
+    file: health_check/health-check-en.pdf
+    icon: en.svg
 ---
 
 ## Présentation

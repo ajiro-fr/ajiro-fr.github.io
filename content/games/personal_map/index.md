@@ -3,8 +3,8 @@ hidden: false
 sorted: carte personelle
 title: "Carte personelle"
 tags:
-- managment 3.0
-- partage
+  - managment 3.0
+  - partage
 objectives: |
   - Construire sa carte personnelle
   - Créer des interactions dans une équipe
@@ -12,8 +12,10 @@ objectives: |
 duration: 30 min à 45 min
 participants: "2 personnes minimum"
 materials:
-- 1 feuille (paperboard) par participant
-- Feutres
+  - 1 feuille (paperboard) par participant
+  - Feutres
+authors:
+  - albiez_olivier
 illustration:
   source: http://gcaptain.com/maritime-monday-january-twenty-twentyfourteen/
 ---

@@ -3,15 +3,17 @@ hidden: false
 sorted: world cafe
 title: "World Café"
 tags:
-- intelligence collective
+  - intelligence collective
 objectives: |
   Le _World Cafe_ est processus qui permet de créer des discussion en profondeur et de faire émerger une intelligence collective.
 duration: minimum 2H
 participants: "12 personnes minimum"
 materials:
-- des tables de 3 ou 4 places
-- des feuilles A3 ou des nappes en papier
-- feutres
+  - des tables de 3 ou 4 places
+  - des feuilles A3 ou des nappes en papier
+  - feutres
+authors:
+  - albiez_olivier
 illustration:
   name: illustration
   source: https://www.flickr.com/photos/bumbus/8213341375/

@@ -3,8 +3,8 @@ hidden: false
 sorted: ecouter
 title: "S'écouter"
 tags:
-- équipe
-- partage
+  - équipe
+  - partage
 objectives: |
   - Construire sa carte personnelle
   - Créer des interactions dans une équipe
@@ -12,8 +12,10 @@ objectives: |
 duration: 30 min à 45 min
 participants: "2 personnes minimum"
 materials:
-- 1 feuille (paperboard) par participant
-- Feutres
+  - 1 feuille (paperboard) par participant
+  - Feutres
+authors:
+  - albiez_olivier
 illustration:
   name: illustration
   source: http://gcaptain.com/maritime-monday-january-twenty-twentyfourteen/
