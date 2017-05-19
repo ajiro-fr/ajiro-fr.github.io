@@ -6,7 +6,6 @@ baseurl: http://ajiro.fr/
 theme: template-ajiro
 
 disableRSS: false
-enableGitInfo: true
 enableRobotsTXT: true
 enableEmoji: true
 googleAnalytics: "UA-89122379-1"
