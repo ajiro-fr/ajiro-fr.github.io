@@ -39,16 +39,9 @@
                   </span>
                 </small>
               </h3>
-              <ul>
               {{ range first 3 (index $.Site.Taxonomies.authors $key) }}
-                <li>
-                  <span class="categories-timestamp">
-                    <time datetime="{{ .Page.Lastmod }}">{{ .Page.Date | dateFormat $.Site.Params.date_format.default }}</time>
-                  </span>
-                  <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-                </li>
+                {{ partial "components/page-short-ref" .Page }}
               {{ end }}
-              </ul>
             {{ end }}
           </div>
         </div>
@@ -74,16 +67,9 @@
                   </span>
                 </small>
               </h3>
-              <ul>
               {{ range first 3 (index $.Site.Taxonomies.authors $key) }}
-                <li>
-                  <span class="categories-timestamp">
-                    <time datetime="{{ .Page.Lastmod }}">{{ .Page.Date | dateFormat $.Site.Params.date_format.default }}</time>
-                  </span>
-                  <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-                </li>
+                {{ partial "components/page-short-ref" .Page }}
               {{ end }}
-              </ul>
             {{ end }}
           </div>
         </div>
