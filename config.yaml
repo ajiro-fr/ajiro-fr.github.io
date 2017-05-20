@@ -25,9 +25,9 @@ params:
 
 menu:
   left:
-    - Name: "Membres"
+    - Name: "Auteurs"
       Pre: "<i class='fa fa-users'></i>"
-      URL: /members/
+      URL: /authors/
       Weight: 10
   right:
     - Name: "Articles"
