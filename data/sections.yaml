@@ -1,0 +1,10 @@
+articles:
+  icon: file-text-o
+books:
+  icon: book
+games:
+  icon: gamepad
+tales:
+  icon: quote-right
+talks:
+  icon: desktop
