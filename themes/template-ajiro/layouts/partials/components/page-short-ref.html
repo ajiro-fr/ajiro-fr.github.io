@@ -1,14 +1,10 @@
 <div class="card mt-1">
   <div class="card-block">
     <small>
-      {{ if .Params.Tags }}
-        <div class="float-xs-right">
-          {{ if .Params.categories }}
-            {{ partial "components/categories" . }}
-          {{ end }}
-          {{ partial "components/tags" . }}
-        </div>
-      {{ end }}
+      <div class="float-xs-right">
+        {{ partial "components/categories" . }}
+        {{ partial "components/tags" . }}
+      </div>
       <div>
         {{ partial "components/page-section" . }}
         &nbsp;—&nbsp;

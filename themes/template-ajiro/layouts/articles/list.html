@@ -40,16 +40,10 @@
           <div class="text-justify">
             {{ partial "components/article-description" . }}
           </div>
-          {{ if .Params.categories }}
-            <small>
-              {{ partial "components/categories" . }}
-            </small>
-          {{ end }}
-          {{ if .Params.tags }}
-            <small>
+          <small>
+            {{ partial "components/categories" . }}
             {{ partial "components/tags" . }}
-            </small>
-          {{ end }}
+          </small>
         </div>
         <div class="col-md-4 col-xs-12">
           {{ if isset .Params "illustration"}}

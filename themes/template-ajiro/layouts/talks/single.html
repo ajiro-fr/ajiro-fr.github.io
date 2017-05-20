@@ -5,11 +5,9 @@
         {{ partial "components/title" . }}
       </h1>
       <small>
-        {{ if .Params.tags }}
-          <div class="float-xs-right">
-            {{ partial "components/tags" . }}
-          </div>
-        {{ end }}
+        <div class="float-xs-right">
+          {{ partial "components/tags" . }}
+        </div>
         <div>
           <i class='fa fa-clock-o'></i> {{ .Params.duration }}
           &nbsp;—&nbsp;
