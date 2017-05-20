@@ -30,7 +30,7 @@
               {{ $data := index $.Site.Data.people $key }}
               <h3>
                 <img alt="Photo {{ $data.name }}" width=50 class="rounded-circle" src="/assets/images/people/{{ $key }}.jpg" />
-                {{ $data.name }}
+                <a href="{{ $.Site.LanguagePrefix }}/authors/{{ $key | urlize }}">{{ $data.name }}</a>
                 <small>
                   <span class="circled-icon">
                     {{ range $data.social }}
@@ -39,14 +39,16 @@
                   </span>
                 </small>
               </h3>
+              <ul>
               {{ range first 3 (index $.Site.Taxonomies.authors $key) }}
-                <p>
+                <li>
                   <span class="categories-timestamp">
                     <time datetime="{{ .Page.Lastmod }}">{{ .Page.Date | dateFormat "02 Jan 2006" }}</time>
                   </span>
                   <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-                </p>
+                </li>
               {{ end }}
+              </ul>
             {{ end }}
           </div>
         </div>
@@ -63,7 +65,7 @@
               {{ $data := index $.Site.Data.people $key }}
               <h3>
                 <img alt="Photo {{ $data.name }}" width=50 class="rounded-circle" src="/assets/images/people/{{ $key }}.jpg" />
-                {{ $data.name }}
+                <a href="{{ $.Site.LanguagePrefix }}/authors/{{ $key | urlize }}">{{ $data.name }}</a>
                 <small>
                   <span class="circled-icon">
                     {{ range $data.social }}
@@ -72,14 +74,16 @@
                   </span>
                 </small>
               </h3>
+              <ul>
               {{ range first 3 (index $.Site.Taxonomies.authors $key) }}
-                <p>
+                <li>
                   <span class="categories-timestamp">
                     <time datetime="{{ .Page.Lastmod }}">{{ .Page.Date | dateFormat "02 Jan 2006" }}</time>
                   </span>
                   <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-                </p>
+                </li>
               {{ end }}
+              </ul>
             {{ end }}
           </div>
         </div>
