@@ -3,8 +3,8 @@
     <small>
       {{ if .Params.Tags }}
         <div class="float-xs-right">
-          {{ range .Params.categories }}
-            <span class="tag tag-category">{{ . }}</span>
+          {{ if .Params.categories }}
+            {{ partial "components/categories" . }}
           {{ end }}
           {{ partial "components/tags" . }}
         </div>

@@ -40,7 +40,12 @@
           <div class="text-justify">
             {{ partial "components/article-description" . }}
           </div>
-          {{ if .Params.Tags }}
+          {{ if .Params.categories }}
+            <small>
+              {{ partial "components/categories" . }}
+            </small>
+          {{ end }}
+          {{ if .Params.tags }}
             <small>
             {{ partial "components/tags" . }}
             </small>
