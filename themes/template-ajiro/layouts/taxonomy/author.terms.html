@@ -1,0 +1,89 @@
+{{ $.Scratch.Add "inactive" (slice) }}
+{{ $.Scratch.Add "active" (slice) }}
+{{ range $key, $value := .Site.Taxonomies.authors }}
+  {{ $contribution := (index $value 0).Page.Date }}
+  {{ $muted := now.After ($contribution.AddDate 0 6 0) }}
+  {{ if $muted }}
+    {{ $.Scratch.Add "inactive" $key }}
+  {{ else }}
+    {{ $.Scratch.Add "active" $key }}
+  {{ end }}
+{{ end }}
+
+
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+  <body>
+    {{ partial "header" . }}
+      <div class="container">
+
+        <div class='row mt-3'>
+          <div class='col-lg-12 text-xs-center'>
+            <h1>Auteurs récents</h1>
+          </div>
+        </div>
+
+        <div class='row mt-3'>
+          <div class="col-lg-12">
+            {{ range $key := $.Scratch.Get "active" }}
+              {{ $data := index $.Site.Data.people $key }}
+              <h3>
+                <img alt="Photo {{ $data.name }}" width=50 class="rounded-circle" src="/assets/images/people/{{ $key }}.jpg" />
+                {{ $data.name }}
+                <small>
+                  <span class="circled-icon">
+                    {{ range $data.social }}
+                      <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
+                    {{ end }}
+                  </span>
+                </small>
+              </h3>
+              {{ range first 3 (index $.Site.Taxonomies.authors $key) }}
+                <p>
+                  <span class="categories-timestamp">
+                    <time datetime="{{ .Page.Lastmod }}">{{ .Page.Date | dateFormat "02 Jan 2006" }}</time>
+                  </span>
+                  <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                </p>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+
+        <div class='row mt-3'>
+          <div class='col-lg-12 text-xs-center'>
+            <h1>Auteurs historiques</h1>
+          </div>
+        </div>
+
+        <div class='row mt-3'>
+          <div class="col-lg-12">
+            {{ range $key := $.Scratch.Get "inactive" }}
+              {{ $data := index $.Site.Data.people $key }}
+              <h3>
+                <img alt="Photo {{ $data.name }}" width=50 class="rounded-circle" src="/assets/images/people/{{ $key }}.jpg" />
+                {{ $data.name }}
+                <small>
+                  <span class="circled-icon">
+                    {{ range $data.social }}
+                      <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
+                    {{ end }}
+                  </span>
+                </small>
+              </h3>
+              {{ range first 3 (index $.Site.Taxonomies.authors $key) }}
+                <p>
+                  <span class="categories-timestamp">
+                    <time datetime="{{ .Page.Lastmod }}">{{ .Page.Date | dateFormat "02 Jan 2006" }}</time>
+                  </span>
+                  <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                </p>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    {{ partial "footer" . }}
+  </body>
+</html>
