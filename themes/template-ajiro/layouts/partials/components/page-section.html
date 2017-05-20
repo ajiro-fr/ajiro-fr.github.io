@@ -1,12 +1,7 @@
-<span class="tag tag-success">
-  {{ if eq . "articles" }}
-    <i class='fa fa-fw fa-file-text-o'></i>
-  {{ else if eq . "games" }}
-    <i class='fa fa-fw fa-gamepad'></i>
-  {{ else if eq . "tales" }}
-    <i class='fa fa-fw fa-quote-right'></i>
-  {{ else if eq . "talks" }}
-    <i class='fa fa-fw fa-desktop'></i>
+{{ $section := index .Site.Data.sections .Section }}
+<span class="tag tag-section">
+  {{ if $section }}
+    <i class='fa fa-fw fa-{{ $section.icon }}'></i>
   {{ end }}
-  {{ . }}
+  {{ .Section }}
 </span>

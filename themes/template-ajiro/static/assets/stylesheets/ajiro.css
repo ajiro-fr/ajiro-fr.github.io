@@ -290,3 +290,15 @@ body {
 .talk-illustration {
   width: 100%;
 }
+
+.tag-section {
+  background-color: #C47401;
+}
+
+.tag-tags {
+  background-color: #818a91;
+}
+
+.tag-category {
+  background-color: #3D7890;
+}
