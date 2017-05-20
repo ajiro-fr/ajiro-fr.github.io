@@ -12,8 +12,8 @@
     "url": "{{ .Permalink }}{{ .Params.illustration.name | default "illustration" }}__thumbnail-wide.jpg",
     "width": "750 px",
   },
-  "datePublished": "{{ .Date | dateFormat "2006-01-02T15:04:05Z07:00" }}",
-  "dateModified": "{{ .Lastmod | dateFormat "2006-01-02T15:04:05Z07:00" }}",
+  "datePublished": "{{ .Date | dateFormat $.Site.Params.date_format.iso }}",
+  "dateModified": "{{ .Lastmod | dateFormat $.Site.Params.date_format.iso }}",
   "author": [
     {{ range .Params.authors }}
       {"@type": "Person", "name": "{{ (index $.Site.Data.people .).name }}"}

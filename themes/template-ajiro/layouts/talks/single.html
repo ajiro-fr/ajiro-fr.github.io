@@ -42,7 +42,7 @@
             <ul>
               {{ range .Params.sessions }}
               <li>
-                <i class='fa fa-calendar'></i> {{ .date | dateFormat "Jan 2, 2006" }}
+                <i class='fa fa-calendar'></i> {{ .date | dateFormat $.Site.Params.date_format.default }}
                 —
                 {{ if .url }}
                   <a href="{{ .url }}">{{.name}}</a>

@@ -43,7 +43,7 @@
               {{ range first 3 (index $.Site.Taxonomies.authors $key) }}
                 <li>
                   <span class="categories-timestamp">
-                    <time datetime="{{ .Page.Lastmod }}">{{ .Page.Date | dateFormat "02 Jan 2006" }}</time>
+                    <time datetime="{{ .Page.Lastmod }}">{{ .Page.Date | dateFormat $.Site.Params.date_format.default }}</time>
                   </span>
                   <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
                 </li>
@@ -78,7 +78,7 @@
               {{ range first 3 (index $.Site.Taxonomies.authors $key) }}
                 <li>
                   <span class="categories-timestamp">
-                    <time datetime="{{ .Page.Lastmod }}">{{ .Page.Date | dateFormat "02 Jan 2006" }}</time>
+                    <time datetime="{{ .Page.Lastmod }}">{{ .Page.Date | dateFormat $.Site.Params.date_format.default }}</time>
                   </span>
                   <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
                 </li>

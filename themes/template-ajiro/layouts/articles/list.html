@@ -13,7 +13,7 @@
         <div class="col-md-3 text-xs-right ">
           <h3>
             <div class="article-list__calendar">
-              <i class='fa fa-calendar'></i> {{ .Lastmod | dateFormat "Jan 2, 2006"  }}
+              <i class='fa fa-calendar'></i> {{ .Lastmod | dateFormat $.Site.Params.date_format.default  }}
             </div>
             <div class="article-list__calendar">
               <i class='fa fa-clock-o'></i>
