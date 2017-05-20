@@ -2,3 +2,4 @@ _site
 public
 *~
 *.swp
+content/**/*__thumbnail-*
