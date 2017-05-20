@@ -1,7 +1,9 @@
 {{ $section := index .Site.Data.sections .Section }}
+<a href="/{{ .Section }}">
 <span class="tag tag-section">
   {{ if $section }}
     <i class='fa fa-fw fa-{{ $section.icon }}'></i>
   {{ end }}
-  {{ .Section }}
+  {{- .Section -}}
 </span>
+</a>

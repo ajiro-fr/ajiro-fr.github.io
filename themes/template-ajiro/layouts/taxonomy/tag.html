@@ -8,12 +8,6 @@
   </div>
 
   {{ range sort .Pages "Lastmod" "desc" }}
-    <div class="row mt-3">
-      <div class="col-xs-12">
-        <h3>
-          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-        </h3>
-      </div>
-    </div>
+    {{ partial "components/page-short-ref" . }}
   {{ end }}
 {{ end }}

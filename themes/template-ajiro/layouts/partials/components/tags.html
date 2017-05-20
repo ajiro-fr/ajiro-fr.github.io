@@ -1,6 +1,8 @@
 {{ if .Params.tags }}
   <i class="fa fa-fw fa-tags"></i>
   {{ range .Params.tags }}
-    <span class="tag tag-tags">{{ . }}</span>
+    <a href="/tags/{{.}}">
+      <span class="tag tag-tags">{{ . }}</span>
+    </a>
   {{ end }}
 {{ end }}
