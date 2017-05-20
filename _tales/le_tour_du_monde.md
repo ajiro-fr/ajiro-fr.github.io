@@ -1,5 +1,5 @@
 ---
-date:
+date: 2016-09-28
 layout: tale
 title: Le tour du monde
 authors:
