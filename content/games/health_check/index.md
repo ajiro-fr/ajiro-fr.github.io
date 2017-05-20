@@ -1,4 +1,5 @@
 ---
+date: 2017-04-17
 hidden: false
 sorted: checking d'equipe
 title: "Checking d'équipe"

@@ -1,4 +1,5 @@
 ---
+date: 2017-04-17
 layout: game
 hidden: false
 sorted: checking d'equipe

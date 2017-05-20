@@ -1,4 +1,5 @@
 ---
+date: 2017-04-29
 layout: game
 hidden: false
 sorted: six chapeaux d’edward de bono

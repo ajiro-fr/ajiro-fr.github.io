@@ -1,4 +1,5 @@
 ---
+date: 2016-10-04
 layout: game
 hidden: false
 sorted: carte personelle
