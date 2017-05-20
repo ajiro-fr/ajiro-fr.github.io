@@ -22,7 +22,7 @@
         {{ if .Params.Tags }}
           <div class="float-xs-right">
             {{ range .Params.categories }}
-              <span class="tag tag-info">{{ . }}</span>
+              <span class="tag tag-category">{{ . }}</span>
             {{ end }}
             {{ partial "components/tags" . }}
           </div>
