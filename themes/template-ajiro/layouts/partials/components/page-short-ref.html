@@ -10,9 +10,7 @@
         </div>
       {{ end }}
       <div>
-        <span class="tag tag-success">
-          {{ .Section }}
-        </span>
+        {{ partial "components/page-section" .Section }}
         &nbsp;—&nbsp;
         <i class='fa fa-calendar'></i> {{ .Lastmod | dateFormat $.Site.Params.date_format.default }}
       </div>
