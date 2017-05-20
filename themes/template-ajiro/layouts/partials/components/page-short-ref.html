@@ -1,24 +1,24 @@
-<div class="mt-2">
-  <div class="card">
-    <div class="card-header">
-      <span class="tag tag-info">
-        {{ .Section }}
-      </span>
-      <span class="categories-timestamp">
-        <time datetime="{{ .Lastmod }}">
-          {{ .Date | dateFormat $.Site.Params.date_format.default }}
-        </time>
-      </span>
-    </div>
-    <div class="card-block">
-      <h2 class="card-title">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </h2>
-      <small class="card-text">
-        {{ if .Params.Tags }}
+<div class="card mt-1">
+  <div class="card-block">
+    <small>
+      {{ if .Params.Tags }}
+        <div class="float-xs-right">
+          {{ range .Params.categories }}
+            <span class="tag tag-info">{{ . }}</span>
+          {{ end }}
           {{ partial "components/tags" . }}
-        {{ end }}
-      </small>
-    </div>
+        </div>
+      {{ end }}
+      <div>
+        <span class="tag tag-success">
+          {{ .Section }}
+        </span>
+        &nbsp;—&nbsp;
+        <i class='fa fa-calendar'></i> {{ .Lastmod | dateFormat $.Site.Params.date_format.default }}
+      </div>
+    </small>
+    <h3 class="card-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h3>
   </div>
 </div>
