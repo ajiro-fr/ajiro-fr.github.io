@@ -1,4 +1,5 @@
 ---
+date: 2017-04-12
 title: "La CNV au service de l'agilité"
 duration: 1H
 genre: Présentation

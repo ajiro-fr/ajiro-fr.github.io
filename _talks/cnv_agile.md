@@ -1,4 +1,5 @@
 ---
+date: 2017-04-12
 layout: talk
 title: "La CNV au service de l'agilité"
 duration: 1H

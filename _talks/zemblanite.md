@@ -1,4 +1,5 @@
 ---
+date: 2017-04-24
 layout: talk
 title: "La zemblanité dans nos équipes"
 duration: 1H
@@ -12,21 +13,20 @@ tags:
 illustration:
   name: illustration
 abstract: |
-  L'antonyme de la sérendipité, la zemblanité, est la faculté de découvrir des résultats malheureux, malchanceux et attendus ! 
+  L'antonyme de la sérendipité, la zemblanité, est la faculté de découvrir des résultats malheureux, malchanceux et attendus !
   Cette session nous entrainera à travers de nombreuses anectdotes directement tirrés des équipes que nous croisons vers une réflexions sur nos actes et nos décisions.
-
 ---
 
-# Titre 
+# Titre
 _Max 120 caractères, qui donne envie d'assister et qui permet de comprendre quel est le sujet. Ce titre ne devrait pas contenir le nom d'une entreprise._
 
 La zamblanité ou comment rater avec détermination.
 
 
-# Présentation détaillée 
+# Présentation détaillée
 _Max 1000 caractères, qui répondent clairement aux questions suivantes :_
 * _Qui sera intéressé par cette session ?_
-* _Quelles sont les connaissances préalables nécessaires ?_ 
+* _Quelles sont les connaissances préalables nécessaires ?_
 * _Que retireront les participants de cette session ?_
 
 
@@ -40,7 +40,7 @@ _En quoi cette session fait-elle avancer la communauté agile francophone ? Cett
 
 * Innovante et inhabituelle car c'est la première fois que l'on parle de zamblanité.
 * Session très pratique car basé sur des cas réels directement tirés de nos 15 ans d'expériences d'accompagnement d'équipes.
-* Utile car les exemples et les outils vont permettre à chacun d'améliorer leurs équipes en effet, nous regarderons comment nous trouvons ces situations et comment les équipes peuvent les identifier. 
+* Utile car les exemples et les outils vont permettre à chacun d'améliorer leurs équipes en effet, nous regarderons comment nous trouvons ces situations et comment les équipes peuvent les identifier.
 
 # Notes
 
@@ -50,4 +50,3 @@ _En quoi cette session fait-elle avancer la communauté agile francophone ? Cett
 La zamblanité, on ne la voit pas mais elle est présente.
  * Les outils pour la trouver : analyse systémique à plusieurs (comment foirer le projet ?), rapport d'étonnement des nouveaux, regard d'un coach.
  * Voir chez les autres pour le chercher chez soi : feu tricolore de zobrist
-

@@ -1,4 +1,5 @@
 ---
+date: 2017-04-17
 layout: talk
 title: Atelier “Protocoles de décision”
 duration: 1H

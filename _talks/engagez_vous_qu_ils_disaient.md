@@ -1,4 +1,5 @@
 ---
+date: 2017-02-22
 layout: talk
 title: "Engagez-vous qu'ils disaient !"
 duration: 2H

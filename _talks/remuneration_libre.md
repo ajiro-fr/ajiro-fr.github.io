@@ -1,4 +1,5 @@
 ---
+date: 2017-02-22
 layout: talk
 title: La Rémunération libre.
 duration: 3H

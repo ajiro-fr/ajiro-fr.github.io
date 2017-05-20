@@ -1,4 +1,5 @@
 ---
+date: 2016-05-20
 layout: talk
 title: Metrics Manifesto, ou comment être efficace dans le pilotage par les indicateurs
 duration: 20 minutes
