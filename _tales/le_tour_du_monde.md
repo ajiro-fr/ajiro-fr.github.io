@@ -1,4 +1,5 @@
 ---
+date:
 layout: tale
 title: Le tour du monde
 authors:

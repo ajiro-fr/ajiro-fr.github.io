@@ -1,8 +1,11 @@
 ---
+date: 2016-11-11
 nositemap: true
 title: "Le bûcheron"
 illustration:
   source: https://www.flickr.com/photos/murph4513/5795270418/
+authors:
+  - albiez_olivier
 references:
   - title: "BUCAY, Jorge. Laisse-moi te raconter... les chemins de la vie. Poche. Pocket, 2011. ISBN: 978-2266211338"
     icon: book
