@@ -146,26 +146,26 @@ def translate(items, destination, translators):
 
 #translate(
 #    items=list_items('_books'),
-#    destination='content/books',
+#    destination='hugo/content/books',
 #    translators=[
 #        process_file_content(remove_lines('layout: book')),
 #        copy_illustration('assets/books', 'cover')])
 
 #translate(
 #    items=list_items('_games'),
-#    destination='content/games',
+#    destination='hugo/content/games',
 #    translators=[
 #        process_file_content(remove_lines('layout: game'))])
 
 #translate(
 #    items=list_items('_talks'),
-#    destination='content/talks',
+#    destination='hugo/content/talks',
 #    translators=[
 #        process_file_content(remove_lines('layout: talk'))])
 
 #translate(
 #    items=list_items('_tales'),
-#    destination='content/tales',
+#    destination='hugo/content/tales',
 #    translators=[
 #        process_file_content(remove_lines('layout: tale'))])
 
@@ -179,7 +179,7 @@ def replace_style(match):
 
 translate(
     items=list_items('articles/_posts'),
-    destination='content/articles',
+    destination='hugo/content/articles',
     translators=[
         process_file_content(
             chain(
