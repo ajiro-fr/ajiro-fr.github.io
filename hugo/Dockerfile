@@ -20,5 +20,5 @@ run wget https://github.com/spf13/hugo/releases/download/v0.20.7/hugo_0.20.7_Lin
 add . /site
 workdir /site
 run make
-run /usr/bin/hugo --destination=/var/www
+run hugo --destination=/var/www
 add nginx_vhost.conf /etc/nginx/conf.d/blog.conf
