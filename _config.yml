@@ -16,10 +16,7 @@ exclude:
 - Gemlfile
 - run
 - quick-run
-- content
-- data
-- static
-- themes
+- hugo
 
 defaults:
 - scope:
