@@ -28,11 +28,6 @@ params:
 
 menu:
   left:
-    - Name: "Auteurs"
-      Pre: "<i class='fa fa-users'></i>"
-      URL: /authors/
-      Weight: 10
-  right:
     - Name: "Articles"
       Pre: "<i class='fa fa-file-text-o'></i>"
       URL: /articles/
@@ -45,9 +40,26 @@ menu:
       Pre: "<i class='fa fa-book'></i>"
       URL: /books/
       Weight: 30
+    - Name: "Ateliers"
+      Pre: "<i class='fa fa-gamepad'></i>"
+      URL: /talks/
+      Weight: 40
+  right:
+    - Name: "Auteurs"
+      Pre: "<i class='fa fa-users'></i>"
+      URL: /authors/
+      Weight: 10
+    - Name: "Tags"
+      Pre: "<i class='fa fa-tags'></i>"
+      URL: /tags/
+      Weight: 20
+    - Name: "Catégories"
+      Pre: "<i class='fa fa-folder-open'></i>"
+      URL: /categories/
+      Weight: 30
     - Name: "RSS"
       Pre: "<i class='fa fa-rss'></i>"
-      URL: /feed.all.xml
+      URL: /index.xml
       Weight: 40
 
 sitemap:
