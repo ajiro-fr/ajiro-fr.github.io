@@ -35,10 +35,7 @@
                 <div id="collapse-{{$value.Name | urlize}}" class="panel-collapse collapse">
                   <div class="panel-body">
                   {{ range $value.Pages.ByDate.Reverse }}
-                    <p>
-                      <span class="categories-timestamp"><time datetime="{{ .Lastmod }}">{{ .Date | dateFormat $.Site.Params.date_format.default }}</time></span>
-                      <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-                    </p>
+                    {{ partial "components/page-short-ref" . }}
                   {{ end }}
                   </div>
                 </div>
