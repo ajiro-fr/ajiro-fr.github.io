@@ -1,4 +1,4 @@
-ajiro-fton:
+ajiro-ft:
   image: ajiro/ajiro.fr
   ports:
   - ip: front
