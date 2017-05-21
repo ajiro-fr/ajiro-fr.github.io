@@ -1,0 +1,6 @@
+ajiro-fton:
+  image: ajiro/ajiro.fr
+  ports:
+  - ip: front
+    container_port: 80
+    host_port: 80
