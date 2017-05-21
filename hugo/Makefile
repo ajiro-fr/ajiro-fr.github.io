@@ -29,3 +29,7 @@ clean:
 
 hugo:
 	hugo server --buildDrafts -w
+
+build:
+	docker build -t ajiro/ajiro.fr .
+	docker push ajiro/ajiro.fr
