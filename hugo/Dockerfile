@@ -1,14 +1,10 @@
 from ubuntu
 
 run apt-get update \
-    && apt-get install -y \
-      hugo \
-      imagemagick \
-      make \
-    && apt-get clean
-
-run apt-get update ; echo \
  && apt-get install -y \
+    hugo \
+    imagemagick \
+    make \
     git \
     wget \
  && apt-get clean
