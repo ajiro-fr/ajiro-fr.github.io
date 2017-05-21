@@ -10,12 +10,12 @@
   {{ range .Pages }}
     <div class='row mt-1'>
       <div class='col-md-1 col-xs-2'>
-        <a href="{{ .Permalink }}">
-          <img class="book-cover" alt="{{ .Title }} cover" src="{{ .Permalink }}/cover.jpg" />
+        <a href="{{ .RelPermalink }}">
+          <img class="book-cover" alt="{{ .Title }} cover" src="{{ .RelPermalink }}/cover.jpg" />
         </a>
       </div>
       <div class='col-md-11 col-xs-10'>
-        <a href="{{ .Permalink }}">
+        <a href="{{ .RelPermalink }}">
           <h2>{{ .Title | markdownify }}<br><small>{{delimit .Params.book_authors ';'}}</small></h2>
         </a>
       </div>

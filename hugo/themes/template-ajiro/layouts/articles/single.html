@@ -35,7 +35,7 @@
   <div class="row mt-2">
     <div class="offset-lg-2 col-lg-8 col-md-12">
       {{ if isset .Params "illustration"}}
-        {{ partial "components/image" (dict "image" .Params.illustration "path" .Permalink ) }}
+        {{ partial "components/image" (dict "image" .Params.illustration "path" .RelPermalink ) }}
       {{ end }}
     </div>
   </div>

@@ -34,7 +34,7 @@
                         <span class="categories-timestamp">
                           <time datetime="{{ .Lastmod }}">{{ .Date | dateFormat $.Site.Params.date_format.default }}</time>
                         </span>
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                       </p>
                     {{ end }}
                   </div>

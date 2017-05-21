@@ -16,7 +16,7 @@
           <div class="panel-body">
             <ul>
             {{ range $value.Pages.ByDate.Reverse }}
-              <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
             </ul>
           </div>
