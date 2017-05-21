@@ -1,5 +1,5 @@
 {{ $section := index .Site.Data.sections .Section }}
-<a href="/{{ .Section }}">
+<a href="/{{ .Section | urlize }}">
 <span class="tag tag-section">
   {{ if $section }}
     <i class='fa fa-fw fa-{{ $section.icon }}'></i>
