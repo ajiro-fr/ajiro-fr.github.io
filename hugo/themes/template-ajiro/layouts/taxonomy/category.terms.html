@@ -37,7 +37,7 @@
                   {{ range $value.Pages.ByDate.Reverse }}
                     <p>
                       <span class="categories-timestamp"><time datetime="{{ .Lastmod }}">{{ .Date | dateFormat $.Site.Params.date_format.default }}</time></span>
-                      <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+                      <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
                     </p>
                   {{ end }}
                   </div>

@@ -12,14 +12,14 @@
       {{ if not .Params.hidden }}
         <div class='col-md-4 col-xs-12'>
           <div class="card">
-            <a href="{{ .Permalink }}">
+            <a href="{{ .RelPermalink }}">
               <img
                 class="card-img-top talk-illustration"
                 alt="{{ .Title }}"
-                src="{{ .Permalink }}/illustration__thumbnail-wide.jpg" />
+                src="{{ .RelPermalink }}/illustration__thumbnail-wide.jpg" />
             </a>
             <div class="card-block">
-              <a href="{{ .Permalink }}">
+              <a href="{{ .RelPermalink }}">
                 <h4 class="card-title">{{ .Title | markdownify }}</h4>
               </a>
               {{ if .Params.in_progress }}
