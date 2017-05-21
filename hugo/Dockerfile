@@ -1,4 +1,4 @@
-from tclavier/nginx
+from ubuntu
 
 run apt-get update \
     && apt-get install -y \
@@ -20,5 +20,4 @@ run wget https://github.com/spf13/hugo/releases/download/v0.20.7/hugo_0.20.7_Lin
 add . /site
 workdir /site
 run make
-run hugo --destination=/var/www
-add nginx_vhost.conf /etc/nginx/conf.d/blog.conf
+cmd hugo serve --bind 0.0.0.0 --port 80 --destination=/var/www --baseURL=""
