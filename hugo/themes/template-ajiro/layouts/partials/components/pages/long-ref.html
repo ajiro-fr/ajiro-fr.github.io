@@ -1,0 +1,42 @@
+<div class="row mt-3">
+  <div class="col-md-3 text-xs-right ">
+    <h3>
+      <div class="article-list__calendar">
+        <i class='fa fa-calendar'></i> {{ .Lastmod | dateFormat $.Site.Params.date_format.default }}
+      </div>
+      <div class="article-list__calendar">
+        <i class='fa fa-clock-o'></i>
+        <span class="reading-time" title="Temps de lecture">
+          {{ i18n "reading_time" .ReadingTime }}
+        </span>
+      </div>
+    </h3>
+  </div>
+  <div class="col-md-8 col-xs-12">
+    <h3>
+      <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+    </h3>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3 text-xs-right block-right">
+    {{ range .Params.authors }}
+      {{ $author := index $.Site.Data.people . }}
+      <img alt="Photo {{ $author.name }}" width="80" class="rounded-circle" src="/assets/images/people/{{ . }}.jpg" />
+    {{ end }}
+  </div>
+  <div class="col-md-5 col-xs-12">
+    <div class="text-justify">
+      {{ partial "components/articles/description" . }}
+    </div>
+    <small>
+      {{ partial "components/pages/categories" . }}
+      {{ partial "components/pages/tags" . }}
+    </small>
+  </div>
+  <div class="col-md-4 col-xs-12">
+    {{ if isset .Params "illustration"}}
+      {{ partial "components/image" (dict "image" .Params.illustration "path" .RelPermalink ) }}
+    {{ end }}
+  </div>
+</div>
