@@ -1,0 +1,20 @@
+<div class="card mt-3">
+  <div class="card-header">
+    <h2>
+      <div class="float-xs-right">
+        <small>
+          <span class="circled-icon">
+            {{ range .data.social }}
+              <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
+            {{ end }}
+          </span>
+        </small>
+      </div>
+      <img alt="Photo {{ .data.name }}" width=40 class="rounded-circle" src="/assets/images/people/{{ .author }}.jpg" />
+      <a href="{{ $.Site.LanguagePrefix }}/authors/{{ .author | urlize }}">{{ .data.name }}</a>
+    </h2>
+  </div>
+</div>
+{{ range first 3 .pages }}
+  {{ partial "components/pages/short-ref" .Page }}
+{{ end }}
