@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div class='row mt-3'>
-    <div class='offset-sm-2 col-md-8 col-xs-12 text-xs-center'>
+    <div class='offset-lg-2 col-lg-8 col-xs-12 text-xs-center'>
       <h1>
         {{ partial "components/pages/title" . }}
       </h1>
@@ -9,12 +9,12 @@
 
   {{ range .Pages }}
     <div class='row mt-1'>
-      <div class='col-md-1 col-xs-2'>
+      <div class='col-lg-1 col-xs-2'>
         <a href="{{ .RelPermalink }}">
           <img class="book-cover" alt="{{ .Title }} cover" src="{{ .RelPermalink }}/cover.jpg" />
         </a>
       </div>
-      <div class='col-md-11 col-xs-10'>
+      <div class='col-lg-11 col-xs-10'>
         <a href="{{ .RelPermalink }}">
           <h2>{{ .Title | markdownify }}<br><small>{{delimit .Params.book_authors ';'}}</small></h2>
         </a>

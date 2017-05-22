@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div class='row mt-3'>
-    <div class='col-md-12 col-xs-12 text-xs-center'>
+    <div class='offset-lg-2 col-lg-8 col-xs-12 text-xs-center'>
       <h1>
         {{ partial "components/pages/title" . }}
       </h1>
@@ -10,7 +10,7 @@
   {{ range .Pages }}
     {{ if not .Params.hidden }}
       <div class="row mt-3">
-        <div class="offset-sm-2 col-md-8 col-xs-12">
+        <div class="offset-lg-2 col-lg-8 col-xs-12">
           <h3>
             <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
           </h3>
