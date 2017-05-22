@@ -35,7 +35,7 @@
                 <div id="collapse-{{$value.Name | urlize}}" class="panel-collapse collapse">
                   <div class="panel-body">
                   {{ range $value.Pages.ByDate.Reverse }}
-                    {{ partial "components/page-short-ref" . }}
+                    {{ partial "components/pages/short-ref" . }}
                   {{ end }}
                   </div>
                 </div>

@@ -8,6 +8,6 @@
   </div>
 
   {{ range sort .Pages "Lastmod" "desc" }}
-    {{ partial "components/page-short-ref" . }}
+    {{ partial "components/pages/short-ref" . }}
   {{ end }}
 {{ end }}

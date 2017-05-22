@@ -46,7 +46,7 @@
                 </div>
               </div>
               {{ range first 3 (index $.Site.Taxonomies.authors $key) }}
-                {{ partial "components/page-short-ref" .Page }}
+                {{ partial "components/pages/short-ref" .Page }}
               {{ end }}
             {{ end }}
           </div>
@@ -80,7 +80,7 @@
                 </div>
               </div>
               {{ range first 3 (index $.Site.Taxonomies.authors $key) }}
-                {{ partial "components/page-short-ref" .Page }}
+                {{ partial "components/pages/short-ref" .Page }}
               {{ end }}
             {{ end }}
           </div>

@@ -11,7 +11,7 @@
     <div class="offset-sm-2 col-md-8 col-xs-12">
       {{ range sort .Pages "Params.sorted" }}
         {{ if not .Params.hidden }}
-          {{ partial "components/page-short-ref" . }}
+          {{ partial "components/pages/short-ref" . }}
         {{ end }}
       {{ end }}
     </div>
