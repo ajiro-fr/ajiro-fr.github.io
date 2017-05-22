@@ -42,7 +42,7 @@ menu:
       Weight: 30
     - Name: "Ateliers"
       Pre: "<i class='fa fa-gamepad'></i>"
-      URL: /talks/
+      URL: /games/
       Weight: 40
   right:
     - Name: "Auteurs"
