@@ -16,7 +16,7 @@
         <div class='row mt-3'>
           <div class="offset-lg-2 col-lg-8 col-xs-12">
             <div class="panel-group" id="accordion">
-            {{ range $key, $value := .Data.Terms.ByCount }}
+            {{ range $key, $value := .Data.Terms.Alphabetical }}
               <div class="panel panel-default">
                 <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-{{$value.Name | urlize}}">
                   <h2 class="panel-title">
