@@ -23,8 +23,13 @@
                 <h4 class="card-title">{{ .Title | markdownify }}</h4>
               </a>
               {{ if .Params.in_progress }}
-                <p class="text-muted"><small><i class="fa fa-wrench"></i> {{ i18n "in_progress" }}</small></p>
+                <div class="text-muted"><small><i class="fa fa-wrench"></i> {{ i18n "in_progress" }}</small></div>
               {{ end }}
+              <div class="text-xs-right">
+                <small>
+                  {{ partial "components/pages/tags" .}}
+                </small>
+              </div>
             </div>
           </div>
         </div>
