@@ -11,7 +11,6 @@ tags:
   - gaspillage
   - kanban
   - management
-  - team
   - équipe
 categories:
   - craft

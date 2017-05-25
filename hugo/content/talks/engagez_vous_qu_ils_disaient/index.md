@@ -9,7 +9,7 @@ authors:
 tags:
   - organisation
   - militaire
-  - conceptes
+  - concepts
 illustration:
   name: illustration
 abstract: |

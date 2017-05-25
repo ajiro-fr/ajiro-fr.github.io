@@ -9,7 +9,7 @@ authors:
   - clavier_thomas
 tags:
   - communication
-  - concept
+  - concepts
 illustration:
   name: communication
   url: https://www.flickr.com/photos/uncoolbob/15322582642

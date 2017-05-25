@@ -11,8 +11,8 @@ contributors:
   - Damien Salvador
 tags:
   - militaire
-  - concept
-  - managment
+  - concepts
+  - management
   - leadership
 categories:
   - mindset

@@ -10,7 +10,7 @@ authors:
   - dreptate_dragos
 tags:
   - communication
-  - concept
+  - concepts
 illustration:
   name: decisions
   url: https://www.flickr.com/photos/jev55/8093515962/

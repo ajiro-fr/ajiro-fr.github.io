@@ -9,7 +9,7 @@ authors:
   - clavier_thomas
 tags:
   - communication
-  - conceptes
+  - concepts
 illustration:
   name: illustration
 abstract: |

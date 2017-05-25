@@ -5,7 +5,7 @@ hidden: false
 sorted: carte personelle
 title: "Carte personelle"
 tags:
-  - managment 3.0
+  - management 3.0
   - partage
 objectives: |
   - Construire sa carte personnelle
