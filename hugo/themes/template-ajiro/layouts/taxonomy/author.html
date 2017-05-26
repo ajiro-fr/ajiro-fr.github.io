@@ -1,6 +1,6 @@
 {{ $id := lower .Title }}
 {{ $data := index $.Site.Data.people $id }}
-
+{{ $contributions := index $.Site.Taxonomies.authors $id }}
 <!DOCTYPE html>
 <html>
   {{ partial "head" . }}
@@ -12,8 +12,8 @@
 
         <div class='row mt-3'>
           <div class="offset-lg-2 col-lg-8 col-xs-12">
-            <h1>Contributions</h1>
-            {{ range index $.Site.Taxonomies.authors $id }}
+            <h1>Contributions <span class="tag tag-pill tag-primary pull-right">{{ len $contributions }}</span></h1>
+            {{ range $contributions }}
               {{ partial "components/pages/short-ref" .Page }}
             {{ end }}
           </div>
