@@ -2,7 +2,15 @@
   <div class='row mt-3'>
     <div class='offset-lg-2 col-lg-8 col-xs-12 text-xs-center'>
       <h1>
-        {{ partial "components/pages/title" . }}
+        {{ $category := index $.Site.Data.categories (lower .Title) }}
+        {{ if $category }}
+          <i class="fa fa-fw fa-{{ $category.icon }}"></i>
+          {{ $category.title }}
+        {{ else }}
+          <i class="fa fa-fw fa-question }}"></i>
+          "{{ .Title }}"
+        {{ end }}
+        <span class="tag tag-pill tag-primary">{{ len .Pages }}</span>
       </h1>
     </div>
   </div>
