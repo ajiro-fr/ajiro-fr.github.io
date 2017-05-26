@@ -18,7 +18,7 @@
             {{ range $key, $value := .Data.Terms.Alphabetical }}
               <div class="card mt-3">
                 <div class="card-header">
-                  <h1>
+                  <h2>
                     <a href="/categories/{{ $value.Name | urlize }}">
                       {{ if index $.Site.Data.categories $value.Name }}
                         <i class="fa fa-fw fa-{{ (index $.Site.Data.categories $value.Name).icon }}"></i>
@@ -29,7 +29,7 @@
                       {{ end }}
                       <span class="tag tag-pill tag-primary pull-right">{{ $value.Count }}</span>
                     </a>
-                  </h1>
+                  </h2>
                 </div>
               </div>
               {{ range first 3 $value.Pages.ByDate.Reverse }}
