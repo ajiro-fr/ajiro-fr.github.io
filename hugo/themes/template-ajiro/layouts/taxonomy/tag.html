@@ -3,11 +3,16 @@
     <div class='offset-lg-2 col-lg-8 col-xs-12 text-xs-center'>
       <h1>
         {{ partial "components/pages/title" . }}
+        <span class="tag tag-pill tag-primary">{{ len .Pages }}</span>
       </h1>
     </div>
   </div>
 
-  {{ range sort .Pages "Lastmod" "desc" }}
-    {{ partial "components/pages/short-ref" . }}
-  {{ end }}
+  <div class='row mt-3'>
+    <div class='offset-lg-2 col-lg-8 col-xs-12'>
+      {{ range sort .Pages "Lastmod" "desc" }}
+        {{ partial "components/pages/short-ref" . }}
+      {{ end }}
+    </div>
+  </div>
 {{ end }}

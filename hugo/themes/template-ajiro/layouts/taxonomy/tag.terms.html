@@ -15,28 +15,14 @@
 
         <div class='row mt-3'>
           <div class="offset-lg-2 col-lg-8 col-xs-12">
-
-            <div class="panel-group" id="accordion">
             {{ range $key, $value := .Data.Terms.Alphabetical }}
-              <div class="panel panel-default">
-                <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapse-{{$key}}">
-                  <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{$key}}">
-                      {{ $value.Name }}
-                      <span class="badge pull-right">{{ $value.Count }}</span>
-                    </a>
-                  </h4>
-                </div>
-                <div id="collapse-{{$key}}" class="panel-collapse collapse">
-                  <div class="panel-body">
-                    {{ range $value.Pages.ByDate.Reverse }}
-                      {{ partial "components/pages/short-ref" . }}
-                    {{ end }}
-                  </div>
-                </div>
-              </div>
-            {{ end }}
+              <div>
+              <a href="/tags/{{ $value.Name | urlize }}">
+                {{ title $value.Name }}
+                <span class="tag tag-pill tag-primary pull-right">{{ $value.Count }}</span>
+              </a>
             </div>
+            {{ end }}
           </div>
         </div>
       </div>
