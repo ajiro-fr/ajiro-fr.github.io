@@ -1,18 +1,27 @@
 <div class="card mt-1">
   <div class="card-block">
-    <small>
-      <div class="float-xs-right">
-        {{ partial "components/pages/categories" . }}
-        {{ partial "components/pages/tags" . }}
+    <div class="row">
+      <div class="col-lg-10 col-xs-12">
+        <small>
+          <div class="float-xs-right">
+            {{ partial "components/pages/categories" . }}
+            {{ partial "components/pages/tags" . }}
+          </div>
+          <div>
+            {{ partial "components/pages/section" . }}
+            &nbsp;—&nbsp;
+            <i class='fa fa-calendar'></i> {{ .Lastmod | dateFormat $.Site.Params.date_format.default }}
+          </div>
+        </small>
+        <h3 class="card-title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h3>
       </div>
-      <div>
-        {{ partial "components/pages/section" . }}
-        &nbsp;—&nbsp;
-        <i class='fa fa-calendar'></i> {{ .Lastmod | dateFormat $.Site.Params.date_format.default }}
+      <div class="col-lg-2 col-xs-12">
+        {{ if isset .Params "illustration"}}
+          {{ partial "components/image" (dict "image" .Params.illustration "path" .RelPermalink ) }}
+        {{ end }}
       </div>
-    </small>
-    <h3 class="card-title">
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </h3>
+    </div>
   </div>
 </div>
