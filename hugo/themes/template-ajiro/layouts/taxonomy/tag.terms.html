@@ -18,7 +18,7 @@
             {{ range $key, $value := .Data.Terms.Alphabetical }}
               <div>
               <a href="/tags/{{ $value.Name | urlize }}">
-                {{ title $value.Name }}
+                <span class="tag tag-tags">{{ $value.Name }}</span>
                 <span class="tag tag-pill tag-primary pull-right">{{ $value.Count }}</span>
               </a>
             </div>
