@@ -28,23 +28,40 @@
             <h2>Nos Valeurs</h2>
           </div>
         </div>
-          {{ range $index, $value := .Site.Data.values.list }}
-            {{ if eq (mod $index 2) 0 }}
-              <div class="row mt-2">
-            {{ end }}
-            <div class="col-lg-6 text-xs-center value">
-               <h3>{{$value.name}}</h3>
-               <div class="value-icon rose"><i class="fa {{$value.icon}}"></i></div>
-               <ul>
-                 {{ range $value.descriptions }}
-                  <li>{{ . }}</li>
-                 {{ end }}
-              </ul>
-            </div>
-            {{ if eq (mod $index 2) 1 }}
-              </div>
-            {{ end }}
+        {{ range $index, $value := .Site.Data.values.list }}
+          {{ if eq (mod $index 2) 0 }}
+            <div class="row mt-2">
           {{ end }}
+          <div class="col-lg-6 text-xs-center value">
+            <h3>{{$value.name}}</h3>
+            <div class="value-icon rose"><i class="fa {{$value.icon}}"></i></div>
+            <ul>
+              {{ range $value.descriptions }}
+                <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ if eq (mod $index 2) 1 }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="full">
+      <div class="container">
+        <div class="row mt-2">
+          <div class="col-lg-12 text-xs-center">
+            <h2>Nos publications récentes</h2>
+          </div>
+        </div>
+        <div class="row mt-2">
+          <div class="offset-lg-2 col-lg-8 col-xs-12">
+            {{ range first 10 .Site.RegularPages }}
+              {{ partial "components/pages/short-ref" . }}
+            {{ end }}
+          </div>
+        </div>
       </div>
     </div>
 
