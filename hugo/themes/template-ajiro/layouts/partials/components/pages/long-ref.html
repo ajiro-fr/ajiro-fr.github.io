@@ -22,7 +22,9 @@
   <div class="col-md-3 text-xs-right block-right">
     {{ range .Params.authors }}
       {{ $author := index $.Site.Data.people . }}
-      <img alt="Photo {{ $author.name }}" width="80" class="rounded-circle" src="/assets/images/people/{{ . }}.jpg" />
+      <a href="/authors/{{. | urlize}}">
+        <img alt="Photo {{ $author.name }}" width="80" class="rounded-circle" src="/assets/images/people/{{ . }}.jpg" />
+      </a>
     {{ end }}
   </div>
   <div class="col-md-5 col-xs-12">
