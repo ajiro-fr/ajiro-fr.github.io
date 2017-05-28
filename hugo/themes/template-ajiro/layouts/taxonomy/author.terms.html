@@ -4,11 +4,14 @@
   {{ $contribution := (index $value 0).Page.Date }}
   {{ $muted := now.After ($contribution.AddDate 0 6 0) }}
   {{ if $muted }}
+    {{ $.Scratch.SetInMap "status" $key false }}
     {{ $.Scratch.Add "inactive" $key }}
   {{ else }}
+    {{ $.Scratch.SetInMap "status" $key true }}
     {{ $.Scratch.Add "active" $key }}
   {{ end }}
 {{ end }}
+
 
 
 <!DOCTYPE html>
@@ -20,28 +23,36 @@
 
         <div class='row mt-3'>
           <div class='offset-lg-2 col-lg-8 col-xs-12 text-xs-center'>
-            <h1>Auteurs récents</h1>
+            <h1>Auteurs</h1>
           </div>
         </div>
 
         <div class='row mt-3'>
           <div class="offset-lg-2 col-lg-8 col-xs-12">
-            {{ range $key := $.Scratch.Get "active" }}
-              {{ partial "components/pages-by-author" (dict "author" $key "data" (index $.Site.Data.people $key) "pages" (index $.Site.Taxonomies.authors $key)) }}
-            {{ end }}
-          </div>
-        </div>
-
-        <div class='row mt-3'>
-          <div class='offset-lg-2 col-lg-8 col-xs-12 text-xs-center'>
-            <h1>Auteurs historiques</h1>
-          </div>
-        </div>
-
-        <div class='row mt-3'>
-          <div class="offset-lg-2 col-lg-8 col-xs-12">
-            {{ range $key := $.Scratch.Get "inactive" }}
-              {{ partial "components/pages-by-author" (dict "author" $key "data" (index $.Site.Data.people $key) "pages" (index $.Site.Taxonomies.authors $key)) }}
+            {{ range $key, $value := .Site.Taxonomies.authors }}
+              {{ $data := index $.Site.Data.people $key }}
+              {{ $contribution := (index $value 0).Page.Date }}
+              {{ $muted := now.After ($contribution.AddDate 0 6 0) }}
+              <div class="card mt-1">
+                <div class="card-header">
+                  <h2>
+                    <div class="float-xs-right">
+                      <small>
+                        <span class="circled-icon">
+                          {{ range $data.social }}
+                            <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
+                          {{ end }}
+                        </span>
+                      </small>
+                    </div>
+                    <img alt="Photo {{ $data.name }}" width=40 class="rounded-circle" src="/assets/images/people/{{ $key }}.jpg" />
+                    <a href="{{ $.Site.LanguagePrefix }}/authors/{{ $key | urlize }}">
+                      {{ $data.name }}
+                      <span class="tag tag-pill {{ if $muted }}tag-default{{else}}tag-primary{{end}}">{{ len $value.Pages }}</span>
+                    </a>
+                  </h2>
+                </div>
+              </div>
             {{ end }}
           </div>
         </div>
