@@ -7,7 +7,9 @@
 
         <div class='row mt-3'>
           <div class='offset-lg-2 col-lg-8 col-xs-12 text-xs-center'>
-            <h1>Auteurs</h1>
+            <h1>
+              {{ partial "components/pages/title" . }}
+            </h1>
           </div>
         </div>
 
@@ -33,10 +35,17 @@
                     <a href="{{ $.Site.LanguagePrefix }}/authors/{{ $key | urlize }}">
                       {{- $data.name -}}
                     </a>
-                    <span class="tag tag-pill {{ if $muted }}tag-default{{else}}tag-primary{{end}}">
-                      {{- len $value.Pages -}}
-                    </span>
                   </h2>
+                  <small>
+                  <div>
+                      <span class="tag tag-pill {{ if $muted }}tag-default{{else}}tag-primary{{end}}">
+                        {{- len $value.Pages -}}
+                      </span>
+                      &nbsp;
+                      {{- i18n "contributions" (len $value.Pages) -}},
+                      {{ i18n "last_contribution" }} {{ $contribution | dateFormat $.Site.Params.date_format.default }}
+                  </div>
+                </small>
                 </div>
               </div>
             {{ end }}

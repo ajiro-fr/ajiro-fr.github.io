@@ -20,6 +20,14 @@ cookie_consent:
   other: |
     En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de Cookies ou autres traceurs pour réaliser des statistiques de visites et vous proposer du contenu adapté à vos centres d’intérêts.
 
+contributions:
+  zero: "contrubition"
+  one: "contrubition"
+  other: "contrubitions"
+
+last_contribution:
+  other: "dernière contribution le"
+
 reading_time:
   one: "une minute"
   other: "{{.Count}} minutes"
