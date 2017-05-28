@@ -4,3 +4,5 @@ ajiro-ft:
   - ip: front
     container_port: 80
     host_port: 80
+  environment:
+    hugo_env: production
