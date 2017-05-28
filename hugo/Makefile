@@ -32,4 +32,6 @@ hugo:
 
 build:
 	docker build -t ajiro/ajiro.fr .
+
+publish: build
 	docker push ajiro/ajiro.fr
