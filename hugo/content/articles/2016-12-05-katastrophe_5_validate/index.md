@@ -1,4 +1,5 @@
 ---
+aliases: /articles/2016/12/05/katastrophe_5_validate
 date: 2016-12-05
 title: "Product Developement : Des katas de validation"
 lang: fr

@@ -69,10 +69,20 @@ def remove_lines(*lines):
     return process
 
 
+def add_in_front_matter(content, line):
+    return "---\n%s\n%s" % (line, content[4:])
+
+
+def add_aliases():
+    def process(name, content):
+        year,month,day,slug = nameof(name).split('-', 3)
+        return add_in_front_matter(content, "aliases: /articles/%s/%s/%s/%s" % (year,month,day,slug))
+    return process
+
 def add_date():
     def process(name, content):
         year,month,day,_ = nameof(name).split('-', 3)
-        return "---\ndate: %s-%s-%s\n%s" % (year,month,day,content[4:])
+        return add_in_front_matter(content, "date: %s-%s-%s" % (year,month,day))
     return process
 
 
@@ -184,6 +194,7 @@ translate(
         process_file_content(
             chain(
                 add_date(),
+                add_aliases(),
                 replace_pattern(
                     pattern="""{% include img.html\s*name=['"](?P<name>.*)['"]\s*source=['"](?P<source>.*)['"]\s*%}""",
                     repl="""{{< img name="\g<1>" source="\g<2>" >}}""",

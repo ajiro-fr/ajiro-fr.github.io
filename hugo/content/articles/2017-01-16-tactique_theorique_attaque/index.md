@@ -1,4 +1,5 @@
 ---
+aliases: /articles/2017/01/16/tactique_theorique_attaque
 date: 2017-01-16
 title: "Product Development et Tactique Théorique : Chargez"
 lang: fr

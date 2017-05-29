@@ -1,4 +1,5 @@
 ---
+aliases: /articles/2016/06/05/hierarchy_command
 date: 2016-06-05
 title: "La hiérarchie"
 lang: fr

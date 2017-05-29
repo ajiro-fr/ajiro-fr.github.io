@@ -1,4 +1,5 @@
 ---
+aliases: /articles/2017/02/20/focus_equipe
 date: 2017-02-20
 title: "Focus d'équipe"
 lang: fr

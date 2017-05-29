@@ -1,4 +1,5 @@
 ---
+aliases: /articles/2017/03/06/decisions_making
 date: 2017-03-06
 title: "Dis-moi comment tu prends tes décisions, je te dirai comment tu innoves"
 lang: fr

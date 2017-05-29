@@ -1,4 +1,5 @@
 ---
+aliases: /articles/2017/04/04/convergent_thinking
 date: 2017-04-04
 title: "Créativité et convergence thinking : Séparer le bon grain de l'ivraie"
 lang: fr

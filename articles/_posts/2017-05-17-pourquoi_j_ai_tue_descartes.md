@@ -8,7 +8,7 @@ tags:
   - management
   - VUCA
 categories:
-  - management
+  - managment
 illustration:
   name: 72499441_b9215607bb
   source: https://www.flickr.com/photos/smallape/72499441/
@@ -46,7 +46,7 @@ Quand on parle de manager agile, 3.0, VUCA, etc, c'est un profil ou un état d'e
 
 Je pense que la prédiction était efficace au début de la révolution industrielle car le travail était répétitif. Dans une économie de la connaissance, je crois plus à un management basé sur l'expérimentation. Dans la suite de ce post, je vais décrire ce que cela veut dire d'être un manager dans ce monde.
 
-Ca serait pas mal que tu définisses le terme [VUCA] que tu utilises depuis le début. Cet acronyme vient de l'armée américaine pour expliquer comment se comporter pendant les guerres non linéaires. C'est quoi le rapport entre l'armée et le management en entreprise? On voit souvent l'armée par le prisme du cinéma avec un QG qui décide et des hommes qui exécutent. La réalité est plus fine que cela. 
+Ca serait pas mal que tu définisses le terme [VUCA] que tu utilises depuis le début. Cet acronyme vient de l'armée américaine pour expliquer comment se comporter pendant les guerres non linéaires. C'est quoi le rapport entre l'armée et le management en entreprise? On voit souvent l'armée par le prisme du cinéma avec un QG qui décide et des hommes qui exécutent. La réalité est plus fine que cela.
 
 ## Volatile
 

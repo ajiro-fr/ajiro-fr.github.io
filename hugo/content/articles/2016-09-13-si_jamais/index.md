@@ -1,4 +1,5 @@
 ---
+aliases: /articles/2016/09/13/si_jamais
 date: 2016-09-13
 title: "Si je devais refaire une transformation continuous delivery de zéro"
 lang: fr
