@@ -1,3 +1,6 @@
+IMAGE = ajiro/ajiro.fr
+TAG = $(shell date +%Y%m%d)
+
 JPEG_ORIGINAL = $(shell find content/ -type f -name '*.jpg' ! -name '*__thumbnail-*' )
 PNG_ORIGINAL = $(shell find content/ -type f -name '*.png' ! -name '*__thumbnail-*' )
 IMG_SQUARE = $(patsubst %.jpg, %__thumbnail-square.jpg, $(JPEG_ORIGINAL))
@@ -12,6 +15,26 @@ assets: images
 
 images: $(IMG_SQUARE) $(IMG_WIDE)
 
+clean:
+	find . -name '*thumbnail*' -delete
+
+build:
+	docker build -t ${IMAGE} .
+	docker tag ${IMAGE} ${IMAGE}:${TAG}
+
+test: build
+	@docker rm -f marketing || true
+	docker run --name marketing -d -p 80:80 deliverous/marketing
+	wget --no-verbose --recursive --spider http://localhost
+
+publish: build test
+	docker push ${IMAGE}
+	docker push ${IMAGE}:${TAG}
+
+hugo: assets
+	hugo server --buildDrafts --watch
+
+
 %__thumbnail-square.jpg: %.jpg
 	convert  -geometry 800x800^ -gravity center -crop 800x800+0+0 "$<" "$@"
 
@@ -23,15 +46,3 @@ images: $(IMG_SQUARE) $(IMG_WIDE)
 
 %__thumbnail-wide.png: %.png
 	convert "$<" -resize "750>" "$@"
-
-clean:
-	find . -name '*thumbnail*' -delete
-
-hugo:
-	hugo server --buildDrafts -w
-
-build:
-	docker build -t ajiro/ajiro.fr .
-
-publish: build
-	docker push ajiro/ajiro.fr
