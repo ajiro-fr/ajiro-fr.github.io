@@ -99,7 +99,7 @@ Il existe une variante de l'infiltration qui s'appelle le raid. Il s'agit de fai
 Ca ne vous rappelle pas la notion de task force. Généralement, ce dispositif est utilisé lorsque l'on rencontre des problèmes. Cela peut néanmoins être utilisé pour créer une tête de pont. Je crée une équipe qui va aller plus vite voire très vite et qui va donc se couper de ses relais. Je ne suis pas sûr d'une opportunité business et donc je crée une équipe ad hoc. A l'issue des premiers tests, soit je la disperse soit je la rejoins.
 
 
-{{< img name="2918651955_90e6647a98" source="https://www.flickr.com/photos/brianjcook/2918651955/ " >}}
+{{< img name="2918651955_90e6647a98" source="https://www.flickr.com/photos/brianjcook/2918651955/" >}}
 
 ### La feinte (embuscade)
 
