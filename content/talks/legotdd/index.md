@@ -13,7 +13,7 @@ tags:
   - atelier
   - conference
 illustration:
-  name: lego
+  name: illustration
   url: https://www.flickr.com/photos/uncoolbob/15322582642
 abstract: |
   Cet atelier permet de découvrir quelques bonnes pratiques du génie logiciel en s'amusant : TDD, Clean Code, Refactoring, Dette Technique et Integration Continue sont au programme !
@@ -23,5 +23,5 @@ abstract: |
 
 ---
 
-Merci Alice Barralon et Isabelle Blasquez : 
-https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego 
+Merci Alice Barralon et Isabelle Blasquez :
+https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego
