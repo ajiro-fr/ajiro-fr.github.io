@@ -17,6 +17,8 @@ add . /site
 workdir /site
 run make assets
 run hugo_env=production hugo --destination=/var/www/prod
-run hugo --buildDrafts --destination=/var/www/draft
+run hugo --buildDrafts --destination=/var/www/draft \
+ && echo "User-agent: *" > /var/www/draft/robots.txt \
+ && echo "Disallow:/ "  >> /var/www/draft/robots.txt
 
 add nginx_vhost.conf /etc/nginx/conf.d/ajiro.conf
