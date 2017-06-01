@@ -1,4 +1,4 @@
-from ubuntu
+from tclavier/nginx
 
 run apt-get update \
  && apt-get install -y \
@@ -15,6 +15,8 @@ run wget https://github.com/spf13/hugo/releases/download/v0.20.7/hugo_0.20.7_Lin
 
 add . /site
 workdir /site
-run make
+run make assets
+run hugo_env=production hugo --destination=/var/www/prod
+run hugo --buildDrafts --destination=/var/www/draft
 
-entrypoint ["hugo", "serve", "--bind=0.0.0.0", "--port=80", "--destination=/var/www", "--baseURL=''"]
+add nginx_vhost.conf /etc/nginx/conf.d/ajiro.conf
