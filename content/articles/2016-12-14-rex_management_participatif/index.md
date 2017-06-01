@@ -81,7 +81,7 @@ Les bénéfices pour l'entreprise ainsi que ses salariés sont énormes. Pour le
 Pour la direction, elle verra une accélération des prises de décision, de l'adaptation rapide aux changements et de la performance.
 
 
-[Reinventing Organisations]: /books/reinventing_organisations-laloux_frederic.html
+[Reinventing Organisations]: /books/reinventing_organisations-laloux_frederic
 [l’escalade d’engagement]: https://en.wikipedia.org/wiki/Escalation_of_commitment
 [signaux faibles]: https://fr.wikipedia.org/wiki/Signaux_faibles
-[Management selon Shiba]: /books/management_selon_shiba-shiba_shoji.html
+[Management selon Shiba]: /books/management_selon_shiba-shiba_shoji

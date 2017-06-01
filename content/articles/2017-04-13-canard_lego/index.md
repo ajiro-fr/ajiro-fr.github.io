@@ -38,4 +38,4 @@ Bilan de l'opération :
 
 
 
-[Stop Starting, Start Finishing!]: /books/stop_starting_start_finishing-roock_arne.html
+[Stop Starting, Start Finishing!]: /books/stop_starting_start_finishing-roock_arne

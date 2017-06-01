@@ -81,4 +81,4 @@ Sources:
 - [Antifragile: Les bienfaits du désordre]
 
 
-[Antifragile: Les bienfaits du désordre]: /books/antifragile-nassim_nicholas_taleb.html
+[Antifragile: Les bienfaits du désordre]: /books/antifragile-nassim_nicholas_taleb

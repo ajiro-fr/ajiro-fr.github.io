@@ -140,4 +140,4 @@ Sources:
 - [Beyond Budgeting]
 
 
-[Beyond Budgeting]: /books/implementing_beyond_budgeting-bogsnes_bjarte.html
+[Beyond Budgeting]: /books/implementing_beyond_budgeting-bogsnes_bjarte

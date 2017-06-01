@@ -72,4 +72,4 @@ _Passer d'une organisation centrée application à une organisation flux de vale
 
 Vous êtes maintenant prévenus de ce que cela implique. Pour finir sur une note positive : si l'effort est certain, l'impact sur l'efficience de l'organisation est énorme. Il s'agit bien d'innovation managériale avec un fort caractère différentiant.
 
-[Beyond Budgeting]: /books/implementing_beyond_budgeting-bogsnes_bjarte.html
+[Beyond Budgeting]: /books/implementing_beyond_budgeting-bogsnes_bjarte

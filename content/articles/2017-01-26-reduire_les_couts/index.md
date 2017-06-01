@@ -82,4 +82,4 @@ Réduire les coûts est un objectif possible dans le cadre des 3 précédentes v
 Commencez par définir vers où vous voulez aller, les objectifs découleront de cette vision. Cela devrait vous permettre de limiter les risques d'optimums locaux (ou effet "beurrage de lunettes") pour se concentrer sur l'optimum global (pensée systémique).
 
 
-[_Product Development et Tactique Théorique&nbsp;: Aux abris_]: /articles/2017/01/25/tactique_theorique_defense.html
+[_Product Development et Tactique Théorique&nbsp;: Aux abris_]: /articles/2017/01/25/tactique_theorique_defense

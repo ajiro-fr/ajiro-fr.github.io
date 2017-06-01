@@ -87,4 +87,4 @@ Sources:
 - [NoEstimate]
 
 
-[NoEstimate]: /books/no_estimate-duarte_vasco.html
+[NoEstimate]: /books/no_estimate-duarte_vasco

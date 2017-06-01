@@ -140,6 +140,6 @@ Sources:
 - [Tactique théorique]
 
 
-[Tactique théorique]: /books/tactique_tehorique-yakovleff_michel.html
+[Tactique théorique]: /books/tactique_tehorique-yakovleff_michel
 [turn-over du fortune 500]: https://www.aei.org/publication/fortune-500-firms-in-1955-vs-2015-only-12-remain-thanks-to-the-creative-destruction-that-fuels-economic-growth/
 [Hollande pour faire pression sur l'émir du Qatar]: http://television.telerama.fr/television/hollande-canal-et-bein-sports-a-qui-perd-gagne,149621.php

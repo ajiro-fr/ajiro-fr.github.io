@@ -101,4 +101,4 @@ Pour revenir à mon point de départ, une fois que j'ai fait tous ces changement
 
 Bon voyage
 
-[Beyond Budgeting]: /books/implementing_beyond_budgeting-bogsnes_bjarte.html
+[Beyond Budgeting]: /books/implementing_beyond_budgeting-bogsnes_bjarte

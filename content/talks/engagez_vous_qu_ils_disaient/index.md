@@ -24,7 +24,7 @@ sessions:
 references:
   - title: Article de la présentation à l'Agile Tour Lille
     icon: file-text-o
-    url: /articles/2016/10/17/engagez_vous_qu_ils_disaient.html
+    url: /articles/2016/10/17/engagez_vous_qu_ils_disaient
 ---
 
 # Description

@@ -142,4 +142,4 @@ Dois-je continuer la question 1 au risque de ne pas finir et rater l'examen ou d
 
 
 
-[Stop Starting, Start Finishing!]: /books/stop_starting_start_finishing-roock_arne.html
+[Stop Starting, Start Finishing!]: /books/stop_starting_start_finishing-roock_arne

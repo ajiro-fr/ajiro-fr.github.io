@@ -96,7 +96,7 @@ Il est possible de donner de la visibilité sur la roadmap avec une estimation f
 
 ## Suite
 
-[Dans l'article suivant, nous allons aller voir un être bizarre : le client.](/articles/2016-12-05-katastrophe_5_validate.html)
+[Dans l'article suivant, nous allons aller voir un être bizarre : le client.](/articles/2016-12-05-katastrophe_5_validate)
 
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s

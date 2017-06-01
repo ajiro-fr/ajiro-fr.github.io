@@ -65,6 +65,6 @@ Est ce qu'une fois que l'on a décidé, la sélection est terminée ? Comme vous
 
 Ensuite, les cycles de décision doivent être adaptés au cycle de feedback. Si j'ai du feedback en continu mais que je prends des décisions tous les 3 mois, le feedback ne sert quasiment pas. A l'opposé si j'ai du feedback tous les jours et que je fais des ajustements permanents, j'ai le risque de me perdre. C'est l'exemple du cas statistiquement improbable mais qui peut arriver et m'induire en erreur. Personnellement, j'utilise une approche du type : Répétition de (Divergence - Convergence - Feedback - Feedback - Feedback)
 
-[créativité et divergent thinking]: /articles/2017/03/08/divergent_thinking.html
+[créativité et divergent thinking]: /articles/2017/03/08/divergent_thinking
 [IDEO]: https://www.fastcodesign.com/3069069/ideo-studied-innovation-in-100-companies-heres-what-it-found
-[protocole de décision]: /articles/2017/03/06/decisions_making.html
+[protocole de décision]: /articles/2017/03/06/decisions_making
