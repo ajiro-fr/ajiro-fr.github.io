@@ -1,6 +1,6 @@
 ---
 title: "Le management selon Shiba"
-authors:
+book_authors:
 -  SHIBA, Shoji
 publisher: Editions d'Organisation
 year: 2007

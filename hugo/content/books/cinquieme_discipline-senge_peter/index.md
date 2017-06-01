@@ -1,6 +1,6 @@
 ---
 title: "La cinquième discipline"
-authors:
+book_authors:
 -  SENGE, Peter
 publisher: Eyrolles
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Stop Starting, Start Finishing!"
-authors:
+book_authors:
 - ROOCK, Arne
 publisher: Lean-Kanban University
 year: 2012

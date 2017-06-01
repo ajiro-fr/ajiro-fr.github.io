@@ -1,6 +1,6 @@
 ---
 title: "Antifragile: Les bienfaits du désordre"
-authors:
+book_authors:
 -  TALEB, Nassim Nicholas
 publisher: Les Belles Lettres
 year: 2013
