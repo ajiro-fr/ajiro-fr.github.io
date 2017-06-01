@@ -41,7 +41,7 @@ Ne pas savoir les modalités de l'attaque retarde la mise en œuvre de mesures a
 
 Ce qui est intéressant, c'est plus la conclusion de tactique théorique que tout le raisonnement. Dans l'histoire, les cas d'inversion sont rares sur une bataille. Ce qui l'est beaucoup moins, c'est quand une défense victorieuse permet les conditions de victoire ailleurs. Tout est question de niveau de victoire. Il est aussi question de défense agressive à savoir que je reprends l'attaque dès que les conditions locales d'une défense me permettent de repartir ailleurs. Une défense passive est presque condamnée à l'échec.
 
-Est-ce que nous trouvons cela pertinent dans le monde de l'entreprise ? Eh bien plutôt oui. Il n'y a qu'à voir le [turn-over du fortune 500] (plus grosses capitalisations boursières) pour se dire que le monde change et que ne faire que défendre revient à perdre.
+Est-ce que nous trouvons cela pertinent dans le monde de l'entreprise ? Eh bien plutôt oui. Il n'y a qu'à voir le [turn-over du fortune 500] des plus grosses capitalisations boursières pour se dire que le monde change et que ne faire que défendre revient à perdre.
 
 
 {{< img name="3390591198_ebb0250a51" source="https://www.flickr.com/photos/cushinglibrary/3390591198" >}}
