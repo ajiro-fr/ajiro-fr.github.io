@@ -3,7 +3,7 @@
   <ul>
     {{ range .Params.ressources }}
       <li>
-        <a href="/assets/resources/{{ .file }}">
+        <a href="{{ .file }}">
           <i class="fa fa-download"></i> {{ .name }}
           {{ with .icon}}<img class="float-xs-right" src='/assets/images/{{ . }}' height="30">{{ end }}
         </a>

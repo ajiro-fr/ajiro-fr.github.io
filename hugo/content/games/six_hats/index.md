@@ -1,5 +1,5 @@
 ---
-date: 2017-04-29 
+date: 2017-04-29
 hidden: false
 sorted: six chapeaux d’edward de bono
 title: "Les six chapeaux d’Edward de Bono"
@@ -31,7 +31,7 @@ references:
     url: https://fr.wikipedia.org/wiki/M%C3%A9thode_des_six_chapeaux
 ressources:
   - name: Cartes des 6 chapeaux (français)
-    file: six_hats/six-hats-fr.pdf
+    file: six-hats-fr.pdf
     icon: fr.svg
 ---
 

@@ -29,10 +29,10 @@ references:
     url: https://labs.spotify.com/2014/09/16/squad-health-check-model/
 ressources:
   - name: Health Check (français)
-    file: health_check/health-check-fr.pdf
+    file: health-check-fr.pdf
     icon: fr.svg
   - name: Health Check (anglais)
-    file: health_check/health-check-en.pdf
+    file: health-check-en.pdf
     icon: en.svg
 ---
 
