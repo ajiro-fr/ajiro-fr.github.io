@@ -15,9 +15,9 @@ participants: "2 personnes minimum"
 materials:
   - 1 feuille (paperboard) par participant
   - Feutres
-rules: ""
+authors:
+  - albiez_olivier
 illustration:
-  name: illustration
   source: http://gcaptain.com/maritime-monday-january-twenty-twentyfourteen/
 ---
 

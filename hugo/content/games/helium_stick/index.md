@@ -14,7 +14,9 @@ duration: 20 min
 participants: "8-12 par barre"
 materials:
   - 1 barre rigide longue et légère
-rules: ""
+authors:
+  - albiez_olivier
+  - quille_julie
 illustration:
   name: illustration
   source: https://www.flickr.com/photos/51803685@N06/8168482154/

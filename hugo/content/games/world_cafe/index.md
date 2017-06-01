@@ -13,6 +13,8 @@ materials:
   - des tables de 3 ou 4 places
   - des feuilles A3 ou des nappes en papier
   - feutres
+authors:
+  - albiez_olivier
 illustration:
   name: illustration
   source: https://www.flickr.com/photos/bumbus/8213341375/

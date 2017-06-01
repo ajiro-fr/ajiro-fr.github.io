@@ -1,5 +1,5 @@
 ---
-date: 2017-04-29
+date: 2017-04-29 
 hidden: false
 sorted: six chapeaux d’edward de bono
 title: "Les six chapeaux d’Edward de Bono"
@@ -13,7 +13,9 @@ objectives: |
 duration: 10 - 20 min
 participants: "jusqu'à 15 - L'équipe / les personnes support"
 materials:
-rules: ""
+authors:
+  - albiez_olivier
+  - quille_julie
 illustration:
   name: illustration
   source: https://www.flickr.com/photos/106902241@N02/14505745936/

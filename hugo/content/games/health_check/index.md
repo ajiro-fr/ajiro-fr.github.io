@@ -17,7 +17,9 @@ participants: "jusqu'à 15 - L'équipe / les personnes support"
 materials:
   - des cartes de checking
   - éventuellement les cartes de votes
-rules: ""
+authors:
+  - albiez_olivier
+  - quille_julie
 illustration:
   name: illustration
   source: https://pixabay.com/fr/battement-de-coeur-impulsion-163709/
@@ -49,9 +51,9 @@ Cette atelier offre toute sa richesse lorsque l'équipe se l'approprie et qu'il 
 2. Rassemblez toutes les personnes concernées au même endroit, installez-vous de manière à ce que tout le monde puisse voir le centre de la table.
 
 3. Pour une première utilisation présentez le déroulement et découvrez ensemble, toutes les cartes sur lesquelles l'équipe aura à s'exprimer. Expliciter également ce que signifie chaque vote :
-  - ![happy] : ne signifie pas forcément que c'est parfait, simplement que l'équipe se sent bien sur cet élément, et qu'il n'y a pas de besoin d'amélioration majeure pour l'instant.
-  - ![sad] : signifie qu'il y a quelques problèmes notoire que l'on souhaite souligner, mais qu'il n'y a pas d'état d'urgence.
-  - ![crying] : signifie qu'il y a urgence, la situation est grave, il faut qu'on fasse quelque chose.
+  - :smile: : ne signifie pas forcément que c'est parfait, simplement que l'équipe se sent bien sur cet élément, et qu'il n'y a pas de besoin d'amélioration majeure pour l'instant.
+  - :confused: : signifie qu'il y a quelques problèmes notoire que l'on souhaite souligner, mais qu'il n'y a pas d'état d'urgence.
+  - :rage: : signifie qu'il y a urgence, la situation est grave, il faut qu'on fasse quelque chose.
 
 
 4. Si vous souhaitez utiliser les cartes de votes : distribuez des cartes de votes à chaque participants (1 carte de chaque).
@@ -82,8 +84,3 @@ Cette atelier offre toute sa richesse lorsque l'équipe se l'approprie et qu'il 
 L'essentiel du debrief dépendra de ce que vous souhaitez exploiter.
 - Vous souhaitez simplement que l'équipe visualise son état : à la fin de l'atelier demandez à chaque participant ce qu'il pense du résultat et s'il s'y retrouve.
 - Vous souhaitez utiliser les résultats pour proposer des axes d'amélioration : choisissez 1 à 3 cartes parmi celles qui ont réunis le plus de mauvais votes, accompagnez l'équipe pour qu'elle décide d'un ou deux mesures qui peuvent venir améliorer ces points (notez également les décisions prises dans le suivi d'activité pour pouvoir s'y référer au prochain atelier Checking d'équipe).
-
-
-[happy]: /assets/games/health_check/happy.svg
-[sad]: /assets/games/health_check/sad.svg
-[crying]: /assets/games/health_check/crying.svg
