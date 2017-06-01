@@ -131,7 +131,7 @@ Il reste des points que vous pouvez cependant garder en tête pour vous aider da
 ...
 - Trouvez une autre idée :-)
 
-Une partie des réponses aux problèmes de cet article sont dans ce [document] :
+Une partie des réponses aux problèmes de cet article sont dans ce [document].
 
 [convergent thinking]: /articles/2017/04/04/convergent_thinking
-[document]: /assets/articles/divergent_thinking/ASEE_-_Divergent_Thinking_-_Paper_-_MODIFIED_-_FINAL_2012.pdf
+[document]: ASEE_-_Divergent_Thinking_-_Paper_-_MODIFIED_-_FINAL_2012.pdf
