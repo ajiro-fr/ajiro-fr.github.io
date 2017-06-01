@@ -1,8 +1,9 @@
 ---
 date: 2016-09-28
+nositemap: true
 title: Le tour du monde
 authors:
-- Laurent Dussault
+- dussault_laurent
 ---
 
 Edward est concepteur automobile. Il invente des voitures. On lui demande que ses créations soient toujours plus originales pour faire la différence avec un constructeur concurrent.
