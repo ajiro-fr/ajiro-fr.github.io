@@ -107,4 +107,4 @@ Le but de jouer et donc d'utiliser les protocoles est d'en faire ressentir les e
 En conclusion voici mon conseil : **avant de prendre une décision, choisissez le protocole qui vous semble le plus approprié.**
 
 
-[les questions]: /assets/articles/decisions_making/questions-fr.pdf
+[les questions]: questions-fr.pdf
