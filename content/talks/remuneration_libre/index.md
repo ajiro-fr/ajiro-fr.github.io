@@ -12,7 +12,7 @@ tags:
   - management
   - politique
 illustration:
-  name: ginko-biloba
+  name: illustration
 abstract: |
   Atelier autour du concept d'un modèle de rémunération libre, choisie par les salariés.
 sessions:

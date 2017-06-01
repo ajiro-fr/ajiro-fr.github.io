@@ -12,12 +12,14 @@
       {{ if not .Params.hidden }}
         <div class='col-lg-4 col-xs-12'>
           <div class="card">
-            <a href="{{ .RelPermalink }}">
-              <img
-                class="card-img-top talk-illustration"
-                alt="{{ .Title }}"
-                src="{{ .RelPermalink }}/illustration__thumbnail-wide.jpg" />
-            </a>
+              <a href="{{ .RelPermalink }}">
+                {{ $path := .RelPermalink}}
+                {{ with .Params.illustration}}
+                <img alt="{{ .description }}"
+                     src="{{ $path }}/{{ .name | default "illustration" }}__thumbnail-wide.jpg"
+                     class="card-img-top talk-illustration"/>
+                  {{ end }}
+              </a>
             <div class="card-block">
               <a href="{{ .RelPermalink }}">
                 <h4 class="card-title">{{ .Title | markdownify }}</h4>

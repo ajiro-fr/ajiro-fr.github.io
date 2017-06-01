@@ -1,5 +1,5 @@
 ---
-date: 2017-02-22  
+date: 2017-02-22
 title: Voyage au centre du code.
 duration: 2H
 genre: Présentation
@@ -9,7 +9,7 @@ authors:
 tags:
   - software craftmanship
 illustration:
-  name: code
+  name: illustration
   source: https://www.flickr.com/photos/adidas006/6571675827
 abstract: |
   Venez découvrir l'univers du développement informatique et apprenez comment vous prémunir de ses dangers grâce au Software craftsmanship.
