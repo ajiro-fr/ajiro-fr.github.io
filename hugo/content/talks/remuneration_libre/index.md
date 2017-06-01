@@ -2,7 +2,7 @@
 date: 2017-02-22
 title: La Rémunération libre.
 duration: 3H
-type: Atelier
+genre: Atelier
 authors:
   - albiez_olivier
   - clavier_thomas

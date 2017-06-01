@@ -2,7 +2,7 @@
 date: 2017-04-17
 title: Atelier “Protocoles de décision”
 duration: 1H
-type: Présentation
+genre: Présentation
 in_progress: true
 authors:
   - albiez_olivier
