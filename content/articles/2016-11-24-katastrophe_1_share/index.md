@@ -87,7 +87,7 @@ Bien faire la différence entre besoin et solution. Je suis aussi capable d'expl
 
 ## Suite
 
-[Dans l'article suivant, nous allons diverger pour s’ouvrir le champ des possibles.](/articles/2016-11-24-katastrophe_2_diverge.html)
+[Dans l'article suivant, nous allons diverger pour s’ouvrir le champ des possibles.](/articles/2016-11-24-katastrophe_2_diverge)
 
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s

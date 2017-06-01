@@ -100,7 +100,7 @@ Apprendre à donner un feed-back qui ouvre des options.
 
 ## Suite
 
-[Dans l'article suivant, nous allons décider pour se focaliser sur ce qui semble faire le plus de sens.](/articles/2016-11-24-katastrophe_3_converge.html)
+[Dans l'article suivant, nous allons décider pour se focaliser sur ce qui semble faire le plus de sens.](/articles/2016-11-24-katastrophe_3_converge)
 
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s

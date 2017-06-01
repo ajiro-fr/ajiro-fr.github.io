@@ -129,7 +129,7 @@ Prendre du recul sur la prise de décision. Le protocole influe le résultat fin
 
 ## Suite
 
-[Dans l'article suivant, nous allons construire, parce qu’à l’arrivée il y a un client.](/articles/2016-11-24-katastrophe_4_build.html)
+[Dans l'article suivant, nous allons construire, parce qu’à l’arrivée il y a un client.](/articles/2016-11-24-katastrophe_4_build)
 
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s

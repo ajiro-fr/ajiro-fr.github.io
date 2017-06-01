@@ -543,17 +543,17 @@ D’autre part, nous pensons qu’il faut être vigilant et accompagner de faço
 
 ## Nos sources d’inspiration
 
-1. [Michel Chaudy, _Faire des hommes libres_](/books/faire_des_hommes_libres-chaudy_michel.html).
+1. [Michel Chaudy, _Faire des hommes libres_](/books/faire_des_hommes_libres-chaudy_michel).
 
-2. [Jean-François Draperi, _Godin, inventeur de l'économie sociale_](/books/godin_inventeur_de_l_economie_sociale-draperi_jean_francois.html).
+2. [Jean-François Draperi, _Godin, inventeur de l'économie sociale_](/books/godin_inventeur_de_l_economie_sociale-draperi_jean_francois).
 
-3. [Daniel Pink, _La vérité sur ce qui nous motive_](/books/verite_sur_ce_qui_nous_motive-pink_daniel.html).
+3. [Daniel Pink, _La vérité sur ce qui nous motive_](/books/verite_sur_ce_qui_nous_motive-pink_daniel).
 
 4. [Gravity payments](https://gravitypayments.com), salaire unique à 70k\$.
 
 5. [La ligne de flottaison de Gore](http://www.oser-entreprendre.fr/rencontre-avec-w-l-gore-associe-frederic-amariutei/).
 
-6. [Robert Sutton, _Objectif zéro sale con_](/books/objectif_zero_sale_con-sutton_robert.html).
+6. [Robert Sutton, _Objectif zéro sale con_](/books/objectif_zero_sale_con-sutton_robert).
 
 7. [La politique salariale de Buffer](https://buffer.com/salary) et notamment sa transparence.
 
@@ -561,17 +561,17 @@ D’autre part, nous pensons qu’il faut être vigilant et accompagner de faço
 
 9. [FoodCoop et sa commission de discipline](https://foodcooplefilm.com/).
 
-10. [Peter Senge, _La cinquième discipline_](/books/cinquieme_discipline-senge_peter.html).
+10. [Peter Senge, _La cinquième discipline_](/books/cinquieme_discipline-senge_peter).
 
-11. [Isaac Getz, Brian Carney, _Liberté & cie_](/books/liberte_cie-getz_isaac.html).
+11. [Isaac Getz, Brian Carney, _Liberté & cie_](/books/liberte_cie-getz_isaac).
 
-12. [Frédéric Laloux, _Reinventing organizations_](/books/reinventing_organisations-laloux_frederic.html).
+12. [Frédéric Laloux, _Reinventing organizations_](/books/reinventing_organisations-laloux_frederic).
 
-13. [Jean François Zobrist, _La belle histoire de Favi : Nos belles histoires_](/books/belle_histoire_de_favi_1-zobrist_jean_francois.html).
+13. [Jean François Zobrist, _La belle histoire de Favi : Nos belles histoires_](/books/belle_histoire_de_favi_1-zobrist_jean_francois).
 
-14. [Jean François Zobrist, _La belle histoire de Favi : Tome 2 Notre management et nos outils_](/books/belle_histoire_de_favi_2-zobrist_jean_francois.html).
+14. [Jean François Zobrist, _La belle histoire de Favi : Tome 2 Notre management et nos outils_](/books/belle_histoire_de_favi_2-zobrist_jean_francois).
 
-15. [Shoji Shiba, _Le management selon Shiba_](/books/management_selon_shiba-shiba_shoji.html).
+15. [Shoji Shiba, _Le management selon Shiba_](/books/management_selon_shiba-shiba_shoji).
 
 16. Azaé, partage des risques avec le principe de variable volontaire, dans un contexte de travailleur non-salariés.
 
