@@ -1,14 +1,12 @@
 ---
 date: 2016-11-11
-nositemap: true
 title: "Le bûcheron"
-illustration:
-  source: https://www.flickr.com/photos/murph4513/5795270418/
+source: "BUCAY, Jorge. Laisse-moi te raconter... les chemins de la vie. Poche. Pocket, 2011. ISBN: 978-2266211338"
 authors:
   - albiez_olivier
-references:
-  - title: "BUCAY, Jorge. Laisse-moi te raconter... les chemins de la vie. Poche. Pocket, 2011. ISBN: 978-2266211338"
-    icon: book
+illustration:
+  name: 5795270418_309d1f867f
+  source: https://www.flickr.com/photos/murph4513/5795270418/
 ---
 
 Il était une fois un jeune bûcheron qui cherchait un travail. Il trouva près de chez lui une petite entreprise de bois

@@ -1,6 +1,6 @@
 ---
 title: "Implementing Beyond Budgeting: Unlocking the Performance Potential"
-book_authors:
+authors:
 - BOGSNES, Bjarte
 publisher: John Wiley & Sons
 address:

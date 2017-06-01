@@ -2,7 +2,7 @@
 date: 2017-02-22
 title: "Engagez-vous qu'ils disaient !"
 duration: 2H
-genre: Présentation
+type: Présentation
 authors:
   - albiez_olivier
   - clavier_thomas

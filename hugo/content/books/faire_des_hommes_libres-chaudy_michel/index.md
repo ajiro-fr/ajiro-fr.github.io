@@ -1,7 +1,7 @@
 ---
 title: Faire des hommes libres
 subtitle: Boimondau et les Communautés de Travail à Valence - 1941 - 1982
-book_authors:
+authors:
 -  CHAUDY, Michel
 publisher: Editions REPAS, Coll. « Pratiques utopiques »
 year: 2008

@@ -1,7 +1,7 @@
 ---
 title: "La belle histoire de Favi — Tome 2 — Notre management et nos outils"
 subtitle: L'entreprise qui croit que l'homme est bon
-book_authors:
+authors:
 - ZOBRIST, Jean-François
 publisher: "Humanisme & Organisations"
 year: 2014

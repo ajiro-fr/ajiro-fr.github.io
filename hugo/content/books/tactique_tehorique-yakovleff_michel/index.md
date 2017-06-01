@@ -1,6 +1,6 @@
 ---
 title: Tactique Théorique
-book_authors:
+authors:
 - YAKOVLEFF, Michel
 publisher: Economica, Coll. « Stratégies et doctrines »
 address: Paris

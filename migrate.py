@@ -154,30 +154,30 @@ def translate(items, destination, translators):
             translator(item, source, destination)
 
 
-#translate(
-#    items=list_items('_books'),
-#    destination='hugo/content/books',
-#    translators=[
-#        process_file_content(remove_lines('layout: book')),
-#        copy_illustration('assets/books', 'cover')])
+translate(
+    items=list_items('_books'),
+    destination='hugo/content/books',
+    translators=[
+        process_file_content(remove_lines('layout: book')),
+        copy_illustration('assets/books', 'cover')])
 
-#translate(
-#    items=list_items('_games'),
-#    destination='hugo/content/games',
-#    translators=[
-#        process_file_content(remove_lines('layout: game'))])
+translate(
+    items=list_items('_games'),
+    destination='hugo/content/games',
+    translators=[
+        process_file_content(remove_lines('layout: game'))])
 
-#translate(
-#    items=list_items('_talks'),
-#    destination='hugo/content/talks',
-#    translators=[
-#        process_file_content(remove_lines('layout: talk'))])
+translate(
+    items=list_items('_talks'),
+    destination='hugo/content/talks',
+    translators=[
+        process_file_content(remove_lines('layout: talk'))])
 
-#translate(
-#    items=list_items('_tales'),
-#    destination='hugo/content/tales',
-#    translators=[
-#        process_file_content(remove_lines('layout: tale'))])
+translate(
+    items=list_items('_tales'),
+    destination='hugo/content/tales',
+    translators=[
+        process_file_content(remove_lines('layout: tale'))])
 
 
 def replace_style(match):

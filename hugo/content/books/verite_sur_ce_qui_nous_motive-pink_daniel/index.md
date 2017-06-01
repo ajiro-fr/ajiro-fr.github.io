@@ -1,6 +1,6 @@
 ---
 title: La vérité sur ce qui nous motive
-book_authors:
+authors:
 - PINK, Daniel
 publisher: Flammarion, Coll. « Clés des champs »
 year: 2016

@@ -2,7 +2,7 @@
 date: 2016-05-20
 title: Metrics Manifesto, ou comment être efficace dans le pilotage par les indicateurs
 duration: 20 minutes
-genre: Présentation
+type: Présentation
 authors:
   - legras_severin
 tags:

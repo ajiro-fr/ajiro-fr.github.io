@@ -1,8 +1,8 @@
 ---
-date: 2017-02-22  
+date: 2017-02-22
 title: Voyage au centre du code.
 duration: 2H
-genre: Présentation
+type: Présentation
 authors:
   - albiez_olivier
   - clavier_thomas

@@ -1,6 +1,6 @@
 ---
 title: "#NoEstimates: How To Measure Project Progress Without Estimating"
-book_authors:
+authors:
 - DUARTE, Vasco
 publisher: Oikosofy Series
 year: 2016

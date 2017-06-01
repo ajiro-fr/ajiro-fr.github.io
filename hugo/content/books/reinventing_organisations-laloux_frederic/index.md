@@ -1,6 +1,6 @@
 ---
 title: "Reinventing organizations : Vers des communautés de travail inspirées"
-book_authors:
+authors:
 -  LALOUX, Frédéric
 publisher: Editions Diateino
 year: 2015

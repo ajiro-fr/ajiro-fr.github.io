@@ -1,6 +1,6 @@
 ---
 title: "Liberté & cie : Quand la liberté des salariés fait le succès des entreprises"
-book_authors:
+authors:
   - GETZ, Isaac
   - CARNEY, Brian
 publisher: Flammarion, Coll. « Clés des champs »
