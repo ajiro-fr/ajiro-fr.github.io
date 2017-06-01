@@ -154,6 +154,13 @@ def translate(items, destination, translators):
             translator(item, source, destination)
 
 
+def replace_style(match):
+    classes = " ".join([s[1:] for s in match.group("class").split()])
+    text = match.group("text")
+    result = '{{% style class="' + classes + '" %}}\n' + text + '\n{{% /style %}}\n\n'
+    return result
+
+
 translate(
     items=list_items('_books'),
     destination='hugo/content/books',
@@ -178,14 +185,6 @@ translate(
     destination='hugo/content/tales',
     translators=[
         process_file_content(remove_lines('layout: tale'))])
-
-
-def replace_style(match):
-    classes = " ".join([s[1:] for s in match.group("class").split()])
-    text = match.group("text")
-    result = '{{% style class="' + classes + '" %}}\n' + text + '\n{{% /style %}}\n\n'
-    return result
-
 
 translate(
     items=list_items('articles/_posts'),
