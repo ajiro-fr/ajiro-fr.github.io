@@ -16,4 +16,5 @@ run wget https://github.com/spf13/hugo/releases/download/v0.20.7/hugo_0.20.7_Lin
 add . /site
 workdir /site
 run make
-cmd hugo serve --bind 0.0.0.0 --port 80 --destination=/var/www --baseURL=""
+
+entrypoint ["hugo", "serve", "--bind=0.0.0.0", "--port=80", "--destination=/var/www", "--baseURL=''"]
