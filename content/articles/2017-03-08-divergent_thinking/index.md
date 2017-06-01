@@ -117,7 +117,7 @@ Vous commencez à être des vrais pros du divergent thinking avec tout cet entra
 {{< img name="7426798698_82ab4a03f1" source="https://www.flickr.com/photos/gerwinfilius/7426798698" >}}
 
 ### La figure incomplète
-{{< img-large name="forme" >}}
+{{< img name="forme" >}}
 _Vous avez 5 minutes pour compléter de manière originale ce dessin._
 
 Maintenant que vous vous êtes bien amusés, j'ai gardé la mauvaise nouvelle pour la fin. Il a été constaté que de l'entrainement au divergent thinking vous fait progresser dans un type d'exercice (énigmes,...) ou dans un cluster (verbaliser, écrire, algèbre,..). Il a été constaté que des personnes entrainées au divergent thinking sont meilleures globalement que celles qui ne le sont pas. Par contre si elles ont globalement progressé, elles ont aussi régressé sur certains domaines et cela de manière assez aléatoire. La conclusion de l'étude, c'est que l'on ne connait pas aujourd'hui les facteurs (le pluriel est important) qui favorise la pensée créatrice. Cela ne dit pas que les exercices ne servent à rien, cela veut dire que l'on maitrise mal les effets. Il n'est pas sûr qu'il soit nécessaire de s'entrainer avant de jouer le match. Le plus efficace semble être de jouer beaucoup de matchs.
