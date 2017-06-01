@@ -24,8 +24,10 @@ build:
 
 test: build
 	@docker rm -f marketing || true
-	docker run --name marketing -d -p 80:80 deliverous/marketing
+	docker run --name marketing -d -p 80:80 deliverous/marketing --buildDrafts
 	linkchecker --check-extern --ignore-url=^mailto: http://localhost
+	docker stop marketing
+	@docker rm -f marketing || true
 
 publish: build test
 	docker push ${IMAGE}
