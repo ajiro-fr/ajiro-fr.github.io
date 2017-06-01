@@ -96,14 +96,14 @@ Il est possible de donner de la visibilité sur la roadmap avec une estimation f
 
 ## Suite
 
-[Dans l'article suivant, nous allons aller voir un être bizarre : le client.](/articles/2016/12/05/katastrophe_5_validate.html)
+[Dans l'article suivant, nous allons aller voir un être bizarre : le client.](/articles/2016-12-05-katastrophe_5_validate.html)
 
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
-[Comprendre]: /articles/2016/11/24/katastrophe_1_share.html
-[Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
-[Décider]: /articles/2016/11/24/katastrophe_3_converge.html
-[Construire]: /articles/2016/11/24/katastrophe_4_build.html
-[Valider]: /articles/2016/12/05/katastrophe_5_validate.html
+[Comprendre]: /articles/2016-11-24-katastrophe_1_share
+[Explorer]: /articles/2016-11-24-katastrophe_2_diverge
+[Décider]: /articles/2016-11-24-katastrophe_3_converge
+[Construire]: /articles/2016-11-24-katastrophe_4_build
+[Valider]: /articles/2016-12-05-katastrophe_5_validate
 [Story splitting flowchart]: http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart-Thumbnail.png
 [extreme quotation]: http://blog.octo.com/extreme-quotation-planning-agile-sous-steroides/

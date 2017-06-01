@@ -47,12 +47,12 @@ Je suis preneur de feed-backs pour les améliorer, donc n'hésitez pas à me pin
 
 ## Début
 
-[Il est temps de passer aux exercices avec le premier post 'comment créer une compréhension commune'.](/articles/2016/11/24/katastrophe_1_share.html)
+[Il est temps de passer aux exercices avec le premier post 'comment créer une compréhension commune'.](/articles/2016-11-24-katastrophe_1_share.html)
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
-[Comprendre]: /articles/2016/11/24/katastrophe_1_share.html
-[Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
-[Décider]: /articles/2016/11/24/katastrophe_3_converge.html
-[Construire]: /articles/2016/11/24/katastrophe_4_build.html
-[Valider]: /articles/2016/12/05/katastrophe_5_validate.html
+[Comprendre]: /articles/2016-11-24-katastrophe_1_share
+[Explorer]: /articles/2016-11-24-katastrophe_2_diverge
+[Décider]: /articles/2016-11-24-katastrophe_3_converge
+[Construire]: /articles/2016-11-24-katastrophe_4_build
+[Valider]: /articles/2016-12-05-katastrophe_5_validate
 [Cynefin]: https://en.wikipedia.org/wiki/Cynefin_framework

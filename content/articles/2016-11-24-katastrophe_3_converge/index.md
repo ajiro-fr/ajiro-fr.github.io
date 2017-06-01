@@ -129,15 +129,15 @@ Prendre du recul sur la prise de décision. Le protocole influe le résultat fin
 
 ## Suite
 
-[Dans l'article suivant, nous allons construire, parce qu’à l’arrivée il y a un client.](/articles/2016/11/24/katastrophe_4_build.html)
+[Dans l'article suivant, nous allons construire, parce qu’à l’arrivée il y a un client.](/articles/2016-11-24-katastrophe_4_build.html)
 
 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
-[Comprendre]: /articles/2016/11/24/katastrophe_1_share.html
-[Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
-[Décider]: /articles/2016/11/24/katastrophe_3_converge.html
-[Construire]: /articles/2016/11/24/katastrophe_4_build.html
-[Valider]: /articles/2016/12/05/katastrophe_5_validate.html
+[Comprendre]: /articles/2016-11-24-katastrophe_1_share
+[Explorer]: /articles/2016-11-24-katastrophe_2_diverge
+[Décider]: /articles/2016-11-24-katastrophe_3_converge
+[Construire]: /articles/2016-11-24-katastrophe_4_build
+[Valider]: /articles/2016-12-05-katastrophe_5_validate
 [Six Thinking Hats]: https://en.wikipedia.org/wiki/Six_Thinking_Hats
 [personas]: http://www.weloveusers.com/formation/apprendre/personas.html
 [3-metrics]: http://jem9.com/3-metrics/

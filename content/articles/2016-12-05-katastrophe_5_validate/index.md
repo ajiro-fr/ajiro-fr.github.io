@@ -129,8 +129,8 @@ Ce post étant le dernier de la série, il n'y a pas de suite possible. Et bien 
 [design sprint]: https://library.gv.com/the-product-design-sprint-understand-day-1-e164f76e69cf#.6nykd8v0s
 [story telling]: https://fr.wikipedia.org/wiki/Storytelling_(technique)
 [wellbeing north star]: http://www.innovationgames.com/wellbeing-north-star/
-[Comprendre]: /articles/2016/11/24/katastrophe_1_share.html
-[Explorer]: /articles/2016/11/24/katastrophe_2_diverge.html
-[Décider]: /articles/2016/11/24/katastrophe_3_converge.html
-[Construire]: /articles/2016/11/24/katastrophe_4_build.html
-[Valider]: /articles/2016/12/05/katastrophe_5_validate.html
+[Comprendre]: /articles/2016-11-24-katastrophe_1_share
+[Explorer]: /articles/2016-11-24-katastrophe_2_diverge
+[Décider]: /articles/2016-11-24-katastrophe_3_converge
+[Construire]: /articles/2016-11-24-katastrophe_4_build
+[Valider]: /articles/2016-12-05-katastrophe_5_validate
