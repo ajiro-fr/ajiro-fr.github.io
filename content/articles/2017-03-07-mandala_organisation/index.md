@@ -18,11 +18,11 @@ illustration:
   source: https://commons.wikimedia.org/wiki/File%3ACSIRO_ScienceImage_296_Protein_Crystals_Use_in_XRay_Crystallography.jpg
 ---
 
-À l’heure où il est question d’entreprise agile, d’environnement [VUCA] (Volatile, Incertain, Complexe, Ambigu), d’organisations adaptatives, il est parfois difficile de comprendre de quoi on parle. Nous vous proposons un modèle pour décrire à quoi des organisations peuvent ressembler dans la vraie vie.
+À l’heure où il est question d’entreprise agile, d’environnement [VUCA] -- Volatile, Uncertain, Complexe, Ambigu --  et d’organisations adaptatives, il est parfois difficile de comprendre de quoi on parle. Nous vous proposons un modèle pour décrire à quoi des organisations peuvent ressembler dans la vraie vie.
 
 ## Le futur est la répétition du passé : je prédis
 
-{{< img name="3303753789_0ddbd281bb" source="https://flic.kr/p/62WAUe" >}}
+{{< img name="3303753789_175d0b7b73" source="https://flic.kr/p/62WAUe" >}}
 
 Description : le capitaine tient la barre et donne le cap à suivre pour l'organisation. Cette information est ensuite cascadée dans la structure au moyen d'ordres à exécuter. Chaque personne a un rôle clair et connaît donc son périmètre de responsabilités. En cas de changement de cap, la stabilité est privilégiée, car elle permet de bien maîtriser ce que l'on fait et d'être sûr d'arriver ensemble au bon endroit. La synchronisation entre les membres d'équipage est garantie par des procédures claires et précises. Comme ces dernières ont été optimisées, il est nécessaire de les respecter pour une efficacité maximale. À chaque accident, elles sont complétées.
 
