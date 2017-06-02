@@ -3,6 +3,7 @@ date: 2016-11-11
 nositemap: true
 title: "Le bûcheron"
 illustration:
+  name: hache
   source: https://www.flickr.com/photos/murph4513/5795270418/
 authors:
   - albiez_olivier
