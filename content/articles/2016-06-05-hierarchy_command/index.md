@@ -18,7 +18,7 @@ tags:
 categories:
   - mindset
 illustration:
-  name: 247365126_307262f7a8
+  name: soldiers
   source: https://flic.kr/p/nRP2Y
 ---
 
