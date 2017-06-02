@@ -11,7 +11,7 @@ tags:
   - KPI
   - performance
 illustration:
-  name: 4510024415_49b3d8fa89
+  name: indicator
   source: https://flic.kr/p/7Sx48D
 ---
 
