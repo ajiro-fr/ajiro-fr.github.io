@@ -11,7 +11,7 @@ tags:
   - communication
   - concepts
 illustration:
-  name: illustration
+  name: aiguillages
   url: https://www.flickr.com/photos/jev55/8093515962/
 abstract: |
   Dès lors que nous sommes confrontés à la prise d’une décision entre plusieurs personnes, on utilise, plus ou moins consciemment, un protocole de décision. Cet atelier vous fera découvrir et pratiquer quelques-uns des protocoles les plus connus.

@@ -11,8 +11,8 @@ tags:
   - communication
   - concepts
 illustration:
+  name: garbage
   source: https://www.flickr.com/photos/jritch/4677823170/
-  name: illustration
 abstract: |
   L'antonyme de la sérendipité, la zemblanité, est la faculté de découvrir des résultats malheureux, malchanceux et attendus !
   Cette session nous entrainera à travers de nombreuses anectdotes directement tirrés des équipes que nous croisons vers une réflexions sur nos actes et nos décisions.

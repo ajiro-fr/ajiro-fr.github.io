@@ -11,7 +11,7 @@ tags:
   - militaire
   - concepts
 illustration:
-  name: illustration
+  name: camp-romain
 abstract: |
   Surprise en lisant la doctrine militaire du Général Yakovleff. Le fonctionnement de la hiérarchie, les types de commandements et la prise de risque sont à l'opposé des nos préjugés. Profitons de cette découverte, pour réflechir à nos organisations d'entreprises.
 sessions:
