@@ -13,7 +13,7 @@ materials:
 authors:
   - albiez_olivier
 illustration:
-  name: illustration
+  name: planning-poker
   source: https://www.flickr.com/photos/angel_medinilla/2272085072/
 references:
   - title: Planning poker
