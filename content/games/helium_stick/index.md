@@ -18,7 +18,7 @@ authors:
   - albiez_olivier
   - quille_julie
 illustration:
-  name: illustration
+  name: helium-stick
   source: https://www.flickr.com/photos/51803685@N06/8168482154/
 references:
   - title: Helium Stick sur wilderdom.com

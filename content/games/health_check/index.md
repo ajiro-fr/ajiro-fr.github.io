@@ -21,7 +21,7 @@ authors:
   - albiez_olivier
   - quille_julie
 illustration:
-  name: illustration
+  name: health-check
   source: https://pixabay.com/fr/battement-de-coeur-impulsion-163709/
 references:
   - title: Squad Health Check model (spotify)

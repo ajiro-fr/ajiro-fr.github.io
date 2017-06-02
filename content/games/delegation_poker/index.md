@@ -13,7 +13,7 @@ materials:
 authors:
   - albiez_olivier
 illustration:
-  name: illustration
+  name: delegation-poker
   source: https://www.flickr.com/photos/javmorcas/6649476345
 references:
   - title: Delegation poker

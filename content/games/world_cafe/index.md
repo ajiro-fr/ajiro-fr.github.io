@@ -16,7 +16,7 @@ materials:
 authors:
   - albiez_olivier
 illustration:
-  name: illustration
+  name: world-cafe
   source: https://www.flickr.com/photos/bumbus/8213341375/
 references:
   - title: World Cafe

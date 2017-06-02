@@ -18,6 +18,7 @@ materials:
 authors:
   - albiez_olivier
 illustration:
+  name: personal-map
   source: http://gcaptain.com/maritime-monday-january-twenty-twentyfourteen/
 ---
 
