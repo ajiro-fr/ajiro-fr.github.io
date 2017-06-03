@@ -24,7 +24,7 @@ build:
 
 test: build
 	@docker rm -f marketing || true
-	docker run --name marketing -d -p 80:80 deliverous/marketing --buildDrafts
+	docker run --name marketing -d -p 80:80 deliverous/marketing
 	linkchecker --check-extern --anchors --ignore-url=^mailto: http://localhost
 	docker stop marketing
 	@docker rm -f marketing || true
