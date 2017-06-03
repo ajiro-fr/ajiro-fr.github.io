@@ -11,7 +11,7 @@ tags:
   - conference
   - organisation
 illustration:
-  name: lja_4-PRhAj8-low5aRJpR6SjEw
+  name: camp-romain
   source:
 ---
 
