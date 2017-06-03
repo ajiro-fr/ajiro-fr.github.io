@@ -18,7 +18,7 @@ tags:
 categories:
   - mindset
 illustration:
-  name: soldiers
+  name: soldats
   source: https://flic.kr/p/nRP2Y
 ---
 

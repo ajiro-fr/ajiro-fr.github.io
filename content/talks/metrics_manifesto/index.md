@@ -10,7 +10,7 @@ tags:
   - KPI
   - performance
 illustration:
-  name: indicator
+  name: indicateur
   source: https://flic.kr/p/7Sx48D
 abstract: |
   Pourquoi perdre tout le temps gagné grâce à la mise en œuvre des pratiques agiles dans l’élaboration d’un reporting « usine à gaz » ? Ne peut-on pas construire un reporting plus « agile » qui reflète la situation réelle à un instant t et sur lequel la gouvernance peut s’appuyer pour bâtir sa stratégie ? Changeons donc notre culture du reporting pour piloter intelligemment notre activité.

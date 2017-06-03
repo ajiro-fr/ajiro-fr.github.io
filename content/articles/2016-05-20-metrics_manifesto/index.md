@@ -11,7 +11,7 @@ tags:
   - KPI
   - performance
 illustration:
-  name: indicator
+  name: indicateur
   source: https://flic.kr/p/7Sx48D
 ---
 

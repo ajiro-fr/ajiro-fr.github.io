@@ -15,7 +15,7 @@ tags:
 categories:
   - mindset
 illustration:
-  name: risk
+  name: risque
   source: https://flic.kr/p/5K4TQa
 ---
 
@@ -42,7 +42,7 @@ Yakovleff met alors en évidence le paradoxe suivant : celui qui ne prend pas de
 
 Ainsi, la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 1940 : les forces alliées convaincu de leur invulnérabilité avec la ligne Maginot et d'autres éléments issue du renseignement vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive de mai 1940. Pour compenser, les forces allier vont redéployer leurs troupes en urgence le long du front belge en laissant la zone de Sedan sans défense.
 
-{{< img name="fallgelb_manstein" legend="Opération Fall Gelb" source="https://commons.wikimedia.org/wiki/File%3AFallGelb_Manstein.svg" >}}
+{{< img name="operation_fallgelb" legend="Opération Fall Gelb" source="https://commons.wikimedia.org/wiki/File%3AFallGelb_Manstein.svg" >}}
 
 
 ### Mais le maximiser
