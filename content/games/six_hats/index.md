@@ -18,7 +18,7 @@ authors:
   - quille_julie
 illustration:
   name: six-hats
-  source: https://www.flickr.com/photos/106902241@N02/14505745936/
+  source: flic.kr/p/o6PJTS
 references:
   - title: Fiche des 6 chapeaux sur l'université du nous
     icon: external-link

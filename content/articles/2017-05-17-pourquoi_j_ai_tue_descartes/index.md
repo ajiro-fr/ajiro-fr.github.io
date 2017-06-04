@@ -13,7 +13,7 @@ categories:
   - managment
 illustration:
   name: 72499441_b9215607bb
-  source: https://www.flickr.com/photos/smallape/72499441/
+  source: flic.kr/p/7pzyn
 description: |
    Le manager traditionnel est-il en train de fondre au soleil? Ne pourrait-on pas plutôt parler d'adaptation nécessaire aux changements (climatiques)? Je me propose de vous donner ma vision du manager de demain.
 ---
@@ -21,7 +21,7 @@ description: |
 
 ## Tropisme
 
-{{< img name="17357695022_27c1b559cd" source="https://www.flickr.com/photos/132952433@N02/17357695022/" >}}
+{{< img name="17357695022_27c1b559cd" source="flic.kr/p/srQHZQ" >}}
 
 Tout d'abord petite séance de définition :
 - Un profil psychologique est quasi immuable, je suis persévérant de base, ESTJ, promoteur, etc. Il définit mes schémas de pensée et mes mécanismes d'actions.
@@ -35,7 +35,7 @@ Quand on parle de manager agile, 3.0, VUCA, etc, c'est un profil ou un état d'e
 
 ## Manager dans un monde VUCA : Accepter l'incertitude
 
-{{< img name="31019239910_eb87edf97b" source="https://www.flickr.com/photos/fsadykov/31019239910" >}}
+{{< img name="31019239910_eb87edf97b" source="flic.kr/p/Pg4Hkd" >}}
 
 Je pense que la prédiction était efficace au début de la révolution industrielle car le travail était répétitif. Dans une économie de la connaissance, je crois plus à un management basé sur l'expérimentation. Dans la suite de ce post, je vais décrire ce que cela veut dire d'être un manager dans ce monde.
 
@@ -43,7 +43,7 @@ Ca serait pas mal que tu définisses le terme [VUCA] que tu utilises depuis le d
 
 ## Volatile
 
-{{< img name="30788820654_6e40c55baf" source="https://www.flickr.com/photos/troy_williams/30788820654/" >}}
+{{< img name="30788820654_6e40c55baf" source="flic.kr/p/NUGKHq" >}}
 
 Description : **Le challenge est inattendu ou instable et peut être d'une durée inconnue.** Le rythme du changement s'accélère. Des fenêtres d'opportunités s'ouvrent et se referment.
 
@@ -57,7 +57,7 @@ Elément clé : **Le manager doit s'assurer que tout le monde comprend la vision
 
 ## Incertain
 
-{{< img name="14599513496_2173442aed" source="https://www.flickr.com/photos/52214493@N03/14599513496/" >}}
+{{< img name="14599513496_2173442aed" source="flic.kr/p/of7jHW" >}}
 
 Description : Les prédictions ne peuvent être toutes justes, des évènements inattendus arriveront.
 
@@ -70,7 +70,7 @@ Elément clé : C'est un peu la métaphore du chène et du roseau, on cherche à
 
 ## Complexe
 
-{{< img name="21276397114_eafa93c73b" source="https://www.flickr.com/photos/fotograzio/21276397114" >}}
+{{< img name="21276397114_eafa93c73b" source="flic.kr/p/yq86B1" >}}
 
 Description : La situation a un nombre très important de dépendances et d'interconnexions. Le volume de données peut me submerger.
 
@@ -83,7 +83,7 @@ Elément clé : La direction du vent change, mais pas mon cap. **L'organisation 
 
 ## Ambigu
 
-{{< img name="14890437220_e3a3c4ff41" source="https://www.flickr.com/photos/39908901@N06/14890437220/" >}}
+{{< img name="14890437220_e3a3c4ff41" source="flic.kr/p/oFPodd" >}}
 
 Description : Les relations de cause à effet ne sont pas claires.
 
@@ -97,7 +97,7 @@ Elément clé : **Habituer vous à l'inconfortable**. Quand on innove, il y a to
 
 ## Le mot de la fin
 
-{{< img name="71306306_7aa90f9754" source="https://www.flickr.com/photos/mederic/71306306" >}}
+{{< img name="71306306_7aa90f9754" source="flic.kr/p/7isT5" >}}
 
 J'espère vous avoir donné des éclairages sur le rôle du manager dans un environnement adaptif (ou VUCA pour le buzz word). Pour résumer nous allons vers des organisations plus décentralisées, avec un objectif méta à atteindre, de l'autonomie au niveau bas et des compétences qui bougent. C'est une façon de voir les choses qui rend inconcevable des organisations ou des personnes pensent et d'autres exécutent. Tout le monde peut proposer et c'est le monde de l'intelligence collective.
 

@@ -17,7 +17,7 @@ authors:
   - albiez_olivier
 illustration:
   name: world-cafe
-  source: https://www.flickr.com/photos/bumbus/8213341375/
+  source: flic.kr/p/dvMwf4
 references:
   - title: World Cafe
     url: http://www.theworldcafe.com/

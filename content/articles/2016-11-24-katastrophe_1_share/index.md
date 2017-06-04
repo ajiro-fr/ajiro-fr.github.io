@@ -11,7 +11,7 @@ tags:
   - kata
 illustration:
   name: 17264753128_e5576e2f62
-  source: https://www.flickr.com/photos/hoffnungsschimmer/17264753128
+  source: flic.kr/p/siCnBo
 ---
 
 Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le premier post d’exercices d’une série de 5.
@@ -22,7 +22,7 @@ Dans la première étape « comment créer une compréhension commune », nous a
 
 À ceux qui trouvent les exercices suivants faciles, les exercices de compréhension sont un échauffement. Cela va se compliquer dans les prochains posts :-)
 
-{{< img name="4556624994_5447d3ab79" source="https://www.flickr.com/photos/limevelyn/4556624994" >}}
+{{< img name="4556624994_5447d3ab79" source="flic.kr/p/7WDTRU" >}}
 
 ## Episode 1 : Mind Map
 
@@ -39,7 +39,7 @@ En groupe sur un slot de 10 minutes, partager et dessiner une mind map sur le su
 Être capable de comprendre le point de vue des autres. Ne pas tenter d’imposer à tous sa propre vision.
 
 
-{{< img name="3882449431_2793909038" source="https://www.flickr.com/photos/photographybypaul/3882449431" >}}
+{{< img name="3882449431_2793909038" source="flic.kr/p/6V5yXi" >}}
 
 ## Episode 2 : Interview utilisateur
 
@@ -60,7 +60,7 @@ Le but n’est pas de savoir si madame Michu a vraiment un problème pour se fou
 - Est-ce que j’essaie bien de comprendre les problèmes ou est-ce que je propose / vend une solution ? On sait que j’ai en tête Auchan Direct, mais nous ne sommes pas dans une étape de vente.
 
 
-{{< img name="26472155_8cc5066b66" source="https://www.flickr.com/photos/gideon/26472155/" >}}
+{{< img name="26472155_8cc5066b66" source="flic.kr/p/3kFft" >}}
 
 ## Episode 3 : Elevator pitch & canvas
 

@@ -14,7 +14,7 @@ authors:
   - albiez_olivier
 illustration:
   name: delegation-poker
-  source: https://www.flickr.com/photos/javmorcas/6649476345
+  source: flic.kr/p/b8AiDT
 references:
   - title: Delegation poker
     icon: external-link

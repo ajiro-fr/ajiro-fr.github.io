@@ -14,7 +14,7 @@ authors:
   - albiez_olivier
 illustration:
   name: planning-poker
-  source: https://www.flickr.com/photos/angel_medinilla/2272085072/
+  source: flic.kr/p/4sM2Jy
 references:
   - title: Planning poker
     icon: wikipedia-w

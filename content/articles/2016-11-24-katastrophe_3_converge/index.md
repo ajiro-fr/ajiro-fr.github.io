@@ -11,7 +11,7 @@ tags:
   - kata
 illustration:
   name: 5564882153_088fd4e2d6
-  source: https://www.flickr.com/photos/alvarogalve/5564882153
+  source: flic.kr/p/9tKtA2
 ---
 Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le troisième post d’exercices d’une série de 5.
 
@@ -24,7 +24,7 @@ C’est quoi cette idée de m... ? Et bien, il est temps de poser cette question
 3. Il restera ensuite à faire des choix pour savoir sur quelle option on investit. Sur ce point, il y a d’ailleurs deux stratégies à savoir _best shot_ ou _bataille_. _Best shot_ veut dire que l’on fait le choix maintenant de ne garder qu’une solution et avancer à fond dessus côté réalisation et validation. _Bataille_ veut dire que l’on garde quelques options et que l’on choisira entre elles plus tard.
 
 
-{{< img name="3661154554_ff1bcbfd44" source="https://www.flickr.com/photos/fdecomite/3661154554" >}}
+{{< img name="3661154554_ff1bcbfd44" source="flic.kr/p/6zwnGo" >}}
 
 ## Episode 1 : [Six Thinking Hats]
 
@@ -41,7 +41,7 @@ Ouvrir le site auchandirect.fr et taper dans la recherche levure. Critiquer ensu
 Voir comment le chapeau influe sur la qualité de notre feed-back qui devient moins émotionnel.
 
 
-{{< img name="8727714185_e48740678f" source="https://www.flickr.com/photos/werner_schnell_images/7589431098" >}}
+{{< img name="8727714185_e48740678f" source="flic.kr/p/cyDPsj" >}}
 
 ## Episode 2 : Qu’est ce que je pourrai faire de différent ?
 
@@ -72,7 +72,7 @@ Si je ne suis pas capable de répondre à la question _« qu’est-ce que l’ut
 On est dans le pur slicing avec identification d’incrément de valeur. C’est une partie cœur du développement produit. Pour la suite, j’appellerai l’incrément de valeur minimum MVE pour ‘Minimum Viable Experience’. C’est la clé pour une livraison de valeur au fil de l’eau.
 
 
-{{< img name="5094198873_0d01966929" source="https://www.flickr.com/photos/ikhlasulamal/5094198873" >}}
+{{< img name="5094198873_0d01966929" source="flic.kr/p/8La6R4" >}}
 
 ## Episode 3 : Success metrics
 
@@ -96,7 +96,7 @@ Prendre les MVE identifiés précédemment et définir pour chacun les condition
 Faire bien la différence entre critères de succès (du besoin) et critère d’acceptance (de la solution). Je ne veux dans les critères de succès que de la validation d‘hypothèses et pas de conformité de la solution. On n’est pas en train de faire de la spécification.
 
 
-{{< img name="9622763791_3138255f98" source="https://www.flickr.com/photos/carluzfoto/9622763791/" >}}
+{{< img name="9622763791_3138255f98" source="flic.kr/p/fEkbqx" >}}
 
 ## Episode 4 : Decision making
 

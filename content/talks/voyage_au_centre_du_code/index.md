@@ -10,7 +10,7 @@ tags:
   - software craftmanship
 illustration:
   name: code
-  source: https://www.flickr.com/photos/adidas006/6571675827
+  source: flic.kr/p/b1HygD
 abstract: |
   Venez découvrir l'univers du développement informatique et apprenez comment vous prémunir de ses dangers grâce au Software craftsmanship.
 sessions:

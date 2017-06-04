@@ -19,7 +19,7 @@ Je les ai découpé en 5 parties [Comprendre], [Explorer], [Décider], [Construi
 
 Il est maintenant temps d’avoir des idées. Il y a peu, je considérais que les phases de divergence et de convergence étaient au sein du même workshop avec un début de divergence et ensuite  de la convergence. Après discussion avec des UX, je me suis rendu compte que l’on pouvait avoir une séparation nette. Dans la vraie vie, vous verrez bien quelle est la meilleure approche pour vous. Pour les exercices, je veux marquer la différence. Le plus important dans cette phase, c’est d’avoir des idées et pas de savoir si ce sont les bonnes. Cela viendra dans un deuxième temps et c’est super important. Non aux attitudes castratrices.
 
-{{< img name="7429728140_f6253591cb" source="https://www.flickr.com/photos/thomashawk/7429728140/" >}}
+{{< img name="7429728140_f6253591cb" source="flic.kr/p/cjxik3" >}}
 
 ## Episode 1 : [crazy eights]
 
@@ -38,7 +38,7 @@ Plier trois fois une feuille. Si vous suivez bien, vous avez toujours 8 blocs. V
 Ressentir l’impact du temps.
 
 
-{{< img name="7159235697_8a626148a1" source="https://www.flickr.com/photos/tim_ranson/7159235697/" >}}
+{{< img name="7159235697_8a626148a1" source="flic.kr/p/bUCXme" >}}
 
 ## Episode 2 : Brainstorming
 
@@ -59,7 +59,7 @@ Observer la dynamique de groupe et les biais. Questions à poser à l’observat
 - Est-ce que les idées ont été critiquées en séance ?
 
 
-{{< img name="2765083201_55a958db14" source="https://www.flickr.com/photos/dotbenjamin/2765083201/" >}}
+{{< img name="2765083201_55a958db14" source="flic.kr/p/5dkLUi" >}}
 
 
 ## Episode 3 : Brainwriting
@@ -77,7 +77,7 @@ Donner des post-it à toutes les personnes. Vous avez 3 minutes pour proposer pa
 Le mécanisme de génération d’idées n’est pas le même entre brainstorming et brainwriting. Ce sont donc des techniques complémentaires.
 
 
-{{< img name="5471190091_404f6ba72b" source="https://www.flickr.com/photos/titlap/5471190091" >}}
+{{< img name="5471190091_404f6ba72b" source="flic.kr/p/9kthcD" >}}
 
 ## Episode 4 : Perfection game
 

@@ -13,7 +13,7 @@ categories:
   - product
 illustration:
   name: 8505252736_b73998d301
-  source: https://www.flickr.com/photos/gabrielgm/8505252736/
+  source: flic.kr/p/dXzDjy
 ---
 Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le chapeau d'une série de 5 posts d’exercices. Le développement produit, c'est une discipline qui vise à apporter de nouveaux produits sur le marché avec comme maitres mots innovation et incertitude.
 
@@ -39,7 +39,7 @@ Je me lance dans une courte explication du modèle [Cynefin] pour expliquer dans
 - Compliqué : après analyse, on peut faire le lien de cause à effet. Je suis dans l'analytique et le cartésianisme. Le futur est la répétition du passé. Je construis une voiture, cela n'est pas simple. Mais une fois que je l'ai fait une fois, je peux le répéter à l'envie. Pour parler IT, nous sommes dans le monde des méthodes prédictives.
 - Complexe : la relation de cause à effet peut être déterminée après coup. Je vais devoir fonctionner par expérimentation et voir ce qui marche et ce qui ne marche pas. Nous sommes dans le monde des méthodes adaptatives comme l'agile et le développement produit. Je peux tenter de tout analyser, cela ne me permettra pas de déterminer à coup sûr le résultat. Est-ce que dans le développement informatique, on écrit deux fois le même code ? J'y crois moyen et donc nous sommes plus dans la découverte permanente.
 
-{{< img name="20085364895_61e4591da2" source="https://www.flickr.com/photos/131350192@N03/20085364895/" >}}
+{{< img name="20085364895_61e4591da2" source="flic.kr/p/wASKdK" >}}
 
 Les exercices qui suivent dans les 4 posts ont été écrits avec pour cible les maîtrises d'ouvrage qui veulent se former à des pratiques adaptées aux systèmes complexes. Il n'y a, par contre, pas de prérequis et ils sont donc accessibles à un public plus large. Et pourquoi pas les appliquer directement sur des cas réels ? Je pars du principe qu'il est préférable de s'entraîner avant de jouer un match de compétition. C'est pour cela qu'on les appelle des katas, c'est par la répétition de gestes (pratiques) que l'on acquiert des réflexes.
 

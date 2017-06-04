@@ -11,12 +11,12 @@ tags:
   - coaching
 illustration:
   name: illustration
-  source: https://www.flickr.com/photos/kashifjohn/5217622174
+  source: flic.kr/p/8X4Fi1
 ---
 Nous aurions pu vous expliquer combien il est bon de faire un changement en incluant toutes les composantes de l'agile / continuous deliver / DevOps / Whatever..., mais nous avons plutôt décidé de vous raconter des histoires sur ce qui se passe quand on ne le fait pas.
 
 
-{{< img name="3843103318_6e20508e49" source="https://www.flickr.com/photos/insane_capture/3843103318/" >}}
+{{< img name="3843103318_6e20508e49" source="flic.kr/p/6RAUJ3" >}}
 
 ## Du flux batché par Samuel
 Il y a quelques années, je me retrouve à accompagner seul (coach agile) une équipe d'une quinzaine de personnes dont le problème principal était l'incapacité à livrer fluidement. Il fallait de grands efforts pour réussir à sortir le stock de demandes en cours. Petit détail qui aura son importance pour la suite, ils travaillaient sur une jeune application mais ils avaient toujours eu la pression pour livrer vite.

@@ -14,7 +14,7 @@ tags:
   - conference
 illustration:
   name: lego-tdd
-  url: https://www.flickr.com/photos/uncoolbob/15322582642
+  url: flic.kr/p/pm1eZm
 abstract: |
   Cet atelier permet de découvrir quelques bonnes pratiques du génie logiciel en s'amusant : TDD, Clean Code, Refactoring, Dette Technique et Integration Continue sont au programme !
   Pas la peine de savoir coder ! L'usage de briques Lego® offre l'opportunité à tous (développeurs ou non) de manipuler ces concepts.

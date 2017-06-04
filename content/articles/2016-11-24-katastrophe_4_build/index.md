@@ -11,7 +11,7 @@ tags:
   - kata
 illustration:
   name: 14853927242_de56848a00
-  source: https://www.flickr.com/photos/tsevis/14853927242
+  source: flic.kr/p/oCAg4Q
 ---
 Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le quatrième post d’exercices d’une série de 5.
 
@@ -19,7 +19,7 @@ Je les ai découpé en 5 parties [Comprendre], [Explorer], [Décider], [Construi
 
 Je suis maintenant à l'étape où j'ai mis une solution en face d'un problème. Je peux éventuellement en développer plusieurs (de solutions) pour les mettre ensuite en concurrence.
 
-{{< img name="15709722809_42433e78c4" source="https://www.flickr.com/photos/axeleng/15709722809" >}}
+{{< img name="15709722809_42433e78c4" source="flic.kr/p/pWdrgP" >}}
 
 ## Episode 1 : découpage en US
 
@@ -44,7 +44,7 @@ Dans un deuxième temps, on triera les User Stories par ordre croissant de risqu
 S'entraîner à découper une solution. Pendant la précédente séance, nous avons découpé un besoin.
 
 
-{{< img name="2077095993_54c06f30d5" source="https://www.flickr.com/photos/21396607@N05/2077095993" >}}
+{{< img name="2077095993_54c06f30d5" source="flic.kr/p/4axEgT" >}}
 
 ## Episode 2 : scénario de tests
 
@@ -76,7 +76,7 @@ Alors on me demande de me connecter
 S'entraîner à exprimer des scénarios de tests sous la forme canonique Gherkin et que ce soit des exemples (pas une reformulation de la spécification). Les verbes du contexte doivent être au passé et il ne doit y avoir (sauf cas exceptionnel) qu'un seul évènement. Il est très important que le scénario ait un nom qui reflète ce que l'on teste.
 
 
-{{< img name="16091673593_3d28e34e05" source="https://www.flickr.com/photos/bburky_/16091673593/" >}}
+{{< img name="16091673593_3d28e34e05" source="flic.kr/p/qvY2Wa" >}}
 
 ## Episode 3 : Extreme quotation
 
