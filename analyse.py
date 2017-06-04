@@ -4,6 +4,7 @@
 Usage:
   analyse flickr list
   analyse flickr shorten [--force]
+  analyse images name [--dump]
   analyse (-h | --help)
   analyse --version
 
@@ -20,6 +21,7 @@ import re
 import shutil
 import string
 import urllib3
+import yaml
 
 
 ContentDir = "content"
@@ -121,6 +123,40 @@ def flickr_list():
     print("\tShort URL count: %d" % short_urls_count)
 
 
+def is_semantic_name(name):
+    if sum(c.isdigit() for c in name) > 4:
+        return (False, 'Too many digits')
+    if sum(c.isupper() for c in name):
+        return (False, 'Contains uppercase')
+    return (True, 'OK')
+
+ImageNamePattern = re.compile('name="([^"]*)"')
+def images_name(dump):
+    def images_names_from(content):
+        names = ImageNamePattern.findall(content)
+        front_matter = yaml.load_all(content).next()
+        if 'illustration' in front_matter:
+            names.append(front_matter['illustration']['name'])
+        return names
+
+    images = []
+    for name, path in list_items(ContentDir):
+        content = read_file(path)
+        for name in images_names_from(content):
+            status, reason = is_semantic_name(name)
+            if not status:
+                images.append({
+                    "name": name,
+                    "new_name": '',
+                    "reason": reason,
+                    "where": path
+                })
+                print "Bad  : %-30s (%s): %s" % (name, path, reason)
+    if dump:
+        with file('image-rename.yaml', 'w') as f:
+            yaml.dump(images, f, default_flow_style=False)
+
+
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='Hugo analyse 1.0')
     if arguments['flickr']:
@@ -128,3 +164,6 @@ if __name__ == '__main__':
             flickr_list()
         elif arguments['shorten']:
             flickr_shorten(force=arguments['--force'])
+    elif arguments['images']:
+        if arguments['name']:
+            images_name(dump=arguments['--dump'])
