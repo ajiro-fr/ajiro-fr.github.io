@@ -5,6 +5,7 @@ Usage:
   analyse flickr list
   analyse flickr shorten [--force]
   analyse images name [--dump]
+  analyse shortcode list
   analyse (-h | --help)
   analyse --version
 
@@ -14,7 +15,9 @@ Options:
   --force       Force
 
 """
+from bs4 import BeautifulSoup
 from docopt import docopt
+import collections
 import fnmatch
 import os
 import re
@@ -30,6 +33,10 @@ ContentDir = "content"
 HTTP = urllib3.PoolManager()
 FlickrLongPattern = re.compile("https://www.flickr.com/[a-zA-Z0-9/_%@.-]*")
 FlickrShortPattern = re.compile("flic.kr/p/[a-zA-Z0-9]*")
+
+
+Illustration = collections.namedtuple('Illustration', 'name source')
+Shortcode = collections.namedtuple('Shortcode', 'name parameters')
 
 
 def list_items(directory, pattern="*.md"):
@@ -75,6 +82,16 @@ def compute_flickr_short_url(identifier):
     return "flic.kr/p/%s" % encoding
 
 
+
+def get_flickr_image_title(url):
+    def meta(tag):
+        return tag.name == 'meta' and 'name' in tag.attrs and tag['name'] == 'title'
+
+    html = HTTP.request('GET', url + '/sizes/o/')
+    title =  BeautifulSoup(html.data, 'html5lib').find(meta)['content'].split('|')[0]
+    return title.lower()
+
+
 def check_flickr_short_url(url, expected_pseudo, expected_image_identifier):
     try:
         html = HTTP.request('GET', url + '/sizes/o/')
@@ -113,9 +130,9 @@ def flickr_list():
         if len(long_urls) > 0 or len(short_urls) > 0:
             print("\nFile %s:" % path)
             for url in long_urls:
-                print("\t%s" % url)
+                print("\t%50s %30s" % (url, get_flickr_image_title(url)))
             for url in short_urls:
-                print("\t%s" % url)
+                print("\t%50s %30s" % (url, get_flickr_image_title(url)))
         long_urls_count += len(long_urls)
         short_urls_count += len(short_urls)
     print("\nStatistics:")
@@ -130,9 +147,40 @@ def is_semantic_name(name):
         return (False, 'Contains uppercase')
     return (True, 'OK')
 
-ImageNamePattern = re.compile('name="([^"]*)"')
+
+def shortcodes_of(content):
+    return re.compile('{{<(.*)>}}').findall(content)
+
+
+def read_front_matter(content):
+    return yaml.load_all(content).next()
+
+
+def illustrations_from(content):
+    illustrations = []
+    front_matter = read_front_matter(content)
+    if 'illustration' in front_matter:
+        illustrations.append(
+            Illustration(
+                name=front_matter['illustration']['name'],
+                source=front_matter['illustration']['source']))
+    for shortcode in shortcodes_of(content):
+        if
+    names = ImageNamePattern.findall(content)
+
+    return names
+
+
 def images_name(dump):
-    def images_names_from(content):
+    NamePattern = re.compile('name="([^"]*)"')
+    SourcePattern = re.compile('source="([^"]*)"')
+
+    def illustration_from_front_matter(content):
+        front_matter = yaml.load_all(content).next()
+        if 'illustration' in front_matter:
+
+
+    def illustration_from(content):
         names = ImageNamePattern.findall(content)
         front_matter = yaml.load_all(content).next()
         if 'illustration' in front_matter:
@@ -157,6 +205,14 @@ def images_name(dump):
             yaml.dump(images, f, default_flow_style=False)
 
 
+def shortcode_list():
+    ShortCodePattern = re.compile('{{<(.*)>}}')
+    for name, path in list_items(ContentDir):
+        content = read_file(path)
+        for shortcode in ShortCodePattern.findall(content):
+            print "%-20s: %s" % (shortcode, path)
+
+
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='Hugo analyse 1.0')
     if arguments['flickr']:
@@ -167,3 +223,6 @@ if __name__ == '__main__':
     elif arguments['images']:
         if arguments['name']:
             images_name(dump=arguments['--dump'])
+    elif arguments['shortcode']:
+        if arguments['list']:
+            shortcode_list()
