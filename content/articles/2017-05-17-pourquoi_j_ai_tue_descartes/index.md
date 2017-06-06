@@ -1,5 +1,5 @@
 ---
-aliases: /articles/2017/05/17/pourquoi_j_ai_tue_descartes
+aliases: /articles/2017/05/17/pourquoi_j_ai_tue_descartes.html
 date: 2017-05-17
 title: "Le manager du monde VUCA ou comment nous avons tué Descartes "
 lang: fr

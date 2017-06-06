@@ -1,5 +1,5 @@
 ---
-aliases: /articles/2016/11/24/katastrophe_1_share
+aliases: /articles/2016/11/24/katastrophe_1_share.html
 date: 2016-11-24
 title: "Product Developement : Des katas de compréhension"
 lang: fr

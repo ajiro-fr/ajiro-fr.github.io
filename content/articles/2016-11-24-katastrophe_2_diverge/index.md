@@ -1,5 +1,5 @@
 ---
-aliases: /articles/2016/11/24/katastrophe_2_diverge
+aliases: /articles/2016/11/24/katastrophe_2_diverge.html
 date: 2016-11-24
 title: "Product Developement : Des katas d'exploration"
 lang: fr

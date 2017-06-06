@@ -1,5 +1,5 @@
 ---
-aliases: /articles/2016/10/17/engagez_vous_qu_ils_disaient
+aliases: /articles/2016/10/17/engagez_vous_qu_ils_disaient.html
 date: 2016-10-17
 title: "Engagez-vous qu'ils disaient !"
 date: 2016-10-17

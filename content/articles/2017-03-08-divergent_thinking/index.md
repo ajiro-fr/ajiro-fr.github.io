@@ -1,5 +1,5 @@
 ---
-aliases: /articles/2017/03/08/divergent_thinking
+aliases: /articles/2017/03/08/divergent_thinking.html
 date: 2017-03-08
 title: "Toi aussi tu peux avoir des idées originales"
 lang: fr

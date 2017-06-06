@@ -1,5 +1,5 @@
 ---
-aliases: /articles/2016/11/04/health_check
+aliases: /articles/2016/11/04/health_check.html
 date: 2016-11-04
 title: "Health Check, traduit en français"
 lang: fr

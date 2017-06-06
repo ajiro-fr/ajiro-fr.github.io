@@ -1,5 +1,5 @@
 ---
-aliases: /articles/2017/01/25/tactique_theorique_defense
+aliases: /articles/2017/01/25/tactique_theorique_defense.html
 date: 2017-01-25
 title: "Product Development et Tactique Théorique : Aux abris"
 lang: fr

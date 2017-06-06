@@ -1,5 +1,5 @@
 ---
-aliases: /articles/2017/01/27/concours-aneo-remuneration
+aliases: /articles/2017/01/27/concours-aneo-remuneration.html
 date: 2017-01-27
 title: "Concours ANEO : innovation sur la rémunération"
 lang: fr

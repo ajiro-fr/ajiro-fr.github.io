@@ -1,5 +1,5 @@
 ---
-aliases: /articles/2016/10/04/no_estimates
+aliases: /articles/2016/10/04/no_estimates.html
 date: 2016-10-04
 title: "#NoEstimates, concentrons nous sur l'essentiel"
 lang: fr

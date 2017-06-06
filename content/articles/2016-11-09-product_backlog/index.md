@@ -1,5 +1,5 @@
 ---
-aliases: /articles/2016/11/09/product_backlog
+aliases: /articles/2016/11/09/product_backlog.html
 date: 2016-11-09
 title: "Dis papa, c'est quoi un product backlog?"
 lang: fr
