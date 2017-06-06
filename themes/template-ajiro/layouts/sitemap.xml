@@ -2,7 +2,7 @@
   {{ range .Data.Pages }}
     {{ if not (or .Params.hidden .Params.nositemap) }}
       <url>
-        <loc>{{ .Permalink }} {{not .Params.nositemap}}</loc>
+        <loc>{{ .Permalink }}</loc>
         {{ if not .Lastmod.IsZero }}
           <lastmod>{{ safeHTML ( .Lastmod | dateFormat $.Site.Params.date_format.iso ) }}</lastmod>
         {{ end }}
