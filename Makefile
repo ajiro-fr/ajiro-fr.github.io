@@ -19,7 +19,7 @@ clean:
 	find . -name '*thumbnail*' -delete
 
 build:
-	docker build -t ${IMAGE} .
+	docker build --pull -t ${IMAGE} .
 	docker tag ${IMAGE} ${IMAGE}:${TAG}
 
 test: build
