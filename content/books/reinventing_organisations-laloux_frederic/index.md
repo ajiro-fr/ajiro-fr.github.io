@@ -1,4 +1,5 @@
 ---
+aliases: /books/reinventing_organisations-laloux_frederic.html
 title: "Reinventing organizations : Vers des communautés de travail inspirées"
 book_authors:
 -  LALOUX, Frédéric

@@ -1,4 +1,5 @@
 ---
+aliases: /books/godin_inventeur_de_l_economie_sociale-draperi_jean_francois.html
 title: Godin, inventeur de l'économie sociale
 subtitle: Mutualiser, coopérer, s'associer.
 book_authors:

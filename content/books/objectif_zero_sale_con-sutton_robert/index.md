@@ -1,4 +1,5 @@
 ---
+aliases: /books/objectif_zero_sale_con-sutton_robert.html
 title: Objectif zéro-sale-con
 book_authors:
 -  SUTTON, Robert

@@ -1,4 +1,5 @@
 ---
+aliases: /books/antifragile-nassim_nicholas_taleb.html
 title: "Antifragile: Les bienfaits du désordre"
 book_authors:
 -  TALEB, Nassim Nicholas

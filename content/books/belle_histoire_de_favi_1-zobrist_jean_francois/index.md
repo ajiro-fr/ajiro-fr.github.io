@@ -1,4 +1,5 @@
 ---
+aliases: /books/belle_histoire_de_favi_1-zobrist_jean_francois.html
 title: "La belle histoire de Favi — Tome 1 — Nos belles histoires"
 subtitle: L'entreprise qui croit que l'homme est bon
 book_authors:

@@ -1,4 +1,5 @@
 ---
+aliases: /books/cinquieme_discipline-senge_peter.html
 title: "La cinquième discipline"
 book_authors:
 -  SENGE, Peter

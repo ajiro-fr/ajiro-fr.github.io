@@ -1,4 +1,5 @@
 ---
+aliases: /books/management_selon_shiba-shiba_shoji.html
 title: "Le management selon Shiba"
 book_authors:
 -  SHIBA, Shoji

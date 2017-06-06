@@ -1,4 +1,5 @@
 ---
+aliases: /books/belle_histoire_de_favi_2-zobrist_jean_francois.html
 title: "La belle histoire de Favi — Tome 2 — Notre management et nos outils"
 subtitle: L'entreprise qui croit que l'homme est bon
 book_authors:

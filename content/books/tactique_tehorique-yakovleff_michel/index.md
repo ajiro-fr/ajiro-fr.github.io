@@ -1,4 +1,5 @@
 ---
+aliases: /books/tactique_tehorique-yakovleff_michel.html
 title: Tactique Théorique
 book_authors:
 - YAKOVLEFF, Michel

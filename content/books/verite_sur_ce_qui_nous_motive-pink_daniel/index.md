@@ -1,4 +1,5 @@
 ---
+aliases: /books/verite_sur_ce_qui_nous_motive-pink_daniel.html
 title: La vérité sur ce qui nous motive
 book_authors:
 - PINK, Daniel

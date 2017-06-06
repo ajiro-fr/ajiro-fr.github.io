@@ -1,4 +1,5 @@
 ---
+aliases: /books/liberte_cie-getz_isaac.html
 title: "Liberté & cie : Quand la liberté des salariés fait le succès des entreprises"
 book_authors:
   - GETZ, Isaac

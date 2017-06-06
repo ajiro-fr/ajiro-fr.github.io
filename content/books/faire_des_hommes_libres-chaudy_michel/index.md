@@ -1,4 +1,5 @@
 ---
+aliases: /books/faire_des_hommes_libres-chaudy_michel.html
 title: Faire des hommes libres
 subtitle: Boimondau et les Communautés de Travail à Valence - 1941 - 1982
 book_authors:

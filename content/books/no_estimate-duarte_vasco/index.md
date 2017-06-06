@@ -1,4 +1,5 @@
 ---
+aliases: /books/no_estimate-duarte_vasco.html
 title: "#NoEstimates: How To Measure Project Progress Without Estimating"
 book_authors:
 - DUARTE, Vasco

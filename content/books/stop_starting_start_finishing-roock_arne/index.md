@@ -1,4 +1,5 @@
 ---
+aliases: /books/stop_starting_start_finishing-roock_arne.html
 title: "Stop Starting, Start Finishing!"
 book_authors:
 - ROOCK, Arne

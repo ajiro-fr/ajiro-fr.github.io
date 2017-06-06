@@ -1,4 +1,5 @@
 ---
+aliases: /books/implementing_beyond_budgeting-bogsnes_bjarte.html
 title: "Implementing Beyond Budgeting: Unlocking the Performance Potential"
 book_authors:
 - BOGSNES, Bjarte
