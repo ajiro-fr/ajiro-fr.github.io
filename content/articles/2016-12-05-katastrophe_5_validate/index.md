@@ -11,7 +11,7 @@ tags:
   - kata
 illustration:
   name: 3830209910_f1568d6bc1
-  source: flic.kr/p/6QsPXU
+  source: http://flic.kr/p/6QsPXU
 ---
 Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le dernier post d’exercices d’une série de 5.
 
@@ -20,7 +20,7 @@ Je les ai découpé en 5 parties [Comprendre], [Explorer], [Décider], [Construi
 Nous sommes maintenant en capacité de montrer quelque chose pour obtenir du feedback et donc in fine être en capacité de valider nos hyptohèses. J'utilise l'expression quelque chose car le quelque chose en question est variable en fonction de l'étape. Dans le design sprint c'est clair, on parle d'un prototype. Dans le product development, on parlera tantot d'une validation pré production tantot d'une validation post production.
 
 
-{{< img name="4915499077_f6a36de2aa" source="flic.kr/p/8undC6" >}}
+{{< img name="4915499077_f6a36de2aa" source="http://flic.kr/p/8undC6" >}}
 
 ## Episode 1 : Démo / Story telling
 
@@ -37,7 +37,7 @@ Dans ce kata, je pars du principe que nous sommes dans le cadre d'une démo type
 Un des but de la démo est de valider les user stories. Il est donc important de repréciser ce qui était prévu en termes de comportement de l'application et de critère d'acceptance. Ensuite, il s'agit de récupérer du feedback et pour cela il est nécessaire que le client se projète. C'est pour cela que je prend la troisième pour Novencia, il sera alors nécessaire de redonner les conditions de sortie de l'étape précédente et de repositionner la user story dans son cadre.
 
 
-{{< img name="7723572802_801579081f" source="flic.kr/p/cLvk7j" >}}
+{{< img name="7723572802_801579081f" source="http://flic.kr/p/cLvk7j" >}}
 
 ## Episode 2 : Scénario d'usage
 
@@ -56,7 +56,7 @@ Ecrire un mode opératoire sur le MVP 1 des sites Auchan Direct et Novencia.
 Ce qui est différent entre le précédent kata et celui là, c'est que je suis exprès 'imprécis' car je souhaite voir si l'utilisateur comprend l'interface. Il ne faut donc pas utiliser de verbes qui correspondent aux boutons d'actions de l'interface. Il est aussi possible d'être 'fourbe' en demandant un scénario long alors que seule l'étape du milieu nous intéresse. Si on le fait avec quelques utilisateurs, on voit aussi apparaitre des patterns de comportement. Il reste ensuite à comprendre le pourquoi des comportements.
 
 
-{{< img name="6816979068_b4d41c5094" source="flic.kr/p/booNnS" >}}
+{{< img name="6816979068_b4d41c5094" source="http://flic.kr/p/booNnS" >}}
 
 ## Episode 3 : Wellbeing north star
 
@@ -91,7 +91,7 @@ Comparer les axes d'améliorations proposés avant et après l'utilisation de l'
 L'idée est plus de proposer une approche que de s'exercer. La démarche aide à prendre plus de feedback en compte. J'ai proposé les thèmes pour les axes de l'étoile et cela doit rester une proposition. A vous de trouver les plus pertinents pour votre contexte.
 
 
-{{< img name="5391787911_597d41e1a2" source="flic.kr/p/9dsjGx" >}}
+{{< img name="5391787911_597d41e1a2" source="http://flic.kr/p/9dsjGx" >}}
 
 ## Episode 4 : What's next ?
 

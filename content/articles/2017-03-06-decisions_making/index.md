@@ -13,7 +13,7 @@ categories:
   - people
 illustration:
   name: 8388318279_09e20b0107
-  source: flic.kr/p/dMfjMe
+  source: http://flic.kr/p/dMfjMe
 description: |
   Comment prendre une décisions sans générer de la frustration tout en générant de l'engagement et de l'initiative? Il s'agit souvent de choisir le bon protocole de prise de décisions.
 ---
@@ -27,28 +27,28 @@ Tous les jours ou presque, vous prenez des décisions. Certaines sont plus simpl
 
 ## HIPPo
 
-{{< img name="8702937869_a0f09b9697" source="flic.kr/p/eg3QdV" >}}
+{{< img name="8702937869_a0f09b9697" source="http://flic.kr/p/eg3QdV" >}}
 
 Comme vous l'aurez deviné, c'est un acronyme que voilà décrypté : Highest Paid Person Opinion. Pour faire simple, c'est la personne la mieux payée (une autre façon de dire le chef) qui décide pour tout le monde.
 
 
 ## Consensus
 
-{{< img name="5700609302_16bb1386e0" source="flic.kr/p/9FK7xh" >}}
+{{< img name="5700609302_16bb1386e0" source="http://flic.kr/p/9FK7xh" >}}
 
 Toutes les personnes qui participent à la décision doivent être d'accord.
 
 
 ## Majorité
 
-{{< img name="6251799625_a07a8ec3dd" source="flic.kr/p/aws7dH" >}}
+{{< img name="6251799625_a07a8ec3dd" source="http://flic.kr/p/aws7dH" >}}
 
 Pour qu'une décision soit prise, une majorité de personnes doivent être d'accord. Il existe quelques variantes avec majorité absolue ou relative, à deux tours...
 
 
 ## Consentement (Cf core protocols Decider)
 
-{{< img name="15327443317_1359a5f239" source="flic.kr/p/pmr9U6" >}}
+{{< img name="15327443317_1359a5f239" source="http://flic.kr/p/pmr9U6" >}}
 
 Une personne propose une réponse à une question. Alors les autres participants peuvent répondre par 3 choix :
 - Je suis d'accord : pouce levé
@@ -58,19 +58,19 @@ Une personne propose une réponse à une question. Alors les autres participants
 
 ## Conseil (Cf protocole Advice de Gore)
 
-{{< img name="6878515664_f586d07bc2" source="flic.kr/p/btQc4E" >}}
+{{< img name="6878515664_f586d07bc2" source="http://flic.kr/p/btQc4E" >}}
 
 Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de toutes les personnes impactées par sa décision ainsi que de prendre conseil auprès des personnes compétentes sur le sujet de la décision. Ensuite, la personne prend sa décision.
 
 ## Le hasard fait bien les choses
 
-{{< img name="4032383776_3f51ac6dc5" source="flic.kr/p/79k2dd" >}}
+{{< img name="4032383776_3f51ac6dc5" source="http://flic.kr/p/79k2dd" >}}
 
 Il y a quelques temps j'aurais trouvé cette proposition un peu farfelue. Dans 'Antifragile, Nicholas Taleb parle de la façon dont il visite les villes en allant au hasard. Il découvre ainsi des endroits qu'aucun guide n'a indiqué. Cela m'a rappelé comment je jouais parfois à un jeu du nom de Diplomacy. Par défaut, c'est un jeu sans hasard et donc pourquoi jouer au début pour décider d'un mouvement ? A force de jouer avec les mêmes personnes, j'étais devenu prévisible. En utilisant le hasard, j'ai introduit de l'incertitude qui in fine m'a été bénéfique. J'ai fait des coups que je n'aurais sûrement pas fait normalement. Ce protocole est aussi intéressant quand aucun élément ne permet une décision rationnelle. Ne passons pas trop de temps à réfléchir et agissons.
 
 ## Le jeu
 
-{{< img name="2625563385_6d2a215481" source="flic.kr/p/511Gwe" >}}
+{{< img name="2625563385_6d2a215481" source="http://flic.kr/p/511Gwe" >}}
 
 1. Imprimer [les questions] et les découper pour en faire un paquet. Trouver au moins 2 personnes pour jouer avec vous. Le chiffre optimal est 5 joueurs.
 2. Pendant 30 secondes, répondre aux questions avec le protocole HIPPo
@@ -82,7 +82,7 @@ Il y a quelques temps j'aurais trouvé cette proposition un peu farfelue. Dans '
 
 ## Que constate-t-on généralement ?
 
-{{< img name="14272213208_04881213a2" source="flic.kr/p/nKbPKw" >}}
+{{< img name="14272213208_04881213a2" source="http://flic.kr/p/nKbPKw" >}}
 
 1. Attention aux doigts coupés. Il faut avoir des amis même si des connaissances suffisent.
 2. Les décisions sont prises rapidement. Les autres personnes sont frustrées et donc peu engagées. Dans le monde du travail, c'est en général assez lent, car il faut trouver un slot disponible dans l'agenda du big boss. Des études ont aussi montré que les décisions n'étaient pas nécessairement les meilleures d'un point de vue économique. Pour compléter, l'armée considère qu'une décision prend 3 fois plus de temps à prendre pour chaque niveau hiérarchique remonté.
@@ -93,7 +93,7 @@ Il y a quelques temps j'aurais trouvé cette proposition un peu farfelue. Dans '
 
 ## Quel protocole utiliser ?
 
-{{< img name="32761926650_329eec689c" source="flic.kr/p/RV4roj" >}}
+{{< img name="32761926650_329eec689c" source="http://flic.kr/p/RV4roj" >}}
 
 Le but de jouer et donc d'utiliser les protocoles est d'en faire ressentir les effets. Il n'y a pour moi pas un protocole de décision à utiliser dans tous les cas. La bonne nouvelle c'est que vous avez le choix, la mauvaise c'est que vous avez le choix :
 

@@ -17,7 +17,7 @@ authors:
   - albiez_olivier
 illustration:
   name: world-cafe
-  source: flic.kr/p/dvMwf4
+  source: http://flic.kr/p/dvMwf4
 references:
   - title: World Cafe
     url: http://www.theworldcafe.com/

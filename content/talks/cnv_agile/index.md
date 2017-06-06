@@ -13,7 +13,7 @@ tags:
   - concepts
 illustration:
   name: communication
-  url: flic.kr/p/pm1eZm
+  url: http://flic.kr/p/pm1eZm
 abstract: |
   La Communication Non Violente (ou Communication Bienveillante) au service de l'agilité. Lors de cette conférence, accessible à tous, nous vous proposons de voir ensemble comment la CNV peut venir enrichir l'agilité, comment elle participe à l'éclaircissement de la pensée, ainsi qu'à la fluidification et l'enrichissement des relations.
 

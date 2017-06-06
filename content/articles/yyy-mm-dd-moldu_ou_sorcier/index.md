@@ -16,7 +16,7 @@ tags:
   - team
 illustration:
   name: 2941691931_1e9fac713e
-  source: flic.kr/p/5tWWwp
+  source: http://flic.kr/p/5tWWwp
 ---
 
 Depuis les résultats des élections américaines, on assiste -- notamment sur la toile -- à une déferlante de critiques envers les électeurs de Trump.

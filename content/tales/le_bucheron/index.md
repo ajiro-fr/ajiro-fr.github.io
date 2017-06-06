@@ -4,7 +4,7 @@ nositemap: true
 title: "Le bûcheron"
 illustration:
   name: hache
-  source: flic.kr/p/9Q7gZu
+  source: http://flic.kr/p/9Q7gZu
 authors:
   - albiez_olivier
 references:

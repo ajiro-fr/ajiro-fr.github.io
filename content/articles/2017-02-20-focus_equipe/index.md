@@ -17,7 +17,7 @@ categories:
   - craft
 illustration:
   name: light-focused
-  source: flic.kr/p/br2BNc
+  source: http://flic.kr/p/br2BNc
 description: |
   Retour d'expérience sur l'usage du mob programming pour améliorer l'efficacité d'une équipe de développement.
 

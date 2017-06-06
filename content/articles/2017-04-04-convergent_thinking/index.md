@@ -11,7 +11,7 @@ tags:
   - prise de decision
 illustration:
   name: 9347498251_6feb2cdaebo
-  source: flic.kr/p/ff1nyX
+  source: http://flic.kr/p/ff1nyX
 ---
 
 Cet article est la suite naturelle de celui sur [créativité et divergent thinking], bien que cela puisse être utilisé à d'autres occasions. Dans un premier temps, on a généré des idées pour répondre à un besoin. Dans un monde avec des ressources infinies, on pourrait décider de tout faire. Dans un monde un peu plus contraint, il s'agit souvent de faire des choix.
@@ -19,7 +19,7 @@ Cet article est la suite naturelle de celui sur [créativité et divergent think
 
 ## L'importance de la question
 
-{{< img name="2426924116_a2545ec30b" source="flic.kr/p/4GsBZf" >}}
+{{< img name="2426924116_a2545ec30b" source="http://flic.kr/p/4GsBZf" >}}
 
 Quel est le fruit rouge ? Quel est le fruit du milieu ? Etonnamment, en posant deux questions différentes on peut avoir deux réponses différentes. C'est la même chose sur les solutions proposées suite à des ateliers de divergence. Il s'agit de revenir à la question initiale.
 
@@ -28,28 +28,28 @@ Comment je vais savoir si une idée est bonne ? Reformulée, je pourrais aussi d
 
 ## L’incongru
 
-{{< img name="9394739534_3c94ae0cdd" source="flic.kr/p/fjbuKQ" >}}
+{{< img name="9394739534_3c94ae0cdd" source="http://flic.kr/p/fjbuKQ" >}}
 
 C'est une étape relativement rapide et normale. Dans l'étape de divergence, j'ai incité les personnes à proposer beaucoup de solutions sans regarder la qualité. Je vais donc retrouver des réponses comme manger des haricots verts pour stimuler la créativité. Je vais supprimer les propositions où tout le monde est d'accord pour dire que ça ne le fait pas. En fonction des workshops utilisés pour la divergence, le nombre va varié mais nous sommes souvent vers les 30% de solutions qui rentrent dans ce cas. Une des pratiques possible pour cette étape est de mettre au mur toutes les solutions et en silence n'importe qui met à la poubelle un post it. On relit ensuite toutes les propositions rejetées pour voir si quelqu'un a un véto.
 
 
 ## La discussion
 
-{{< img name="2502751793_617047f76d" source="flic.kr/p/4PafUZ" >}}
+{{< img name="2502751793_617047f76d" source="http://flic.kr/p/4PafUZ" >}}
 
 On dit souvent que quand il y a conflit c'est qu'il y a de l'idée. On est tous d'accord pour dire que Barbie c'est has been ? Non ? Dans cette étape, il s'agit de discuter des propositions et de voir sur lesquelles il n'y a pas de consensus. Cela montre que l'idée doit être retravaillée. Une pratique possible est de changer d'angle de vue pour critiquer la solution en utilisant les six thinking hats (mise en perspective, factuel, émotion, pessimiste, optimiste, créatif). Suite à cette étape certaines solutions passent dans la catégorie Abandonnée, d'autres sont conservées et d'autres sont créées, séparées,....
 
 
 ## Evaluer
 
-{{< img name="9659896040_d475d13bb2" source="flic.kr/p/fHBuxJ" >}}
+{{< img name="9659896040_d475d13bb2" source="http://flic.kr/p/fHBuxJ" >}}
 
 Il s'agit d'une étape plus analytique où je vais évaluer des solutions avec des pratiques comme le paired comparison analysis. La difficulté de cette exercice réside dans la capacité à choisir les bons critères d'évaluation. Il s'agit de penser au problème auquel on veut répondre ainsi que de prendre en compte des contraintes éventuelles. C'est donc une étape d'aide à la décision. Il ne faut pas se dire que le plus grand score est la solution à faire. Une autre pratique commune est le dot voting ou chaque personne à trois gommettes qu'elle colle sur les idées qui lui paraissent faire le plus de sens.
 
 
 ## Décider
 
-{{< img name="9362099121_235a1ce7a7" source="flic.kr/p/fgicU6" >}}
+{{< img name="9362099121_235a1ce7a7" source="http://flic.kr/p/fgicU6" >}}
 
 
 Suite aux précédents tamis, j'ai réduit le champ des possibles. Il ne me reste plus qu'à choisir la meilleure solution. Euh pourquoi LA meilleure ? Et comment je saurais que c'est la MEILLEURE ? C'est deux questions poussent à se dire qu'il ne faut pas fermer les options trop vite. Une étude d'[IDEO] a montré que les organisations les plus créatives gardent en général plusieurs options ouvertes jusque tard. Elles n'hésitent pas à développer plusieurs solutions. Comme auparavant, il n'y a pas de vérité absolue. Si vous êtes dans une start up avec peu de cash, vous pouvez être amené à devoir en choisir une seule solution. C'est pour cela que l'on dit souvent que décider c'est faire un pari. Une des questions à avoir en tête, c'est comment saurez vous que c'est un succès? C'est une question vitale.
@@ -59,7 +59,7 @@ Une fois que vous avez défini le nombre d'options que vous souhaitez garder ouv
 
 ## La fin ?
 
-{{< img name="8712455527_0cecca312a" source="flic.kr/p/egTBut" >}}
+{{< img name="8712455527_0cecca312a" source="http://flic.kr/p/egTBut" >}}
 
 Est ce qu'une fois que l'on a décidé, la sélection est terminée ? Comme vous pouvez le deviner, la réponse est non. Ce que l'on a fait, c'est choisir les options qui nous paraissent les plus intéressantes à explorer. Cela reste des options qui devront être validées. Elles pourront être remises en cause par des feedbacks (user tests ou production). La convergence, c'est la capacité à se concentrer sur ce qui nous semble être l'essentiel. J'en remets un deuxième couche sur la boucle de feedback. Pour qu'elle soit efficace, il est nécessaire de se demander à l'avance ce qui nous permettra de dire que c'est un succès.
 

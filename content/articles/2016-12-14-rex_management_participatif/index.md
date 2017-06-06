@@ -14,14 +14,14 @@ categories:
   - organisation
 illustration:
   name: 16611440342_3d225442c1
-  source: flic.kr/p/riTYtQ
+  source: http://flic.kr/p/riTYtQ
 ---
 Récemment, j'ai été invité à un petit-déjeuner sur un retour d'expérience d'une transformation d'entreprise.
 Appelons cette entreprise la _DDI_ (Dupond et Dupont Industrie), afin de préserver son anonymat.
 
 
 
-{{< img name="27753216112_370dc9aca6" source="flic.kr/p/Jhsuf5" >}}
+{{< img name="27753216112_370dc9aca6" source="http://flic.kr/p/Jhsuf5" >}}
 
 ## Le récit
 
@@ -58,7 +58,7 @@ Pour le moment, elle trouve les salariés plus motivés et l'ambiance de travail
 De son côté, la médecine du travail constate des changements positifs quant au stress des salariés, lors des visites médicales.
 
 
-{{< img name="11225546704_c31742a555" source="flic.kr/p/i6XRWG" >}}
+{{< img name="11225546704_c31742a555" source="http://flic.kr/p/i6XRWG" >}}
 
 ## Mes propositions pour la suite
 

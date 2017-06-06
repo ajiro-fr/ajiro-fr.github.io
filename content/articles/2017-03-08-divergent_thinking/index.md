@@ -14,7 +14,7 @@ categories:
   - mindset
 illustration:
   name: 8066664674_9bdf00c329
-  source: flic.kr/p/dhPLnq
+  source: http://flic.kr/p/dhPLnq
 description: |
   Créativité et divergent thinking : Théorie et cas pratiques
 
@@ -27,7 +27,7 @@ Dans la théorie de la créativité de Guilford, les 16 facteurs de production d
 
 ## Originality
 
-{{< img name="283195818_582284e108" source="flic.kr/p/r2sfw" >}}
+{{< img name="283195818_582284e108" source="http://flic.kr/p/r2sfw" >}}
 
 Le critère d'évaluation de cette catégorie est la rareté statistique de la réponse. J'aime bien cette définition de 'out of the box' à savoir une vision statistique.
 
@@ -35,12 +35,12 @@ Le critère d'évaluation de cette catégorie est la rareté statistique de la r
 _Utilisez les nombres suivants 2, 3, 5, 10, 24 et des opérations (telles que ( ), *, :, +, -, exp) pour atteindre le chiffre 120._
 
 ### Raconter une histoire
-{{< img name="8406001448_c4ec830e6e" source="flic.kr/p/dNNXns" >}}
+{{< img name="8406001448_c4ec830e6e" source="http://flic.kr/p/dNNXns" >}}
 
 _A partir de l'image ci dessus, racontez une histoire._
 
 ### Le poème
-{{< img name="3043542126_30b003e3aa" source="flic.kr/p/5CWX3f" >}}
+{{< img name="3043542126_30b003e3aa" source="http://flic.kr/p/5CWX3f" >}}
 
 _A partir de l'image ci dessus, écrivez un poème._
 
@@ -53,7 +53,7 @@ Il existe deux grandes familles de théories de la créativité. Pour l'une d'en
 
 ## Flexibility
 
-{{< img name="15982126683_582edcedcd" source="flic.kr/p/qmhzsk" >}}
+{{< img name="15982126683_582edcedcd" source="http://flic.kr/p/qmhzsk" >}}
 
 Cette catégorie fait référence au degré de différence des réponses ou autrement dit les réponses viennent elles d'un seul ou de plusieurs domaines.
 
@@ -74,7 +74,7 @@ Réponses possibles : Mouche, Broche, Feu, Oeuf, Sein, Fou, Amour
 ### Six Thinking Hats
 D'où le jeu suivant qui est utile pour voir différemment les choses. Vous allez voir une scène en endossant 5 modes de pensée différents (https://fr.wikipedia.org/wiki/M%C3%A9thode_des_six_chapeaux). _Décrivez la scène ci dessous avec les prismes suivants :_
 
-{{< img name="7789321354_7a713a2b97" source="flic.kr/p/cSjiS3" >}}
+{{< img name="7789321354_7a713a2b97" source="http://flic.kr/p/cSjiS3" >}}
 
 - Chapeau blanc : Pensée factuelle. Faits.
 - Chapeau rouge : Critique émotionnelle. Emotion.
@@ -93,7 +93,7 @@ Arrivé à cette étape et si vous avez un peu pris le temps de jouer, vous comm
 
 ## Fluency
 
-{{< img name="10786488_7850bee435" source="flic.kr/p/XhrW" >}}
+{{< img name="10786488_7850bee435" source="http://flic.kr/p/XhrW" >}}
 
 Dans cette catégorie, on mesure la maturité par le nombre de réponses apportées. C'est la capacité à générer du volume.
 
@@ -114,7 +114,7 @@ Vous commencez à être des vrais pros du divergent thinking avec tout cet entra
 
 ## Elaboration
 
-{{< img name="7426798698_82ab4a03f1" source="flic.kr/p/cjhhvq" >}}
+{{< img name="7426798698_82ab4a03f1" source="http://flic.kr/p/cjhhvq" >}}
 
 ### La figure incomplète
 {{< img name="forme" >}}

@@ -13,7 +13,7 @@ tags:
   - concepts
 illustration:
   name: aiguillages
-  url: flic.kr/p/dkcojE
+  url: http://flic.kr/p/dkcojE
 abstract: |
   Dès lors que nous sommes confrontés à la prise d’une décision entre plusieurs personnes, on utilise, plus ou moins consciemment, un protocole de décision. Cet atelier vous fera découvrir et pratiquer quelques-uns des protocoles les plus connus.
 ---
