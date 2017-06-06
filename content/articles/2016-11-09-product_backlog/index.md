@@ -30,7 +30,7 @@ J'ai maintenant un sponsor, un chef de projet, un chef de produit, et ainsi de s
 
 Je commence par mettre à plat le problème auquel je veux répondre et envisager une solution. On peut partir sur du Lean Canvas de Ash Maurya, mais je préfère maintenant un canvas plus simple créé par Thierry Montulé avec l'influence de Gery Derbier :
 
-![Canevas Problème-Solution](/assets/articles/product_backlog/canvas.svg){: .img-fluid }
+{{< img-large name="canvas.svg" legend="Canevas Problème-Solution">}}
 
 Il faut moins d'une demi journée pour le remplir. C'est clairement un atelier de type vision et il est donc préfèrable de brasser large pour avoir toutes les sensibilités représentées.
 
