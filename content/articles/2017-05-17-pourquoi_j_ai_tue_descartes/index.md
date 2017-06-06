@@ -105,7 +105,7 @@ Et comme j'aime bien être taquin, je finis par une question : Vous y croyez enc
 
 [Cynefin]: https://www.novencia.com/cynefin-design-thinking-sens/
 [VUCA]: https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity
-[Antifragile]: /articles/2017/03/24/antifragile
-[protocoles de décision]: /articles/2017/03/06/decisions_making
-[divergent thinking]: /articles/2017/03/08/divergent_thinking
+[Antifragile]: /articles/2017-03-24-antifragile
+[protocoles de décision]: /articles/2017-03-06-decisions_making
+[divergent thinking]: /articles/2017-03-08-divergent_thinking
 [OKR]: https://en.wikipedia.org/wiki/OKR

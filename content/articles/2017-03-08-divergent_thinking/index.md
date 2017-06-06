@@ -133,5 +133,5 @@ Il reste des points que vous pouvez cependant garder en tête pour vous aider da
 
 Une partie des réponses aux problèmes de cet article sont dans ce [document].
 
-[convergent thinking]: /articles/2017/04/04/convergent_thinking
+[convergent thinking]: /articles/2017-04-04-convergent_thinking
 [document]: ASEE_-_Divergent_Thinking_-_Paper_-_MODIFIED_-_FINAL_2012.pdf

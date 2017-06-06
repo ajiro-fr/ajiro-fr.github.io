@@ -23,5 +23,5 @@ sessions:
 references:
   - title: Article de la présentation au Normandie Web Expert Summer Festival 2016
     icon: file-text-o
-    url: /articles/2016/09/20/chief_happiness_officer
+    url: /articles/2016-09-20-chief_happiness_officer
 ---

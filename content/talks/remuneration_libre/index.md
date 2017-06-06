@@ -23,8 +23,8 @@ sessions:
 references:
   - title: Article de la présentation chez ANEO
     icon: file-text-o
-    url: /articles/2017/01/27/concours-aneo-remuneration
+    url: /articles/2017-01-27-concours-aneo-remuneration
   - title: Le modèle de rémunération libre
     icon: file-text-o
-    url: /articles/2017/01/26/remuneration_libre
+    url: /articles/2017-01-26-remuneration_libre
 ---

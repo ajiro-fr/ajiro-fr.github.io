@@ -71,7 +71,7 @@ Nous tenons à remercier ANEO pour avoir publié ce concours sans lequel nous n�
 
 
 [Ajiro.fr]: http://ajiro.fr
-[rémunération libre]: /articles/2017/01/26/remuneration_libre
+[rémunération libre]: /articles/2017-01-26-remuneration_libre
 [télécharger le pdf]: concours-aneo-remuneration.pdf
 [jeu de cartes]: cards.pdf
 [tableur pour simuler des choix de rémunération]: simulation-remuneration.xlsx
