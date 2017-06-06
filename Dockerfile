@@ -1,5 +1,6 @@
 from tclavier/nginx
 
+run sed -e 's/debian.mirrors.ovh.net/deb.debian.org/g' -i /etc/apt/sources.list
 run apt-get update \
  && apt-get install -y \
     hugo \
