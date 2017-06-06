@@ -1,4 +1,5 @@
 ---
+aliases: /talks/voyage_au_centre_du_code.html
 date: 2017-02-22
 title: Voyage au centre du code.
 duration: 2H

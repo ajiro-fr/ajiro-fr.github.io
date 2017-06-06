@@ -1,4 +1,5 @@
 ---
+aliases: /talks/zemblanite.html
 date: 2017-04-24
 title: "La zemblanité dans nos équipes"
 duration: 1H

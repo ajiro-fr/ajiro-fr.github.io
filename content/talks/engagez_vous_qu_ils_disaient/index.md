@@ -1,4 +1,5 @@
 ---
+aliases: /talks/engagez_vous_qu_ils_disaient.html
 date: 2017-02-22
 title: "Engagez-vous qu'ils disaient !"
 duration: 2H

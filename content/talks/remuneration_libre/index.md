@@ -1,4 +1,5 @@
 ---
+aliases: /talks/remuneration_libre.html
 date: 2017-02-22
 title: La Rémunération libre.
 duration: 3H
