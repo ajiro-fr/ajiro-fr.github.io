@@ -5,7 +5,7 @@
 <html>
   {{ partial "head" . }}
   <body>
-    {{ partial "header" . }}
+    {{ partialCached "header" . }}
       <div class="container">
 
         {{ partial "components/people"  (dict "id" $id "data" $data )}}
@@ -19,6 +19,6 @@
           </div>
         </div>
       </div>
-    {{ partial "footer" . }}
+    {{ partialCached "footer" . }}
   </body>
 </html>

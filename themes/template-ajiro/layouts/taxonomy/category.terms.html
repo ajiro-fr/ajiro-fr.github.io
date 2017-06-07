@@ -2,7 +2,7 @@
 <html>
   {{ partial "head" . }}
   <body>
-    {{ partial "header" . }}
+    {{ partialCached "header" . }}
       <div class="container">
 
         <div class='row mt-3'>
@@ -39,6 +39,6 @@
           </div>
         </div>
       </div>
-    {{ partial "footer" . }}
+    {{ partialCached "footer" . }}
   </body>
 </html>
