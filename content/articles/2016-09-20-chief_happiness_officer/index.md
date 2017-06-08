@@ -3,7 +3,6 @@ aliases: /articles/2016/09/20/chief_happiness_officer.html
 date: 2016-09-20
 title: "Le nouveau rôle de Chief Happiness Officer"
 lang: fr
-hidden: false
 authors:
   - legras_severin
 tags:

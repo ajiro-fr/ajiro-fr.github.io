@@ -3,7 +3,6 @@ aliases: /articles/2017/01/26/reduire_les_couts.html
 date: 2017-01-26
 title: "Pour réduire vos coûts, changez votre organisation"
 lang: fr
-hidden: false
 authors:
   - retiere_samuel
 tags:

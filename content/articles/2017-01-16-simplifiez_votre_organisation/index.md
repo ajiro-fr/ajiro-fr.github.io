@@ -3,7 +3,6 @@ aliases: /articles/2017/01/16/simplifiez_votre_organisation.html
 date: 2017-01-16
 title: "Simplifiez votre organisation pour redonner de la manoeuvrabilité"
 lang: fr
-hidden: false
 authors:
   - retiere_samuel
 tags:

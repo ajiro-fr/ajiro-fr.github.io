@@ -3,7 +3,6 @@ aliases: /articles/2017/03/24/antifragile.html
 date: 2017-03-24
 title: "Antifragile, les bienfaits du désordre"
 lang: fr
-hidden: false
 authors:
   - retiere_samuel
   - dages_luc

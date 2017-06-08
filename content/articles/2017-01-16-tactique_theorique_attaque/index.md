@@ -3,7 +3,6 @@ aliases: /articles/2017/01/16/tactique_theorique_attaque.html
 date: 2017-01-16
 title: "Product Development et Tactique Théorique : Chargez"
 lang: fr
-hidden: false
 authors:
   - albiez_olivier
   - retiere_samuel
