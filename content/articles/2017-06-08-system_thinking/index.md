@@ -21,8 +21,7 @@ description: |
 Ça vous est déjà arrivé d’appuyer sur l’accélérateur et que rien ne se passe ? Dis autrement est ce que vous avez déjà essayer d’avoir un impact mais qu’au final autre chose se produise ? Et bien c’est toute la question autour de la systémique, comprendre la big picture pour d’appuyer là où il faut pour arriver à l’effet souhaité et limiter les effets de bord.  L’article est basé sur le livre Thinking in Systems de Donella Meadows.
 
 ## Vous avez dit système ?
-{{< img name="17357695022_27c1b559cd" source="http://flic.kr/p/srQHZQ" >}}
-https://www.flickr.com/photos/claveirole/8557022169
+{{< img name="17357695022_27c1b559cd" source="https://www.flickr.com/photos/claveirole/8557022169" >}}
 
 Un système c’est avant tout un modèle pour nous aider à mieux comprendre. C’est la représentation que l’on se fait de comportements constatés. Dans quels cas sommes nous en face d’un système ? Voici quelques questions pour nous aider :
 •	Pouvez-vous identifier des parties?
