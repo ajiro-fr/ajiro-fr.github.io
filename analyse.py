@@ -2,7 +2,7 @@
 """Hugo content analyser.
 
 Usage:
-  analyse flickr list
+  analyse flickr list [--comment]
   analyse flickr shorten [--force]
   analyse images name [--dump]
   analyse shortcode list
@@ -119,7 +119,7 @@ def flickr_shorten(force):
                 print "Warning: check failed for %s (%s)" % (url, short)
 
 
-def flickr_list():
+def flickr_list(comment):
     long_urls_count = 0
     short_urls_count = 0
     for name, path in list_items(ContentDir):
@@ -128,10 +128,12 @@ def flickr_list():
         short_urls = FlickrShortPattern.findall(content)
         if len(long_urls) > 0 or len(short_urls) > 0:
             print("\nFile %s:" % path)
-            for url in long_urls:
-                print("\t%50s %30s" % (url, get_flickr_image_title(url)))
-            for url in short_urls:
-                print("\t%50s %30s" % (url, get_flickr_image_title(url)))
+            if comment:
+                for url in long_urls + short_urls:
+                    print("\t%50s %30s" % (url, get_flickr_image_title(url)))
+            else:
+                for url in long_urls + short_urls:
+                    print("\t%50s" % (url))
         long_urls_count += len(long_urls)
         short_urls_count += len(short_urls)
     print("\nStatistics:")
@@ -209,7 +211,7 @@ if __name__ == '__main__':
     arguments = docopt(__doc__, version='Hugo analyse 1.0')
     if arguments['flickr']:
         if arguments['list']:
-            flickr_list()
+            flickr_list(comment=arguments['--comment'])
         elif arguments['shorten']:
             flickr_shorten(force=arguments['--force'])
     elif arguments['images']:
@@ -218,3 +220,8 @@ if __name__ == '__main__':
     elif arguments['shortcode']:
         if arguments['list']:
             shortcode_list()
+
+
+# TODO:
+#- batch rename images
+#- batch download flick images
