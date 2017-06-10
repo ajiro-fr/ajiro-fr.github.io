@@ -18,12 +18,12 @@ description: |
   Les 9 points de levier pour vous sortir des pièges systémiques
 ---
 
-Ça vous est déjà arrivé d’appuyer sur l’accélérateur et que rien ne se passe ? Dis autrement est ce que vous avez déjà essayer d’avoir un impact mais qu’au final autre chose se produise ? Et bien c’est toute la question autour de la systémique, comprendre la big picture pour d’appuyer là où il faut pour arriver à l’effet souhaité et limiter les effets de bord.  L’article est basé sur le livre Thinking in Systems de Donella Meadows.
+Ça vous est déjà arrivé d’appuyer sur l’accélérateur et que rien ne se passe ? Dis autrement est ce que vous avez déjà essayer d’avoir un impact mais qu’au final autre chose se produise ? Et bien c’est toute la question autour de la systémique, comprendre la big picture pour arriver à l’effet souhaité et limiter les effets de bord. L’article est basé sur le livre Thinking in Systems de Donella Meadows.
 
 ## Vous avez dit système ?
 {{< img name="8557022169_a3739c6ef8_k" source="https://www.flickr.com/photos/claveirole/8557022169" >}}
 
-Un système c’est avant tout un modèle pour nous aider à mieux comprendre. C’est la représentation que l’on se fait de comportements constatés. Dans quels cas sommes nous en face d’un système ? Voici quelques questions pour nous aider :
+Un système c’est avant tout un modèle pour nous aider à mieux comprendre. C’est la représentation que l’on se fait de comportements constatés. Dans quels cas sommes nous en face d’un système ? Voici quelques questions pour vous aider :
 •	Pouvez-vous identifier des parties?
 •	Est-ce que les parties sont interconnectées et dépendantes les uns des autres ?
 •	Est-ce que toutes les parties ensemble produisent un effet différent de toutes les parties prises séparément ?
@@ -34,7 +34,7 @@ Si vous avez répondu non à toutes les questions, vous êtes en face d’un sys
 
 La pensée non linéaire.
 {{< img name="2279939232_ae67eaf241_o" source="https://www.flickr.com/photos/x1brett/2279939232" >}}
-Quand l’effet global n’est pas égal à la somme de tous les effets locaux, nous sommes dans le domaine du non linéaire. Je ne peux comprendre l’impact d’un système en l’analysant par parties élémentaires. La systémtique part aussi du principe que l’analyse une cause produit  un effet est naïve et qu’elle ne correspond que peu à la réalité. En systémique, il est plus question de boucles. Exemple : Mon fils progresse bien à l’école, je le félicite, il a encore plus confiance en lui, il progresse encore plus. Une des questions récurrentes est : Si A est la cause de B, est ce que B est la cause de A ?  Je suis surpris par l’effet boomerang.
+Quand l’effet global n’est pas égal à la somme de tous les effets locaux, nous sommes dans le domaine du non linéaire. Je ne peux comprendre l’impact d’un système en l’analysant par partie élémentaire. La systémtique part aussi du principe que l’analyse une cause produit  un effet est naïve et qu’elle ne correspond que peu à la réalité. En systémique, il est plus question de boucles. Exemple : Mon fils progresse bien à l’école, je le félicite, il a encore plus confiance en lui, il progresse encore plus. Une des questions récurrentes est : Si A est la cause de B, est ce que B est la cause de A ?  Je suis surpris par l’effet boomerang.
 
 Effet retard
 {{< img name="211075072_10cdcab079_b" source="https://www.flickr.com/photos/alainbachellier/211075072" >}}
@@ -46,10 +46,10 @@ Si on fait le parallèle avec les organisations, cela veut dire que si toutes le
 
 Frontières
 {{< img name="9473086576_a5d99cd7cf_z" source="https://www.flickr.com/photos/hernanpc/9473086576/" >}}
-Est-ce que je suis capable de tracer la frontière entre la mer et la plage ? Pas vraiment, ces saletés de vagues bougent. Dans le monde de l’entreprise, c’est un peu pareil. Comme le monde bouge, les frontières aussi. Sur le papier le process marche bien, dans la pratique je tombe dans des trous non prévus. Les frontières ne sont que la représentation d’un modèle. Je suis surpris quand la réalité ne correspond pas à ma boite de pensée.
+Est-ce que je suis capable de tracer la frontière entre la mer et la plage ? Pas vraiment, ces saletés de vagues bougent. Dans le monde de l’entreprise, c’est un peu pareil. Comme le monde bouge, les frontières aussi. Sur le papier le process marche bien, dans la pratique je tombe dans des trous non prévus. Les frontières ne sont que la représentation d’un modèle. Je suis surpris quand la réalité ne correspond pas à mon schéma de pensée.
 
 ## Ou intervenir ?
-La question suivante, c’est comment passer d’un mode « je subis la vague » à un mode « je la surfe » ? Pour intervenir sur un système, Donella Meadows propose différents points de levier pour influencer un système.
+La question suivante, c’est comment passer d’un mode « je subis la vague » à un mode « je la surfe » ? Pour intervenir sur un système, Donella Meadows propose différents points de levier pour modifier le comportement d'un système :
 
 1.Constantes et paramètres
 {{< img name="33683077893_5ea58f941b_k" source="https://www.flickr.com/photos/tommrazek/33683077893/" >}}
