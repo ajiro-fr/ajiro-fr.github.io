@@ -82,7 +82,6 @@ def compute_flickr_short_url(identifier):
     return "flic.kr/p/%s" % encoding
 
 
-
 def get_flickr_image_title(url):
     def meta(tag):
         return tag.name == 'meta' and 'name' in tag.attrs and tag['name'] == 'title'
@@ -152,6 +151,15 @@ def shortcodes_of(content):
     return re.compile('{{<(.*)>}}').findall(content)
 
 
+def parse_shortcode(shortcode):
+    def parse_parameter(parameter):
+        name, value = parameter.split("=", 1)
+        return name.strip(), value[1:-2].strip()
+    NamePattern = re.compile('[a-zA-Z]+="[^"]*"')
+    name = shortcode.strip().split(' ')[0]
+    return Shortcode(name=name, parameters=dict([parse_parameter(p) for p in NamePattern.findall(shortcode)]))
+
+
 def read_front_matter(content):
     return yaml.load_all(content).next()
 
@@ -163,53 +171,37 @@ def illustrations_from(content):
         illustrations.append(
             Illustration(
                 name=front_matter['illustration']['name'],
-                source=front_matter['illustration']['source']))
-    for shortcode in shortcodes_of(content):
-        if
-    names = ImageNamePattern.findall(content)
-
-    return names
+                source=front_matter['illustration'].get('source', '')))
+    for shortcode in (parse_shortcode(s) for s in shortcodes_of(content)):
+        if shortcode.name in ["img", 'img-large']:
+            illustrations.append(
+                Illustration(
+                    name=shortcode.parameters['name'],
+                    source=shortcode.parameters.get('source', '')))
+    return illustrations
 
 
 def images_name(dump):
-    NamePattern = re.compile('name="([^"]*)"')
-    SourcePattern = re.compile('source="([^"]*)"')
-
-    def illustration_from_front_matter(content):
-        front_matter = yaml.load_all(content).next()
-        if 'illustration' in front_matter:
-
-
-    def illustration_from(content):
-        names = ImageNamePattern.findall(content)
-        front_matter = yaml.load_all(content).next()
-        if 'illustration' in front_matter:
-            names.append(front_matter['illustration']['name'])
-        return names
-
     images = []
     for name, path in list_items(ContentDir):
-        content = read_file(path)
-        for name in images_names_from(content):
-            status, reason = is_semantic_name(name)
+        for illustration in illustrations_from(read_file(path)):
+            status, reason = is_semantic_name(illustration.name)
             if not status:
                 images.append({
-                    "name": name,
+                    "name": illustration.name,
                     "new_name": '',
                     "reason": reason,
                     "where": path
                 })
-                print "Bad  : %-30s (%s): %s" % (name, path, reason)
+                print "Bad  : %-30s (%s): %s" % (illustration.name, path, reason)
     if dump:
         with file('image-rename.yaml', 'w') as f:
             yaml.dump(images, f, default_flow_style=False)
 
 
 def shortcode_list():
-    ShortCodePattern = re.compile('{{<(.*)>}}')
     for name, path in list_items(ContentDir):
-        content = read_file(path)
-        for shortcode in ShortCodePattern.findall(content):
+        for shortcode in shortcodes_of(read_file(path)):
             print "%-20s: %s" % (shortcode, path)
 
 
