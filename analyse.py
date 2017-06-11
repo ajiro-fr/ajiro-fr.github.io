@@ -36,9 +36,6 @@ FlickrLongPattern = re.compile("https://www.flickr.com/[a-zA-Z0-9/_%@.-]*")
 FlickrShortPattern = re.compile("flic.kr/p/[a-zA-Z0-9]*")
 
 
-Illustration = collections.namedtuple('Illustration', 'name source')
-
-
 def list_items(directory, pattern="*.md"):
     for root, dirs, files in os.walk(directory):
         for f in files:
@@ -99,7 +96,48 @@ def shortcodes_of(content):
     return [Shortcode(v) for v in re.compile('{{<(.*)>}}').findall(content)]
 
 
+def is_image(shortcode):
+    return shortcode.name in ["img", 'img-large']
+
+
+#== Illustrations
+
+
+Illustration = collections.namedtuple('Illustration', 'name source')
+
+
+def illustrations_from(content):
+    illustrations = []
+    front_matter = read_front_matter(content)
+    if 'illustration' in front_matter:
+        illustrations.append(illustration_from_front_matter(front_matter))
+    for shortcode in shortcodes_of(content):
+        if is_image(shortcode):
+            illustrations.append(illustration_from_shortcode(shortcode))
+    return illustrations
+
+
+def illustration_from_front_matter(front_matter):
+    return Illustration(
+        name=front_matter['illustration']['name'],
+        source=front_matter['illustration'].get('source', ''))
+
+
+def illustration_from_shortcode(shortcode):
+    return Illustration(
+        name=shortcode.parameter('name'),
+        source=shortcode.parameter('source'))
+
+
+#== Front Matter
+
+
+def read_front_matter(content):
+    return yaml.load_all(content).next()
+
+
 #== Next
+
 
 def compute_flickr_short_url(identifier):
     table = '123456789abcdefghijkmnopqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ'
@@ -206,26 +244,6 @@ def is_semantic_name(name):
         return (False, 'Contains uppercase')
     return (True, 'OK')
 
-
-def read_front_matter(content):
-    return yaml.load_all(content).next()
-
-
-def illustrations_from(content):
-    illustrations = []
-    front_matter = read_front_matter(content)
-    if 'illustration' in front_matter:
-        illustrations.append(
-            Illustration(
-                name=front_matter['illustration']['name'],
-                source=front_matter['illustration'].get('source', '')))
-    for shortcode in shortcodes_of(content):
-        if shortcode.name in ["img", 'img-large']:
-            illustrations.append(
-                Illustration(
-                    name=shortcode.parameter('name'),
-                    source=shortcode.parameter('source')))
-    return illustrations
 
 
 def images_name(dump):
