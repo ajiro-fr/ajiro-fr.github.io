@@ -37,7 +37,6 @@ FlickrShortPattern = re.compile("flic.kr/p/[a-zA-Z0-9]*")
 
 
 Illustration = collections.namedtuple('Illustration', 'name source')
-Shortcode = collections.namedtuple('Shortcode', 'name parameters')
 
 
 def list_items(directory, pattern="*.md"):
@@ -77,6 +76,31 @@ def write_file_binary(path, content):
         f.write(content)
 
 
+#== Shortcodes
+
+
+class Shortcode(object):
+    name_pattern = re.compile('[a-zA-Z]+="[^"]*"')
+
+    def __init__(self, value):
+        self.value = value.strip()
+        self.name = self.value.split(' ')[0]
+        self.__parameters = dict([self.__parse_parameter(p) for p in Shortcode.name_pattern.findall(self.value)])
+
+    def parameter(self, name, default=""):
+        return self.__parameters.get(name, default)
+
+    def __parse_parameter(self, parameter):
+        name, value = parameter.split("=", 1)
+        return name.strip(), value[1:-1].strip()
+
+
+def shortcodes_of(content):
+    return [Shortcode(v) for v in re.compile('{{<(.*)>}}').findall(content)]
+
+
+#== Next
+
 def compute_flickr_short_url(identifier):
     table = '123456789abcdefghijkmnopqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ'
     encoding=''
@@ -85,7 +109,7 @@ def compute_flickr_short_url(identifier):
         encoding = table[mod] + encoding
         identifier = int(div)
     encoding = table[identifier] + encoding
-    return "http://flic.kr/p/%s" % encoding
+    return "https://flic.kr/p/%s" % encoding
 
 
 def get_flickr_image_title(url):
@@ -123,32 +147,31 @@ def flickr_shorten(force):
         return long(url.split('/')[5])
 
     for name, path in list_items(ContentDir):
+        print("File %s" % path)
         content = read_file(path)
         for url in FlickrLongPattern.findall(content):
             short = compute_flickr_short_url(image_identifier_of(url))
             if force or check_flickr_short_url(short, pseudo_of(url), image_identifier_of(url)):
-                print "%-20s: %s" % (short, url)
+                print "  %s: %s" % (short, url)
                 content = content.replace(url, short)
                 write_file(path, content)
             else:
-                print "Warning: check failed for %s (%s)" % (url, short)
+                print "  Warning: check failed for %s (%s)" % (url, short)
 
 
 def flickr_list(comment):
     long_urls_count = 0
     short_urls_count = 0
     for name, path in list_items(ContentDir):
+        print("File %s" % path)
         content = read_file(path)
         long_urls = FlickrLongPattern.findall(content)
         short_urls = FlickrShortPattern.findall(content)
-        if len(long_urls) > 0 or len(short_urls) > 0:
-            print("\nFile %s:" % path)
+        for url in long_urls + short_urls:
             if comment:
-                for url in long_urls + short_urls:
-                    print("\t%50s %30s" % (url, get_flickr_image_title(url)))
+                print("  %s: %s" % (url, get_flickr_image_title(url)))
             else:
-                for url in long_urls + short_urls:
-                    print("\t%50s" % (url))
+                print("  %s" % (url))
         long_urls_count += len(long_urls)
         short_urls_count += len(short_urls)
     print("\nStatistics:")
@@ -163,15 +186,16 @@ def images_download():
         else:
             return False
     for name, path in list_items(ContentDir):
+        print("File %s" % path)
         for illustration in illustrations_from(read_file(path)):
             if is_flick_source(illustration.source):
                 image_path = os.path.join(os.path.dirname(path), illustration.name) + ".jpg"
                 if os.path.exists(image_path):
-                    print("\t%50s: %30s: cached" % (illustration.source, illustration.name))
+                    print("  URL=%s; name=%s; cached" % (illustration.source, illustration.name))
                     continue
                 image = flick_download_image(illustration.source)
                 if image:
-                    print("\t%50s: %30s: downloaded" % (illustration.source, illustration.name))
+                    print("  URL=%s; name=%s; downloaded" % (illustration.source, illustration.name))
                     write_file_binary(image_path, image)
 
 
@@ -181,19 +205,6 @@ def is_semantic_name(name):
     if sum(c.isupper() for c in name):
         return (False, 'Contains uppercase')
     return (True, 'OK')
-
-
-def shortcodes_of(content):
-    return re.compile('{{<(.*)>}}').findall(content)
-
-
-def parse_shortcode(shortcode):
-    def parse_parameter(parameter):
-        name, value = parameter.split("=", 1)
-        return name.strip(), value[1:-1].strip()
-    NamePattern = re.compile('[a-zA-Z]+="[^"]*"')
-    name = shortcode.strip().split(' ')[0]
-    return Shortcode(name=name, parameters=dict([parse_parameter(p) for p in NamePattern.findall(shortcode)]))
 
 
 def read_front_matter(content):
@@ -208,12 +219,12 @@ def illustrations_from(content):
             Illustration(
                 name=front_matter['illustration']['name'],
                 source=front_matter['illustration'].get('source', '')))
-    for shortcode in (parse_shortcode(s) for s in shortcodes_of(content)):
+    for shortcode in shortcodes_of(content):
         if shortcode.name in ["img", 'img-large']:
             illustrations.append(
                 Illustration(
-                    name=shortcode.parameters['name'],
-                    source=shortcode.parameters.get('source', '')))
+                    name=shortcode.parameter('name'),
+                    source=shortcode.parameter('source')))
     return illustrations
 
 
@@ -237,8 +248,9 @@ def images_name(dump):
 
 def shortcode_list():
     for name, path in list_items(ContentDir):
+        print("File %s" % path)
         for shortcode in shortcodes_of(read_file(path)):
-            print "%-20s: %s" % (shortcode, path)
+            print("  %s" % shortcode.value)
 
 
 if __name__ == '__main__':
