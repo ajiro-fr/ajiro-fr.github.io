@@ -166,7 +166,6 @@ def images_download():
         for illustration in illustrations_from(read_file(path)):
             if is_flick_source(illustration.source):
                 image_path = os.path.join(os.path.dirname(path), illustration.name) + ".jpg"
-                print image_path
                 if os.path.exists(image_path):
                     print("\t%50s: %30s: cached" % (illustration.source, illustration.name))
                     continue
