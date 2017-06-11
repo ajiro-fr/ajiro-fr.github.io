@@ -129,6 +129,14 @@ def illustration_from_shortcode(shortcode):
         source=shortcode.parameter('source'))
 
 
+def has_semantic_name(illustration):
+    if sum(c.isdigit() for c in illustration.name) > 4:
+        return (False, 'Too many digits')
+    if sum(c.isupper() for c in illustration.name):
+        return (False, 'Contains uppercase')
+    return (True, 'OK')
+
+
 #== Front Matter
 
 
@@ -136,7 +144,11 @@ def read_front_matter(content):
     return yaml.load_all(content).next()
 
 
-#== Next
+#== Flickr
+
+
+def is_flick_source(url):
+    return url and (("://flick" in url) or ("flic.kr/" in url))
 
 
 def compute_flickr_short_url(identifier):
@@ -176,6 +188,9 @@ def check_flickr_short_url(url, expected_pseudo, expected_image_identifier):
         return expected_pseudo == pseudo and expected_image_identifier == long(image)
     except :
         return False
+
+
+#== Next
 
 
 def flickr_shorten(force):
@@ -218,11 +233,6 @@ def flickr_list(comment):
 
 
 def images_download():
-    def is_flick_source(url):
-        if url:
-            return ("://flick" in url) or ("flic.kr/" in url)
-        else:
-            return False
     for name, path in list_items(ContentDir):
         print("File %s" % path)
         for illustration in illustrations_from(read_file(path)):
@@ -237,20 +247,11 @@ def images_download():
                     write_file_binary(image_path, image)
 
 
-def is_semantic_name(name):
-    if sum(c.isdigit() for c in name) > 4:
-        return (False, 'Too many digits')
-    if sum(c.isupper() for c in name):
-        return (False, 'Contains uppercase')
-    return (True, 'OK')
-
-
-
 def images_name(dump):
     images = []
     for name, path in list_items(ContentDir):
         for illustration in illustrations_from(read_file(path)):
-            status, reason = is_semantic_name(illustration.name)
+            status, reason = has_semantic_name(illustration)
             if not status:
                 images.append({
                     "name": illustration.name,
