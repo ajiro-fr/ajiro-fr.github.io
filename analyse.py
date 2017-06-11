@@ -31,7 +31,7 @@ import yaml
 ContentDir = "content"
 
 
-HTTP = urllib3.PoolManager()
+HTTP = urllib3.PoolManager(retries=32)
 FlickrLongPattern = re.compile("https://www.flickr.com/[a-zA-Z0-9/_%@.-]*")
 FlickrShortPattern = re.compile("flic.kr/p/[a-zA-Z0-9]*")
 
@@ -98,19 +98,12 @@ def get_flickr_image_title(url):
 
 
 def flick_download_image(url):
-    #try:
     html = HTTP.request('GET', url + '/sizes/o/')
     image_url = re.findall(r'https:[^" \\:]*_o\.jpg', html.data.decode('utf-8'))
     if image_url:
-        return image_url[0]
+        return HTTP.request('GET', image_url[0]).data
     else:
-        print "url not found!"
         return None
-    #except :
-    #    print "Exception!"
-    #    return None
-    #image = HTTP.request('GET', url)
-    #return image.data
 
 
 def check_flickr_short_url(url, expected_pseudo, expected_image_identifier):
@@ -172,7 +165,15 @@ def images_download():
     for name, path in list_items(ContentDir):
         for illustration in illustrations_from(read_file(path)):
             if is_flick_source(illustration.source):
-                print("\t%50s: %30s (%s)" % (illustration.source, flick_download_image(illustration.source), illustration.name))
+                image_path = os.path.join(os.path.dirname(path), illustration.name) + ".jpg"
+                print image_path
+                if os.path.exists(image_path):
+                    print("\t%50s: %30s: cached" % (illustration.source, illustration.name))
+                    continue
+                image = flick_download_image(illustration.source)
+                if image:
+                    print("\t%50s: %30s: downloaded" % (illustration.source, illustration.name))
+                    write_file_binary(image_path, image)
 
 
 def is_semantic_name(name):
