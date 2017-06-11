@@ -5,6 +5,7 @@ Usage:
   analyse flickr list [--comment]
   analyse flickr shorten [--force]
   analyse images name [--dump]
+  analyse images download
   analyse shortcode list
   analyse (-h | --help)
   analyse --version
@@ -71,6 +72,11 @@ def write_file(path, content):
         f.write(str(content))
 
 
+def write_file_binary(path, content):
+    with open(path, "wb") as f:
+        f.write(content)
+
+
 def compute_flickr_short_url(identifier):
     table = '123456789abcdefghijkmnopqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ'
     encoding=''
@@ -79,7 +85,7 @@ def compute_flickr_short_url(identifier):
         encoding = table[mod] + encoding
         identifier = int(div)
     encoding = table[identifier] + encoding
-    return "flic.kr/p/%s" % encoding
+    return "http://flic.kr/p/%s" % encoding
 
 
 def get_flickr_image_title(url):
@@ -89,6 +95,22 @@ def get_flickr_image_title(url):
     html = HTTP.request('GET', url + '/sizes/o/')
     title =  BeautifulSoup(html.data, 'html5lib').find(meta)['content'].split('|')[0]
     return title.lower()
+
+
+def flick_download_image(url):
+    #try:
+    html = HTTP.request('GET', url + '/sizes/o/')
+    image_url = re.findall(r'https:[^" \\:]*_o\.jpg', html.data.decode('utf-8'))
+    if image_url:
+        return image_url[0]
+    else:
+        print "url not found!"
+        return None
+    #except :
+    #    print "Exception!"
+    #    return None
+    #image = HTTP.request('GET', url)
+    #return image.data
 
 
 def check_flickr_short_url(url, expected_pseudo, expected_image_identifier):
@@ -141,6 +163,18 @@ def flickr_list(comment):
     print("\tShort URL count: %d" % short_urls_count)
 
 
+def images_download():
+    def is_flick_source(url):
+        if url:
+            return ("://flick" in url) or ("flic.kr/" in url)
+        else:
+            return False
+    for name, path in list_items(ContentDir):
+        for illustration in illustrations_from(read_file(path)):
+            if is_flick_source(illustration.source):
+                print("\t%50s: %30s (%s)" % (illustration.source, flick_download_image(illustration.source), illustration.name))
+
+
 def is_semantic_name(name):
     if sum(c.isdigit() for c in name) > 4:
         return (False, 'Too many digits')
@@ -156,7 +190,7 @@ def shortcodes_of(content):
 def parse_shortcode(shortcode):
     def parse_parameter(parameter):
         name, value = parameter.split("=", 1)
-        return name.strip(), value[1:-2].strip()
+        return name.strip(), value[1:-1].strip()
     NamePattern = re.compile('[a-zA-Z]+="[^"]*"')
     name = shortcode.strip().split(' ')[0]
     return Shortcode(name=name, parameters=dict([parse_parameter(p) for p in NamePattern.findall(shortcode)]))
@@ -217,6 +251,8 @@ if __name__ == '__main__':
     elif arguments['images']:
         if arguments['name']:
             images_name(dump=arguments['--dump'])
+        elif arguments['download']:
+            images_download()
     elif arguments['shortcode']:
         if arguments['list']:
             shortcode_list()
