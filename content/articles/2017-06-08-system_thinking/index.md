@@ -3,7 +3,7 @@ date: 2017-06-08
 title: "System thinking : De l'effet de bord à l'effet souhaité"
 lang: fr
 hidden: false
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
