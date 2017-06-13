@@ -33,7 +33,9 @@
                 </div>
               </div>
               {{ range first 3 $value.Pages.ByDate.Reverse }}
-                {{ partial "components/pages/short-ref" . }}
+                {{ if not .Params.hidden }}
+                  {{ partial "components/pages/short-ref" . }}
+                {{ end }}
               {{ end }}
             {{ end }}
           </div>

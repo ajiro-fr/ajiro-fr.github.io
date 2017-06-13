@@ -58,7 +58,9 @@
         <div class="row mt-2">
           <div class="offset-lg-2 col-lg-8 col-xs-12">
             {{ range first 10 .Site.RegularPages }}
-              {{ partial "components/pages/short-ref" . }}
+              {{ if not .Params.hidden }}
+                {{ partial "components/pages/short-ref" . }}
+              {{ end }}
             {{ end }}
           </div>
         </div>

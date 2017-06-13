@@ -14,7 +14,9 @@
           <div class="offset-lg-2 col-lg-8 col-xs-12">
             <h1>Contributions <span class="tag tag-pill tag-primary pull-right">{{ len $contributions }}</span></h1>
             {{ range $contributions }}
-              {{ partial "components/pages/short-ref" .Page }}
+              {{ if not .Page.Params.hidden }}
+                {{ partial "components/pages/short-ref" .Page }}
+              {{ end }}
             {{ end }}
           </div>
         </div>
