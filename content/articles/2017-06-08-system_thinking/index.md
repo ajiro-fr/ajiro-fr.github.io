@@ -13,7 +13,7 @@ illustration:
   name: 64224841_a852e4c7ba_o
   source: http://flic.kr/p/6FaNR
 description: |
-  Les 9 points de levier pour vous sortir des pièges systémiques
+  9 points de levier pour vous sortir des pièges systémiques (ou quand le système vous rend fou)
 ---
 
 Ça vous est déjà arrivé d’appuyer sur l’accélérateur et que rien ne se passe ? Dis autrement est ce que vous avez déjà essayer d’avoir un impact mais qu’au final autre chose se produise ? Et bien c’est toute la question autour de la systémique, comprendre la big picture pour arriver à l’effet souhaité et limiter les effets de bord. L’article est basé sur le livre Thinking in Systems de Donella Meadows.
