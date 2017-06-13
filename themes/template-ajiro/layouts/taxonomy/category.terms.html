@@ -16,6 +16,7 @@
         <div class='row'>
           <div class="offset-lg-2 col-lg-8 col-xs-12">
             {{ range $key, $value := .Data.Terms.Alphabetical }}
+              {{ $pages := (where $value.Pages.ByDate.Reverse "Params.hidden" "!=" "true") }}
               <div class="card mt-3">
                 <div class="card-header">
                   <h2>
@@ -27,15 +28,13 @@
                         <i class="fa fa-fw fa-question }}"></i>
                         "{{ $value.Name }}"
                       {{ end }}
-                      <span class="tag tag-pill tag-primary pull-right">{{ $value.Count }}</span>
+                      <span class="tag tag-pill tag-primary pull-right">{{ len $pages }}</span>
                     </a>
                   </h2>
                 </div>
               </div>
-              {{ range first 3 $value.Pages.ByDate.Reverse }}
-                {{ if not .Params.hidden }}
-                  {{ partial "components/pages/short-ref" . }}
-                {{ end }}
+              {{ range first 3 $pages}}
+                {{ partial "components/pages/short-ref" . }}
               {{ end }}
             {{ end }}
           </div>

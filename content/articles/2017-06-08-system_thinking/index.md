@@ -5,8 +5,8 @@ lang: fr
 authors:
   - retiere_samuel
 tags:
-  - System thinking
-  - Systemique
+  - system thinking
+  - systémique
 categories:
   - mindset
 illustration:
