@@ -1,10 +1,10 @@
 name: Samuel Retière
 member: true
 social:
-- url: https://twitter.com/sretiere
-  icon: fa-twitter
-- url: https://www.linkedin.com/in/samuel-retiere-7438981b
-  icon: fa-linkedin
+  - url: https://twitter.com/sretiere
+    icon: fa-twitter
+  - url: https://www.linkedin.com/in/samuel-retiere-7438981b
+    icon: fa-linkedin
 bio: |
   Développeur, maitrise d'ouvrage, chef de projet, manager, coach agile et maintenant ... coach en organisation agile pour Novencia
 

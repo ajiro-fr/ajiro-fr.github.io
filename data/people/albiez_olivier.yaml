@@ -1,19 +1,19 @@
 name: Olivier Albiez
 member: true
-organisation:
-  name: Azaé
-  logo: logo-azae.png
-  url: http://azae.net
+organisations:
+  - name: Azaé
+    logo: logo-azae.png
+    url: http://azae.net
 social:
-- url: mailto:oalbiez@azae.net
-  icon: fa-envelope
-- url: https://github.com/oalbiez
-  icon: fa-github
-- url: https://twitter.com/OlivierAlbiez
-  icon: fa-twitter
-- url: https://www.linkedin.com/in/olivieralbiez
-  icon: fa-linkedin
-- url: https://gitlab.com/oalbiez
-  icon: fa-gitlab
+  - url: mailto:oalbiez@azae.net
+    icon: fa-envelope
+  - url: https://github.com/oalbiez
+    icon: fa-github
+  - url: https://twitter.com/OlivierAlbiez
+    icon: fa-twitter
+  - url: https://www.linkedin.com/in/olivieralbiez
+    icon: fa-linkedin
+  - url: https://gitlab.com/oalbiez
+    icon: fa-gitlab
 bio: |
   Je suis artisan logiciel et coach agile chez [Azaé](http://azae.net), passionné des méthodes de travail et de l'auto-organisation dans les entreprises. Curieux par nature, je suis toujours à la recherche de ce qui peut améliorer le travail collectif d'une organisation. Je suis récemment co-fondateur de [Deliverous](http://deliverous.com). Je suis signataire des manifestes [Artisans du Logiciel](http://manifesto.softwarecraftsmanship.org/) et [Agile](http://agilemanifesto.org/).

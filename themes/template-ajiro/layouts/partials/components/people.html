@@ -4,7 +4,7 @@
     <a href="/authors/{{.id | urlize}}">
       <img alt="Photo {{ .data.name }}" class="img-fluid rounded-circle" src="/assets/images/people/{{ .id }}.jpg" />
     </a>
-    {{ with .data.organisation }}
+    {{ range .data.organisations }}
       <div class="organisation-logo">
         <a href="{{ .url }}">
           <img src="/assets/images/organisation/{{ .logo }}" alt="Logo {{ .name }}" />
