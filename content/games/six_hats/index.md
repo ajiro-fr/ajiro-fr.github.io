@@ -1,6 +1,5 @@
 ---
 date: 2017-04-29
-hidden: false
 sorted: six chapeaux d’edward de bono
 title: "Les six chapeaux d’Edward de Bono"
 tags:

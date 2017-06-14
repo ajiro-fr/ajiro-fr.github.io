@@ -3,7 +3,7 @@ aliases: /articles/2016/06/05/hierarchy_command.html
 date: 2016-06-05
 title: "La hiérarchie"
 lang: fr
-hidden: true
+draft: true
 authors:
   - albiez_olivier
   - taboucou_herve

@@ -3,7 +3,7 @@ aliases: /articles/2017/04/13/canard_lego.html
 date: 2017-04-13
 title: "Des canards en légo"
 lang: fr
-hidden: true
+draft: true
 authors:
   - clavier_thomas
 tags:
