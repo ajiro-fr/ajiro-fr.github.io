@@ -1,5 +1,12 @@
 name: Samuel Retière
 member: true
+organisations:
+  - name: Nocencia
+    logo: logo-novencia.png
+    url: https://www.novencia.com/
+  - name: Lean Kanban France
+    logo: logo-lkfr.png
+    url: http://leankanban.fr/
 social:
   - url: https://twitter.com/sretiere
     icon: fa-twitter
