@@ -30,7 +30,12 @@ Durant cette présentation nous répondrons notamment aux questions suivantes: Q
 
 En sortant de cette session, les scrums master animerons différemment les rituels, PO et membres d'équipes auront de nouveaux outils pour mieux communiquer entre eux. L'ensemble des participants devraient également avoir envie d'approfondir la CNV. Enfin, cette session devrait offrir aux participants une nouvelle grille de lecture des interactions communicationnelles.
 
-# Pertinence pour AgileFrance
+# Pertinence 
 
 Cette session, permet de venir enrichir la vision agile, en le mettant en parallèle avec une autre approche qu'est la CNV. Elle réinterroge l'importance du développement personnel dans le travail, ainsi que la responsabilité individuelle vis à vis de soi et du collectif.
 Cette session est donc innovante dans le sens où nous partons d'une autre approche que l'agilité, pour venir renforcer cette dernière.
+
+# Liens
+
+* Le support de présentation [Agile France 2017](https://gitlab.com/azae/atelier-conference-cnv/builds/artifacts/master/file/2017agileFrance.pdf?job=compile_pdf)
+* Un mémo des [critères d'acceptance](./critere_acceptance.pdf)
