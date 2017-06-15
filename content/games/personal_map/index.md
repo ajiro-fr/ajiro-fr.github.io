@@ -1,6 +1,5 @@
 ---
 date: 2016-10-04
-hidden: false
 sorted: carte personelle
 title: "Carte personelle"
 tags:

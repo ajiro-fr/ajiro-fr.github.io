@@ -2,7 +2,7 @@
 <html>
   {{ partial "head" . }}
   <body>
-    {{ partial "header" . }}
+    {{ partialCached "header" . }}
 
     <div class="full">
       <div class="container">
@@ -57,8 +57,9 @@
         </div>
         <div class="row mt-2">
           <div class="offset-lg-2 col-lg-8 col-xs-12">
-            {{ range first 10 .Site.RegularPages }}
-              {{ partial "components/pages/short-ref" . }}
+            {{ $pages := (where .Site.RegularPages "Params.hidden" "!=" "true") }}
+            {{ range first 10 $pages }}
+                {{ partial "components/pages/short-ref" . }}
             {{ end }}
           </div>
         </div>
@@ -90,6 +91,6 @@
       </div>
     </div>
 
-    {{ partial "footer" . }}
+    {{ partialCached "footer" . }}
   </body>
 </html>

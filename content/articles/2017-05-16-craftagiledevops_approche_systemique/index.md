@@ -3,7 +3,7 @@ aliases: /articles/2017/05/16/craftagiledevops_approche_systemique.html
 date: 2017-05-16
 title: "Le collectif Craft Agile DevOps : Pour une approche systémique"
 lang: fr
-hidden: true
+draft: true
 authors:
   - retiere_samuel
 tags:

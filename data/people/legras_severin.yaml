@@ -1,14 +1,14 @@
 name: Séverin Legras
 member: true
 social:
-- url: mailto:severin.legras@gmail.com
-  icon: fa-envelope
-- url: https://twitter.com/slegras
-  icon: fa-twitter
-- url: https://www.linkedin.com/in/severinlegras
-  icon: fa-linkedin
-- url: http://www.viadeo.com/fr/profile/severin.legras
-  icon: fa-viadeo
+  - url: mailto:severin.legras@gmail.com
+    icon: fa-envelope
+  - url: https://twitter.com/slegras
+    icon: fa-twitter
+  - url: https://www.linkedin.com/in/severinlegras
+    icon: fa-linkedin
+  - url: http://www.viadeo.com/fr/profile/severin.legras
+    icon: fa-viadeo
 bio: |
   Je suis coach agile et consultant. J'interviens auprès des entreprises et des équipes pour les accompagner dans
   leurs transformations, qu'elles soient agile, digitale ou managériale. Je suis de très près l'évolution des

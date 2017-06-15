@@ -1,18 +1,18 @@
 name: Mija Rabemananjara
 member: true
-organisation:
-  name: "Goood !"
-  logo: logo-goood.png
-  url: http://goood.pro
+organisations:
+  - name: "Goood !"
+    logo: logo-goood.png
+    url: http://goood.pro
 social:
-- url: mailto:mrabeman@gmail.com
-  icon: fa-envelope
-- url: https://github.com/mrabeman
-  icon: fa-github
-- url: https://twitter.com/mrabeman
-  icon: fa-twitter
-- url: https://www.linkedin.com/in/mrabeman
-  icon: fa-linkedin
+  - url: mailto:mrabeman@gmail.com
+    icon: fa-envelope
+  - url: https://github.com/mrabeman
+    icon: fa-github
+  - url: https://twitter.com/mrabeman
+    icon: fa-twitter
+  - url: https://www.linkedin.com/in/mrabeman
+    icon: fa-linkedin
 bio: |
   Je me définis comme une agilitatrice apprenante car j'agite pour décoller la pulpe et j'agilise pour que la pulpe puisse révéler tout sa saveur (no offense, ceci est une métaphore).
   La petite flamme de vos collaborateurs semble s'éteindre ? Besoin d'un nouveau souffle, d'une petite brise pour attiser la flamme ?

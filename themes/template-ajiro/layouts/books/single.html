@@ -5,6 +5,13 @@
         {{ partial "components/pages/title" . }}
         <br/><small>{{delimit .Params.book_authors ';'}}</small>
       </h1>
+      {{ if .Params.Tags }}
+      <small>
+        <div class="float-xs-right">
+          {{ partial "components/pages/tags" . }}
+        </div>
+      </small>
+      {{ end }}
     </div>
   </div>
   <div class="row mt-3 text-justify">

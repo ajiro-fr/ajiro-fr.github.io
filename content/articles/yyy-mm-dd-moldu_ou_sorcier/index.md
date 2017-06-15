@@ -3,7 +3,6 @@ title: "Moldu ou Sorcier ?"
 subtitle: "Comment être acteur"
 draft: true
 lang: fr
-hidden: false
 authors:
   - albiez_olivier
   - clavier_thomas

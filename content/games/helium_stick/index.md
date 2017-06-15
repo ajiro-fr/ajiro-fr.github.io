@@ -1,6 +1,5 @@
 ---
 date: 2017-04-20
-hidden: false
 sorted: barre d'helium
 title: "La barre d’hélium"
 tags:

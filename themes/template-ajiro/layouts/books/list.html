@@ -7,7 +7,7 @@
     </div>
   </div>
 
-  {{ range .Pages }}
+  {{ range (where .Pages "Params.hidden" "!=" "true") }}
   <div class="card mt-1">
     <div class="card-block">
       <div class="row">

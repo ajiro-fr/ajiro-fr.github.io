@@ -3,7 +3,7 @@ aliases: /articles/2017/05/18/reflections_on_the_position_of_the_coach.html
 date: 2017-05-18
 title: "Réflexions sur ma posture de coach"
 lang: fr
-hidden: true
+draft: true
 authors:
   - quille_julie
 tags:

@@ -3,7 +3,6 @@ aliases: /articles/2016/10/18/scaling_agile_paradigme.html
 date: 2016-10-18
 title: "L'agilité à l'échelle : Du nécessaire changement de paradigme"
 lang: fr
-hidden: false
 authors:
   - retiere_samuel
 tags:

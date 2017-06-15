@@ -3,7 +3,6 @@ aliases: /articles/2017/03/07/mandala_organisation.html
 date: 2017-03-07
 title: "À chaque environnement son organisation adaptée"
 lang: fr
-hidden: false
 authors:
   - dages_luc
   - retiere_samuel

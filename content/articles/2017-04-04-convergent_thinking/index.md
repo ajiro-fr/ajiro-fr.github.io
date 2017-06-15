@@ -3,7 +3,6 @@ aliases: /articles/2017/04/04/convergent_thinking.html
 date: 2017-04-04
 title: "Créativité et convergence thinking : Séparer le bon grain de l'ivraie"
 lang: fr
-hidden: false
 authors:
   - retiere_samuel
 tags:

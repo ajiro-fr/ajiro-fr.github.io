@@ -3,7 +3,6 @@ aliases: /articles/2016/09/13/si_jamais.html
 date: 2016-09-13
 title: "Si je devais refaire une transformation continuous delivery de zéro"
 lang: fr
-hidden: false
 authors:
   - retiere_samuel
 tags:

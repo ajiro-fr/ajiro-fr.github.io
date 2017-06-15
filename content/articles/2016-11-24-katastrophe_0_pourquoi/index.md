@@ -3,7 +3,6 @@ aliases: /articles/2016/11/24/katastrophe_0_pourquoi.html
 date: 2016-11-24
 title: "Product Development : Ca vous dirait pas un peu d'entrainement ?"
 lang: fr
-hidden: false
 authors:
   - retiere_samuel
 tags:

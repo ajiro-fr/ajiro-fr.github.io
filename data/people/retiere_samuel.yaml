@@ -1,10 +1,17 @@
 name: Samuel Retière
 member: true
+organisations:
+  - name: Nocencia
+    logo: logo-novencia.png
+    url: https://www.novencia.com/
+  - name: Lean Kanban France
+    logo: logo-lkfr.png
+    url: http://leankanban.fr/
 social:
-- url: https://twitter.com/sretiere
-  icon: fa-twitter
-- url: https://www.linkedin.com/in/samuel-retiere-7438981b
-  icon: fa-linkedin
+  - url: https://twitter.com/sretiere
+    icon: fa-twitter
+  - url: https://www.linkedin.com/in/samuel-retiere-7438981b
+    icon: fa-linkedin
 bio: |
   Développeur, maitrise d'ouvrage, chef de projet, manager, coach agile et maintenant ... coach en organisation agile pour Novencia
 

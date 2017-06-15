@@ -2,11 +2,11 @@
 <html>
   {{ partial "head" . }}
   <body>
-    {{ partial "header" . }}
+    {{ partialCached "header" . }}
       <div class="container">
         {{ block "main" . }}
         {{ end }}
       </div>
-    {{ partial "footer" . }}
+    {{ partialCached "footer" . }}
   </body>
 </html>

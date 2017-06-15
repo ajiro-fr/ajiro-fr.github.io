@@ -1,8 +1,8 @@
 name: Nicolas Leconte
 member: true
 social:
-- url: https://fr.linkedin.com/in/nicolas-leconte-2aab5421
-  icon: fa-linkedin
+  - url: https://fr.linkedin.com/in/nicolas-leconte-2aab5421
+    icon: fa-linkedin
 bio: |
   Je suis consultant en architecture du SI depuis 5 ans maintenant et j'ai un penchant de plus en
   plus affirmé pour l'écosystème des startups et tout les sujets connexes qui gravitent autour

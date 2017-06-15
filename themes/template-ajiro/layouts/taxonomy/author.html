@@ -1,24 +1,25 @@
 {{ $id := lower .Title }}
 {{ $data := index $.Site.Data.people $id }}
 {{ $contributions := index $.Site.Taxonomies.authors $id }}
+{{ $visible := (where $contributions "Page.Params.hidden" "!=" "true") }}
 <!DOCTYPE html>
 <html>
   {{ partial "head" . }}
   <body>
-    {{ partial "header" . }}
+    {{ partialCached "header" . }}
       <div class="container">
 
         {{ partial "components/people"  (dict "id" $id "data" $data )}}
 
         <div class='row mt-3'>
           <div class="offset-lg-2 col-lg-8 col-xs-12">
-            <h1>Contributions <span class="tag tag-pill tag-primary pull-right">{{ len $contributions }}</span></h1>
-            {{ range $contributions }}
+            <h1>Contributions <span class="tag tag-pill tag-primary pull-right">{{ len $visible }}</span></h1>
+            {{ range $visible }}
               {{ partial "components/pages/short-ref" .Page }}
             {{ end }}
           </div>
         </div>
       </div>
-    {{ partial "footer" . }}
+    {{ partialCached "footer" . }}
   </body>
 </html>

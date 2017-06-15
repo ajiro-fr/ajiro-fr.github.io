@@ -7,15 +7,13 @@
     </div>
   </div>
 
-  {{ range .Pages }}
-    {{ if not .Params.hidden }}
-      <div class="row mt-3">
-        <div class="offset-lg-2 col-lg-8 col-xs-12">
-          <h3>
-            <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-          </h3>
-        </div>
+  {{ range (where .Pages "Params.hidden" "!=" "true") }}
+    <div class="row mt-3">
+      <div class="offset-lg-2 col-lg-8 col-xs-12">
+        <h3>
+          <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+        </h3>
       </div>
-    {{ end }}
+    </div>
   {{ end }}
 {{ end }}

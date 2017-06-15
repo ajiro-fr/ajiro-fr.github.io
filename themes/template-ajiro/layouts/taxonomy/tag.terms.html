@@ -2,7 +2,7 @@
 <html>
   {{ partial "head" . }}
   <body>
-    {{ partial "header" . }}
+    {{ partialCached "header" . }}
       <div class="container">
 
         <div class='row mt-3'>
@@ -16,16 +16,17 @@
         <div class='row mt-3'>
           <div class="offset-lg-2 col-lg-8 col-xs-12">
             {{ range $key, $value := .Data.Terms.Alphabetical }}
+              {{ $pages := (where $value.Pages "Params.hidden" "!=" "true") }}
               <div>
-              <a href="/tags/{{ $value.Name | urlize }}">
-                <span class="tag tag-tags">{{ $value.Name }}</span>
-                <span class="tag tag-pill tag-primary pull-right">{{ $value.Count }}</span>
-              </a>
-            </div>
+                <a href="/tags/{{ $value.Name | urlize }}">
+                  <span class="tag tag-tags">{{ $value.Name }}</span>
+                  <span class="tag tag-pill tag-primary pull-right">{{ len $pages }}</span>
+                </a>
+              </div>
             {{ end }}
           </div>
         </div>
       </div>
-    {{ partial "footer" . }}
+    {{ partialCached "footer" . }}
   </body>
 </html>

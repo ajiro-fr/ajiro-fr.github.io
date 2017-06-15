@@ -7,9 +7,8 @@
     </div>
   </div>
 
-  {{ range sort .Pages "Lastmod" "desc" }}
-    {{ if not .Params.hidden }}
-      {{ partial "components/pages/long-ref" . }}
-    {{ end }}
+  {{ $pages := (where .Pages "Params.hidden" "!=" "true") }}
+  {{ range sort $pages "Lastmod" "desc" }}
+    {{ partial "components/pages/long-ref" . }}
   {{ end }}
 {{ end }}

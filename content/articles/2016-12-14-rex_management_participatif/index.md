@@ -3,7 +3,6 @@ aliases: /articles/2016/12/14/rex_management_participatif.html
 date: 2016-12-14
 title: "Retour d'expérience sur une mise en œuvre d'un management participatif"
 lang: fr
-hidden: false
 authors:
   - albiez_olivier
 tags:
