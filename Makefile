@@ -12,7 +12,7 @@ IMG_WIDE = $(patsubst %.jpg, %__thumbnail-wide.jpg, $(JPEG_ORIGINAL))
 all: assets
 
 download_images:
-	./analyse.py images download
+#	./analyse.py images download
 
 assets: download_images images
 
