@@ -23,10 +23,8 @@ Surprise en lisant la doctrine militaire du Général Yakovleff. Le fonctionneme
 
 ## La conférence
 
-<object data="/assets/articles/engagez_vous_qu_ils_disaient/slides.pdf" type="application/pdf" height="500" width="100%">
-   <p>Votre navigateur ne supporte pas les PDFs. Pour le visualiser, vous devez le <a href="/assets/articles/engagez_vous_qu_ils_disaient/slides.pdf">télécharger</a>.</p>
-</object>
-
 L'accueil à été très positif. Et les votes en sortie de conférence sont un clin d'œil à notre ami [Antoine Contal](https://www.linkedin.com/in/antoinecontal). Nous aussi, on est austère.
 
 {{< img name="votes" >}}
+
+Vous pouvez retrouvez les slides dans le [descriptif de la conférence](/talks/engagez_vous_qu_ils_disaient/)
