@@ -64,3 +64,6 @@ menu:
 sitemap:
   changefreq: "weekly"
   filename: "sitemap.xml"
+
+ignoreFiles:
+  - README.md
