@@ -17,6 +17,9 @@ abstract: |
 sessions:
   - date: "2016-10-10"
     name: Agile Day BNP 2016
+ressources:
+  - name: "Le support de présentation Agile Day BNP 2016"
+    file: slides-agile-day-bnp-2016.pdf
 ---
 
 ## Le voyage
