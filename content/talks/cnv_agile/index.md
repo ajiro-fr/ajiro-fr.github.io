@@ -20,6 +20,10 @@ ressources:
     file: https://gitlab.com/azae/atelier-conference-cnv/builds/artifacts/master/file/2017agileFrance.pdf?job=compile_pdf
   - name: "Un mémo des critères d'acceptance"
     file: criteres_acceptance.pdf
+sessions:
+  - date: "2017-06-16"
+    name: Agile France 2017
+    url: http://2017.conf.agile-france.org/
 ---
 
 # Titre
