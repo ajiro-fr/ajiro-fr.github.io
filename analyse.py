@@ -34,12 +34,12 @@ ContentDir = "content"
 HTTP = urllib3.PoolManager(retries=32)
 FlickrLongPattern = re.compile("https://www.flickr.com/[a-zA-Z0-9/_%@.-]*")
 FlickrShortPattern = re.compile("flic.kr/p/[a-zA-Z0-9]*")
-
+Excludes = ["README.md"]
 
 def list_items(directory, pattern="*.md"):
     for root, dirs, files in os.walk(directory):
         for f in files:
-            if fnmatch.fnmatch(f, pattern):
+            if fnmatch.fnmatch(f, pattern) and f not in Excludes:
                 yield (f, os.path.join(root, f))
 
 
