@@ -4,7 +4,7 @@ date: 2017-04-24
 title: "La zemblanité dans nos équipes"
 duration: 1H
 genre: Présentation
-in_progress: true
+draft: true
 authors:
   - albiez_olivier
   - clavier_thomas
