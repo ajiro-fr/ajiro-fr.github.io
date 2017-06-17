@@ -25,6 +25,8 @@ sessions:
 ressources:
   - name: "Le support de présentation Agile Tour Lille 2016"
     file: slides-agile-tour-lille-2016.pdf
+  - name: "Le support de présentation LKFR 2016"
+    file: slides-lkfr-2016.pdf
 ---
 
 # Description
