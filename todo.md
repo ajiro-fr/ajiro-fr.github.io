@@ -3,3 +3,4 @@ TODO:
 - migrer les descriptions des articles
 - feed.all.xml -> migrer
 - unifier différents layouts (article, tales... ?)
+- unifier references et ressources ?
