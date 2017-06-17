@@ -1,2 +1,3 @@
 {{ .Title | markdownify }}
 {{ with .Params.subtitle }}<br/><small>{{ . }}</small>{{ end }}
+{{ partial "components/pages/draft" .}}

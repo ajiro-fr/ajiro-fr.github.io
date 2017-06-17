@@ -21,11 +21,10 @@
             </a>
           <div class="card-block">
             <a href="{{ .RelPermalink }}">
-              <h4 class="card-title">{{ .Title | markdownify }}</h4>
+              <h4 class="card-title">
+                {{ partial "components/pages/title" . }}
+              </h4>
             </a>
-            {{ if .Params.in_progress }}
-              <div class="text-muted"><small><i class="fa fa-wrench"></i> {{ i18n "in_progress" }}</small></div>
-            {{ end }}
             <div class="text-xs-right">
               <small>
                 {{ partial "components/pages/tags" .}}

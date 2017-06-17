@@ -12,6 +12,7 @@
       <div class="offset-lg-2 col-lg-8 col-xs-12">
         <h3>
           <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+          {{ partial "components/pages/draft" .}}
         </h3>
       </div>
     </div>
