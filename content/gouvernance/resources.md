@@ -10,6 +10,7 @@ nositemap: true
 - github: https://github.com/ajiro-fr
 - trello: https://trello.com/b/1hevcibn/ajiro
 - slack: https://ajiro.slack.com/
+- gravatar: contact@ajiro.fr / ajirofr
 
 
 ## Google
