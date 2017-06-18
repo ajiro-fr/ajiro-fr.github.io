@@ -14,7 +14,7 @@ all: assets
 download_images:
 	./analyse.py images download
 
-assets: download_images images
+assets: images
 
 images: $(IMG_SQUARE) $(IMG_WIDE)
 

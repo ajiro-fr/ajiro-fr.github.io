@@ -26,7 +26,7 @@ run apt-get update \
 add . /site
 workdir /site
 
-run make assets
+run make download_images && make assets
 run hugo_env=production hugo --destination=/var/www/prod
 run hugo --buildDrafts --destination=/var/www/draft \
  && echo "User-agent: *" > /var/www/draft/robots.txt \
