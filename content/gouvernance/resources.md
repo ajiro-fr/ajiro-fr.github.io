@@ -4,7 +4,7 @@ title: "Les Ressources"
 nositemap: true
 ---
 
-# Ressources
+## Inventaire des comptes
 
 - twitter: @ajiro_fr
 - github: https://github.com/ajiro-fr
