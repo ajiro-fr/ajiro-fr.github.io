@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <div class='row mt-3'>
+    <div class='offset-lg-2 col-lg-8 col-xs-12 text-xs-center'>
+      <h1>
+        {{ partial "components/pages/title" . }}
+      </h1>
+    </div>
+  </div>
+
+  <div class="row mt-3">
+    <div class="offset-lg-2 col-lg-8 col-xs-12">
+      {{ $pages := (where .Pages "Params.hidden" "!=" "true") }}
+      {{ range sort $pages }}
+        <h2>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
