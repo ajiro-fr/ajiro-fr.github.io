@@ -148,7 +148,7 @@ def read_front_matter(content):
 
 
 def is_flick_source(url):
-    return url and (("://flick" in url) or ("flic.kr/" in url))
+    return url and (("flickr.com/" in url) or ("flic.kr/" in url))
 
 
 def compute_flickr_short_url(identifier):
@@ -245,6 +245,8 @@ def images_download():
                 if image:
                     print("  URL=%s; name=%s; downloaded" % (illustration.source, illustration.name))
                     write_file_binary(image_path, image)
+            else:
+                print("  source=%s; name=%s; not flick" % (illustration.source, illustration.name))
 
 
 def images_name(dump):
