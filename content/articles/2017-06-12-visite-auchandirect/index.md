@@ -11,8 +11,8 @@ tags:
 categories:
   - organisation
 illustration:
-  name: auchan-direct-small
-  source: /authors/albiez_olivier
+  name: shopping-cart
+  source: https://www.flickr.com/photos/cadencrawford/8344048410
 description: |
   Visite chez Auchan:Direct pour observer l'organisation lean.
 ---
