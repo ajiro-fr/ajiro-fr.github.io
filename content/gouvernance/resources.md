@@ -1,6 +1,7 @@
 ---
 date: 2017-06-18
 title: "Les Ressources"
+nositemap: true
 ---
 
 # Ressources
