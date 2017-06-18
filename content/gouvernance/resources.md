@@ -10,3 +10,9 @@ nositemap: true
 - github: https://github.com/ajiro-fr
 - trello: https://trello.com/b/1hevcibn/ajiro
 - slack: https://ajiro.slack.com/
+
+
+## Google
+
+- Google Search Console: https://www.google.com/webmasters/tools/dashboard?hl=en&siteUrl=http://ajiro.fr/
+- Google Analytics: https://analytics.google.com/analytics/web/ (UA-89122379-1)
