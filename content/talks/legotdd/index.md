@@ -26,3 +26,5 @@ abstract: |
 
 Merci Alice Barralon et Isabelle Blasquez :
 https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego
+
+Le [pdf pour Laval 2017](https://gitlab.com/azae/atelier-legotdd/builds/artifacts/master/file/2017agileLaval.pdf?job=compile_pdf)
