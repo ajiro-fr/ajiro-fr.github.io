@@ -22,7 +22,7 @@ abstract: |
   Chers développeurs, venez pratiquer l'eXtreme LegoBuilding avec le framework LegoUnit !
 ressources:
   - name: "Le support de présentation Agile Laval 2017"
-    file: https://gitlab.com/azae/atelier-legotdd/builds/artifacts/master/file/2017agileFrance.pdf?job=compile_pdf
+    file: https://gitlab.com/tclavier/atelier-legotdd/builds/artifacts/master/file/2017agileLaval.pdf?job=compile_pdf
 sessions:
   - date: "2017-06-29"
     name: Agile Laval 2017
