@@ -3,7 +3,7 @@ aliases: /talks/legotdd.html
 date: 2017-06-01
 title: "Sensibilisation au Software Craftsmanship : Lego® à la rescousse"
 duration: 2H
-type: Atelier
+genre: Atelier
 draft: false
 authors:
   - clavier_thomas
@@ -32,4 +32,3 @@ sessions:
 
 Merci Alice Barralon et Isabelle Blasquez :
 https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego
-
