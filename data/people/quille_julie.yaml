@@ -1,5 +1,12 @@
 name: Julie Quille
 member: false
+organisations:
+  - name: Azaé
+    logo: logo-azae.png
+    url: http://azae.net
+  - name: Réseau Libre-entreprise
+    logo: logo-libre-entreprise.png
+    url: https://www.libre-entreprise.org/
 social:
   - url: mailto:quillejulie@gmail.com
     icon: fa-envelope

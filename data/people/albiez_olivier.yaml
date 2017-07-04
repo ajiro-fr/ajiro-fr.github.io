@@ -4,6 +4,9 @@ organisations:
   - name: Azaé
     logo: logo-azae.png
     url: http://azae.net
+  - name: Réseau Libre-entreprise
+    logo: logo-libre-entreprise.png
+    url: https://www.libre-entreprise.org/
 social:
   - url: mailto:oalbiez@azae.net
     icon: fa-envelope

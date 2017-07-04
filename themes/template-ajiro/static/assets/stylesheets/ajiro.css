@@ -202,7 +202,6 @@ body {
 }
 
 .organisation-logo {
-
   display: inline-block;
   margin: 2px;
   text-align: center;
@@ -228,7 +227,8 @@ body {
 }
 
 .organisation-logo img {
-  width: 100px;
+  max-width: 100px;
+  max-height: 40px;
 }
 
 .img-credit {
