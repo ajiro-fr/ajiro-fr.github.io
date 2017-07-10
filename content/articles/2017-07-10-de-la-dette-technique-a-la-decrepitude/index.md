@@ -28,13 +28,29 @@ Imaginez, vous avez l'envie d'acheter un lave linge. Deux options s'offrent à v
 
 Dans le premier cas, siemment vous allez prendre un racourci consenti avec le banquier et l'utilisateur du lave-linge, c'est à dire vous, dont le seul objectif est d'obtenir le lave-linge plus rapidement. Et vous savez que vous aller rembourser le banquier.
 
-J'appelle dette technique un racourci dans le code décidé en pleinne conscience par l'ensemble des parties prenantes dans le seul but de tenir un délais très court. À l'image de la dette financière, tout le monde est d'accord pour rembourser plus tard, l'échéancier se doit d'être explicite dès le début de la décision.
+J'appelle dette technique une dégradation de la qualité décidé en pleinne conscience par l'ensemble des parties prenantes dans le seul but de tenir un délais très court. À l'image de la dette financière, tout le monde est d'accord pour rembourser plus tard, l'échéancier se doit d'être explicite dès le début de la décision.
 
-Par exemple, imaginez une grande enseigne de bricolage qui nous appel 3 semaines avant les soldes en disant : 
-Notre principal concurant vient de lancer une campagne publicitaire en 4 par 3 avec telle fonctionnalité, on aimerait lancer la même dans les jours à venir. Pensez-vous que nous pourrons avoir cette même fonctionnalité ? 
+Par exemple, imaginez une grande enseigne de bricolage 3 semaines avant les soldes : 
+Notre principal concurant vient de lancer une campagne publicitaire en 4 par 3 avec telle fonctionnalité, on aimerait lancer la même dans les jours à venir. Pensez-vous que c'est possible ?
 
 Nous avons répondu oui, en précisant bien que la solution serait probablement très salle ... et effectivement, la fonctionnalité était là à l'heure, avec une petite contrainte supplémentaire : rebouter les serveurs toutes les heures. Nous avons remboursé brutalement la dette en supprimant toute cette partie du code 24h après l'opération commerciale.
 
 ## Dégradation
 
-## D2crépitude
+Reprenons notre histoire de lave-linge. Maintenant que vous l'avez installé chez vous, vous commencez à l'utiliser. Et vous décidez de ne pas lire le mode d'emploie, d'ailleurs vous êtes un ou une spécialiste des lessives, ça fait des années que vous utilisez un lave linge sans problème y compris pour laver vos outils de jardin. 
+
+Cet exemple purement fixtif, parait évident, un mauvais usage du lave-linge va le dégrader, le détèriorer. 
+En lavant ses outils de jardin au lave linge, il est probable que l'on soit obligé de changer de lave-linge beaucoup plus souvent.
+
+Dans du code, une maitrise imparfaite de ses outils (langage, IDE, éditeur, toolchain, etc.) engendre de la même façon une dégradation progressive de l'ensemble de la base de code. 
+De façon plus générale, un manque de maitrise parfaite de son poste, engendre une dégradation globale de la production. 
+
+TODO: Exemple
+
+## Décrépitude
+
+Enfin, si l'on reprend, notre histoire de lave linge, même en respectant scrupuleusement tous les conseils du fabricants, il est probable que notre lave-linge finisse en déchetterie. En effet, certaines pièces vont s'user, d'autres en plastique vont casser. 
+
+De la même façon, l'accumulation de code va progressivement produire une forme de complexité qui va augmenter les coûts d'entretiens et d'interfaçage.
+
+TODO: Exemple
