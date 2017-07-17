@@ -19,7 +19,7 @@ ressources:
   - name: "Le support de présentation Agile France 2017"
     file: https://gitlab.com/azae/atelier-conference-cnv/builds/artifacts/master/file/2017agileFrance.pdf?job=compile_pdf
   - name: "Un mémo des critères d'acceptance"
-    file: criteres_acceptance.pdf
+    file: https://gitlab.com/azae/atelier-conference-cnv/builds/artifacts/master/file/criteresAcceptance.pdf?job=compile_pdf
 sessions:
   - date: "2017-06-16"
     name: Agile France 2017
