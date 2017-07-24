@@ -1,7 +1,7 @@
 ---
 aliases: /talks/remuneration_libre.html
 date: 2017-02-22
-title: La Rémunération libre.
+title: Rémunération dans une entreprise agile ou libérée.
 duration: 3H
 genre: Atelier
 authors:
@@ -31,7 +31,7 @@ references:
 
 # Titre
 
-La rémunération libre
+Rémunération dans une entreprise agile ou libérée.
 
 # Présentation détaillée
 
