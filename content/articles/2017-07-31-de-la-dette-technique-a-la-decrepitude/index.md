@@ -1,8 +1,8 @@
 ---
-update: 2017-07-10
+update: 2017-07-31
 title: "De la dette technique à la décrépitude du code"
 lang: fr
-draft: true
+draft: false
 authors:
   - clavier_thomas
 tags:
