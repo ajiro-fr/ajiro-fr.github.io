@@ -50,6 +50,13 @@ h1, h2, h3 {
   font-size: 1.6rem;
 }
 
+blockquote {
+  border-left-color: #C47401;
+  border-left-style: solid;
+  border-left-width: 5px;
+  padding-left: 1em;
+}
+
 /* == Fonts */
 
 @font-face {
