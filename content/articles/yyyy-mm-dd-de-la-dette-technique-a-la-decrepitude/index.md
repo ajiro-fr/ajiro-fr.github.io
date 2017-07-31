@@ -12,8 +12,8 @@ tags:
 categories:
   - craft
 illustration:
-  name:
-  source:
+  name: washing-the-old-way
+  source: https://flic.kr/p/7dKvhZ
 description: |
   "Faut tout réécrire !", "Ajouter un champ ? Mais c'est hyper compliqué !". Voilà des expressions, marqueurs d'une base de code qui se détériore. Et si c'était normal ? Étude et détails du problème et de certaines solutions.
 ---
@@ -33,7 +33,7 @@ Dans les 3 cas, il est possible de contrôler ces coûts. Regardons ensemble com
 
 ## La dette technique est négociée.
 
-{{< img name="" legend="" source="" >}}
+{{< img name="bills" legend="La dette" source="https://flic.kr/p/4yfWkK" >}}
 
 Imaginez, vous avez envie d'acheter un lave linge. Deux options s'offrent à vous :
 
@@ -47,6 +47,8 @@ Nous appellerons dette technique une dégradation de la qualité décidée en pl
 Par exemple, imaginez une grande enseigne de bricolage 3 semaines avant les soldes. Leur principal concurrent lance une campagne publicitaire avec une fonctionnalité particulière sur le site. Ils aimeraient avoir la même pour les soldes. Le jour des soldes, la fonctionnalité était là avec une petite contrainte supplémentaire : redémarrer les serveurs toutes les heures. La dette a été brutalement remboursée en supprimant toute cette partie du code 24h après la fin de l'opération commerciale.
 
 ## La dégradation est volontaire.
+
+{{< img name="garden-tools" legend="Outils de jardin" source="/authors/clavier_thomas/" >}}
 
 Reprenons notre histoire de lave-linge. Maintenant que vous l'avez installé, vous commencez à l'utiliser. Et vous décidez de l'utiliser au plus vite, d'ailleurs vous êtes un ou une spécialiste des lessives, ça fait des années que vous utilisez un lave linge sans problème y compris pour laver vos outils de jardin.
 
@@ -62,6 +64,8 @@ Je me rappelle une équipe qui ne maîtrisant pas correctement l'API de java ava
 
 ## La décrépitude n'est pas fatidique.
 
+{{< img name="decrepitude-cars" legend="Décrépitude" source="https://flic.kr/p/e8uJdZ" >}}
+
 Enfin, si l'on reprend, notre histoire de lave linge, même en respectant scrupuleusement tous les conseils du fabricant, il est probable qu'il finisse en déchetterie. En effet, certaines pièces vont s'user, d'autres vont casser.
 
 De la même façon, l'accumulation de code va progressivement produire de la complexité, qui va augmenter les coûts de maintenance et d'ajout de fonctionnalités.
@@ -69,6 +73,8 @@ Une parfaite maîtrise des éléments d'architecture, associée à un effort per
 Pour changer l'équivalent d'un engrenage, le développeur n'est pas obligé de tout démonter ou de pendre le risque de fausser un pas de vis au remontage.
 
 ## S'entraîner en équipe.
+
+{{< img name="kata" legend="Kata" source="https://flic.kr/p/cEv6yb" >}}
 
 Nous venons de voir les différents types de coûts liés à la mauvaise qualité du code. Afin de les éviter ou de les réduire, il est nécessaire de progresser dans sa maîtrise des outils et des savoir-faire de son métier de développeur. Pour cela je pense qu'une solution est l'entraîment en équipe.
 
