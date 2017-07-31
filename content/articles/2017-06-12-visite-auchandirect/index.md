@@ -17,7 +17,7 @@ description: |
   Visite chez Auchan:Direct pour observer l'organisation lean.
 ---
 
-Dans la série, nous aimons bien aller chez les autres nous voici cette fois en visite chez Auchan:Direct. Nous nous sommes rendus dans le centre de Paris pour découvrir la face cachée de ce site de e-commerce. Suite à l’arrivée d’un libraire américain sur le marché français, le monde de la distribution en France bouge et de ce que l’on a pu voir dans le bon sens en tous bons fans du continuous delivery que nous sommes.
+Dans la série, nous aimons bien aller chez les autres nous voici cette fois en visite chez [Auchan:Direct](http://www.auchandirect.fr/). Nous nous sommes rendus dans le centre de Paris pour découvrir la face cachée de ce site de e-commerce. Suite à l’arrivée d’un libraire américain sur le marché français, le monde de la distribution en France bouge et de ce que l’on a pu voir dans le bon sens en tous bons fans du continuous delivery que nous sommes.
 
 Pour commencer rien ne vaut une bonne obeya. Pour ceux qui ne connaissent pas, il s’agit d’une pratique lean de management visuel. Dans une grande salle, il est possible de comprendre où l’on veut aller, de la cible actuelle, des problèmes rencontrés, des leviers pour réussir, de la roadmap,… Côté Auchan:Direct, il s’agit d’une grande salle, sans porte, accessible à tous destinée au partage.
 
