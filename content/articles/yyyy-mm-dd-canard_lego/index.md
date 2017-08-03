@@ -1,6 +1,6 @@
 ---
 aliases: /articles/2017/04/13/canard_lego.html
-date: 2017-04-13
+date: 2017-08-03
 title: "Des canards en Lego"
 lang: fr
 draft: true
