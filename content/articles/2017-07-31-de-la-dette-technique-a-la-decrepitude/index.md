@@ -72,11 +72,12 @@ De la même façon, l'accumulation de code va progressivement produire de la com
 Une parfaite maîtrise des éléments d'architecture, associée à un effort permanent de restructuration de la base de code permet d'éviter cette dégradation lente et progressive du logiciel. Contrairement à un produit manufacturé, le coût de changement d'une partie du code est faible.
 Pour changer l'équivalent d'un engrenage, le développeur n'est pas obligé de tout démonter ou de pendre le risque de fausser un pas de vis au remontage.
 
-## S'entraîner en équipe.
+## S'entraîner au moins une fois par semaine.
 
 {{< img name="kata" legend="Kata" source="https://flic.kr/p/cEv6yb" >}}
 
-Nous venons de voir les différents types de coûts liés à la mauvaise qualité du code. Afin de les éviter ou de les réduire, il est nécessaire de progresser dans sa maîtrise des outils et des savoir-faire de son métier de développeur. Pour cela je pense qu'une solution est l'entraîment en équipe.
+Nous venons de voir les différents types de coûts liés à la mauvaise qualité du code. Afin de les éviter ou de les réduire, il est nécessaire de progresser dans sa maîtrise des outils et des savoir-faire de son métier de développeur. Pour cela je pense qu'une solution est l'entraîment.
 
-À l'image d'une équipe de sport qui s'entraîne très régulièrement ensemble, une équipe de développement devrait s'entraîner au moins une fois par semaine. Il existe de nombreuses techniques dont les noms sont pour la plupart tirés du monde des arts martiaux (dojo, kata, randori, mob programing...)
+À l'image d'une équipe de sport qui s'entraîne très régulièrement avec son entraîneur, une équipe de développement devrait s'entraîner au moins une fois par semaine avec l'aide d'un œuil externe. Il existe de nombreuses techniques dont les noms sont pour la plupart tirés du monde des arts martiaux (dojo, kata, randori, mob programing...) et certains sites comme [codingDojo](http://codingdojo.org/) regorgent d'exercices.
+
 Le temps d'entraînement fait partie intégrante du travail du développeur et ne devrait pas être systématiquement relégué au temps du midi ou du soir.
