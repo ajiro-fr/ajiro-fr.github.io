@@ -12,7 +12,7 @@ categories:
   - organisation
 illustration:
   name: shopping-cart
-  source: https://www.flickr.com/photos/cadencrawford/8344048410
+  source: https://flic.kr/p/dHkqTC
 description: |
   Visite chez Auchan:Direct pour observer l'organisation lean.
 ---
