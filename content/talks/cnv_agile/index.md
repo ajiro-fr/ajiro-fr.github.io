@@ -14,10 +14,10 @@ illustration:
   name: communication
   url: http://flic.kr/p/pm1eZm
 abstract: |
- Individus et interactions... et si nous regardions ça de plus près ? 
-L'objectif de cette session et de vous amenez avec nous dans un voyage au coeur de la Communication Bienveillante (CNV). 
-Convaincus que l'Agilité, comme tant d'autres choses, ne restent que coquilles vides si elles ne sont pas accompagnées de compréhension, conscience et clarté, ce sont surtout sur ces notions que nous vous accompagnons. 
-A la fin de cette session nous espérons que chacun ira planter les graines qu'il souhaite sur ce nouveau terreau.
+  Individus et interactions... et si nous regardions ça de plus près ?
+  L'objectif de cette session et de vous amenez avec nous dans un voyage au coeur de la Communication Bienveillante (CNV).
+  Convaincus que l'Agilité, comme tant d'autres choses, ne restent que coquilles vides si elles ne sont pas accompagnées de compréhension, conscience et clarté, ce sont surtout sur ces notions que nous vous accompagnons.
+  À la fin de cette session nous espérons que chacun ira planter les graines qu'il souhaite sur ce nouveau terreau.
 ressources:
   - name: "Le support de présentation Agile France 2017"
     file: https://gitlab.com/azae/atelier-conference-cnv/builds/artifacts/master/file/2017agileFrance.pdf?job=compile_pdf
