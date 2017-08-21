@@ -31,7 +31,7 @@ C'est un jeu directement inspiré d'un des atelier officiels "[Lego Serious Play
 {{< img name="set-lego" legend="Set du canard Lego" source="/authors/clavier_thomas/" >}}
 
 Les deux équipes vont chercher à livrer un maximum de canards différents accompagnés de leur plan.
-Un canard se fabrique avec les six briques que l'ont peut observer sur la photo ci-dessus. Notez que les pièces rouge sont des pièces "fines"
+Un canard se fabrique avec les six briques que l'ont peut observer sur la photo ci-dessus. Notez que les pièces rouge sont des briques plates 2×4.
 
 La première équipe va commencer par dessiner les plans du canard avant de le construire alors que la seconde va commencer par construire le canard avant de dessiner le plan.
 
