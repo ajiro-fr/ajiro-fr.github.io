@@ -66,9 +66,9 @@ Je me rappelle une équipe qui ne maîtrisant pas correctement l'API de java ava
 
 {{< img name="decrepitude-cars" legend="Décrépitude" source="https://flic.kr/p/e8uJdZ" >}}
 
-Enfin, si l'on reprend, notre histoire de lave linge, même en respectant scrupuleusement tous les conseils du fabricant, il est probable qu'il finisse en déchetterie. En effet, certaines pièces vont s'user, d'autres vont casser.
+Enfin, si l'on reprend, notre histoire de lave linge, même en respectant scrupuleusement tous les conseils du fabricant, il est probable qu'il finisse en déchetterie. En effet, certaines pièces vont s'abîmer, d'autres vont casser. Nous allons alors parler d'usure, d'obsolescence ou de décrépitude.
 
-De la même façon, l'accumulation de code va progressivement produire de la complexité, qui va augmenter les coûts de maintenance et d'ajout de fonctionnalités.
+De la même façon, l'accumulation de code va progressivement produire de la complexité, ce qui va augmenter les coûts de maintenance et d'ajout de fonctionnalités.
 Une parfaite maîtrise des éléments d'architecture, associée à un effort permanent de restructuration de la base de code permet d'éviter cette dégradation lente et progressive du logiciel. Contrairement à un produit manufacturé, le coût de changement d'une partie du code est faible.
 Pour changer l'équivalent d'un engrenage, le développeur n'est pas obligé de tout démonter ou de pendre le risque de fausser un pas de vis au remontage.
 
