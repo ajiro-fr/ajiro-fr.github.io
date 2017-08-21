@@ -1,6 +1,5 @@
 ---
-aliases: /articles/2017/04/13/canard_lego.html
-date: 2017-08-03
+date: 2017-08-21
 title: "Des canards en Lego"
 lang: fr
 draft: true
@@ -15,6 +14,7 @@ categories:
   - craft
 illustration:
   name: grand-canard-lego
+  source: /authors/clavier_thomas/
 description: |
   Description d'un petit jeu sérieux illustrant la nécessité de bien ordonner manipulation et modélisation, conception et réalisation.
 
@@ -26,22 +26,24 @@ C'est un jeu directement inspiré d'un des atelier officiels "[Lego Serious Play
 
 - On divise les participants en deux groupes de trois ou quatre personnes.
 - On divises les Lego en deux jeux d'une vingtaine de sets, un jeu par équipe.
-- On donne un ensemble de feuilles à petit carreaux aux deux équipes.
+- On donne un ensemble de feuilles à carreaux aux deux équipes.
 
 {{< img name="set-lego" legend="Set du canard Lego" source="/authors/clavier_thomas/" >}}
 
 Les deux équipes vont chercher à livrer un maximum de canards différents accompagnés de leur plan.
-Un canard se fabrique avec les six briques que l'ont peut observer sur la photo ci-dessus.
+Un canard se fabrique avec les six briques que l'ont peut observer sur la photo ci-dessus. Notez que les pièces rouge sont des pièces "fines"
 
 La première équipe va commencer par dessiner les plans du canard avant de le construire alors que la seconde va commencer par construire le canard avant de dessiner le plan.
 
 Pour suivre l'évolution du jeu, on lance un chronomètre et toutes les minutes on note sur un paperboard le nombre de canards livrés par chaque équipe.
 
-Je vous laisse découvrir le résultat.
+Je vous laisse le jouer pour en découvrir le résultat.
 
 Quelques parallèles peuvent être tentés :
+
 - Les organisations qui demandent aux architectes de produire une conception avant de demander aux développeurs de remplir les trous.
 - Les développeurs qui produisent des plans qui seront transformés par le compilateur en exécutable.
+- Les organisations qui séparent géographiquement conception et réalisation par exemple avec la conception à Paris et la réalisation en Inde.
 
 {{< img name="boite-lego" legend="Boîte de Lego" source="/authors/clavier_thomas/" >}}
 
