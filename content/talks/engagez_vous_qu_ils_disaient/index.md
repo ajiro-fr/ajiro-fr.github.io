@@ -38,6 +38,7 @@ ressources:
 # Présentation détaillée
 
 Surprise en lisant la doctrine militaire du Général Yakovleff. Le fonctionnement de la hiérarchie, les types de commandements et la prise de risque sont à l’opposé de nos préjugés. Soit l’armée française et le Général Yakovleff n’ont rien compris à ces 3 notions, soit ce sont nos entreprises ... Profitons de cette découverte, pour réfléchir ensemble à nos organisations d’entreprises nos modes de managements et nos postures de leaders.
+
 En effet, de par l’incertitude de la guerre, les militaires doivent prendre des décisions très rapide et un système centralisé est impensable. Ils doivent donc décentraliser les décisions, tout faire pour ne pas être prévisible et avoir un ensemble de règles très simple à appliquer sans réfléchir pour garantir la pérennité de leur organisation malgré les contraintes de la guerre.
 
 Une session qui vous invite à changer votre point de vue sur l'armée, mais aussi et surtout qui a pour objectif de vous donner de petites règles très simples pour changer votre organisation et son fonctionnement pour plus de décentralisation.
