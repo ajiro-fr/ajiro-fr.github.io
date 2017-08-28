@@ -15,7 +15,9 @@ tags:
 illustration:
   name: ginko-biloba
 abstract: |
-  Atelier autour du concept d'un modèle de rémunération libre, choisie par les salariés.
+  Dans le modèle classique actuel, la rémunération sert plusieurs objectifs, que ce soit la reconnaissance, la motivation ou encore l'attractivité de l'entreprise. Cependant, le revers de la médaille est qu'il devient le centre de toutes les attentions et que nous en oublions de nous poser certaines questions.
+
+  Nous vous proposons une réflexion sur ce que nous lions à la rémunération, ainsi qu'une présentation d'une solution de rémunération plus juste répondant aux aspirations de l'entreprise et de l'individu libéré.
 sessions:
   - date: 2017-02-13
     name: Session privée chez ANEO
@@ -32,6 +34,7 @@ references:
 # Présentation détaillée
 
 Dans le modèle classique actuel, la rémunération sert plusieurs objectifs, que ce soit la reconnaissance, la motivation ou encore l'attractivité de l'entreprise. Cependant le revers de la médaille est qu'il devient le centre de toutes les attentions et que nous en oublions de nous poser certaines questions telle que :
+
 - la valeur de chacun d'un point de vue systèmique et pas seulement individuel,
 - la réponse aux besoins,
 - la raison d'être de l'entreprise et le lien entre celle-ci et l'épanouissement des individus.
@@ -42,6 +45,22 @@ Ensuite, nous vous proposons un voyage au coeur d'une nouvelle rémunération, e
 
 # Pertinence
 
-Voyage au coeur de la rémunération. Cette session remplie deux objectifs :
-- encourager à un questionnement en profondeur sur la rémunération et les objectifs qu'elle vise,
-- proposer un modèle innovant de rémunération qui restructure l'entreprise et la façon de penser le rapport entre le travail et la rémunération.
+
+# Objectifs de la session
+
+Encourager à un questionnement en profondeur sur la rémunération et les objectifs qu'elle vise et proposer un modèle innovant de rémunération qui restructure l'entreprise et la façon de penser le rapport entre le travail et la rémunération.
+
+
+# Structure de la session
+
+Accompagnement dans un exercice de structuration de la pensé :
+
+- partage de la vision de chacun,
+- éclaircissement de notre vision de la rémunération,
+- travail sur les craintes et les besoins liés à la rémunération.
+
+Voyage au coeur d'une nouvelle rémunération :
+
+- présentation des différentes composantes de notre nouvelle rémunération
+- différentiation des aspects "juste" et "égalitaire"
+- remise en perspective avec les nouvelles aspirations de l'entreprise et de l'individu agile.
