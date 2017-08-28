@@ -1,7 +1,7 @@
 ---
 aliases: /talks/zemblanite.html
 date: 2017-04-24
-title: "La zemblanité dans nos équipes"
+title: "La zemblanité ou comment rater avec détermination"
 duration: 1H
 genre: Présentation
 draft: true
@@ -17,13 +17,7 @@ illustration:
 abstract: |
   L'antonyme de la sérendipité, la zemblanité, est la faculté de découvrir des résultats malheureux, malchanceux et attendus !
   Cette session nous entrainera à travers de nombreuses anectdotes directement tirrés des équipes que nous croisons vers une réflexions sur nos actes et nos décisions.
-
 ---
-
-# Titre
-_Max 120 caractères, qui donne envie d'assister et qui permet de comprendre quel est le sujet. Ce titre ne devrait pas contenir le nom d'une entreprise._
-
-La zamblanité ou comment rater avec détermination.
 
 
 # Présentation détaillée

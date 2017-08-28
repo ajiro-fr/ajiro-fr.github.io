@@ -29,14 +29,10 @@ references:
     url: /articles/2017-01-26-remuneration_libre
 ---
 
-# Titre
-
-Rémunération dans une entreprise agile ou libérée.
-
 # Présentation détaillée
 
 Dans le modèle classique actuel, la rémunération sert plusieurs objectifs, que ce soit la reconnaissance, la motivation ou encore l'attractivité de l'entreprise. Cependant le revers de la médaille est qu'il devient le centre de toutes les attentions et que nous en oublions de nous poser certaines questions telle que :
-- la valeur de chacun d'un point de vue systèmique et pas seulement individuel, 
+- la valeur de chacun d'un point de vue systèmique et pas seulement individuel,
 - la réponse aux besoins,
 - la raison d'être de l'entreprise et le lien entre celle-ci et l'épanouissement des individus.
 
@@ -46,6 +42,6 @@ Ensuite, nous vous proposons un voyage au coeur d'une nouvelle rémunération, e
 
 # Pertinence
 
-Voyage au coeur de la rémunération. Cette session remplie deux objectifs : 
+Voyage au coeur de la rémunération. Cette session remplie deux objectifs :
 - encourager à un questionnement en profondeur sur la rémunération et les objectifs qu'elle vise,
 - proposer un modèle innovant de rémunération qui restructure l'entreprise et la façon de penser le rapport entre le travail et la rémunération.
