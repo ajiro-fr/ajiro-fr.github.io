@@ -29,10 +29,6 @@ sessions:
     url: http://2017.conf.agile-france.org/
 ---
 
-# Titre
-
-La CNV au service de l'Agilité
-
 # Présentation détaillée
 
 La Communication Non Violente (ou Communication Bienveillante) au service de l'agilité. Lors de cette conférence, accessible à tous, nous vous proposons de voir ensemble comment la CNV peut venir vous enrichir, comment elle participe à l'éclaircissement de la pensée, ainsi qu'à la fluidification et l'enrichissement des relations.
