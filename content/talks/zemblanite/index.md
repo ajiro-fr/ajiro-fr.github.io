@@ -15,29 +15,39 @@ illustration:
   name: decheterie
   source: http://flic.kr/p/88n4RC
 abstract: |
-  L'antonyme de la sérendipité, la zemblanité, est la faculté de découvrir des résultats malheureux, malchanceux et attendus !
-  Cette session nous entrainera à travers de nombreuses anectdotes directement tirrés des équipes que nous croisons vers une réflexions sur nos actes et nos décisions.
+  Avez-vous déjà entendu parlé de la sérendipité ? Vous savez le fait de découvrir par hasard des choses extraordinaires ! Et bien, je vous propose de vous parler de la zemblanité, son exact opposé.
+
+  De la capacité à organiser avec soin et attention nos échecs, à l'énergie que nous mettons pour être certain de ne pas réussir, je vous propose une heure de découverte et d'échange au cœur de ce qui nous semble impossible ... et qui pourtant est si fréquent !
+
+  Venez découvrir les meilleures techniques pour rater vos projets à coup sûr.
 ---
 
-
 # Présentation détaillée
-_Max 1000 caractères, qui répondent clairement aux questions suivantes :_
-* _Qui sera intéressé par cette session ?_
-* _Quelles sont les connaissances préalables nécessaires ?_
-* _Que retireront les participants de cette session ?_
+
+La zemblanité est l'antonyme de la sérendipité, c'est-à-dire, la faculté de découvrir des résultats malheureux et attendus !
+Pendant cette session, nous vous parlerons de zemblanité à travers des cas réels et des anecdotes directement tirés de nos 15 ans d'expérience d'accompagnement d'équipes. L'occasion pour chacun d'entre nous de questionner nos habitudes, notre manière de faire et de travailler ensemble.
+Cela nous entraînera vers un partage d'idées sur les moyens de lutter contre une zemblanité, qui, bien que très fréquente, n'est pas fatidique.
+
+Vous repartirez avec un sac à dos remplis de bonnes idées pour rater vos projets à coup sûr !
 
 
-L'antonyme de la sérendipité, la zemblanité, est la faculté de découvrir des résultats malheureux mais prévisibles.
+# Pertinence
 
-Cette session est ouverte à toute personne ayant travaillé en équipe.
-Nous commencerons par raconter quelques histoires de notre voyage avec les meilleurs experts de la zamblanité. Et nous finirons par partager quelques techniques pour la débusquer.
 
-# Pertinence pour AgileFrance
-_En quoi cette session fait-elle avancer la communauté agile francophone ? Cette session est-elle innovante ou inhabituelle par son sujet ou son format ? Cette réponse est uniquement dédiée aux comité d'organisation._
+# Objectifs de la session
 
-* Innovante et inhabituelle car c'est la première fois que l'on parle de zamblanité.
-* Session très pratique car basé sur des cas réels directement tirés de nos 15 ans d'expériences d'accompagnement d'équipes.
-* Utile car les exemples et les outils vont permettre à chacun d'améliorer leurs équipes en effet, nous regarderons comment nous trouvons ces situations et comment les équipes peuvent les identifier.
+Apprendre de nos erreurs avec humour.
+
+
+# Structure de la session
+
+Nous commencerons par raconter quelques histoires de notre voyage avec les meilleurs experts de la zemblanité. Et nous finirons par partager quelques techniques pour la débusquer.
+
+Pourquoi cette session :
+* Innovante et inhabituelle, car c'est la première fois que l'on parle de zemblanité.
+* Cette session est basée sur des cas réels, directement tirés de nos 15 ans d'expérience d'accompagnement d'équipes.
+* Nous regarderons quelques outils pour lutter contre la zemblanité.
+
 
 # Notes
 
