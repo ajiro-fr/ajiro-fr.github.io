@@ -1,7 +1,7 @@
 ---
 aliases: /talks/legotdd.html
 date: 2017-06-01
-title: Sensibilisation au Software Craftsmanship : Lego® à la rescousse
+title: "Sensibilisation au Software Craftsmanship : Lego® à la rescousse"
 duration: 2H
 genre: Atelier
 draft: false
