@@ -25,6 +25,7 @@ abstract: |
 # Présentation détaillée
 
 La zemblanité est l'antonyme de la sérendipité, c'est-à-dire, la faculté de découvrir des résultats malheureux et attendus !
+
 Pendant cette session, nous vous parlerons de zemblanité à travers des cas réels et des anecdotes directement tirés de nos 15 ans d'expérience d'accompagnement d'équipes. L'occasion pour chacun d'entre nous de questionner nos habitudes, notre manière de faire et de travailler ensemble.
 Cela nous entraînera vers un partage d'idées sur les moyens de lutter contre une zemblanité, qui, bien que très fréquente, n'est pas fatidique.
 
@@ -44,11 +45,13 @@ Apprendre de nos erreurs avec humour.
 Nous commencerons par raconter quelques histoires de notre voyage avec les meilleurs experts de la zemblanité. Et nous finirons par partager quelques techniques pour la débusquer.
 
 Pourquoi cette session :
-* Innovante et inhabituelle, car c'est la première fois que l'on parle de zemblanité.
-* Cette session est basée sur des cas réels, directement tirés de nos 15 ans d'expérience d'accompagnement d'équipes.
-* Nous regarderons quelques outils pour lutter contre la zemblanité.
+
+- Innovante et inhabituelle, car c'est la première fois que l'on parle de zemblanité.
+- Cette session est basée sur des cas réels, directement tirés de nos 15 ans d'expérience d'accompagnement d'équipes.
+- Nous regarderons quelques outils pour lutter contre la zemblanité.
 
 
+<!---
 # Notes
 
 * Livrer du code non testé en prod
@@ -57,3 +60,4 @@ Pourquoi cette session :
 La zamblanité, on ne la voit pas mais elle est présente.
  * Les outils pour la trouver : analyse systémique à plusieurs (comment foirer le projet ?), rapport d'étonnement des nouveaux, regard d'un coach.
  * Voir chez les autres pour le chercher chez soi : feu tricolore de zobrist
+--->
