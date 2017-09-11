@@ -12,12 +12,12 @@ tags:
   - initiation
   - enfants
 illustration:
-  name: 
-  url: 
+  name: coding
+  source: https://flic.kr/p/ec78kF
 abstract: |
   Céleste, 11 ans et Thomas, son papa viennent vous parler des coding goûter.
 
-  Cette session vous permettra de découvrir l'état d'esprit qui habite ce merveilleux moment de complicité entre parents et enfants. Ce que nous y faisons, comment nous le faisons, et surtout pourquoi nous le faisons. 
+  Cette session vous permettra de découvrir l'état d'esprit qui habite ce merveilleux moment de complicité entre parents et enfants. Ce que nous y faisons, comment nous le faisons, et surtout pourquoi nous le faisons.
   Parents, à travers les regards croisés d'une fille et de son papa, venez trouvez les clés pour construire un événement similaire avec vos enfants.
   Enfants, venez découvrir comment d'autres enfants apprennent à leurs parents à coder.
 
@@ -32,4 +32,3 @@ sessions:
 
 
 # Pertinence
-
