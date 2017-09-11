@@ -4,7 +4,6 @@ date: 2017-04-24
 title: "La zemblanité ou comment rater avec détermination"
 duration: 1H
 genre: Présentation
-draft: true
 authors:
   - albiez_olivier
   - clavier_thomas
