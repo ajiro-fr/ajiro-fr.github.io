@@ -49,7 +49,7 @@ Une session qui vous invite à changer votre point de vue sur l'armée, mais aus
 
 # Objectifs de la session
 
-Aller à rencontre de notre intuition, en faisant un parallèle entre l'organisation militaire pyramidale et nos organisations agiles.
+Aller à l'encontre de notre intuition, en faisant un parallèle entre l'organisation militaire pyramidale et nos organisations agiles.
 
 
 # Structure de la session
