@@ -43,9 +43,6 @@ Nous proposons ici une refléxion sur la rémunération en deux temps.
 D'abord nous vous accompagnons dans un exercice de structuration de la pensé par l'éclaircissement de ce que nous voyons dans la rémunération, les craintes auxquelles celle-ci est liée, la vision que nous avons de nous et des autres, nos besoins de reconnaissance, de contribution et de justice.
 Ensuite, nous vous proposons un voyage au coeur d'une nouvelle rémunération, en vous présentant les différentes composantes de notre nouvelle rémunération que sont : le salaire fixe, le salaire variable et la répartition des bénéfices. Sur l'aspect juste que nous préférons à l'aspect égalitaire, et en quoi ce modèle répond aux nouvelles aspirations de l'entreprise et de l'individu libéré.
 
-# Pertinence
-
-
 # Objectifs de la session
 
 Encourager à un questionnement en profondeur sur la rémunération et les objectifs qu'elle vise et proposer un modèle innovant de rémunération qui restructure l'entreprise et la façon de penser le rapport entre le travail et la rémunération.
@@ -64,3 +61,7 @@ Voyage au coeur d'une nouvelle rémunération :
 - présentation des différentes composantes de notre nouvelle rémunération
 - différentiation des aspects "juste" et "égalitaire"
 - remise en perspective avec les nouvelles aspirations de l'entreprise et de l'individu agile.
+
+# Tweet
+
+Questionnement sur la rémunération et proposer un modèle innovant de rémunération qui restructure l’entreprise et l’individu.
