@@ -12,7 +12,7 @@ tags:
   - concepts
 illustration:
   name: communication
-  url: http://flic.kr/p/pm1eZm
+  source: http://flic.kr/p/pm1eZm
 abstract: |
   Individus et interactions... et si nous regardions ça de plus près ?
   L'objectif de cette session et de vous amenez avec nous dans un voyage au coeur de la Communication Bienveillante (CNV).

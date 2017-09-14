@@ -11,11 +11,10 @@ tags:
   - concepts
   - conscience
 illustration:
-  name: communication
-  url: http://flic.kr/p/pm1eZm
+  name: manipulation
+  source: https://flic.kr/p/rvBru
 abstract: |
   Une invitation à voir comment nous pouvons être piégés par des erreurs de raisonnements... ces mêmes pièges qui forment les fondements de la manipulation. Nous en sommes victimes, mais sommes-nous certains de ne pas les utiliser également pour nous convaincre nous même ou les autres ? Petit exercice d'hygiène mentale à l'usage des honnêtes gens ;-)
-
 ---
 
 # Présentation détaillée

@@ -10,9 +10,11 @@ tags:
   - communication
   - concepts
   - conscience
+illustration:
+  name: aide
+  source: https://flic.kr/p/9ZfruB  
 abstract: |
   Dans la vie privée comme dans le monde professionnel, faire des demandes est une étape souvent difficile dès que nous sortons d'un modèle hiérarchique. Par ailleurs, nous sommes inviter à "aider" en dehors de toute demande. Cette session à pour objectif d'ouvrir une réflexion sur l'aide que nous recevons et que nous donnons (infligeons ?), et sur les conséquences dans les relations que nous entretenons.
-
 ---
 
 # Présentation détaillée
