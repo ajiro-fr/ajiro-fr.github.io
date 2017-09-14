@@ -44,9 +44,6 @@ En effet, de par l’incertitude de la guerre, les militaires doivent prendre de
 Une session qui vous invite à changer votre point de vue sur l'armée, mais aussi et surtout qui a pour objectif de vous donner de petites règles très simples pour changer votre organisation et son fonctionnement pour plus de décentralisation.
 
 
-# Pertinence
-
-
 # Objectifs de la session
 
 Aller à l'encontre de notre intuition, en faisant un parallèle entre l'organisation militaire pyramidale et nos organisations agiles.
@@ -62,3 +59,8 @@ Cette session s'articule en 4 phases :
 - des règles considérées comme basiques par les militaires et pourtant si souvent oubliées en entreprise.
 
 Nous ferons des parallèles entre le fonctionnement militaire et des sujets aussi variés que la rédaction des histoires utilisateurs, le management en entreprise, l'organisation et le leadership.
+
+
+# Tweet
+
+Aller à l’encontre de notre intuition, avec un parallèle entre l’organisation militaire et nos organisations agiles.
