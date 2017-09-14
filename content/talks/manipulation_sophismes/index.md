@@ -42,3 +42,7 @@ Repositionnement dans une perspective Agile :
 - sommes-nous immunisé
 - comment la conscience de ces mécanisme nous rends plus Agile
 - quel est le prochain petit pas ?
+
+# Tweet
+
+Moi manipulatrice ? Jamais ! Par contre, parfois, il m'arrive d'adapter ma réalité aux circonstances... et vous ?
