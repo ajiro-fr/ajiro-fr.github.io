@@ -31,9 +31,6 @@ Cela nous entraînera vers un partage d'idées sur les moyens de lutter contre u
 Vous repartirez avec un sac à dos remplis de bonnes idées pour rater vos projets à coup sûr !
 
 
-# Pertinence
-
-
 # Objectifs de la session
 
 Apprendre de nos erreurs avec humour.
@@ -49,6 +46,9 @@ Pourquoi cette session :
 - Cette session est basée sur des cas réels, directement tirés de nos 15 ans d'expérience d'accompagnement d'équipes.
 - Nous regarderons quelques outils pour lutter contre la zemblanité.
 
+# Tweet
+
+Comment agissons-nous pour être certain de rater à coups sûrs ce que nous entreprenons ? Et éventuellement comment faire autrement.
 
 <!---
 # Notes
