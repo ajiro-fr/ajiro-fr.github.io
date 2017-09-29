@@ -2,14 +2,13 @@ from tclavier/nginx
 
 run apt-get update \
  && apt-get install -y \
-    hugo \
     imagemagick \
     make \
     git \
     wget \
  && apt-get clean
 
-run wget https://github.com/spf13/hugo/releases/download/v0.20.7/hugo_0.20.7_Linux-64bit.deb -O /tmp/hugo.deb \
+run wget https://github.com/spf13/hugo/releases/download/v0.27.1/hugo_0.27.1_Linux-64bit.deb -O /tmp/hugo.deb \
  && dpkg -i /tmp/hugo.deb \
  && rm -f /tmp/hugo.deb
 
