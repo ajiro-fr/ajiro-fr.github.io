@@ -17,10 +17,10 @@ categories:
 illustration:
   name: ginko-biloba
 description: |
-  Le rapport à l'argent a toujours été un vecteur fort de positionnement individuel et collectif, il modèle notre rapport à l'autre, au travail et à l'entreprise. Dans cet article, nous allons vous montrer comment en laissant les salariés choisir leur rémunération, nous changeons en profondeur l'ADN de l'entreprise et des individus qui la composent.
+  Le rapport à l'argent est un fort vecteur de positionnement individuel et collectif, il modèle notre rapport à l'autre, au travail et à l'entreprise. Dans cet article, nous allons vous montrer comment en laissant les salariés choisir leur rémunération, nous changeons en profondeur l'ADN de l'entreprise et des individus qui la composent.
 ---
 
-Le rapport à l'argent a toujours été un vecteur fort de positionnement individuel et collectif, il modèle notre rapport à l'autre, au travail et à l'entreprise. Dans cet article, nous allons vous montrer comment en laissant les salariés choisir leur rémunération, nous changeons en profondeur l'ADN de l'entreprise et des individus qui la composent.
+Le rapport à l'argent est un fort vecteur de positionnement individuel et collectif, il modèle notre rapport à l'autre, au travail et à l'entreprise. Dans cet article, nous allons vous montrer comment en laissant les salariés choisir leur rémunération, nous changeons en profondeur l'ADN de l'entreprise et des individus qui la composent.
 
 Nous verrons en quoi cela implique de modifier la culture d'entreprise et les rapports de force que nous y trouvons. Comment cela modifie la place de l'individu et ses motivations. Enfin, nous vous proposons un mode d'emploi concret de rémunération libre en entreprise.
 
@@ -39,11 +39,11 @@ Il devient alors évident que la rémunération libre, demande de revisiter l'or
 
 ## L'individu transformé dans une entreprise revisitée
 
-La rémunération libre n'implique pas seulement un changement pour l'entreprise. L'individu lui-même, à son échelle, ne peut plus se soustraire à une réflexion sur le fonctionnement globale de l'entreprise. En tant qu'acteur du système, il doit comprendre le rôle et le fonctionnement de la rémunération. Sortie de la position passive dans laquelle le système habituel le met, il est amené à prendre sa part de responsabilité dans la distribution des risques et des richesses, et choisir son salaire en fonction. La transparence augmente le sentiment de responsabilité, le salaire n'est plus une simple question de pouvoir de négociation avec ses supérieurs, mais un choix dont nous devons répondre devant nos pairs. Il devient de notre intérêt individuel de faire en sorte que le système soit juste pour tous, et viable pour l'entreprise.
+La rémunération libre n'implique pas seulement un changement pour l'entreprise. L'individu lui-même, à son échelle, ne peut plus se soustraire à une réflexion sur le fonctionnement globale de l'entreprise. En tant qu'acteur du système, il doit comprendre le rôle et le fonctionnement de la rémunération. Sortie de la position passive que lui permet le modèle habituel, il est amené à prendre sa part de responsabilité dans la distribution des risques et des richesses, et choisir son salaire en fonction. La transparence augmente le sentiment de responsabilité, le salaire n'est plus une simple question de pouvoir de négociation avec ses supérieurs, mais un choix dont nous devons répondre devant nos pairs. Il devient de notre intérêt individuel de faire en sorte que l'ensemble soit juste pour tous, et viable pour l'entreprise.
 
-De même, les personnes ayant un pouvoir d'investissement, devront également prendre en compte la transparence dans leur décision et faire en sorte que les décisions prises semblent justes et valables pour l'ensemble de l'entreprise. Les différents acteurs du système dépendant de la volonté de bien commun pour pouvoir garder leur prérogatives, l'abus de l'un risque d'être sanctionner par les autres lors de la distribution suivantes des richesses. Nous faisons ici appel à la pression sociale, comme élément positif, moteur et régulateur du système.
+De même, les personnes ayant un pouvoir d'investissement, devront également prendre en compte la transparence dans leur décision et faire en sorte que les décisions prises semblent justes et valables pour l'ensemble de l'entreprise. Les différents acteurs dépendant de la volonté de bien commun pour pouvoir garder leur prérogatives, l'abus de l'un risque d'être sanctionné par les autres lors de la distribution suivantes des richesses. Nous faisons ici appel à la pression sociale, comme élément positif, moteur et régulateur.
 
-Dans le modèle que nous proposons, cette responsabilisation individuelle, qui se traduit entre autre par une motivation du bien commun, est amplifier par la possibilité qui est offerte à tous les acteurs de l'entreprise de partager non seulement les richesses, mais aussi les risques de l'entreprise par un système d'investissement d'une partie de la rémunération dans le projet que nous contribuons à faire fonctionner. Nous allons vous présenter maintenant la manière dont nous envisageons une rémunération libre, vecteur d'émancipation et de motivation, individuelle et collective.
+Dans le modèle que nous proposons, cette responsabilisation individuelle, qui se traduit entre autre par une motivation du bien commun, est amplifiée par la possibilité qui est offerte à tous les acteurs de l'entreprise de partager non seulement les richesses, mais aussi les risques de l'entreprise par une stratégie d'investissement d'une partie de la rémunération dans le projet que nous contribuons à faire fonctionner. Nous allons vous présenter maintenant la manière dont nous envisageons une rémunération libre, vecteur d'émancipation, de motivation et de responsabilisation, individuelle et collective.
 
 
 ## Description de la rémunération libre
@@ -139,6 +139,11 @@ Les résultats sont tellement bons, qu’il reste de quoi verser une redistribut
 
 Au final voici les rémunérations annuelles de nos quatre amis.
 
+## Perspectives et évolutions
+
+Nous venons de le voir, la rémuération, loin d'être un élement anodin de la vie de l'entreprise, peut être un outil puissant de transformation. Que nous l'étudions du point de vue de la direction, ou de l'employé, nous voyons à quelle point cela impact l'émancipation de chacun mais aussi la responsabilisation de l'ensemble des acteurs.
+Cette approche, nouvelle et innovante, permet de poser la première pierre d'une nouvelle organisation qui ouvre sur de nombreux possibles pour peu que le haut de la pyramide ait confiance en l'intelligence collective, et que le bas de cette dernière, prenne à coeur d'entrer dans les méandres d'une organisation dans laquelle chacun doit pouvoir trouver sa place.
+Comment faire évoluer l'existant, quelle place pour les rôles qui ont actuellement ces redevabilités, quels sont les forces et les faiblesses d'une organisation qui rend transparente sa gestion financière? Autant de questions auxquelles les expérimentateurs devront trouver leurs propres réponses en fonction de leur écosystème entrepreneurial.
 
 ## Nos sources d’inspiration
 
