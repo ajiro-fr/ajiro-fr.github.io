@@ -142,8 +142,10 @@ Au final voici les rémunérations annuelles de nos quatre amis.
 ## Perspectives et évolutions
 
 Nous venons de le voir, la rémuération, loin d'être un élement anodin de la vie de l'entreprise, peut être un outil puissant de transformation. Que nous l'étudions du point de vue de la direction, ou de l'employé, nous voyons à quelle point cela impact l'émancipation de chacun mais aussi la responsabilisation de l'ensemble des acteurs.
-Cette approche, nouvelle et innovante, permet de poser la première pierre d'une nouvelle organisation qui ouvre sur de nombreux possibles pour peu que le haut de la pyramide ait confiance en l'intelligence collective, et que le bas de cette dernière, prenne à coeur d'entrer dans les méandres d'une organisation dans laquelle chacun doit pouvoir trouver sa place.
-Comment faire évoluer l'existant, quelle place pour les rôles qui ont actuellement ces redevabilités, quels sont les forces et les faiblesses d'une organisation qui rend transparente sa gestion financière? Autant de questions auxquelles les expérimentateurs devront trouver leurs propres réponses en fonction de leur écosystème entrepreneurial.
+
+Cette approche, nouvelle et innovante, permet de poser la première pierre d'une nouvelle organisation qui ouvre sur de nombreux possibles pour peu que le haut de la pyramide ait confiance en l'intelligence collective, et que le bas de cette dernière prenne à coeur d'entrer dans les méandres d'une organisation dans laquelle chacun doit pouvoir trouver sa place.
+
+Comment faire évoluer l'existant, quelle place pour les rôles qui ont actuellement ces redevabilités, quels sont les forces et les faiblesses d'une organisation qui rend transparente sa gestion financière ? Autant de questions auxquelles les expérimentateurs devront trouver leurs propres réponses en fonction de leur écosystème entrepreneurial.
 
 ## Nos sources d’inspiration
 
