@@ -107,11 +107,11 @@ La redistribution des bénéfices est faite au prorata temporis annuel des salar
 
 Ci-après le mécanisme global présenté via un exemple fictif.
 
-{{< img name="exemple_01_choix_remunerations" >}}
+{{< img name="Diapositive1" >}}
 
 Amélie, Dylan et Rémy ont tous les 3 choisi leur rémunération dans la grille. Léa arrive en cours d’année (juillet) sa rémunération est négociée dans la grille.
 
-{{< img name="exemple_02_choix_part_fixe" >}}
+{{< img name="Diapositive2" >}}
 
 Amélie a choisi de ne recevoir tous les mois que 60% de sa rémunération en rémunération fixe.
 
@@ -123,19 +123,19 @@ Ils laissent le reste dans l’entreprise pour en partager les risques.
 
 Léa a été embauché en milieu d’année, il n’a donc pas de variable (cf. paragraphe “L’embauche et l’intégration”).
 
-{{< img name="exemple_03_choix_part_variable" >}}
+{{< img name="Diapositive3" >}}
 
 C’est la fin de l’année, le moment de faire le bilan financier. La société a fait une très bonne année, elle peut donc verser à nos 4 amis la totalité de leur part variable.
 
-{{< img name="exemple_04_versement_bonification" >}}
+{{< img name="Diapositive4" >}}
 
 Part variable, accompagnée de la bonification correspondante, calculée en utilisant le coefficient multiplicateur décidé par l’ensemble des salariés.
 
-{{< img name="exemple_05_versement_benefices" >}}
+{{< img name="Diapositive5" >}}
 
 Les résultats sont tellement bons, qu’il reste de quoi verser une redistribution des bénéfices à tous les salariés. Léa n’étant là que depuis 6 mois, il n’a que la moitié de cette participation.
 
-{{< img name="exemple_06_remuneration" >}}
+{{< img name="Diapositive6" >}}
 
 Au final voici les rémunérations annuelles de nos quatre amis.
 
