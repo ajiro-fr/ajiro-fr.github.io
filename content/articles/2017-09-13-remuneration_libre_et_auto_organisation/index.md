@@ -109,19 +109,19 @@ Ci-après le mécanisme global présenté via un exemple fictif.
 
 {{< img name="exemple_01_choix_remunerations" >}}
 
-Léo, Léa et Léonie ont tous les 3 choisi leur rémunération dans la grille. Léon arrive en cours d’année (juillet) sa rémunération est négociée dans la grille.
+Amélie, Dylan et Rémy ont tous les 3 choisi leur rémunération dans la grille. Léa arrive en cours d’année (juillet) sa rémunération est négociée dans la grille.
 
 {{< img name="exemple_02_choix_part_fixe" >}}
 
-Léo a choisi de ne recevoir tous les mois que 60% de sa rémunération en rémunération fixe.
+Amélie a choisi de ne recevoir tous les mois que 60% de sa rémunération en rémunération fixe.
 
-Léa a un plus grand besoin de liquidité dans son couple, elle vient d’avoir un bébé. Elle a donc choisi de prendre 80% de sa rémunération en rémunération fixe.
+Dylan a un plus grand besoin de liquidité dans son couple, elle vient d’avoir un bébé. Elle a donc choisi de prendre 80% de sa rémunération en rémunération fixe.
 
-Léonie a fait le choix de ne recevoir que 50% de sa rémunération en rémunération fixe.
+Rémy a fait le choix de ne recevoir que 50% de sa rémunération en rémunération fixe.
 
 Ils laissent le reste dans l’entreprise pour en partager les risques.
 
-Léon a été embauché en milieu d’année, il n’a donc pas de variable (cf. paragraphe “L’embauche et l’intégration”).
+Léa a été embauchée en milieu d’année, elle n’a donc pas de variable (cf. paragraphe “L’embauche et l’intégration”).
 
 {{< img name="exemple_03_choix_part_variable" >}}
 
@@ -133,7 +133,7 @@ Part variable, accompagnée de la bonification correspondante, calculée en util
 
 {{< img name="exemple_05_versement_benefices" >}}
 
-Les résultats sont tellement bons, qu’il reste de quoi verser une redistribution des bénéfices à tous les salariés. Léon n’étant là que depuis 6 mois, il n’a que la moitié de cette participation.
+Les résultats sont tellement bons, qu’il reste de quoi verser une redistribution des bénéfices à tous les salariés. Léa n’étant là que depuis 6 mois, elle n’a que la moitié de cette participation.
 
 {{< img name="exemple_06_remuneration" >}}
 
