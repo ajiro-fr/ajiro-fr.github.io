@@ -121,7 +121,7 @@ Rémy a fait le choix de ne recevoir que 50% de sa rémunération en rémunérat
 
 Ils laissent le reste dans l’entreprise pour en partager les risques.
 
-Léa a été embauché en milieu d’année, il n’a donc pas de variable (cf. paragraphe “L’embauche et l’intégration”).
+Léa a été embauchée en milieu d’année, elle n’a donc pas de variable (cf. paragraphe “L’embauche et l’intégration”).
 
 {{< img name="Diapositive3" >}}
 
@@ -133,7 +133,7 @@ Part variable, accompagnée de la bonification correspondante, calculée en util
 
 {{< img name="Diapositive5" >}}
 
-Les résultats sont tellement bons, qu’il reste de quoi verser une redistribution des bénéfices à tous les salariés. Léa n’étant là que depuis 6 mois, il n’a que la moitié de cette participation.
+Les résultats sont tellement bons, qu’il reste de quoi verser une redistribution des bénéfices à tous les salariés. Léa n’étant là que depuis 6 mois, elle n’a que la moitié de cette participation.
 
 {{< img name="Diapositive6" >}}
 
