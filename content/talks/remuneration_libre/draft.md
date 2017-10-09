@@ -15,8 +15,9 @@
 # C'est possible
 
 1. Salaire unique (Les lutins)
+2. Salaire selon des critères définis collectivement (Boimondeau)
 1. Salaire selon les rôles (Nereide)
-1. Salaire selon la qualification/diplômes (B. Friot)
+1. Salaire selon la qualification/diplômes (B. Friot, Gaudin)
 1. Salaire choisi par chaque employé (Gore)
 2. Primes discuté par les salariés (Worldline) (premier petit pas)
 
