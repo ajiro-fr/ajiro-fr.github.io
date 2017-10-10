@@ -3,6 +3,7 @@ date: 2017-09-13
 title: "La rémunération libre, où comment mettre l'auto-organisation au cœur de l'entreprise"
 lang: fr
 draft: true
+draft_level: finition
 authors:
   - albiez_olivier
   - clavier_thomas

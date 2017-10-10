@@ -1,0 +1,6 @@
+{{ if .Params.draft_level }}
+{{ $level := index $.Site.Data.drafts (lower .Params.draft_level) }}
+  <div class="draft">
+    {{ $level.description | markdownify }}
+  </div>
+{{ end }}

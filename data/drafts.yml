@@ -1,0 +1,22 @@
+structure:
+  description: |
+    En relecture pour amélioration de la **structure** :
+
+    - L'objectif de l'article est-il clair ?
+    - Les idées s'enchaînent-elles ?
+
+coherence:
+  description: |
+    En relecture pour amélioration de la **cohérence** :
+
+    - Le style est-il cohérent ?
+    - Le vocabulaire est-il homogène ?
+    - Rythme
+    - Longueur des phrases
+
+finition:
+  description: |
+    En relecture pour amélioration de la **finition** :
+
+    - Orthographe et grammaire
+    - Typographie

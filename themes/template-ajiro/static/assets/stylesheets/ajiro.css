@@ -309,3 +309,14 @@ body {
 .tag-category {
   background-color: #3D7890;
 }
+
+.draft {
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  min-height: 4em;
+  background-color: #fed393;
+  border-color: #c47401;
+  color: #955901;
+}
