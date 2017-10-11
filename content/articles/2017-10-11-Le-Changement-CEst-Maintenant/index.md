@@ -15,31 +15,33 @@ illustration:
 description: |
   Turlututu chapeau pointu
 ---
-Je lis de plus en plus des articles, post, etc ... qui nous parlent de transformation d'organisation. Mais pour vous ça veut dire quoi transformer une organisation ? Dans la suite de cet article (à tiroir), je me propose de vous présenter les niveaux d'impacts qu'une transformation peut toucher. Ensuite, je détaillerai les différentes stratégies pour le faire.
+Je lis de plus en plus des articles, post, etc ... qui nous parlent de transformation d'organisation. Mais pour vous Ã§a veut dire quoi transformer une organisation ? Dans la suite de cet article (Ã  tiroir), je me propose de vous prÃ©senter les niveaux d'impacts qu'une transformation peut toucher. Ensuite, je dÃ©taillerai les diffÃ©rentes stratÃ©gies pour le faire.
 
 Qu'est ce que l'on change quand on transforme une organisation ? Pour faire simple, je vois 3 zones d'impacts :
 
 {{< img name="bills" legend="La dette" source="https://www.flickr.com/photos/jasonmirandes/7426861536/" >}}
 
-- La raison d'être : L'objectif même de l'organisation.
-Dans "From zero to one", Peter Thiel nous parle d'un objectif qui transcende l'organisation. C'est ce qui va faire se lever les collaborateurs le matin. Autant le dire tout de suite, gagner de l'argent n'entre pas dans la catégorie raison d'être. Je respire pour être en vie, mais respirer n'est pas mon but dans la vie. L'argent est nécessaire pour qu'une organisation vive, mais ce n'est pas le but d'une organisation. Actuellement, je considère que certaines organisations n'ont pas de raison d'être connue et reconnue par tous.
+- La raison d'Ãªtre : L'objectif mÃªme de l'organisation.
+Dans "From zero to one", Peter Thiel nous parle d'un objectif qui transcende l'organisation. C'est ce qui va faire se lever les collaborateurs le matin. Autant le dire tout de suite, gagner de l'argent n'entre pas dans la catÃ©gorie raison d'Ãªtre. Je respire pour Ãªtre en vie, mais respirer n'est pas mon but dans la vie. L'argent est nÃ©cessaire pour qu'une organisation vive, mais ce n'est pas le but d'une organisation. Actuellement, je considÃ¨re que certaines organisations n'ont pas de raison d'Ãªtre connue et reconnue par tous.
 
 {{< img name="bills" legend="La dette" source="https://www.flickr.com/photos/thelastminute/3444332184" >}}
 
-- La culture : On pourrait résumer en parlant du modèle mental de l'organisation. Il s'agit de regarder les comportements type. Dans telle situation, les personnes de l'organisation ont tendance à se comporter de cette façon. Par exemple, la prise de décision est faite de manière collégiale avec recherche du consensus. Autre exemple, il vaut mieux demander pardon que la permission veut dire que la structure encourage la prise d'initiative et que l'échec n'est pas vu comme une faute mais un apprentissage. Toucher à la culture d'une organisation, cela veut dire toucher aux interactions entre les personnes et à leurs comportements individuels. L'impact peut être profond et il est donc intéressant de bien peser le pour et le contre avant de se lancer dans ce type de transformation.
+- La culture : On pourrait rÃ©sumer en parlant du modÃ¨le mental de l'organisation. Il s'agit de regarder les comportements type. Dans telle situation, les personnes de l'organisation ont tendance Ã  se comporter de cette faÃ§on. Par exemple, la prise de dÃ©cision est faite de maniÃ¨re collÃ©giale avec recherche du consensus. Autre exemple, il vaut mieux demander pardon que la permission veut dire que la structure encourage la prise d'initiative et que l'Ã©chec n'est pas vu comme une faute mais un apprentissage. Toucher Ã  la culture d'une organisation, cela veut dire toucher aux interactions entre les personnes et Ã  leurs comportements individuels. L'impact peut Ãªtre profond et il est donc intÃ©ressant de bien peser le pour et le contre avant de se lancer dans ce type de transformation.
 
 {{< img name="bills" legend="La dette" source="https://www.flickr.com/photos/derekmead/5843671534" >}}
 
-- Les pratiques : A objectif (pourquoi) identique, il s'agit de changer la mise en oeuvre (comment). Globalement, il y a beaucoup de transformations de ce type dans les organisations et elles ne portent pas souvent le mot transformation. Il n'y a pas de remise en cause des comportements, juste de la manière de faire. Il s'agit donc souvent de transformations qui provoquent une résistance au changement faible. Des fois cela peut être un peu plus impactant comme quand ma mère est passé des lettres papier aux lettres électroniques. Il a fallu apprivoiser cette satané souris.
+- Les pratiques : A objectif (pourquoi) identique, il s'agit de changer la mise en oeuvre (comment). Globalement, il y a beaucoup de transformations de ce type dans les organisations et elles ne portent pas souvent le mot transformation. Il n'y a pas de remise en cause des comportements, juste de la maniÃ¨re de faire. Il s'agit donc souvent de transformations qui provoquent une rÃ©sistance au changement faible. Des fois cela peut Ãªtre un peu plus impactant comme quand ma mÃ¨re est passÃ© des lettres papier aux lettres Ã©lectroniques. Il a fallu apprivoiser cette satanÃ© souris.
 
-Plus on remonte dans cette pyramide, plus on touche à l'humain. Changez de pratiques peut même se faire par hasard. Un changement de culture implique nécessairement un changement de comportements des individus qui composent l'organisation.
+{{< img name="change" legend="La pyramide" source="samuel-retiere" >}}
 
-Voici les façons classiques pour une organisation de s'engager dans le changement :
-- Le changement sous contrôle : N'oubliez pas l'ordonnance
-- Copiez c'est gagné : Visons la parité
-- Prendre ses désirs pour la réalité
-- Plan de transformation : Difficile de résister au soufflé ou Suivez le KPI : Vague après vague
-- Le voyage sans fin : Bienvenue à bord
-- Changer de système d'exploitation pour changer vraiment
+Plus on remonte dans cette pyramide, plus on touche Ã  l'humain. Changez de pratiques peut mÃªme se faire par hasard. Un changement de culture implique nÃ©cessairement un changement de comportements des individus qui composent l'organisation.
+
+Voici les faÃ§ons classiques pour une organisation de s'engager dans le changement :
+- Le changement sous contrÃ´le : N'oubliez pas l'ordonnance
+- Copiez c'est gagnÃ© : Visons la paritÃ©
+- Prendre ses dÃ©sirs pour la rÃ©alitÃ©
+- Plan de transformation : Difficile de rÃ©sister au soufflÃ© ou Suivez le KPI : Vague aprÃ¨s vague
+- Le voyage sans fin : Bienvenue Ã  bord
+- Changer de systÃ¨me d'exploitation pour changer vraiment
 - L'excroissance
-- Le saut sans retour : couper toute possibilité de revenir en arrière
+- Le saut sans retour : couper toute possibilitÃ© de revenir en arriÃ¨re
