@@ -21,8 +21,8 @@ Le jeu des suites a pour but de mettre en lumière l'impact du task switching su
 
 ## Déroulé
 Chaque joueur prend une feuille et un crayon. Ensuite et au top départ les joueurs devront écrire les 4 suites suivantes :
-- Lettres de l'alphabet : Partir de la lettre L et revenir en arrière jusqu'à A. On ne part pas de A pour aller à L.
-	L,K,J,I,H,G,F,E,D,C,B,A
+- Lettres de l'alphabet de A à L : 
+	A,B,C,D,E,F,G,H,I,J,K,L
 - La table d'addition de 5 : Comptez de 5 en 5 de 5 à 60.
 	5,10,15,20,25,30,35,40,45,50,55,60
 - La première lettre des mois de l'année.
