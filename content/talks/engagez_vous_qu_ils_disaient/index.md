@@ -28,11 +28,16 @@ sessions:
   - date: "2016-11-29"
     name: Lean Kanban France 2016
     url: http://2016.leankanban.fr
+  - date: "2017-10-14"
+    name: Agile Tour Rennes 2017
+    url: http://agiletour.agilerennes.org/programme-2017/
 ressources:
   - name: "Le support de présentation Agile Tour Lille 2016"
     file: slides-agile-tour-lille-2016.pdf
   - name: "Le support de présentation LKFR 2016"
     file: slides-lkfr-2016.pdf
+  - name: "Le support de présentation Agile Tour Rennes 2017"
+    file: slides-agile-tour-rennes-2017.pdf
 ---
 
 # Présentation détaillée
