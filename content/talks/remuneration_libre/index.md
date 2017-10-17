@@ -8,6 +8,7 @@ authors:
   - albiez_olivier
   - clavier_thomas
   - rabemananjara_mija
+  - quille_julie
 tags:
   - entreprise libérée
   - management
@@ -34,7 +35,7 @@ references:
     url: /articles/2017-01-26-remuneration_libre
 ressources:
   - name: "Le support de présentation Agile Tour Rennes 2017"
-    file: slides-agile-tour-rennes-2017.pdf
+    file: https://gitlab.com/azae/conferences/remuneration-agile/builds/artifacts/20171014-atrennes/file/slides.pdf?job=compile_pdf
 ---
 
 # Présentation détaillée

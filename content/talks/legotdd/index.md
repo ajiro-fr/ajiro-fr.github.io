@@ -26,10 +26,15 @@ references:
 ressources:
   - name: "Le support de présentation Agile Laval 2017"
     file: https://gitlab.com/tclavier/atelier-legotdd/builds/artifacts/master/file/2017agileLaval.pdf?job=compile_pdf
+  - name: "Le support de présentation Agile Tour Rennes 2017"
+    file: https://gitlab.com/tclavier/atelier-legotdd/builds/artifacts/master/file/2017AgileRennes.pdf?job=compile_pdf
 sessions:
   - date: "2017-06-29"
     name: Agile Laval 2017
     url: http://www.agilelaval.org/
+  - date: "2017-10-13"
+    name: Agile Tour Rennes 2017
+    url: http://agiletour.agilerennes.org/
 ---
 
 ## Description
