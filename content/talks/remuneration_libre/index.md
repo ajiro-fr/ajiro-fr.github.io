@@ -19,9 +19,12 @@ abstract: |
 
   Nous vous proposons une réflexion sur ce que nous lions à la rémunération, ainsi qu'une présentation d'une solution de rémunération plus juste répondant aux aspirations de l'entreprise et de l'individu libéré.
 sessions:
-  - date: 2017-02-13
+  - date: "2017-02-13"
     name: Session privée chez ANEO
     url: http://aneo.eu/
+  - date: "2017-10-13"
+    name: Agile Tour Rennes 2017
+    url: http://agiletour.agilerennes.org/programme-2017/
 references:
   - title: Article de la présentation chez ANEO
     icon: file-text-o
@@ -29,6 +32,9 @@ references:
   - title: Le modèle de rémunération libre
     icon: file-text-o
     url: /articles/2017-01-26-remuneration_libre
+ressources:
+  - name: "Le support de présentation Agile Tour Rennes 2017"
+    file: slides-agile-tour-rennes-2017.pdf
 ---
 
 # Présentation détaillée
