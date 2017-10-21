@@ -29,8 +29,10 @@
     <div class="offset-lg-2 col-lg-8 col-xs-12 text-justify">
       <div class="card bg-light-gray">
         <div class="card-block">
-          <h2>Résumé</h2>
-          {{ .Params.abstract | markdownify }}
+          {{ if .Params.abstract }}
+            <h2>Résumé</h2>
+            {{ .Params.abstract | markdownify}}
+          {{ end }}
           {{ if .Params.sessions }}
             <h2>Sessions</h2>
             <ul>
