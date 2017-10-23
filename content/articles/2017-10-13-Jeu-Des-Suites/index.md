@@ -21,18 +21,24 @@ Le jeu des suites a pour but de mettre en lumière l'impact du task switching su
 
 ## Déroulé
 Chaque joueur prend une feuille et un crayon. Ensuite et au top départ les joueurs devront écrire les 4 suites suivantes :
+
 - Lettres de l'alphabet de A à L : 
 	A,B,C,D,E,F,G,H,I,J,K,L
+
 - La table d'addition de 5 : Comptez de 5 en 5 de 5 à 60.
 	5,10,15,20,25,30,35,40,45,50,55,60
+
 - La première lettre des mois de l'année.
 	J,F,M,A,M,J,J,A,S,O,N,D
+
 - Les chiffres romains de I à XII. Cette série est assez culturelle, elle feedbackctionne mal avec les publics de culture non européenne.
 	I,II,III,IV,V,VI,VII,VIII,IX,X,XI,XII
 
 En extra suites :
+
 - Les initiales des classes à l'école de petite section à troisième.
 	PS,MS,GS,CP,CE1,CE2,CM1,CM2,S,C,Q,T 
+
 - Les cartes de 3 à l'as.
 	3,4,5,6,7,8,9,10,V,D,R,A
 
