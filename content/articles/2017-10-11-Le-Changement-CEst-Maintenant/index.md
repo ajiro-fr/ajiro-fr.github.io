@@ -2,7 +2,7 @@
 date: 2017-10-11
 title: "Le changement, c'est maintenant : C'est quoi une transformation ?"
 lang: fr
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
@@ -38,7 +38,10 @@ Globalement, il y a beaucoup de transformations de ce type dans les organisation
 
 Plus on remonte dans cette pyramide, plus on touche à l'humain. Changez de pratiques peut même se faire par hasard. Un changement de culture implique nécessairement un changement de comportements des individus qui composent l'organisation.
 
-Voici les façons classiques pour une organisation de s'engager dans le changement :
+{{< img name="cuisine" legend="Transformons" source="https://www.flickr.com/photos/mayoi/3587424866" >}}
+
+## Transformons
+Une fois que l'on a déterminé ce que l'on voulait changer et pourquoi, il ne reste plus qu'à choisir la stratégie pour y arriver. Voici des façons classiques pour une organisation de s'engager dans le changement :
 - Le changement sous contrôle : N'oubliez pas l'ordonnance
 - Copiez c'est gagné : Visons la parité
 - Prendre ses désirs pour la réalité
