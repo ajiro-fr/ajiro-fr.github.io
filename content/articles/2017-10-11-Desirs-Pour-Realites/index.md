@@ -13,14 +13,14 @@ illustration:
   name: flowers
   source: https://www.flickr.com/photos/marinadelcastell/24247169493/
 description: |
-Dans cette série "Le changement, c'est maintenant", je décris les différentes façons utilisées pour "changer" organisation. Dans ce post, je vais prendre prendre mes désirs pour réalité. Je vais faire "Comme si c'était bon".
+  Dans cette série "Le changement, c'est maintenant", je décris les différentes façons utilisées pour "changer" organisation. Dans ce post, je vais prendre prendre mes désirs pour réalité. Je vais faire "Comme si c'était bon".
 ---
 Dans cette série "Le changement, c'est maintenant", je décris les différentes façons utilisées pour "changer" organisation. Dans ce post, je vais prendre prendre mes désirs pour réalité. Je vais faire "Comme si c'était bon".
 
 ## Le contexte
 {{< img name="contexte" legend="Le contexte" source="https://www.flickr.com/photos/marinadelcastell/9429495502/" >}}
 
-La personne qui a le mieux raconté cette façon de faire, c'est David Marquet ancien capitaine d'un sous marin nucléaire de l'US Navy. Je vous fais la version courte. David Marquet n'est à la base pas une personne fan du command & control. Il est formé sur un sous-marin, mais quelques temps avant son affectation finale on lui change de sous-marin. Il est dans l'incapacité d'apprendre en si peu de temps comment fonctionne son nouveau sous-marin qui soit dit en passant est le moins bien noté de l'US Navy. 
+La personne qui a le mieux raconté cette façon de faire, c'est David Marquet ancien capitaine d'un sous marin nucléaire de l'US Navy. Je vous fais la version courte. David Marquet n'est à la base pas une personne fan du command & control. Il est formé sur un sous-marin, mais quelques temps avant son affectation finale on lui change de sous-marin. Il est dans l'incapacité d'apprendre en si peu de temps comment fonctionne son nouveau sous-marin qui soit dit en passant est le moins bien noté de l'US Navy.
 
 ## La tactique
 {{< img name="tactique" legend="La tactique" source="https://www.flickr.com/photos/crazycups/4771709262" >}}
