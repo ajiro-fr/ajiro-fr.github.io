@@ -15,9 +15,9 @@ illustration:
 description: |
   Le jeu du canard lapin est une aide au changement. Il a pour but de faire percevoir qu'une même situation peut être vu de deux façons différentes.
 ---
-Le jeu du canard lapin est une aide au changement. Il a pour but de faire percevoir à une personne qu'une même situation peut être vu de deux façons différentes. 
+Le jeu du canard lapin est une aide au changement. Il a pour but de faire percevoir à une personne qu'une même situation peut être vu de deux façons différentes.
 
-{{< img name="..." legend="Canard" source="https://www.flickr.com/photos/eltpics/10400516995" >}}
+{{< img name="canard" legend="Canard" source="https://www.flickr.com/photos/eltpics/10400516995" >}}
 
 ## Déroulé du jeu
 Vous comprendrez mieux par la suite pourquoi, mais sachez donc que ce jeu est plus fait pour être jouer à deux. Au début, vous montrez le dessin à votre interlocuteur et vous lui demandez ce qu'il voit. Ensuite, je vous explique par l'intermédiaire d'une discussion fictive :
@@ -38,7 +38,7 @@ Arrivé à ce point, j'ai mon interlocuteur à voir sur le dessin l'autre animal
 
 ## Suite de la discussion
 - Moi : Et bien tu vois, on peut voir la même situation et l'interpréter de façon différente sachant que les deux personnes ont raison. Elles décrivent chacune ce qu'elles voient. Vous ne vous comprenez pas car vous ne voyez pas la même chose. Tu peux avoir parfaitement raison en me proposant un étang pour une situation donnée, mais tu ne m'aideras qu'à partir du moment ou tu m'auras permis de voir le canard.
- 
+
 C'est toute la question autour de la vision commune et le fait de proposer des solutions qui nous paraissent bonnes à quelqu'un sans qu'au préalable on se soit connecter pour parler la même langue.
 
 ## Conclusion
