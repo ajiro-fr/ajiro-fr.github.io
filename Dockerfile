@@ -8,7 +8,7 @@ run apt-get update \
     wget \
  && apt-get clean
 
-run wget https://github.com/spf13/hugo/releases/download/v0.27.1/hugo_0.27.1_Linux-64bit.deb -O /tmp/hugo.deb \
+run wget https://github.com/spf13/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.deb -O /tmp/hugo.deb \
  && dpkg -i /tmp/hugo.deb \
  && rm -f /tmp/hugo.deb
 
