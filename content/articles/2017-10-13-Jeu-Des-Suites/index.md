@@ -22,7 +22,7 @@ Le jeu des suites a pour but de mettre en lumière l'impact du task switching su
 ## Déroulé
 Chaque joueur prend une feuille et un crayon. Ensuite et au top départ les joueurs devront écrire les 4 suites suivantes :
 
-- Lettres de l'alphabet de A à L : 
+- Lettres de l'alphabet de A à L :
 	A,B,C,D,E,F,G,H,I,J,K,L
 
 - La table d'addition de 5 : Comptez de 5 en 5 de 5 à 60.
@@ -37,7 +37,7 @@ Chaque joueur prend une feuille et un crayon. Ensuite et au top départ les joue
 En extra suites :
 
 - Les initiales des classes à l'école de petite section à troisième.
-	PS,MS,GS,CP,CE1,CE2,CM1,CM2,S,C,Q,T 
+	PS,MS,GS,CP,CE1,CE2,CM1,CM2,S,C,Q,T
 
 - Les cartes de 3 à l'as.
 	3,4,5,6,7,8,9,10,V,D,R,A
@@ -67,5 +67,3 @@ Je donne ensuite souvent le graphe ci dessous qui montre l'impact du multi taski
 En deuxième élément de débrief, je trace le schéma ci dessous. Il montre l'impact du multi tasking sur les délais. Faire plusieurs choses en même temps revient à augmenter les délais.
 
 {{< img name="Multitasking2" legend="Impact du Multi Tasking Delais" source="http://newproductvisions.com/blog/?p=458" >}}
-
-

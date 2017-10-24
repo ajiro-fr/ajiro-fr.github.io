@@ -13,7 +13,7 @@ illustration:
   name: cercle
   source: https://www.flickr.com/photos/hernanpc/31396013856/in/faves-27869077@N05/
 description: |
-Il y a quelques années je discutais avec Bjarte Bogsnes du temps que prenait une transformation vers Beyond Budgeting. La réponse fut assez simple : « Je ne sais pas, c’est plus un voyage qu’un chemin balisé ». Dans la même ordre d’idée, on pourrait parler de Netflix, Amazon, Zappos & Co. Est-ce qu’ils communiquent sur des plans de transformation ? Euh pas vraiment, ils sont plus dans de l’adaptation permanente.
+  Il y a quelques années je discutais avec Bjarte Bogsnes du temps que prenait une transformation vers Beyond Budgeting. La réponse fut assez simple : « Je ne sais pas, c’est plus un voyage qu’un chemin balisé ». Dans la même ordre d’idée, on pourrait parler de Netflix, Amazon, Zappos & Co. Est-ce qu’ils communiquent sur des plans de transformation ? Euh pas vraiment, ils sont plus dans de l’adaptation permanente.
 --- 
 Il y a quelques années je discutais avec Bjarte Bogsnes du temps que prenait une transformation vers Beyond Budgeting. La réponse fut assez simple : « Je ne sais pas, c’est plus un voyage qu’un chemin balisé ». Dans la même ordre d’idée, on pourrait parler de Netflix, Amazon, Zappos & Co. Est-ce qu’ils communiquent sur des plans de transformation ? Euh pas vraiment, ils sont plus dans de l’adaptation permanente. Revenons aux vacances pour se faire un peu plaisir.
 

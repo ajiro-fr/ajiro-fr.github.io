@@ -13,7 +13,7 @@ illustration:
   name: exit
   source: https://www.flickr.com/photos/karen_od/2579728341/
 description: |
-Je veux bien changer, mais je veux être sûr de savoir où je vais mettre les pieds. J'opte donc pour des frameworks documentés pour ne pas dire prescriptifs qui me permettent de me projeter. SAFe est par exemple un framework d'agilité à l'echelle utile pour gérer de la complexité.
+  Je veux bien changer, mais je veux être sûr de savoir où je vais mettre les pieds. J'opte donc pour des frameworks documentés pour ne pas dire prescriptifs qui me permettent de me projeter. SAFe est par exemple un framework d'agilité à l'echelle utile pour gérer de la complexité.
 ---
 Je veux bien changer, mais je veux être sûr de savoir où je vais mettre les pieds. J'opte donc pour des frameworks documentés pour ne pas dire prescriptifs qui me permettent de me projeter. SAFe est par exemple un framework d'agilité à l'echelle utile pour gérer de la complexité.
 
