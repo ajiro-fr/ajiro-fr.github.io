@@ -18,7 +18,7 @@ description: |
 C'est un des types de transformation que je connais bien pour l'avoir fait trois fois. Nous sommes dans une situation oé la volonté de changement vient de l'organisation pour ne pas dire un manager assez haut placé, mais le changement sera plus pour les équipes du bas. Je crée ensuite un programme pour suivre cette transformation avec le difficile alignement entre l'organisation (le programme) et les équipes (le coaching).
 
 ## Le suivi
-{{< img name="Le suivi" legend="suivi" source="https://www.flickr.com/photos/i-dream/2564808802" >}}
+{{< img name="suivi" legend="Le suivi" source="https://www.flickr.com/photos/i-dream/2564808802" >}}
 Au niveau de l'organisation, je vais vouloir suivre que la transformation avance "comme prévue". Je vais demander un plan de transformation pour chaque équipe et "demander des comptes" pour vérifier que je ne dépense pas de l'argent par les fenétres. On arrive souvent sur un indicateur de maturité par équipe qui est aggrégé au niveau de l'organisation. Au niveau équipe, il y a les objectifs que l'équipe peut avoir mais aussi ceux que le programme lui propose (fortemenent). Parlons maintenant avantages et inconvénients.
 
 ## Question de paradigme
