@@ -10,14 +10,14 @@ tags:
 categories:
   - mindset
 illustration:
-  name: m.png
+  name: suites
   source: https://www.flickr.com/photos/littlemissy05/3814420646
 description: |
   Le jeu des suites a pour but de mettre en lumière l'impact du task switching sur la performance individuelle.
 ---
 Le jeu des suites a pour but de mettre en lumière l'impact du task switching sur la performance individuelle. Pour cela rien de mieux qu'un petit jeu :
 
-{{< img name="Multitasking2" legend="Dominos" source="https://www.flickr.com/photos/golden_ribbon/6825694281" >}}
+{{< img name="dominos" legend="Dominos" source="https://www.flickr.com/photos/golden_ribbon/6825694281" >}}
 
 ## Déroulé
 Chaque joueur prend une feuille et un crayon. Ensuite et au top départ les joueurs devront écrire les 4 suites suivantes :
@@ -62,8 +62,8 @@ Je demande à chaque personne de donner l'écart de performance en pourcentage e
 Dans la majorité des cas, il y a une perte de performance d'au moins 20%. Il arrive assez souvent que certains améliorent leur performance dû à un premier run catastrophique sur l'alphabet. Je commence par les suites dans l'ordre pour ne pas avoir l'argument de l'expérience. Même avec l'expérience du premier round, le deuxième round est plus mauvais que le premier à cause du multi tasking. Certaines personnes dont je fais partie font quasi le même temps dans les 2 cas. Cela pourrait vouloir dire que l'impact du multi tasking est nul chez moi et ce n'est pas vrai. J'arrive à faire les mêmes performances mais la dépense d'énergie n'est pas du tout le même. Cela ressort avec la deuxième question.
 
 Je donne ensuite souvent le graphe ci dessous qui montre l'impact du multi tasking sur la performance.
-{{< img name="multiTaskingImpact" legend="Impact du Multi Tasking Performance" source="https://blog.codinghorror.com/content/images/uploads/2006/09/6a0120a85dcdae970b0120a86d6caa970b-pi.png" >}}
+{{< img name="multi-tasking-impact" legend="Impact du Multi Tasking Performance" source="https://blog.codinghorror.com/content/images/uploads/2006/09/6a0120a85dcdae970b0120a86d6caa970b-pi.png" >}}
 
 En deuxième élément de débrief, je trace le schéma ci dessous. Il montre l'impact du multi tasking sur les délais. Faire plusieurs choses en même temps revient à augmenter les délais.
 
-{{< img name="Multitasking2" legend="Impact du Multi Tasking Delais" source="http://newproductvisions.com/blog/?p=458" >}}
+{{< img name="multitasking" legend="Impact du Multi Tasking Delais" source="http://newproductvisions.com/blog/?p=458" >}}
