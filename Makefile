@@ -26,17 +26,17 @@ build:
 	docker tag ${IMAGE} ${IMAGE}:${TAG}
 
 test: build
-	@docker rm -f marketing || true
-	docker run --name marketing -d -p 80:80 deliverous/marketing
-	linkchecker --check-extern --anchors --ignore-url=^mailto: http://localhost
-	docker stop marketing
-	@docker rm -f marketing || true
+	@docker rm -f ajiro || true
+	docker run --name ajiro -d -p 8081:80 ${IMAGE}:${TAG}
+	linkchecker --check-extern --anchors --ignore-url=^mailto: http://localhost:8081
+	docker stop ajiro
+	@docker rm -f ajiro || true
 
 publish: build test
 	docker push ${IMAGE}
 	docker push ${IMAGE}:${TAG}
 
-hugo: assets
+hugo:
 	hugo server --buildDrafts --watch
 
 
