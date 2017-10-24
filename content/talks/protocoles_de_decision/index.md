@@ -16,6 +16,13 @@ illustration:
   url: http://flic.kr/p/dkcojE
 abstract: |
   Dès lors que nous sommes confrontés à la prise d’une décision entre plusieurs personnes, on utilise, plus ou moins consciemment, un protocole de décision. Cet atelier vous fera découvrir et pratiquer quelques-uns des protocoles les plus connus.
+sessions:
+  - date: "2017-07-05"
+    name: Agile Paris by Night 2017
+    url: http://apbn2017.agileparis.org/
+ressources:
+  - name: "Agile Paris by Night 2017"
+    file: slides-apbn-2017.pptx
 ---
 
 # Présentation détaillée
