@@ -3,7 +3,7 @@ aliases: /articles/2016/11/24/katastrophe_3_converge.html
 date: 2016-11-24
 title: "Product Developement : Des katas de décision"
 lang: fr
-hidden: true
+hidden: false
 authors:
   - retiere_samuel
 tags:
