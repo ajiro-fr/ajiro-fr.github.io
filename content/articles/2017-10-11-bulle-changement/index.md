@@ -13,11 +13,11 @@ illustration:
   name: horizons
   source: https://www.flickr.com/photos/dmitrysumin/6125303139/
 description: |
-Je pense que mon organisation actuelle est difficilement adaptable. Pas de problème, j'ai la solution pour vous. Je vais créer une nouvelle structure à côté que je vais faire grossir au fur et à mesure. Reste à définir ce que je fais de l'ancienne.
---- 
+  Je pense que mon organisation actuelle est difficilement adaptable. Pas de problème, j'ai la solution pour vous. Je vais créer une nouvelle structure à côté que je vais faire grossir au fur et à mesure. Reste à définir ce que je fais de l'ancienne.
+---
 Je pense que mon organisation actuelle est difficilement adaptable. Pas de problème, j'ai la solution pour vous. Je vais créer une nouvelle structure à côté que je vais faire grossir au fur et à mesure. Reste à définir ce que je fais de l'ancienne.
 
-## Les murs 
+## Les murs
 {{< img name="murs" legend="Les murs" source="https://www.flickr.com/photos/cdevers/4602001717/" >}}
 Quel est le problème avec ma structure actuelle ? J'ai beau pousser dans tous les sens, elle revient toujours à son état initial. Je pourrais dire que mon système est fait de son histoire, de ses hommes et de son mode de communication. Tout est tellement imbriqué que je ne crois pas au changement. J'ai beau mettre du sang neuf, il se retrouve absorbé au fur et à mesure. Ce n'est pas les personnes qui sont mauvaises, c'est le système dans lequel elles sont.
 
@@ -25,13 +25,13 @@ Quel est le problème avec ma structure actuelle ? J'ai beau pousser dans tous l
 {{< img name="espoir" legend="L'espoir" source="https://www.flickr.com/photos/zziuni/519445777/" >}}
 Il se trouve que j'ai quand même dans ma structure des personnes que l'état actuel ne satisfait pas. Ils ne rêvent que d'une chose, c'est de pouvoir lacher les cheveaux et libérer toute l'énergie qu'ils ont en eux. Je vais donc créer une structure à côté et je vais bien faire attention qu'elle ne récupère pas la culture de statut quo de l'organisation actuelle. Idéalement, je la crée physiquement à un autre endroit, je fais venir des personnes de l'exterieur et je pars sur un nouveau produit avec peu de dépendance avec l'intérieur.
 
-## L'envol 
+## L'envol
 {{< img name="envol" legend="L'envol" source="https://www.flickr.com/photos/marcosanchez/9707928600" >}}
-J'ai donc ma nouvelle structure qui vit à côté de la première et qui sans les freins du passé est capable d'aller plus vite. A nouvelle organisation dit nouvelle culture qui prend vie au fur et à mesure. Ce qui au début n'était qu'un enfant devient adulte et donc qui demande de l'indépendance. 
+J'ai donc ma nouvelle structure qui vit à côté de la première et qui sans les freins du passé est capable d'aller plus vite. A nouvelle organisation dit nouvelle culture qui prend vie au fur et à mesure. Ce qui au début n'était qu'un enfant devient adulte et donc qui demande de l'indépendance.
 
 ## Le pont
 {{< img name="pont" legend="Le pont" source="https://www.flickr.com/photos/thatsandygirl/30811151740/" >}}
-C'est là que cela peut devenir compliqué. Si j'ai pu faire bouger vite une organisation en créant une de rien, il se pose la question des liens avec l'ancienne. Une des solutions pour ne pas avoir un écart trop grand peut être de prendre quelques personnes de la première pour créer la deuxième. C'est l'exemple des start up internes. L'autre solution, c'est de récupérer une organisation existante comme une start up avec un risque de rejet de culture plus fort. 
+C'est là que cela peut devenir compliqué. Si j'ai pu faire bouger vite une organisation en créant une de rien, il se pose la question des liens avec l'ancienne. Une des solutions pour ne pas avoir un écart trop grand peut être de prendre quelques personnes de la première pour créer la deuxième. C'est l'exemple des start up internes. L'autre solution, c'est de récupérer une organisation existante comme une start up avec un risque de rejet de culture plus fort.
 
 ## Ensemble ?
 {{< img name="ensemble" legend="Ensemble ?" source="https://www.flickr.com/photos/jk_too/4264016378" >}}
