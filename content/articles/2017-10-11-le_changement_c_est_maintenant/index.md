@@ -37,9 +37,17 @@ Plus on remonte dans cette pyramide, plus on touche à l'humain. Changez de prat
 ## Transformons
 {{< img name="cuisine" legend="Transformons" source="https://www.flickr.com/photos/mayoi/3587424866" >}}
 Une fois que l'on a déterminé ce que l'on voulait changer et pourquoi, il ne reste plus qu'à choisir la stratégie pour y arriver. Voici des façons classiques pour une organisation de s'engager dans le changement :
-- Le changement sous contrôle : N'oubliez pas l'ordonnance
-- Copiez c'est gagné : Visons la parité
-- Prendre ses désirs pour la réalité
-- Le programme de transformation : Vague après vague
-- Le voyage sans fin : Bienvenue à bord
-- L'excroissance
+
+- [Le changement sous contrôle : N'oubliez pas l'ordonnance]
+- [Copiez c'est gagné : Visons la parité]
+- [Prendre ses désirs pour la réalité]
+- [Le programme de transformation : Vague après vague]
+- [Le voyage sans fin : Bienvenue à bord]
+- [L'excroissance : La bulle de changement]
+
+[Le changement sous contrôle : N'oubliez pas l'ordonnance]: /articles/2017-10-11-sous_ordonnance
+[Copiez c'est gagné : Visons la parité]: /articles/2017-10-11-visons_la_parite
+[Prendre ses désirs pour la réalité]: /articles/2017-10-11-desirs_pour_realites
+[Le programme de transformation : Vague après vague]: /articles/2017-10-11-vague_apres_vague
+[Le voyage sans fin : Bienvenue à bord]: /articles/2017-10-11-invitation_au_voyage
+[L'excroissance : La bulle de changement]: /articles/2017-10-11-bulle-changement
