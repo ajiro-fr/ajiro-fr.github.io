@@ -38,5 +38,5 @@ Il y cependant un piège à éviter. Je fais de l'agile comme tout le monde, j'a
 Dans une société de gestion pour laquelle j'ai travaillé, nous laissions toujours les autres passer devant sur les projets réglementaires pour leur laisser le temps de déchiffrer une réglementation pas toujours si limpide que ça. Comme nous savions que nous étions rapides pour développer, il nous suffisait d'attendre le dernier moment POUR nous.
 
 ## Quelle stratégie ?
-{{< img name="bills" legend="La dette" source="https://www.flickr.com/photos/marinadelcastell/30029912543/" >}}
+{{< img name="options" legend="Options" source="https://www.flickr.com/photos/marinadelcastell/30029912543/" >}}
 La grande difficulté quand l'on utilise ce type de stratégie, c'est de savoir quand suivre et quand prendre le vent. Une culture conservatrice peut finir par dire qu'il ne faut jamais partir en échappée. Dans ce cas et à moins d'être différenciant dans l'exécution, c'est un coup à toujours finir deuxième voir plus. Cela devient aussi compliqué de recruter des 'talents' dans une structure peu innovante. Je connais une organisation dont la culture est de laisser les autres partir devant qui a très bien performé ces dernières années comparativement aux autres. Je ne sais pas si cela fonctionnera toujours, mais pour l'instant ça marche.
