@@ -9,6 +9,8 @@ authors:
 tags:
   - product
   - kata
+categories:
+  - product
 illustration:
   name: 3830209910_f1568d6bc1
   source: http://flic.kr/p/6QsPXU
