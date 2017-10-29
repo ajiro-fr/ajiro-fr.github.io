@@ -9,6 +9,8 @@ authors:
 tags:
   - product
   - kata
+categories:
+  - product
 illustration:
   name: 200504_CostaRica_dsc_1129
   source: http://retiere.com/albums/CostaRica2005/#725
