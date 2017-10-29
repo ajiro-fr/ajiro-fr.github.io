@@ -13,9 +13,9 @@ illustration:
   name: change
   source: https://www.flickr.com/photos/stavos52093/14700981179
 description: |
-  Je lis de plus en plus des articles, post, etc ... qui nous parlent de transformation d'organisation. Mais pour vous ça veut dire quoi transformer une organisation ? Dans la suite de cet article (à tiroir), je me propose de vous présenter les niveaux d'impacts qu'une transformation peut toucher. Ensuite, je détaillerai les différentes stratégies pour le faire.
+  Je lis de plus en plus d'articles, de posts, etc ... qui nous parlent de transformation d'organisation. Mais pour vous ça veut dire quoi transformer une organisation ? Dans la suite de cet article (à tiroir), je me propose de vous présenter les niveaux d'impacts qu'une transformation peut toucher. Ensuite, je détaillerai les différentes stratégies pour le faire.
 ---
-Je lis de plus en plus des articles, post, etc ... qui nous parlent de transformation d'organisation. Mais pour vous ça veut dire quoi transformer une organisation ? Dans la suite de cet article (à tiroir), je me propose de vous présenter les niveaux d'impacts qu'une transformation peut toucher. Ensuite, je détaillerai les différentes stratégies pour le faire.
+Je lis de plus en plus d'articles, de posts, etc ... qui nous parlent de transformation d'organisation. Mais pour vous ça veut dire quoi transformer une organisation ? Dans la suite de cet article (à tiroir), je me propose de vous présenter les niveaux d'impacts qu'une transformation peut toucher. Ensuite, je détaillerai les différentes stratégies pour le faire.
 
 Qu'est ce que l'on change quand on transforme une organisation ? Pour faire simple, je vois 3 zones d'impacts :
 
