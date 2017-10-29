@@ -1,6 +1,6 @@
 ---
 date: 2017-10-11
-title: "Prendre ses désirs pour la réalité"
+title: "Le changement par la pratique : Prendre ses désirs pour la réalité"
 lang: fr
 draft: false
 authors:
