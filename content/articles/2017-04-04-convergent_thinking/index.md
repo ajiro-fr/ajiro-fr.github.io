@@ -8,6 +8,8 @@ authors:
 tags:
   - convergent thinking
   - prise de decision
+categories:
+  - people
 illustration:
   name: 9347498251_6feb2cdaebo
   source: http://flic.kr/p/ff1nyX
