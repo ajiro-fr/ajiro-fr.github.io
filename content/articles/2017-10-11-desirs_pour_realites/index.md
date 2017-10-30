@@ -46,3 +46,16 @@ Et dans la vraie vie ? C'est une des tactiques que j'ai vu très rarement car el
 {{< img name="saut" legend="Le grand saut" source="https://www.flickr.com/photos/nevadog/45797794/" >}}
 
 L'avantage de ce type de changement, c'est que l'on arrive à changer très vite car tout le monde pousse dans le même sens. Il marche d'autant mieux que l'on est dans un environnement confiné. La difficulté, c'est de réussir le passage de "Je fais" à "Je comprends pourquoi je fais". Un autre inconvénient, c'est quand l'on crée le sentiment d'urgence artificiellement. Dans ce cas, on obtient souvent un engagement de surface du type "Je repeins les murs". C'est super si vous souhaitez communiquer sur le succès du changement, c'est moins bien si vous souhaitez un changement pérenne.
+
+Autres tactiques :
+- [Le changement sous contrôle : N'oubliez pas l'ordonnance]
+- [Copiez c'est gagné : Visons la parité]
+- [Le programme de transformation : Vague après vague]
+- [Le voyage sans fin : Bienvenue à bord]
+- [L'excroissance : La bulle de changement]
+
+[Le changement sous contrôle : N'oubliez pas l'ordonnance]: /articles/2017-10-11-sous_ordonnance
+[Copiez c'est gagné : Visons la parité]: /articles/2017-10-11-visons_la_parite
+[Le programme de transformation : Vague après vague]: /articles/2017-10-11-vague_apres_vague
+[Le voyage sans fin : Bienvenue à bord]: /articles/2017-10-11-invitation_au_voyage
+[L'excroissance : La bulle de changement]: /articles/2017-10-11-bulle_changement
