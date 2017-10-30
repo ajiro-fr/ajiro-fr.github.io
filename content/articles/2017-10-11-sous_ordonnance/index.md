@@ -28,3 +28,16 @@ Changer avec un framework prescriptif est particulièrement utile quand le point
 ## Transcender
   {{< img name="mur" legend="La sortie" source="https://www.flickr.com/photos/danielygo/12003569173" >}}
 Pour résumer, les frameworks prescriptifs sont bien pour poser un cadre là ou cela manque. Ils sont moins adaptés quand cela est déjà fluide car ils peuvent casser une dynamique existante. Ils peuvent aussi poser un problème sur l'état final qui peut être verrouillé par le framework. Il est intéressant de se donner la capacité à s'extraire d'un framework par défaut pas contextualisé sous peine de plus tard devoir tout casser pour mettre en place le dernier framework en date. C'est par contre un changement assez facile, il n'y qu'à suivre la prescription.
+
+Autres tactiques :
+- [Copiez c'est gagné : Visons la parité]
+- [Prendre ses désirs pour la réalité]
+- [Le programme de transformation : Vague après vague]
+- [Le voyage sans fin : Bienvenue à bord]
+- [L'excroissance : La bulle de changement]
+
+[Copiez c'est gagné : Visons la parité]: /articles/2017-10-11-visons_la_parite
+[Prendre ses désirs pour la réalité]: /articles/2017-10-11-desirs_pour_realites
+[Le programme de transformation : Vague après vague]: /articles/2017-10-11-vague_apres_vague
+[Le voyage sans fin : Bienvenue à bord]: /articles/2017-10-11-invitation_au_voyage
+[L'excroissance : La bulle de changement]: /articles/2017-10-11-bulle_changement
