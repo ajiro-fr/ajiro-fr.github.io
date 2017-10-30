@@ -24,6 +24,7 @@ import os
 import re
 import shutil
 import string
+import sys
 import urllib3
 import yaml
 
@@ -179,13 +180,20 @@ def flick_download_image(url):
     else:
         return None
 
+def pseudo_of(url):
+    return url.split('/')[4]
+
+
+def image_identifier_of(url):
+    return long(url.split('/')[5])
+
 
 def check_flickr_short_url(url, expected_pseudo, expected_image_identifier):
     try:
         html = HTTP.request('GET', url + '/sizes/o/')
-        url_sq = re.findall(r'href="/photos/([^"]*)', html.data.decode('utf-8'))[2]
-        pseudo, image = url_sq.split('/')[0:2]
-        return expected_pseudo == pseudo and expected_image_identifier == long(image)
+        soup = BeautifulSoup(html.data.decode('utf-8'), 'html.parser')
+        canonicalurl = soup.find(id="canonicalurl")['href']
+        return expected_pseudo == pseudo_of(canonicalurl) and expected_image_identifier == image_identifier_of(canonicalurl)
     except :
         return False
 
@@ -194,10 +202,6 @@ def check_flickr_short_url(url, expected_pseudo, expected_image_identifier):
 
 
 def flickr_shorten(force):
-    def pseudo_of(url):
-        return url.split('/')[4]
-    def image_identifier_of(url):
-        return long(url.split('/')[5])
 
     for name, path in list_items(ContentDir):
         print("File %s" % path)
