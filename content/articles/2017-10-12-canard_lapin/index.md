@@ -17,7 +17,7 @@ description: |
 ---
 Le jeu du canard lapin est une aide au changement. Il a pour but de faire percevoir à une personne qu'une même situation peut être vu de deux façons différentes.
 
-{{< img name="canard" legend="Canard" source="https://www.flickr.com/photos/eltpics/10400516995" >}}
+{{< img name="canard" legend="Canard" source="https://flic.kr/p/gR4nmx" >}}
 
 ## Déroulé du jeu
 Vous comprendrez mieux par la suite pourquoi, mais sachez donc que ce jeu est plus fait pour être jouer à deux. Au début, vous montrez le dessin à votre interlocuteur et vous lui demandez ce qu'il voit. Ensuite, je vous explique par l'intermédiaire d'une discussion fictive :
@@ -28,7 +28,7 @@ Vous comprendrez mieux par la suite pourquoi, mais sachez donc que ce jeu est pl
 - Moi : Continuons. Et tu peux me dire de quoi il aurait besoin comme abri ?
 - Lui : Je verrais bien des branchages pour faire une petite maison avancée dans l'eau ou l'homme ne pourrait pas venir.
 
-{{< img name="bills" legend="Lapin" source="https://www.flickr.com/photos/23972840@N04/35253541772" >}}
+{{< img name="bills" legend="Lapin" source="https://flic.kr/p/VHeBKJ" >}}
 
 - Moi : Ah oui, c'est marrant mais moi je trouve que ça serait super bien de lui fournir des carottes et de la paille
 - Lui : WTF ?

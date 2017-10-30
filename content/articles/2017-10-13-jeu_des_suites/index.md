@@ -11,13 +11,13 @@ categories:
   - mindset
 illustration:
   name: suites
-  source: https://www.flickr.com/photos/littlemissy05/3814420646
+  source: https://flic.kr/p/6P4Und
 description: |
   Le jeu des suites a pour but de mettre en lumière l'impact du task switching sur la performance individuelle.
 ---
 Le jeu des suites a pour but de mettre en lumière l'impact du task switching sur la performance individuelle. Pour cela rien de mieux qu'un petit jeu :
 
-{{< img name="dominos" legend="Dominos" source="https://www.flickr.com/photos/golden_ribbon/6825694281" >}}
+{{< img name="dominos" legend="Dominos" source="https://flic.kr/p/bpat7a" >}}
 
 ## Déroulé
 Chaque joueur prend une feuille et un crayon. Ensuite et au top départ les joueurs devront écrire les 4 suites suivantes :
