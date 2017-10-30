@@ -25,7 +25,7 @@ Dans "From zero to one", Peter Thiel nous parle d'un objectif qui transcende l'o
 
 ## La culture : On pourrait résumer en parlant du modèle mental de l'organisation.
 {{< img name="Culture" legend="Afrikaburn" source="https://www.flickr.com/photos/thelastminute/34443321841" >}}
-Il s'agit de regarder les comportements type. Dans telle situation, les personnes de l'organisation ont tendance à se comporter de cette façon. Par exemple, la prise de décision est faite de manière collégiale avec recherche du consensus. Autre exemple, il vaut mieux demander pardon que la permission veut dire que la structure encourage la prise d'initiative et que l'échec n'est pas vu comme une faute mais un apprentissage. Toucher à la culture d'une organisation, cela veut dire toucher aux interactions entre les personnes et à leurs comportements individuels. L'impact peut être profond et il est donc intéressant de bien peser le pour et le contre avant de se lancer dans ce type de transformation.
+Il s'agit de regarder les comportements type. Dans telle situation, les personnes de l'organisation ont tendance à se comporter de cette façon. Par exemple, la prise de décision est faite de manière collégiale avec recherche du consensus. Autre exemple, "il vaut mieux demander pardon que la permission" veut dire que la structure encourage la prise d'initiative et que l'échec n'est pas vu comme une faute mais un apprentissage. Toucher à la culture d'une organisation, cela veut dire toucher aux interactions entre les personnes et à leurs comportements individuels. L'impact peut être profond et il est donc intéressant de bien peser le pour et le contre avant de se lancer dans ce type de transformation.
 
 ## Les pratiques : A objectif (pourquoi) identique, il s'agit de changer la mise en oeuvre (comment).
 {{< img name="Pratiques" legend="Air guitar" source="https://www.flickr.com/photos/derekmead/5843671534" >}}
@@ -50,4 +50,4 @@ Une fois que l'on a déterminé ce que l'on voulait changer et pourquoi, il ne r
 [Prendre ses désirs pour la réalité]: /articles/2017-10-11-desirs_pour_realites
 [Le programme de transformation : Vague après vague]: /articles/2017-10-11-vague_apres_vague
 [Le voyage sans fin : Bienvenue à bord]: /articles/2017-10-11-invitation_au_voyage
-[L'excroissance : La bulle de changement]: /articles/2017-10-11-bulle-changement
+[L'excroissance : La bulle de changement]: /articles/2017-10-11-bulle_changement
