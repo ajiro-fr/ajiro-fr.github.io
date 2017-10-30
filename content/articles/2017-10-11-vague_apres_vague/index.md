@@ -40,3 +40,16 @@ Que se passe-t-il quand on arrive vers la fin d'un programme de transformation ?
 ## Lancer le mouvement
 {{< img name="boue" legend="Lancer le mouvement" source="https://www.flickr.com/photos/rvc/8703300792/" >}}
 Comme vous avez pu le lire, je deviens de moins en moins convaincu par ce type de transformation majoritairement à cause du ratio énergie utile / énergie dépensée qui est faible. Elle a cependant des avantages à savoir qu'elle permet d'emmener tout le monde et de donner une vision claire. C'est donc plus à utiliser dans les grandes organisations qui ont besoin de beaucoup d'énergie pour lancer le mouvement.
+
+Autres tactiques :
+- [Le changement sous contrôle : N'oubliez pas l'ordonnance]
+- [Copiez c'est gagné : Visons la parité]
+- [Prendre ses désirs pour la réalité]
+- [Le voyage sans fin : Bienvenue à bord]
+- [L'excroissance : La bulle de changement]
+
+[Le changement sous contrôle : N'oubliez pas l'ordonnance]: /articles/2017-10-11-sous_ordonnance
+[Copiez c'est gagné : Visons la parité]: /articles/2017-10-11-visons_la_parite
+[Prendre ses désirs pour la réalité]: /articles/2017-10-11-desirs_pour_realites
+[Le voyage sans fin : Bienvenue à bord]: /articles/2017-10-11-invitation_au_voyage
+[L'excroissance : La bulle de changement]: /articles/2017-10-11-bulle_changement
