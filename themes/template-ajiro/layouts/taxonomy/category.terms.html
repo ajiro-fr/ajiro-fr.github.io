@@ -17,7 +17,7 @@
           <div class="offset-lg-2 col-lg-8 col-xs-12">
             {{ range $key, $value := .Data.Terms.Alphabetical }}
               {{ $pages := (where $value.Pages.ByDate.Reverse "Params.hidden" "!=" "true") }}
-              <div class="card mt-3">
+              <div class="card mt-1">
                 <div class="card-header">
                   <h2>
                     <a href="/categories/{{ $value.Name | urlize }}">
@@ -33,9 +33,6 @@
                   </h2>
                 </div>
               </div>
-              {{ range first 3 $pages}}
-                {{ partial "components/pages/short-ref" . }}
-              {{ end }}
             {{ end }}
           </div>
         </div>
