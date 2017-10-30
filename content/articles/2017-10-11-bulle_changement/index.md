@@ -41,3 +41,16 @@ A ce moment, il y a plusieurs solutions :
 - Je fais grossir la bulle (la nouvelle) et j'étrangle la deuxième (l'ancienne) en faisant passer du business au fur et à mesure de l'une à l'autre. Je fais bien attention à ne pas ramener la culture de l'ancienne dans la nouvelle. C'est difficile à faire mais d'autant plus facile que l'on a fait des ponts entre les deux structures pour faciliter l'acculturation.
 - J'essaie d'intégrer la nouvelle structure dans l'ancienne en partant du principe qu'elle diffusera dans l'ancienne. C'est très très compliqué à faire car les personnes qui ont pris goût à la liberté ne veulent surtout pas revenir en arrière. Il y a risque de départs massifs et de se retrouver avec une coquille vide. Comme dans le précédent cas, plus il y a de collaboration au fur et à mesure, plus les ponts sont possibles. Cela nuit cependant à la capacité de la nouvelle structure à aller vite car elle a quelqu'un sur le porte bagage.
 En conclusion, c'est une tactique qui permet d'aller vite sur le changement. Elle est d'autant plus efficace que les cultures des deux organisations sont proches. Plus elles sont éloignées, moins le rapprochement est possible.
+
+Autres tactiques :
+- [Le changement sous contrôle : N'oubliez pas l'ordonnance]
+- [Copiez c'est gagné : Visons la parité]
+- [Prendre ses désirs pour la réalité]
+- [Le programme de transformation : Vague après vague]
+- [Le voyage sans fin : Bienvenue à bord]
+
+[Le changement sous contrôle : N'oubliez pas l'ordonnance]: /articles/2017-10-11-sous_ordonnance
+[Copiez c'est gagné : Visons la parité]: /articles/2017-10-11-visons_la_parite
+[Prendre ses désirs pour la réalité]: /articles/2017-10-11-desirs_pour_realites
+[Le programme de transformation : Vague après vague]: /articles/2017-10-11-vague_apres_vague
+[Le voyage sans fin : Bienvenue à bord]: /articles/2017-10-11-invitation_au_voyage
