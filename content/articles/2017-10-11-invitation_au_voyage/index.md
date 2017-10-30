@@ -36,3 +36,17 @@ Le changement par le changement permanent, c’est ainsi que l’on pourrait ré
 ## Le changement tout le temps
 {{< img name="Sautons" legend="Jigokudani" source="https://www.flickr.com/photos/marthaenpiet/32629837580/" >}}
 L’avantage de voir le changement comme permanent, c’est qu’il n’y a pas d’a-coups artificiels. Il y a une culture d’amélioration continue qui pousse à toujours progresser. On pourrait se dire que cela ne permet d’avancer que par petits pas, mais mon expérience infirme plutôt cette version. J’ai bien vu de gros changements. La difficulté tient à l’usure que cela peut générer et le phénomène « Jamais content ». J’ai déjà entendu des phrases du type « On ne pourrait pas faire une pause ». C’est pour cela qu’il est intéressant voire primordial de célébrer au fur et à mesure du chemin. Autre point qui peut être vu comme négativement, c’est que l’on ne vise pas par défaut la cohérence d’ensemble car l’amélioration peut être très contextuelle. Il est aussi nécessaire de faire circuler les réussites comme les échecs au sein de l’écosystème. Nous avons naturellement tendance à parler des succès, mais moins des échecs. J’ai souvent vu une équipe tenter, conclure que l’expérimentation n’est pas concluante et s’arrêter là. Quelques temps plus tard, une autre équipe tente la même chose et arrive à la même conclusion. Et ainsi de suite.
+
+Autres tactiques :
+- [Le changement sous contrôle : N'oubliez pas l'ordonnance]
+- [Copiez c'est gagné : Visons la parité]
+- [Prendre ses désirs pour la réalité]
+- [Le programme de transformation : Vague après vague]
+- [L'excroissance : La bulle de changement]
+
+[Le changement sous contrôle : N'oubliez pas l'ordonnance]: /articles/2017-10-11-sous_ordonnance
+[Copiez c'est gagné : Visons la parité]: /articles/2017-10-11-visons_la_parite
+[Prendre ses désirs pour la réalité]: /articles/2017-10-11-desirs_pour_realites
+[Le programme de transformation : Vague après vague]: /articles/2017-10-11-vague_apres_vague
+[L'excroissance : La bulle de changement]: /articles/2017-10-11-bulle_changement
+
