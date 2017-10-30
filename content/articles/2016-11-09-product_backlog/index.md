@@ -13,6 +13,7 @@ categories:
 illustration:
   name: 13916708955_b012236d81
   source: http://flic.kr/p/ncLLHR
+pinned: true
 ---
 
 Il y a quelques années, le product backlog se résumait pour moi à des User Stories regroupées par epic et une forme canonique _'En tant que, je veux que ... parce...'_. Aujourd'hui, je pense que passer par cette vision du product backlog freine la maturité. Dans la suite de ce post, je décris la construction d'un product backlog dans l'ordre chronologique.

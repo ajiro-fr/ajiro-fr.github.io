@@ -1,6 +1,8 @@
 {{ define "main" }}
 
   {{ $pages := (where .Pages "Params.hidden" "!=" "true") }}
+  {{ $pinned := (where $pages "Params.pinned" true) }}
+  {{ $not_pinned := (where $pages "Params.pinned" "!=" "true") }}
 
   <div class='row mt-3'>
     <div class='offset-lg-2 col-lg-8 col-xs-12 text-xs-center'>
@@ -18,7 +20,12 @@
     </div>
   </div>
 
-  {{ range sort $pages "Lastmod" "desc" }}
+  {{ range sort $pinned "Lastmod" "desc" }}
     {{ partial "components/pages/long-ref" . }}
   {{ end }}
+
+  {{ range sort $not_pinned "Lastmod" "desc" }}
+    {{ partial "components/pages/long-ref" . }}
+  {{ end }}
+
 {{ end }}
