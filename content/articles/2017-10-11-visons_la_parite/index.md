@@ -40,3 +40,16 @@ Dans une société de gestion pour laquelle j'ai travaillé, nous laissions touj
 ## Quelle stratégie ?
 {{< img name="options" legend="Options" source="https://www.flickr.com/photos/marinadelcastell/30029912543/" >}}
 La grande difficulté quand l'on utilise ce type de stratégie, c'est de savoir quand suivre et quand prendre le vent. Une culture conservatrice peut finir par dire qu'il ne faut jamais partir en échappée. Dans ce cas et à moins d'être différenciant dans l'exécution, c'est un coup à toujours finir deuxième voir plus. Cela devient aussi compliqué de recruter des 'talents' dans une structure peu innovante. Je connais une organisation dont la culture est de laisser les autres partir devant qui a très bien performé ces dernières années comparativement aux autres. Je ne sais pas si cela fonctionnera toujours, mais pour l'instant ça marche.
+
+Autres tactiques :
+- [Le changement sous contrôle : N'oubliez pas l'ordonnance]
+- [Prendre ses désirs pour la réalité]
+- [Le programme de transformation : Vague après vague]
+- [Le voyage sans fin : Bienvenue à bord]
+- [L'excroissance : La bulle de changement]
+
+[Le changement sous contrôle : N'oubliez pas l'ordonnance]: /articles/2017-10-11-sous_ordonnance
+[Prendre ses désirs pour la réalité]: /articles/2017-10-11-desirs_pour_realites
+[Le programme de transformation : Vague après vague]: /articles/2017-10-11-vague_apres_vague
+[Le voyage sans fin : Bienvenue à bord]: /articles/2017-10-11-invitation_au_voyage
+[L'excroissance : La bulle de changement]: /articles/2017-10-11-bulle_changement
