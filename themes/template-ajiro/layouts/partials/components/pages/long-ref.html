@@ -36,6 +36,21 @@
     <div class="text-justify">
       {{ partial "components/articles/description" . }}
     </div>
+    {{ if .Params.subarticles }}
+      <div class="card">
+        <small>
+          <ul>
+          {{ range .Params.subarticles }}
+            <li>
+              {{ with $.Site.GetPage "page" . }}
+                <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+              {{ end }}
+            </li>
+          {{ end }}
+          </ul>
+        </small>
+      </div>
+    {{ end }}
     <small>
       {{ partial "components/pages/categories" . }}
       {{ partial "components/pages/tags" . }}

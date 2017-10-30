@@ -14,6 +14,13 @@ illustration:
   source: https://flic.kr/p/op5nwK
 description: |
   Je lis de plus en plus d'articles, de posts, etc ... qui nous parlent de transformation d'organisation. Mais pour vous ça veut dire quoi transformer une organisation ? Dans la suite de cet article (à tiroir), je me propose de vous présenter les niveaux d'impacts qu'une transformation peut toucher. Ensuite, je détaillerai les différentes stratégies pour le faire.
+subarticles:
+  - articles/2017-10-11-sous_ordonnance/index.md
+  - articles/2017-10-11-visons_la_parite/index.md
+  - articles/2017-10-11-desirs_pour_realites/index.md
+  - articles/2017-10-11-vague_apres_vague/index.md
+  - articles/2017-10-11-invitation_au_voyage/index.md
+  - articles/2017-10-11-bulle_changement/index.md
 ---
 Je lis de plus en plus d'articles, de posts, etc ... qui nous parlent de transformation d'organisation. Mais pour vous ça veut dire quoi transformer une organisation ? Dans la suite de cet article (à tiroir), je me propose de vous présenter les niveaux d'impacts qu'une transformation peut toucher. Ensuite, je détaillerai les différentes stratégies pour le faire.
 
