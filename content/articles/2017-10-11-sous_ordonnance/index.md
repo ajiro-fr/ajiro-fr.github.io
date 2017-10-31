@@ -2,7 +2,7 @@
 date: 2017-10-11
 title: "Le changement sous contrôle : N'oubliez pas l'ordonnance"
 lang: fr
-draft: false
+hidden: true
 authors:
   - retiere_samuel
 tags:

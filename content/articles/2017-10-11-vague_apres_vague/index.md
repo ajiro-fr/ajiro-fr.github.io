@@ -2,7 +2,7 @@
 date: 2017-10-11
 title: "Plan de transformation : Vague après vague"
 lang: fr
-draft: false
+hidden: true
 authors:
   - retiere_samuel
 tags:

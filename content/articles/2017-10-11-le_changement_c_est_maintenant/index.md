@@ -2,7 +2,6 @@
 date: 2017-10-11
 title: "Le changement, c'est maintenant : C'est quoi une transformation ?"
 lang: fr
-draft: false
 authors:
   - retiere_samuel
 tags:

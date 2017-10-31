@@ -2,7 +2,7 @@
 date: 2017-10-11
 title: "L'excroissance : La bulle de changement"
 lang: fr
-draft: false
+hidden: true
 authors:
   - retiere_samuel
 tags:
