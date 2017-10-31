@@ -36,11 +36,11 @@
     <div class="text-justify">
       {{ partial "components/articles/description" . }}
     </div>
-    {{ if .Params.subarticles }}
+    {{ if .Params.multiparts }}
       <div class="card">
         <small>
           <ul>
-          {{ range .Params.subarticles }}
+          {{ range .Params.multiparts }}
             <li>
               {{ with $.Site.GetPage "page" . }}
                 <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>

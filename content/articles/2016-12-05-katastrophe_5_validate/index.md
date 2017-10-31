@@ -3,7 +3,7 @@ aliases: /articles/2016/12/05/katastrophe_5_validate.html
 date: 2016-12-05
 title: "Product Developement : Des katas de validation"
 lang: fr
-hidden: false
+hidden: true
 authors:
   - retiere_samuel
 tags:

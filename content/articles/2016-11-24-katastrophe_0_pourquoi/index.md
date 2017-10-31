@@ -13,6 +13,12 @@ categories:
 illustration:
   name: 8505252736_b73998d301
   source: http://flic.kr/p/dXzDjy
+multiparts:
+  - articles/2016-11-24-katastrophe_1_share/index.md
+  - articles/2016-11-24-katastrophe_2_diverge/index.md
+  - articles/2016-11-24-katastrophe_3_converge/index.md
+  - articles/2016-11-24-katastrophe_4_build/index.md
+  - articles/2016-12-05-katastrophe_5_validate/index.md
 ---
 Vous voulez comprendre ou apprendre des compétences en développement produit ? Ce post est le chapeau d'une série de 5 posts d’exercices. Le développement produit, c'est une discipline qui vise à apporter de nouveaux produits sur le marché avec comme maitres mots innovation et incertitude.
 
