@@ -31,7 +31,7 @@ Dans le précdént post, vous avez appris à découper en incrément de valeur, 
 
 ### Mode opératoire
 
-Reprendre un MVE des cas itinéraire RATP, Auchan Direct et Novcencia. Si vous n'en avez pas, je vous en donne :
+Reprendre un MVE des cas itinéraire RATP, Auchan Direct et Novencia. Si vous n'en avez pas, je vous en donne :
 
 - RATP : comment aller d'une station à une autre avec le chemin le plus rapide sans prendre en compte l'horaire
 - Auchan Direct : commander de la lessive
