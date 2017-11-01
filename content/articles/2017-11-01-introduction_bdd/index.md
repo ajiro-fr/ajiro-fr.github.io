@@ -44,7 +44,7 @@ Le BDD repose sur trois profils qui vont créer ce que l’on appelle les three 
 Un des attendus du BDD c’est de casser les silos et de créer un objectif commun. Je vais focaliser tous les intervenants du process de développement vers les scénarios d’usage (utilisateur). En mode BDD, je dois bénéficier de cette conversation AVANT que les développements ne commencent.
 
 ## Connaissance du domaine
-{{< img name="polarCamping" legend="Polar camping" source="https://www.flickr.com/photos/zachd1_618/14053466736/" >}}
+{{< img name="chilling" legend="Chilling" source="https://www.flickr.com/photos/zachd1_618/37736385166/" >}}
 
 Si je simplifie le process de développement produit, je pourrais dire que je commence par identifier des problèmes puis que je propose des solutions. Une fois que la solution à émergée, les 3 amis vont se réunir pour discuter des futurs scénarios d’usage utilisateur. De ces conversations, il en ressortira une compréhension commune des besoins et à l’arrivée une meilleure connaissance pour chacun du domaine fonctionnel dans lequel le produit intervient.
 
