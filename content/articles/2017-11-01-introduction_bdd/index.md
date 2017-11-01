@@ -38,7 +38,7 @@ Et bien oui et non à savoir que je suis parti direct sur de l’implémentation
 {{< img name="yoga" legend="14er Yoga Gurus" source="https://www.flickr.com/photos/zachd1_618/8544069414/" >}}
 Le BDD repose sur trois profils qui vont créer ce que l’on appelle les three amigos : La maitrise d’ouvrage, le développeur et le testeur. 
 
-{{< img name="threeAmigos" legend="Three amigos" source="https://www.flickr.com/photos/richardhsu/33024139135/ " >}}
+{{< img name="threeAmigos" legend="Three amigos" source="https://www.flickr.com/photos/richardhsu/33024139135/" >}}
 
 Un des attendus du BDD c’est de casser les silos et de créer un objectif commun. Je vais focaliser tous les intervenants du process de développement vers les scénarios d’usage (utilisateur). En mode BDD, je dois bénéficier de cette conversation AVANT que les développements ne commencent.
 
@@ -60,6 +60,6 @@ C’est le résumé qui est souvent fait à tort à propos du BDD à savoir BDD 
  
 Sauf à créer une nouvelle application, il faut savoir qu’il faudra d’abord suer (au travail) pour ensuite atteindre la plénitude (la confiance dans les tests automatiques). Il y a une bosse à passer lorsque l'on part d'une application Legacy. Tout au début, on ajoute des tests automatisés mais ils sont insuffisants pour se passer de tests manuels. C'est une période où le travail est un peu fait en double. Ensuite, le niveau de tests automatisés est assez élevé pour commencer à ne plus faire de non régressions manuelles. Les comportements non désirés sont constatés très tôt dans le processus de développement et il coûte donc moins cher. 
 
-{{< img name="Canyonlands" legend="Canyonlands" source="https://www.flickr.com/photos/zachd1_618/33147445333/  " >}}
+{{< img name="Canyonlands" legend="Canyonlands" source="https://www.flickr.com/photos/zachd1_618/33147445333/" >}}
 
 Il n'y a plus le phénomène "je brule un cierge" quand j'arrive à la production. C'est plus le plateau du zen.
