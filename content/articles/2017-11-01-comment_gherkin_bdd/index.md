@@ -13,7 +13,7 @@ illustration:
   name: cucumber
   source: https://www.flickr.com/photos/maxmallett/4730708709/
 description: |
-	Comment écrire des scénarios au format Gherkin ? L'explication par l'exemple.
+  Comment écrire des scénarios au format Gherkin ? L'explication par l'exemple.
 --- 
 Pour faire le tatillon, le nom de l'article est légèrement trompeur car je vais plus parler de l'outil cucumber et du langage gherkin que de BDD avec sa conversation. Dans ce post, je propose de regarder des cas pratiques et d'écrire quelques scénarios.
 
