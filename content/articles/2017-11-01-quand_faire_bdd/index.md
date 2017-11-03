@@ -22,7 +22,7 @@ Tout d'abord commençons par parler processus de développement logiciel. Dans u
 4. Construction : Je passe du monde du prototype au monde du logiciel qui fonctionne en production. C'est à ce moment que la main est passé à nos 3 amis (BA/PO, Développeur et testeur).
 5. Production : Une fois mes livrables en production, j'active, je monitore et je récupère la valeur réelle de mes incréments de valeur.
 
-{{< img name="workers" legend="workers" source="https://www.flickr.com/photos/thepismire/3522318478/" >}}
+{{< img name="workers" legend="Workers" source="https://www.flickr.com/photos/thepismire/3522318478/" >}}
 
 Le BDD, c'est dans le monde de la construction. Il s'agit de décrire le comportement attendu d'une solution. Je suis plus dans le test de conformité de la solution au scénario d'usage utilisateur. Il est aussi possible d'utiliser pendant les réunions de 3 amigos de faire de l'étude exploratoire de scénarios. Je peux alors être participer à l'idéation.
 
@@ -33,8 +33,12 @@ Les critères d'acceptance servent à la base à savoir comment le développemen
 - Les scénarios BDD nécessitent un formalisme précis. Ils peuvent ne traiter qu'un "bout" d'une user story.
 A partir du moment où je mets les règles de gestion d'une user story dans sa définition, je considère que les scénarios BDD sont peu ou prou les critères d'acceptance.
 
+## La petite blague 
+{{< img name="polonais" legend="Histoire belge" source="http://bescherelletamere.fr/wp-content/uploads/2014/10/POLONAIS.jpg" >}}
+Un jour Caroline qui reçoit une correspondante polonaise pour sa fille, décide d'acheter un gateau d'anniversaire. Il se trouve qu'il est pour la dite polonaise qui a son anniversaire ce moment là. La demande au patissier est simple "Ecrire joyeux anniversaire en polonais". Comme quoi, une bonne spécification ne suffit toujours pas alors q'un exemple aurait (peut-être) pu permettre de mieux comprendre. Le BDD aide à limiter l'incompréhension.
+
 ## La stratégie de tests
-{{< img name="pyramid" legend="automated testing pyramid" source="http://www.nunoborges.com/storage/testingPyramid.png?__SQUARESPACE_CACHEVERSION=1298484913331" >}}
+{{< img name="testingPyramid.png" legend="Automated testing pyramid" source="" >}}
 Parlons maintenant stratégie de tests. Elle décrit pour un nouveau changement comment la conformité de la solution sera validé. Je peux décider que tel type sera testé manuellement, tel autre par une couverture classique test unitaire, test d'acceptance et test d'interface utilisateur. 
 Pour faire simple :
 - Les tests unitaires sont les tests du développeur pour le développeur. 
@@ -46,7 +50,7 @@ Pour faire simple :
 C'est là que l'on arrive au monde de la tautologie que j'ai longtemps pris pour de la totologie. Définition : La tautologie est une phrase ou un effet de style ainsi tourné que sa formulation ne puisse être que vraie. Dans quel cas rencontre-t-on cette étrange bête? Et bien dans tous les cas où l'application n'est en fait qu'un passe plat. Je prends une donnée d'un côté et je renvois la même de l'autre côté. Aucun enrichissement, aucun contrôle métier, aucune aggrégation,... En conclusion rien de rien. Je veux valider de l'intelligence métier et pour paraphraser Coluche le gars il n'a pas un échantillon sur lui.
 
 ## L'exemple final
-{{< img name="panneau" legend="arrows" source="https://www.flickr.com/photos/eltpics/10377091786/" >}}
+{{< img name="panneau" legend="Arrows" source="https://www.flickr.com/photos/eltpics/10377091786/" >}}
 Je récupère un fichier qui contient des soldes de comptes que je dois intégrer dans une application. J'ai un format de fichier avec les champs numéros de compte, devise, date de valeur et montant obligatoires. Voici une série de tests :
 - Vérifier que la devise est présente dans le fichier : Test unitaire. Il n'y a pas d'intelligence métier, un test unitaire suffit.
 - Vérifier que la date de valeur du solde est une date ouvrée pour la devise : Test d'acceptence (scénario BDD). J'ai de l'intelligence métier.
