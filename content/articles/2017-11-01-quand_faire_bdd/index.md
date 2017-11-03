@@ -13,7 +13,7 @@ illustration:
   name: hexagon
   source: https://www.flickr.com/photos/73689755@N06/15709567915/
 description: |
-	...
+	L'erreur classique quand on commence à faire du BDD, c'est d'en faire tout le temps et de se retrouver avec beaucoup beaucoup de scénarios. Je propose donc d'expliquer quand le BDD est pertinent (ou pas).
 --- 
 Tout d'abord commençons par parler processus de développement logiciel. Dans une organisation un peu mature, je retrouve souvent les activités suivantes :
 1. Clarification du besoin : Il s'agit de définir le problème auquel je veux répondre. C'est souvent le rôle des product managers.
@@ -53,5 +53,5 @@ Je récupère un fichier qui contient des soldes de comptes que je dois intégre
 - Vérifier que si le montant est négatif il s'affiche en rouge : Test d'interface utilisateur. Il n'y a pas d'intelligence métier.
 
 ## Epic, User stories et scénarios BDD
-{{< img name="avions" legend="red arrows" source="https://www.flickr.com/photos/wikidave/14791957760" >}}
+{{< img name="avions" legend="Sywell Air Show 2014" source="https://www.flickr.com/photos/wikidave/14791957760" >}}
 A l'arrivée, cela veut dire qu'il n'y a pas systématiquement un scénario BDD pour une user story et qu'une user story peut posséder plusieurs scénarios BDD. Je peux aussi avoir des scénarios BDD au niveau Epic. Il s'agit de scénarios plus longs en terme de scénario d'usage.  
