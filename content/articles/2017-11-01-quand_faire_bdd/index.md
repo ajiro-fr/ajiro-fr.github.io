@@ -13,7 +13,7 @@ illustration:
   name: hexagon
   source: https://www.flickr.com/photos/73689755@N06/15709567915/
 description: |
-	L'erreur classique quand on commence à faire du BDD, c'est d'en faire tout le temps et de se retrouver avec beaucoup beaucoup de scénarios. Je propose donc d'expliquer quand le BDD est pertinent (ou pas).
+  L'erreur classique quand on commence à faire du BDD, c'est d'en faire tout le temps et de se retrouver avec beaucoup beaucoup de scénarios. Je propose donc d'expliquer quand le BDD est pertinent (ou pas).
 --- 
 Tout d'abord commençons par parler processus de développement logiciel. Dans une organisation un peu mature, je retrouve souvent les activités suivantes :
 1. Clarification du besoin : Il s'agit de définir le problème auquel je veux répondre. C'est souvent le rôle des product managers.
