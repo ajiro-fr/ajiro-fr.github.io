@@ -14,7 +14,8 @@ illustration:
   source: https://www.flickr.com/photos/maxmallett/4730708709/
 description: |
   Comment écrire des scénarios au format Gherkin ? L'explication par l'exemple.
---- 
+---
+  
 Pour faire le tatillon, le nom de l'article est légèrement trompeur car je vais plus parler de l'outil cucumber et du langage gherkin que de BDD avec sa conversation. Dans ce post, je propose de regarder des cas pratiques et d'écrire quelques scénarios.
 
 ## Les bases du Gherkin
@@ -79,8 +80,8 @@ Je fais de même quand je communique avec d'autres applications. Je teste que je
 Cette fois-ci, je me mets dans un contexte commun à plusieurs scénarios. Je vais l'enrichir avec quelques suppléments de contexte. Je me mets en anglais pour utiliser les bons mots.
 Background:
 Given le pass mensuel vaut 75 EUR ET
-	le paiement est par carte bleue 
-	
+	le paiement est par carte bleue
+
 Scenario:PaiementCarteBleueAcceptee
 Given la carte est approvisionnée
 When je valide le code de carte bleue
@@ -88,10 +89,10 @@ Then le paiement est validé ET la vente validée
 
 Scenario:PaiementCarteBleueRefusee
 Given la carte n'est pas approvisionnée
-When je valide le code de carte bleue 	
+When je valide le code de carte bleue
 Then le paiement est refusé ET la vente bloquée
 
-Le but de cet exemple est de montrer l'utilisation du mot background. Les 2 scénarios suivants récupèrent le given du background. Par exemple, le given du scénario 1 est en fait 
+Le but de cet exemple est de montrer l'utilisation du mot background. Les 2 scénarios suivants récupèrent le given du background. Par exemple, le given du scénario 1 est en fait
 Given le pass mensuel vaut 75 EUR ET
 	le paiement est par carte bleue ET
 	la carte est approvisionnée
@@ -119,7 +120,7 @@ Examples:
 |10|3|30|
 |20|2|40|
 
-Si ce scénario montre bien comment utiliser le mot scenario outline, il est cependant complètement inutile. Il n'y a aucune intelligence métier dans ce test. 
+Si ce scénario montre bien comment utiliser le mot scenario outline, il est cependant complètement inutile. Il n'y a aucune intelligence métier dans ce test.
 
-## La suite 
-Comme je ne vais pas faire tout les mots du language Gherkin, le plus simple est d'aller voir ici : http://docs.behat.org/en/v2.5/guides/1.gherkin.html. Si vous avez lu mes 3 posts sur le BDD, vous êtes suffisament à l'aise pour commencer à écrire vos premiers scénarios. 
+## La suite
+Comme je ne vais pas faire tout les mots du language Gherkin, le plus simple est d'aller voir ici : http://docs.behat.org/en/v2.5/guides/1.gherkin.html. Si vous avez lu mes 3 posts sur le BDD, vous êtes suffisament à l'aise pour commencer à écrire vos premiers scénarios.
