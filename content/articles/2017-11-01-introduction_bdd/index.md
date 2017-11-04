@@ -2,7 +2,7 @@
 date: 2017-11-01
 title: "A la découverte du BDD pour des non développeurs"
 lang: fr
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
