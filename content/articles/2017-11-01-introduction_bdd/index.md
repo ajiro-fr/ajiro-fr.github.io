@@ -65,3 +65,13 @@ Sauf à créer une nouvelle application, il faut savoir qu’il faudra d’abord
 {{< img name="Canyonlands" legend="Canyonlands" source="https://www.flickr.com/photos/zachd1_618/33147445333/" >}}
 
 je passe de l'adage "je brule un cierge" quand j'arrive à la production à "keep cool" la conformité à déjà été tester des dizaines de fois.
+
+Dans la série BDD:
+-[BDD Decouvrir par les impacts]
+-[BDD Quand l'utiliser]
+-[BDD Comment l'utiliser]
+
+[BDD Decouvrir par les impacts]: /articles/2017-11-01-introduction_bdd
+[BDD Quand l'utiliser]: /articles/2017-11-01-quand_faire_bdd
+[BDD Comment l'utiliser]: /articles/2017-11-01-comment_gherkin_bdd
+
