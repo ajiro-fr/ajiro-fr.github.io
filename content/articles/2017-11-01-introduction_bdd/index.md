@@ -23,13 +23,13 @@ Normalement j’aurais dû commencer par la définition du BDD à la sauce wikip
 ## Le distributeur de boissons
 {{< img name="vendingMachine" legend="Drinks vending machine" source="https://www.flickr.com/photos/st3f4n/2707271298" >}}
 
-> **Given** a bottle of Aquarius water costs 1,5 Eur
-> **And** I put 2 Eur in the vending machine
-> **And** the vending machine got enough change and water
+> **Given** a bottle of Aquarius water costs 1,5 Eur<br>
+> **And** I put 2 Eur in the vending machine<br>
+> **And** the vending machine got enough change and water<br>
 >
-> **When** I ask for a bottle of Aquarius
+> **When** I ask for a bottle of Aquarius<br>
 >
-> **Then** the vending machine delivers a bottle of Aquarius And gives me 50 cents
+> **Then** the vending machine delivers a bottle of Aquarius And gives me 50 cents<br>
 
 ## C'est du BDD ?
 {{< img name="headache" legend="Headache" source="https://www.flickr.com/photos/darkhead/4465272084/" >}}
