@@ -40,10 +40,10 @@ Je vais prendre comme exemple les caisses automatiques de la RATP. Pour mes amis
 {{< img name="ltm" legend="London Transport Museum" source="https://www.flickr.com/photos/tubb/4659945294/" >}}
 Pour la suite, je vais faire les scénarios en français. Et donc c'est parti :
 
-> **Etant donné que** la machine est branchée **ET**
-> que je suis assez grand pour l'utiliser **ET**
-> que la lumière est assez forte pour que je puisse lire **ET**
-> que je ne suis pas trop saoul pour lire **ET** ...
+> **Etant donné que** la machine est branchée **ET**<br>
+> que je suis assez grand pour l'utiliser **ET**<br>
+> que la lumière est assez forte pour que je puisse lire **ET**<br>
+> que je ne suis pas trop saoul pour lire **ET** ...<br>
 
 STOP. Qu'est ce que tu fais Samuel ? <br>
 Et bien je donne toutes les conditions nécessaires au scénario. C'est ce que font la plupart des personnes quand elles commencent le BDD, mais ça n'est pas ce qu'il faut faire. Je mets dans le contexte les informations nécessaires au scénario mais je suis par défaut dans le cas nominal. Tout ce qui n'est pas nécessaire au scénario je ne le mets pas même si la donnée est obligatoire à l'écran.
@@ -62,17 +62,17 @@ Dans ce scénario, j'explique tout de suite ce que je teste à savoir la distrib
 {{< img name="coins" legend="Coins" source="https://www.flickr.com/photos/76657755@N04/7027587393" >}}
 Que se passe-t-il si je veux tester la fin d'une chaine de valeur? Traditionnellement, je devrais d'abord faire toutes les saisies pour arriver au test qui m'intéresse. En BDD, c'est plus simple car je me positionne directement où je veux.
 
-> **Scénario**:Rendre la monnaie montants différents
-> **Etant donné que** le billet standard vaut 1,9 EUR **ET**
-> 	que j'ai choisi un billet standard
-> **Quand** j'insère 2 EUR
-> **Alors** Le distributeur rend 10 cts
+> **Scénario**:Rendre la monnaie montants différents<br>
+> **Etant donné que** le billet standard vaut 1,9 EUR **ET**<br>
+> 	que j'ai choisi un billet standard<br>
+> **Quand** j'insère 2 EUR<br>
+> **Alors** Le distributeur rend 10 cts<br>
 
-> **Scénario**:Rendre la monnaie montants égaux
-> **Etant donné que** le billet standard vaut 2 EUR **ET**
-> 	que j'ai choisi un billet standard
-> **Quand** j'insère 2 EUR
-> **Alors** Le distributeur ne rend pas de monnaie
+> **Scénario**:Rendre la monnaie montants égaux<br>
+> **Etant donné que** le billet standard vaut 2 EUR **ET**<br><br>
+> 	que j'ai choisi un billet standard<br>
+> **Quand** j'insère 2 EUR<br>
+> **Alors** Le distributeur ne rend pas de monnaie<br>
 
 Qu'est ce qui est à noter ? <br>
 Dans les deux scénarios ci-dessus, je ne précise pas que le distributeur délivre un billet. C'est normal car je ne suis pas en train de tester la distribution de ticket, mais bien le rendu de monnaie. 
@@ -135,9 +135,9 @@ Si ce scénario montre bien comment utiliser le mot scenario outline, il est cep
 ## La suite
 Comme je ne vais pas faire tout les mots du language Gherkin, le plus simple est d'aller voir ici : http://docs.behat.org/en/v2.5/guides/1.gherkin.html. Si vous avez lu mes 3 posts sur le BDD, vous êtes suffisament à l'aise pour commencer à écrire vos premiers scénarios.
 
-Dans la série BDD:
--[BDD Decouvrir par les impacts]
--[BDD Quand l'utiliser]
+Dans la série BDD:<br>
+-[BDD Decouvrir par les impacts]<br>
+-[BDD Quand l'utiliser]<br>
 -[BDD Comment l'utiliser]
 
 [BDD Decouvrir par les impacts]: /articles/2017-11-01-introduction_bdd
