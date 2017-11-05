@@ -2,7 +2,7 @@
 date: 2017-11-01
 title: "BDD : Quand l'utiliser"
 lang: fr
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
