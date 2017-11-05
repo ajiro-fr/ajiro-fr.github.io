@@ -21,10 +21,10 @@ Pour faire le tatillon, le nom de l'article est légèrement trompeur car je vai
 ## Les bases du Gherkin
 {{< img name="gherkinTower" legend="Gherkin tower" source="https://www.flickr.com/photos/fatedsnowfox/4940743037/" >}}
 Par défaut, voici comment un scénario doit se présenter.
-> Scenario:[Nom du scénario]
-> **Given** [Contexte]
-> **When** [Evènement]
-> **Then** [Impact]
+> Scenario:[Nom du scénario]<br>
+> **Given** [Contexte]<br>
+> **When** [Evènement]<br>
+> **Then** [Impact]<br>
 
 Le nom du scénario correspond à ce que je veux tester. Le contexte donne les conditions dans lequel le scénario doit s'exécuter. Je suis sur des verbes au passé. L'évènement correspond à l'action qui génère le dit évènement. Sauf cas rare, j'ai une seule action et le verbe est au présent. J'ai deux verbes quand les actions doivent être simultanées pour générer un résultat. L'impact correspond aux résultats attendus.
 
@@ -50,11 +50,11 @@ Et bien je donne toutes les conditions nécessaires au scénario. C'est ce que f
 
 Autre problème dans le scénario précédent, il n'a pas de nom et je ne sais pas ce que je teste. Je réessaie:
 
-> **Scénario**:Distribution de ticket
-> **Etant donné que** le billet standard vaut 2 EUR **ET**
-> 	que j'ai choisi un billet standard
-> **Quand** j'insère 2 EUR
-> **Alors** Le distributeur délivre un billet
+> **Scénario**:Distribution de ticket<br>
+> **Etant donné que** le billet standard vaut 2 EUR **ET**<br>
+> 	que j'ai choisi un billet standard<br>
+> **Quand** j'insère 2 EUR<br><br>
+> **Alors** Le distributeur délivre un billet<br>
 
 Dans ce scénario, j'explique tout de suite ce que je teste à savoir la distribution de ticket. J'ai exprès changé le prix du billet réel (1,9EUR) pour ne pas avoir de pollution sur l'évènement (cele aurait nécessité une somme). Je n'ai rien précisé sur le justificatif car c'est hors de mon scénario. J'aurais éventuellement pu faire un scénario avec un billet gratuit pour ne pas avoir l'étape argent. Je ne l'ai pas fait car même si cela simplifie mon test, je tombe dans un scénario d'usage peu représentatif de la réalité.
 
@@ -87,31 +87,31 @@ Je fais de même quand je communique avec d'autres applications. Je teste que je
 {{< img name="credit" legend="Credit" source="https://www.flickr.com/photos/cafecredit/26787351554/" >}}
 Cette fois-ci, je me mets dans un contexte commun à plusieurs scénarios. Je vais l'enrichir avec quelques suppléments de contexte. Je me mets en anglais pour utiliser les bons mots.
 
-> **Background**:
-> **Given** le pass mensuel vaut 75 EUR **ET**
-> 	le paiement est par carte bleue
+> **Background**:<br>
+> **Given** le pass mensuel vaut 75 EUR **ET**<br>
+> 	le paiement est par carte bleue<br>
 
-> Scenario:PaiementCarteBleueAcceptee
-> **Given** la carte est approvisionnée
-> **When** je valide le code de carte bleue
-> **Then** le paiement est validé ET la vente validée
+> Scenario:PaiementCarteBleueAcceptee<br>
+> **Given** la carte est approvisionnée<br>
+> **When** je valide le code de carte bleue<br>
+> **Then** le paiement est validé ET la vente validée<br>
 
-> **Scenario**:PaiementCarteBleueRefusee
-> **Given** la carte n'est pas approvisionnée
-> **When** je valide le code de carte bleue
-> **Then** le paiement est refusé ET la vente bloquée
+> **Scenario**:PaiementCarteBleueRefusee<br>
+> **Given** la carte n'est pas approvisionnée<br>
+> **When** je valide le code de carte bleue<br>
+> **Then** le paiement est refusé ET la vente bloquée<br>
 
 Le but de cet exemple est de montrer l'utilisation du mot background. Les 2 scénarios suivants récupèrent le given du background. Par exemple, le given du scénario 1 est en fait :<br>
-> **Given** le pass mensuel vaut 75 EUR **ET**
-> 	le paiement est par carte bleue **ET**
-> 	la carte est approvisionnée
+> **Given** le pass mensuel vaut 75 EUR **ET**<br>
+> 	le paiement est par carte bleue **ET**<br>
+> 	la carte est approvisionnée<br>
 
 Le mot background est intéressant à utiliser quand j'ai un contexte commun à plusieurs scénarios. Dans le cas où j'ai besoin de pas mal de données en entrée, je peux aussi utiliser des tableaux
-> **Given** les soldes cash suivants
-> |NumCompte|Devise|Montant|DateValeur|
-> |ABC|EUR|100|20171102|
-> |BCD|USD|200|20171102|
-> |CDE|GBP|300|20171102|
+> **Given** les soldes cash suivants<br>
+> |NumCompte|Devise|Montant|DateValeur|<br><br>
+> |ABC|EUR|100|20171102|<br>
+> |BCD|USD|200|20171102|<br>
+> |CDE|GBP|300|20171102|<br>
 
 Attention tout de même avec l'utilisation des tables, il ne s'agit pas de mettre du Excel dans des scénarios. Cela doit rester avant tout lisible. Je n'essaie pas de mettre le moins de mots possibles et de factoriser à gogo. Rappelez vous, BDD rime avec conversation.
 
@@ -120,15 +120,15 @@ Attention tout de même avec l'utilisation des tables, il ne s'agit pas de mettr
 
 Je présente cette fois l'utilisation du scénario outline qui permet de faire varier des données. Il est particulièrement utile quand à une action identique, j'ai des résultats différents en fonction du contexte.
 
-> **Scenario outline**:Nombre de tickets a distribuer
-> **Given** un carnet contient <nombreTickets> tickets
-> **When** je sélectionne <nombreCarnets> carnets
-> **Then** je dois livrer <ticketsDelivres> tickets
-> **Examples**:
-> |nombreTickets|nombreCarnets|ticketsDelivres|
-> |10|2|20|
-> |10|3|30|
-> |20|2|40|
+> **Scenario outline**:Nombre de tickets a distribuer<br>
+> **Given** un carnet contient <nombreTickets> tickets<br>
+> **When** je sélectionne <nombreCarnets> carnets<br>
+> **Then** je dois livrer <ticketsDelivres> tickets<br>
+> **Examples**:<br>
+> |nombreTickets|nombreCarnets|ticketsDelivres|<br>
+> |10|2|20|<br>
+> |10|3|30|<br>
+> |20|2|40|<br>
 
 Si ce scénario montre bien comment utiliser le mot scenario outline, il est cependant complètement inutile. Il n'y a aucune intelligence métier dans ce test.
 
