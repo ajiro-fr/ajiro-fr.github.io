@@ -91,7 +91,7 @@ Cette fois-ci, je me mets dans un contexte commun à plusieurs scénarios. Je va
 > **Given** le pass mensuel vaut 75 EUR **ET**<br>
 > 	le paiement est par carte bleue<br>
 
-> Scenario:PaiementCarteBleueAcceptee<br>
+> **Scenario**:PaiementCarteBleueAcceptee<br>
 > **Given** la carte est approvisionnée<br>
 > **When** je valide le code de carte bleue<br>
 > **Then** le paiement est validé ET la vente validée<br>
