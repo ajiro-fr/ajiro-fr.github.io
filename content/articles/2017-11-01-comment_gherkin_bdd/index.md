@@ -134,3 +134,12 @@ Si ce scénario montre bien comment utiliser le mot scenario outline, il est cep
 
 ## La suite
 Comme je ne vais pas faire tout les mots du language Gherkin, le plus simple est d'aller voir ici : http://docs.behat.org/en/v2.5/guides/1.gherkin.html. Si vous avez lu mes 3 posts sur le BDD, vous êtes suffisament à l'aise pour commencer à écrire vos premiers scénarios.
+
+Dans la série BDD:
+-[BDD Decouvrir par les impacts]
+-[BDD Quand l'utiliser]
+-[BDD Comment l'utiliser]
+
+[BDD Decouvrir par les impacts]: /articles/2017-11-01-introduction_bdd
+[BDD Quand l'utiliser]: /articles/2017-11-01-quand_faire_bdd
+[BDD Comment l'utiliser]: /articles/2017-11-01-comment_gherkin_bdd
