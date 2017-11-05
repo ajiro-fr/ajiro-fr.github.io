@@ -6,14 +6,14 @@ tags:
   - transformation
 objectives: |
   -   Faire percevoir qu'une même situation peut être vu de deux façons différentes.
-duration: 30 min
-participants: l'équipe
+duration: 10 min
+participants: plutôt en petit comité
 materials:
-  -
+  - L'image soit imprimée soit sur un ordinateur
 authors:
   - retiere_samuel
 illustration:
-  name: canard-lapin
+  name: duck-rabbit.png
   source: http://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2016/02/14/12/duck-rabbit.png
 ---
 
@@ -23,12 +23,12 @@ Le jeu du canard lapin est une aide au changement. Il a pour but de faire percev
 
 ## Déroulé du jeu
 Vous comprendrez mieux par la suite pourquoi, mais sachez donc que ce jeu est plus fait pour être jouer à deux. Au début, vous montrez le dessin à votre interlocuteur et vous lui demandez ce qu'il voit. Ensuite, je vous explique par l'intermédiaire d'une discussion fictive :
-- Moi : Tu peux me dire ce que tu vois ?
-- Lui : Un canard
-- Moi : Très bien. Est ce que tu pourrais me dire ce qu'il faudrait pour que le canard soit bien ? Dis moi ce que tu verrais.
-- Lui : Je vois un étang avec des roseaux sur le côté. Comme cela il peut choisir d'être caché ou visible.
-- Moi : Continuons. Et tu peux me dire de quoi il aurait besoin comme abri ?
-- Lui : Je verrais bien des branchages pour faire une petite maison avancée dans l'eau ou l'homme ne pourrait pas venir.
+- Moi : Tu peux me dire ce que tu vois ?<br>
+- Lui : Un canard<br>
+- Moi : Très bien. Est ce que tu pourrais me dire ce qu'il faudrait pour que le canard soit bien ? Dis moi ce que tu verrais.<br>
+- Lui : Je vois un étang avec des roseaux sur le côté. Comme cela il peut choisir d'être caché ou visible.<br>
+- Moi : Continuons. Et tu peux me dire de quoi il aurait besoin comme abri ?<br>
+- Lui : Je verrais bien des branchages pour faire une petite maison avancée dans l'eau ou l'homme ne pourrait pas venir.<br>
 
 {{< img name="bills" legend="Lapin" source="https://flic.kr/p/VHeBKJ" >}}
 
