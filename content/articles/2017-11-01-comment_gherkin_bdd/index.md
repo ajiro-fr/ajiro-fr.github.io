@@ -21,7 +21,7 @@ Pour faire le tatillon, le nom de l'article est légèrement trompeur car je vai
 ## Les bases du Gherkin
 {{< img name="gherkinTower" legend="Gherkin tower" source="https://www.flickr.com/photos/fatedsnowfox/4940743037/" >}}
 Par défaut, voici comment un scénario doit se présenter.
-> Scenario:[Nom du scénario]<br>
+> **Scenario**:[Nom du scénario]<br>
 > **Given** [Contexte]<br>
 > **When** [Evènement]<br>
 > **Then** [Impact]<br>
@@ -31,10 +31,10 @@ Le nom du scénario correspond à ce que je veux tester. Le contexte donne les c
 ## La machine à tickets
 {{< img name="tap" legend="TAP Union Station" source="https://www.flickr.com/photos/viriyincy/8926668213/" >}}
 Je vais prendre comme exemple les caisses automatiques de la RATP. Pour mes amis non parisiens, voici comment elles fonctionnent:
-> Tout d'abord, il faut choisir entre recharger le pass navigo pour ceux qui prennent des abonnements ou acheter des tickets. 
-> Pour les tickets, il y a les tickets standards vendus à l'unité ou en carnet plus quelques déclinaisons comme les tarfis réduits. 
-> Il y a aussi une autre partie qui concerne la banlieue avec pour chaque billet choix de la gare de départ et de la gare d'arrivée.
-> Pour les moyens de paiement, je pars sur carte bleue, pièces et billets.
+- Tout d'abord, il faut choisir entre recharger le pass navigo pour ceux qui prennent des abonnements ou acheter des tickets.<br>
+- Pour les tickets, il y a les tickets standards vendus à l'unité ou en carnet plus quelques déclinaisons comme les tarfis réduits.<br> 
+- Il y a aussi une autre partie qui concerne la banlieue avec pour chaque billet choix de la gare de départ et de la gare d'arrivée.<br>
+- Pour les moyens de paiement, je pars sur carte bleue, pièces et billets.<br>
 
 ## Scénario de base : Avoir un ticket
 {{< img name="ltm" legend="London Transport Museum" source="https://www.flickr.com/photos/tubb/4659945294/" >}}
@@ -62,7 +62,7 @@ Dans ce scénario, j'explique tout de suite ce que je teste à savoir la distrib
 {{< img name="coins" legend="Coins" source="https://www.flickr.com/photos/76657755@N04/7027587393" >}}
 Que se passe-t-il si je veux tester la fin d'une chaine de valeur? Traditionnellement, je devrais d'abord faire toutes les saisies pour arriver au test qui m'intéresse. En BDD, c'est plus simple car je me positionne directement où je veux.
 
-> Scénario:Rendre la monnaie montants différents
+> **Scénario**:Rendre la monnaie montants différents
 > **Etant donné que** le billet standard vaut 1,9 EUR **ET**
 > 	que j'ai choisi un billet standard
 > **Quand** j'insère 2 EUR
