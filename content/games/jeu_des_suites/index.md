@@ -1,5 +1,5 @@
 ---
-date: 2017-06-02
+date: 2017-10-02
 sorted: multi tasking le jeu des suites
 title: "Multi tasking : Le jeu des suites"
 tags:
@@ -9,11 +9,11 @@ objectives: |
 duration: 15 min
 participants: l'équipe
 materials:
-  -
+  - Papier et crayon
 authors:
   - retiere_samuel
 illustration:
-  name: suites
+  name: compteurs.png
   source: https://flic.kr/p/6P4Und
 ---
 
@@ -64,7 +64,7 @@ Je demande à chaque personne de donner l'écart de performance en pourcentage e
 Dans la majorité des cas, il y a une perte de performance d'au moins 20%. Il arrive assez souvent que certains améliorent leur performance dû à un premier run catastrophique sur l'alphabet. Je commence par les suites dans l'ordre pour ne pas avoir l'argument de l'expérience. Même avec l'expérience du premier round, le deuxième round est plus mauvais que le premier à cause du multi tasking. Certaines personnes dont je fais partie font quasi le même temps dans les 2 cas. Cela pourrait vouloir dire que l'impact du multi tasking est nul chez moi et ce n'est pas vrai. J'arrive à faire les mêmes performances mais la dépense d'énergie n'est pas du tout le même. Cela ressort avec la deuxième question.
 
 Je donne ensuite souvent le graphe ci dessous qui montre l'impact du multi tasking sur la performance.
-{{< img name="multi-tasking-impact" legend="Impact du Multi Tasking Performance" source="https://blog.codinghorror.com/content/images/uploads/2006/09/6a0120a85dcdae970b0120a86d6caa970b-pi.png" >}}
+{{< img name="graph.png" legend="Impact du Multi Tasking Performance" source="https://blog.codinghorror.com/content/images/uploads/2006/09/6a0120a85dcdae970b0120a86d6caa970b-pi.png" >}}
 
 En deuxième élément de débrief, je trace le schéma ci dessous. Il montre l'impact du multi tasking sur les délais. Faire plusieurs choses en même temps revient à augmenter les délais.
 
