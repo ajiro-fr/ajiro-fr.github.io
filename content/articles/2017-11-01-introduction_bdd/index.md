@@ -66,9 +66,9 @@ Sauf à créer une nouvelle application, il faut savoir qu’il faudra d’abord
 
 je passe de l'adage "je brule un cierge" quand j'arrive à la production à "keep cool" la conformité à déjà été tester des dizaines de fois.
 
-Dans la série BDD:
--[BDD Decouvrir par les impacts]
--[BDD Quand l'utiliser]
+Dans la série BDD:<br>
+-[BDD Decouvrir par les impacts]<br>
+-[BDD Quand l'utiliser]<br>
 -[BDD Comment l'utiliser]
 
 [BDD Decouvrir par les impacts]: /articles/2017-11-01-introduction_bdd
