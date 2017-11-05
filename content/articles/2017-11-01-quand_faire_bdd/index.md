@@ -44,9 +44,9 @@ Un jour Caroline qui reçoit une correspondante polonaise pour sa fille, décide
 {{< img name="testingPyramid.png" legend="Automated testing pyramid" source="" >}}
 Parlons maintenant stratégie de tests. Elle décrit pour un nouveau changement comment la conformité de la solution sera validé. Je peux décider que tel type sera testé manuellement, tel autre par une couverture classique test unitaire, test d'acceptance et test d'interface utilisateur.
 Pour faire simple :
-> - Les tests unitaires sont les tests du développeur pour le développeur.
-> - Les tests d'acceptance sont là pour valider les règles de gestion, l'intention fonctionnelle,... ce que je qualifie souvent d'intelligence métier. Si j'ai une architecture applicative correcte, je ne dois pas avoir d'intelligence métier que dans la couche services et pas dans l'interface utilisateur. C'est le monde du BDD. Comme je ne tape pas la couche graphique, je suis capable d'intégrer les tests quasiment n'importe où dans le code.
-> - Les tests d'interface utilisateur sont des tests de comportement graphique. Il s'agit plus de valider le comportement des différents composants graphiques comme par exemple le comportement des différents browsers.
+- Les tests unitaires sont les tests du développeur pour le développeur.<br>
+- Les tests d'acceptance sont là pour valider les règles de gestion, l'intention fonctionnelle,... ce que je qualifie souvent d'intelligence métier. Si j'ai une architecture applicative correcte, je ne dois pas avoir d'intelligence métier que dans la couche services et pas dans l'interface utilisateur. C'est le monde du BDD. Comme je ne tape pas la couche graphique, je suis capable d'intégrer les tests quasiment n'importe où dans le code.<br>
+- Les tests d'interface utilisateur sont des tests de comportement graphique. Il s'agit plus de valider le comportement des différents composants graphiques comme par exemple le comportement des différents browsers.
 
 ## Tautologie
 {{< img name="tautologie" legend="Sales tautology" source="https://www.flickr.com/photos/quinnanya/5893333070/" >}}
@@ -55,17 +55,17 @@ C'est là que l'on arrive au monde de la tautologie que j'ai longtemps pris pour
 ## L'exemple final
 {{< img name="panneau" legend="Arrows" source="https://www.flickr.com/photos/eltpics/10377091786/" >}}
 Je récupère un fichier qui contient des soldes de comptes que je dois intégrer dans une application. J'ai un format de fichier avec les champs numéros de compte, devise, date de valeur et montant obligatoires. Voici une série de tests :
-> - Vérifier que la devise est présente dans le fichier : Test unitaire. Il n'y a pas d'intelligence métier, un test unitaire suffit.
-> - Vérifier que la date de valeur du solde est une date ouvrée pour la devise : Test d'acceptence (scénario BDD). J'ai de l'intelligence métier.
-> - Vérifier que si le montant est négatif il s'affiche en rouge : Test d'interface utilisateur. Il n'y a pas d'intelligence métier.
+- Vérifier que la devise est présente dans le fichier : Test unitaire. Il n'y a pas d'intelligence métier, un test unitaire suffit.<br>
+- Vérifier que la date de valeur du solde est une date ouvrée pour la devise : Test d'acceptence (scénario BDD). J'ai de l'intelligence métier.<br>
+- Vérifier que si le montant est négatif il s'affiche en rouge : Test d'interface utilisateur. Il n'y a pas d'intelligence métier.<br>
 
 ## Epic, User stories et scénarios BDD
 {{< img name="avions" legend="Sywell Air Show 2014" source="https://www.flickr.com/photos/wikidave/14791957760" >}}
 A l'arrivée, cela veut dire qu'il n'y a pas systématiquement un scénario BDD pour une user story et qu'une user story peut posséder plusieurs scénarios BDD. Je peux aussi avoir des scénarios BDD au niveau Epic. Il s'agit de scénarios plus longs en terme de scénario d'usage.
 
-Dans la série BDD:
--[BDD Decouvrir par les impacts]
--[BDD Quand l'utiliser]
+Dans la série BDD:<br>
+-[BDD Decouvrir par les impacts]<br>
+-[BDD Quand l'utiliser]<br>
 -[BDD Comment l'utiliser]
 
 [BDD Decouvrir par les impacts]: /articles/2017-11-01-introduction_bdd
