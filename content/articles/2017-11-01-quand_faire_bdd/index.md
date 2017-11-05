@@ -62,3 +62,12 @@ Je récupère un fichier qui contient des soldes de comptes que je dois intégre
 ## Epic, User stories et scénarios BDD
 {{< img name="avions" legend="Sywell Air Show 2014" source="https://www.flickr.com/photos/wikidave/14791957760" >}}
 A l'arrivée, cela veut dire qu'il n'y a pas systématiquement un scénario BDD pour une user story et qu'une user story peut posséder plusieurs scénarios BDD. Je peux aussi avoir des scénarios BDD au niveau Epic. Il s'agit de scénarios plus longs en terme de scénario d'usage.
+
+Dans la série BDD:
+-[BDD Decouvrir par les impacts]
+-[BDD Quand l'utiliser]
+-[BDD Comment l'utiliser]
+
+[BDD Decouvrir par les impacts]: /articles/2017-11-01-introduction_bdd
+[BDD Quand l'utiliser]: /articles/2017-11-01-quand_faire_bdd
+[BDD Comment l'utiliser]: /articles/2017-11-01-comment_gherkin_bdd
