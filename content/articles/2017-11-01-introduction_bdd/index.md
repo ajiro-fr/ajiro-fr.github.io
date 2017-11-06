@@ -66,6 +66,13 @@ Sauf à créer une nouvelle application, il faut savoir qu’il faudra d’abord
 
 je passe de l'adage "je brule un cierge" quand j'arrive à la production à "keep cool" la conformité à déjà été tester des dizaines de fois.
 
+## Le digest
+{{< img name="WhiteRimTrail" legend="White Rim Trail" source="https://www.flickr.com/photos/zachd1_618/34285110920/" >}}
+J'attends du BDD 3 impacts :<br>
+- Que les 3 amis (maitrise d'ouvrage, développeur et testeur) **collaborent** pour délivrer une solution qui répond à un usage.<br>
+- Que leurs conversations les aident à monter en **connaissance sur le domaine fonctionnel**. Le développeur n'est pas juste là pour coder.<br>
+- Que les **tests fonctionnels** soient **automatisés**. Je ne vise pas 100% de couverture, mais plutôt le pourcentage nécessaire qui me donne assez de confiance pour livrer en production.
+
 Dans la série BDD:<br>
 -[BDD Decouvrir par les impacts]<br>
 -[BDD Quand l'utiliser]<br>
