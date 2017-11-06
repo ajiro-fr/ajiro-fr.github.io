@@ -20,19 +20,22 @@ Pour faire le tatillon, le nom de l'article est légèrement trompeur car je vai
 
 ## Les bases du Gherkin
 {{< img name="gherkinTower" legend="Gherkin tower" source="https://www.flickr.com/photos/fatedsnowfox/4940743037/" >}}
-Par défaut, voici comment un scénario doit se présenter.
-> **Scenario**:[Nom du scénario]<br>
-> **Given** [Contexte]<br>
-> **When** [Evènement]<br>
-> **Then** [Impact]<br>
+Par défaut, voici comment un scénario doit se présenter.<br>
+**Scenario**:[Nom du scénario]<br>
+**Given** [Contexte]<br>
+**When** [Evènement]<br>
+**Then** [Impact]<br>
 
-Le nom du scénario correspond à ce que je veux tester. Le contexte donne les conditions dans lequel le scénario doit s'exécuter. Je suis sur des verbes au passé. L'évènement correspond à l'action qui génère le dit évènement. Sauf cas rare, j'ai une seule action et le verbe est au présent. J'ai deux verbes quand les actions doivent être simultanées pour générer un résultat. L'impact correspond aux résultats attendus.
+Le nom du scénario correspond à ce que je veux tester. <br>
+Le contexte donne les conditions dans lequel le scénario doit s'exécuter. Je suis sur des verbes au passé.<br> 
+L'évènement correspond à l'action qui génère le dit évènement. Sauf cas rare, j'ai une seule action et le verbe est au présent. J'ai deux verbes quand les actions doivent être simultanées pour générer un résultat.<br>
+L'impact correspond aux résultats attendus.
 
 ## La machine à tickets
 {{< img name="tap" legend="TAP Union Station" source="https://www.flickr.com/photos/viriyincy/8926668213/" >}}
-Je vais prendre comme exemple les caisses automatiques de la RATP. Pour mes amis non parisiens, voici comment elles fonctionnent:
+Je vais prendre comme exemple les caisses automatiques de la RATP. Pour mes amis non parisiens, voici comment elles fonctionnent:<br>
 - Tout d'abord, il faut choisir entre recharger le pass navigo pour ceux qui prennent des abonnements ou acheter des tickets.<br>
-- Pour les tickets, il y a les tickets standards vendus à l'unité ou en carnet plus quelques déclinaisons comme les tarfis réduits.<br> 
+- Pour les tickets, il y a les tickets standards vendus à l'unité ou en carnet plus quelques déclinaisons comme les tarifs réduits.<br> 
 - Il y a aussi une autre partie qui concerne la banlieue avec pour chaque billet choix de la gare de départ et de la gare d'arrivée.<br>
 - Pour les moyens de paiement, je pars sur carte bleue, pièces et billets.<br>
 
@@ -102,11 +105,13 @@ Cette fois-ci, je me mets dans un contexte commun à plusieurs scénarios. Je va
 > **Then** le paiement est refusé ET la vente bloquée<br>
 
 Le but de cet exemple est de montrer l'utilisation du mot background. Les 2 scénarios suivants récupèrent le given du background. Par exemple, le given du scénario 1 est en fait :<br>
-> **Given** le pass mensuel vaut 75 EUR **ET**<br>
-> 	le paiement est par carte bleue **ET**<br>
-> 	la carte est approvisionnée<br>
 
-Le mot background est intéressant à utiliser quand j'ai un contexte commun à plusieurs scénarios. Dans le cas où j'ai besoin de pas mal de données en entrée, je peux aussi utiliser des tableaux
+> **Given** le pass mensuel vaut 75 EUR **ET**<br>
+> le paiement est par carte bleue **ET**<br>
+> la carte est approvisionnée<br>
+
+Le mot background est intéressant à utiliser quand j'ai un contexte commun à plusieurs scénarios. Dans le cas où j'ai besoin de pas mal de données en entrée, je peux aussi utiliser des tableaux<br>
+
 > **Given** les soldes cash suivants<br>
 > |NumCompte|Devise|Montant|DateValeur|<br><br>
 > |ABC|EUR|100|20171102|<br>
