@@ -50,7 +50,7 @@ Pour faire simple :<br>
 
 ## Tautologie
 {{< img name="tautologie" legend="Sales tautology" source="https://www.flickr.com/photos/quinnanya/5893333070/" >}}
-C'est là que l'on arrive au monde de la tautologie que j'ai longtemps pris pour de la totologie. Définition : La tautologie est une phrase ou un effet de style ainsi tourné que sa formulation ne puisse être que vraie. Dans quel cas rencontre-t-on cette étrange bête? Et bien dans tous les cas où l'application n'est en fait qu'un passe plat. Je prends une donnée d'un côté et je renvois la même de l'autre côté. Aucun enrichissement, aucun contrôle métier, aucune aggrégation,... En conclusion rien de rien. Je veux valider de l'intelligence métier et pour paraphraser Coluche le gars il n'a pas un échantillon sur lui.
+C'est là que l'on arrive au monde de la tautologie que j'ai longtemps pris pour de la totologie. Définition : La tautologie est une phrase ou un effet de style ainsi tourné que sa formulation ne puisse être que vraie. Dans quel cas rencontre-t-on cette étrange bête? Et bien dans tous les cas où l'application n'est en fait qu'un passe plat. Je prends une donnée d'un côté et je renvois la même de l'autre côté. Aucun enrichissement, aucun contrôle métier, aucune aggrégation,... En conclusion rien de rien. Je veux valider de l'intelligence métier et pour paraphraser Coluche le gars il n'a pas un échantillon sur lui. Dans ce cas, je ne fais pas de BDD.
 
 ## L'exemple final
 {{< img name="panneau" legend="Arrows" source="https://www.flickr.com/photos/eltpics/10377091786/" >}}
