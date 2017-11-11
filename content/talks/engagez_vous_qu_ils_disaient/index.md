@@ -38,6 +38,8 @@ ressources:
     file: slides-lkfr-2016.pdf
   - name: "Le support de présentation Agile Tour Rennes 2017"
     file: slides-agile-tour-rennes-2017.pdf
+  - name: "Vidéo à l'Agile Tour Rennes 2017"
+    file: https://youtu.be/oSz1OUIIVtI
 ---
 
 # Présentation détaillée
