@@ -36,6 +36,9 @@ references:
 ressources:
   - name: "Le support de présentation Agile Tour Rennes 2017"
     file: https://gitlab.com/azae/conferences/remuneration-agile/builds/artifacts/20171014-atrennes/file/slides.pdf?job=compile_pdf
+  - name: "Vidéo Agile Tour Rennes 2017"
+    file: https://www.youtube.com/watch?v=GweO_uJ1rI8
+    
 ---
 
 # Présentation détaillée
