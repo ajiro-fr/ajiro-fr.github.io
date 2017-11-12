@@ -40,6 +40,8 @@ ressources:
     file: slides-agile-tour-rennes-2017.pdf
   - name: "Vidéo à l'Agile Tour Rennes 2017"
     file: https://youtu.be/oSz1OUIIVtI
+  - name: "Vidéo Agile Tour Rennes 2017"
+    file: https://www.youtube.com/watch?v=oSz1OUIIVtI&t=650s
 ---
 
 # Présentation détaillée

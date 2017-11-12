@@ -18,13 +18,6 @@ abstract: |
   L'objectif de cette session et de vous amenez avec nous dans un voyage au coeur de la Communication Bienveillante (CNV).
   Convaincus que l'Agilité, comme tant d'autres choses, ne restent que coquilles vides si elles ne sont pas accompagnées de compréhension, conscience et clarté, ce sont surtout sur ces notions que nous vous accompagnons.
   A la fin de cette session nous espérons que chacun ira planter les graines qu'il souhaite sur ce nouveau terreau.
-ressources:
-  - name: "Le support de présentation Agile France 2017"
-    file: https://gitlab.com/azae/atelier-conference-cnv/builds/artifacts/master/file/2017agileFrance.pdf?job=compile_pdf
-  - name: "Un mémo des critères d'acceptance"
-    file: https://gitlab.com/azae/atelier-conference-cnv/builds/artifacts/master/file/criteresAcceptance.pdf?job=compile_pdf
-  - name: "Le support de présentation Agile Rennes 2017"
-    file: https://gitlab.com/azae/atelier-conference-cnv/builds/artifacts/master/file/2017AgileRennes.pdf?job=compile_pdf
 sessions:
   - date: "2017-06-16"
     name: Agile France 2017
@@ -32,6 +25,15 @@ sessions:
   - date: "2017-10-14"
     name: Agile Tour Rennes 2017
     url: http://agiletour.agilerennes.org/programme-2017/
+ressources:
+  - name: "Le support de présentation Agile France 2017"
+    file: slides-agile-france-2017.pdf
+  - name: "Un mémo des critères d'acceptance"
+    file: criteres-acceptance.pdf
+  - name: "Le support de présentation Agile Rennes 2017"
+    file: slides-agile-tour-rennes-2017.pdf
+  - name: "Vidéo Agile Tour Rennes 2017"
+    file: https://www.youtube.com/watch?v=VJnXtoB1RAU
 ---
 
 # Présentation détaillée
