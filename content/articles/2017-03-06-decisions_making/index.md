@@ -44,6 +44,11 @@ Toutes les personnes qui participent à la décision doivent être d'accord.
 
 Pour qu'une décision soit prise, une majorité de personnes doivent être d'accord. Il existe quelques variantes avec majorité absolue ou relative, à deux tours...
 
+## Réticence
+
+{{< img name="armsCrossed" source="https://www.flickr.com/photos/dannohung/181971062/" >}}
+
+Nous avons plusieurs choix possibles. Les personnes lèvent une main quand elles sont réticentes sur une proposition et deux mains quand elles sont très réticentes. Le choix qui a le moins de voix est sélectionné.
 
 ## Consentement (Cf core protocols Decider)
 
@@ -67,7 +72,7 @@ Une personne veut prendre une décision. Elle se doit d'aller prendre l'avis de 
 
 Il y a quelques temps j'aurais trouvé cette proposition un peu farfelue. Dans 'Antifragile, Nicholas Taleb parle de la façon dont il visite les villes en allant au hasard. Il découvre ainsi des endroits qu'aucun guide n'a indiqué. Cela m'a rappelé comment je jouais parfois à un jeu du nom de Diplomacy. Par défaut, c'est un jeu sans hasard et donc pourquoi jouer au début pour décider d'un mouvement ? A force de jouer avec les mêmes personnes, j'étais devenu prévisible. En utilisant le hasard, j'ai introduit de l'incertitude qui in fine m'a été bénéfique. J'ai fait des coups que je n'aurais sûrement pas fait normalement. Ce protocole est aussi intéressant quand aucun élément ne permet une décision rationnelle. Ne passons pas trop de temps à réfléchir et agissons.
 
-## Le jeu
+## Le jeu (version originale)
 
 {{< img name="2625563385_6d2a215481" source="http://flic.kr/p/511Gwe" >}}
 
@@ -89,6 +94,13 @@ Il y a quelques temps j'aurais trouvé cette proposition un peu farfelue. Dans '
 4. On prend beaucoup de décisions de manière rapide, car dès que la question est lue, chacun donne son vote. Cela tue la discussion. Il y aussi parfois de la frustration, car des personnes sont toujours dans la minorité. Elles n'arrivent plus à faire des propositions.
 5. On retrouve de nouveau de la discussion avec des propositions qui arrivent à passer. Des blocages apparaissent de temps à autre.
 
+## Le jeu ([version Klub Agile de Pau])
+
+Voici le déroulement de la séance : 
+- Jeu dixit : Choisissez une image qui illustre ce que vous avez retenu de l'article ou vos attentes pour ce soir. Le but est que tout le monde puisse prendre la parole en début de séance et puisse se stimuler l'imagination. 
+- Un résumé très rapide de l'ensemble des prises de décision. 
+- Une activité par groupe de deux. Demander aux personnes de trouver un exemple dans la vie pro ou perso pour chaque mode de prise de décision et d'échanger sur le sujet.
+- Dernière activité par groupe de six. Un dé pour choisir le mode de prise de décision avant de lire une question. Une fois que la prise de décision est faite, demander à chacun comment il se sent avec cette décision. Les joueurs s'expriment en choisissant une carte parmi trois cartes smileys.
 
 ## Quel protocole utiliser ?
 
@@ -107,3 +119,4 @@ En conclusion voici mon conseil : **avant de prendre une décision, choisissez l
 
 
 [les questions]: questions-fr.pdf
+[version Klub Agile de Pau]: http://klubpau.scalingo.io/
