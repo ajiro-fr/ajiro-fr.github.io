@@ -13,7 +13,7 @@ illustration:
   name: agile
   source: https://www.flickr.com/photos/13926043@N07/7025240531/
 description: |
-	Dans cet article, je vais essayer de dépasser l’équation Scrum = Agile et expliquer à quels besoins Agile peut répondre.
+     	Dans cet article, je vais essayer de dépasser l’équation Scrum = Agile et expliquer à quels besoins Agile peut répondre.
 --- 
 Dans cet article, je vais essayer de dépasser l’équation Scrum = Agile et expliquer à quels besoins Agile peut répondre. Je propose donc de commencer par évoquer les problèmes auxquels Agile se propose de répondre. Je mets bien un A majuscule à Agile pour bien dire que je prends comme référence le manifeste Agile.
 
