@@ -2,7 +2,7 @@
 date: 2017-11-15
 title: "A quel Agile allez-vous être mangés ?"
 lang: fr
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
