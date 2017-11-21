@@ -13,7 +13,7 @@ illustration:
   name: scrum
   source: https://www.flickr.com/photos/victor_paul/8022836740
 description: |
-	 Un article pour expliquer les bases du framework Scrum. J'y explique ce qui change dans la gestion des exigences pour aller vers une approche produit
+  Un article pour expliquer les bases du framework Scrum. J'y explique ce qui change dans la gestion des exigences pour aller vers une approche produit
 ---
 En préambule, cet article s’adresse à une cible de personnes ne connaissant pas ou peu l’Agile. Je fais un léger focus sur la maitrise d’ouvrage car peu de littérature sur ce sujet. Scrum c’est bien la mêlée en anglais, mais aussi le framework Agile le plus utilisé. A l’arrivée on peut presque dire que quand une personne parle d’Agile, il y a de grandes chance pour que la personne parle de Scrum.
 
