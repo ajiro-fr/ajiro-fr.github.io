@@ -51,7 +51,7 @@ Je ne vais pas attendre la fin d’un projet pour faire un post mortem. Je vais 
 Le Scrum Master est le garant du temple à savoir qu’il est là pour faciliter les meetings, suivre la progression, aider à la résolution de conflits… c’est-à-dire animer l’équipe en fonction des règles que l’équipe s’est fixée. Il n’est pas un manager hiérarchique et il n’est pas là pour résoudre les problèmes de tout le monde. En rythme normal, il s’agit d’un rôle à tenir et pas un poste. La responsabilité étant collective, il n’est pas logique que cela soit un poste qui nécessite 100% du temps de la personne.
  
 ## Product Owner
-{{< img name=" legend="" source="https://www.flickr.com/photos/vanf/5336855585/" >}}
+{{< img name="" legend="" source="https://www.flickr.com/photos/vanf/5336855585/" >}}
 Cela correspond globalement à une maitrise d’ouvrage Agile. Il y a beaucoup de littérature sur le sujet et tout le monde a son avis sur ce que le rôle devrait être. Personnellement, je considère que cela devrait être contextuel et que les activités de ce rôle doivent être réalisées par un ou plusieurs personnes :
 -	Découpage des besoins métiers avec une orientation valeur au regard du problème (MVP) en mode oignon à savoir très détaillé pour le court terme et de moins en moins quand l’horizon de temps s’allonge.
 -	Priorisation des MVP.
