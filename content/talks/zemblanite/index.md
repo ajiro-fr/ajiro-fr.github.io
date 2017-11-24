@@ -23,11 +23,15 @@ abstract: |
 ressources:
   - name: "Le support de présentation Agile Tour Lille 2017"
     file: 2017AgileTourLille.pdf
+  - name: "Le support de présentation Agile Grenoble 2017"
+    file: 2017AgileGrenoble.pdf
 sessions:
   - date: "2017-11-13"
     name: Agile Tour Lille 2017
     url: http://2017.agiletour-lille.org/
-
+  - date: "2017-11-24"
+    name: Agile Grenoble 2017
+    url: http://agile-grenoble.org/
 ---
 
 # Présentation détaillée
