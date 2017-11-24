@@ -3,7 +3,7 @@ member: true
 organisations:
   - name: Nocencia
     logo: logo-novencia.png
-    url: https://www.novencia.com/
+    url: https://www.octo.com/fr
   - name: Lean Kanban France
     logo: logo-lkfr.png
     url: http://leankanban.fr/
@@ -13,7 +13,7 @@ social:
   - url: https://www.linkedin.com/in/samuel-retiere-7438981b
     icon: fa-linkedin
 bio: |
-  Développeur, maitrise d'ouvrage, chef de projet, manager, coach agile et maintenant ... coach en organisation agile pour Novencia
+  Développeur, maitrise d'ouvrage, chef de projet, manager, coach agile et maintenant ... coach en organisation agile
 
   > _It is not the strongest of the species that survives, nor the most
   intelligent that survives. It is the one that is most adaptable to

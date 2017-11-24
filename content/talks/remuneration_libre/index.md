@@ -35,7 +35,10 @@ references:
     url: /articles/2017-01-26-remuneration_libre
 ressources:
   - name: "Le support de présentation Agile Tour Rennes 2017"
-    file: https://gitlab.com/azae/conferences/remuneration-agile/builds/artifacts/20171014-atrennes/file/slides.pdf?job=compile_pdf
+    file: slides-agile-tour-rennes-2017.pdf
+  - name: "Vidéo Agile Tour Rennes 2017"
+    file: https://www.youtube.com/watch?v=GweO_uJ1rI8
+
 ---
 
 # Présentation détaillée

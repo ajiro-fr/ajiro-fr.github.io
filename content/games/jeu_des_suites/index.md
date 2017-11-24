@@ -33,7 +33,7 @@ Chaque joueur prend une feuille et un crayon. Ensuite et au top départ les joue
 - La première lettre des mois de l'année.
 	J,F,M,A,M,J,J,A,S,O,N,D
 
-- Les chiffres romains de I à XII. Cette série est assez culturelle, elle feedbackctionne mal avec les publics de culture non européenne.
+- Les chiffres romains de I à XII. Cette série est assez culturelle, elle fonctionne mal avec les publics de culture non européenne.
 	I,II,III,IV,V,VI,VII,VIII,IX,X,XI,XII
 
 En extra suites :
