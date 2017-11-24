@@ -25,9 +25,13 @@ references:
     url: https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego
 ressources:
   - name: "Le support de présentation Agile Laval 2017"
-    file: https://gitlab.com/tclavier/atelier-legotdd/builds/artifacts/master/file/2017agileLaval.pdf?job=compile_pdf
+    file: 2017agileLaval.pdf
   - name: "Le support de présentation Agile Tour Rennes 2017"
-    file: https://gitlab.com/tclavier/atelier-legotdd/builds/artifacts/master/file/2017AgileRennes.pdf?job=compile_pdf
+    file: 2017AgileRennes.pdf
+  - name: "Le support de présentation Agile Tour Lille 2017"
+    file: 2017AgileTourLille.pdf
+  - name: "Le support de présentation Agile Day BNP Paribas 2017"
+    file: 2017AgileDayBNP.pdf
 sessions:
   - date: "2017-06-29"
     name: Agile Laval 2017
@@ -35,6 +39,11 @@ sessions:
   - date: "2017-10-13"
     name: Agile Tour Rennes 2017
     url: http://agiletour.agilerennes.org/
+  - date: "2017-11-13"
+    name: Agile Tour Lille 2017
+    url: http://2017.agiletour-lille.org/
+  - date: "2017-11-20"
+    name: Agile Day BNP Paribas 2017
 ---
 
 ## Description
