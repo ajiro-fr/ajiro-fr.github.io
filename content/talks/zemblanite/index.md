@@ -19,6 +19,15 @@ abstract: |
   De la capacité à organiser avec soin et attention nos échecs, à l'énergie que nous mettons pour être certain de ne pas réussir, je vous propose une heure de découverte et d'échange au cœur de ce qui nous semble impossible ... et qui pourtant est si fréquent !
 
   Venez découvrir les meilleures techniques pour rater vos projets à coup sûr.
+
+ressources:
+  - name: "Le support de présentation Agile Tour Lille 2017"
+    file: 2017AgileTourLille.pdf
+sessions:
+  - date: "2017-11-13"
+    name: Agile Tour Lille 2017
+    url: http://2017.agiletour-lille.org/
+
 ---
 
 # Présentation détaillée
