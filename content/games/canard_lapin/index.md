@@ -17,7 +17,7 @@ illustration:
   source: http://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2016/02/14/12/duck-rabbit.png
 ---
 
-Le jeu du canard lapin est une aide au changement. Il a pour but de faire percevoir à une personne qu'une même situation peut être vu de deux façons différentes.
+Le jeu du canard lapin est une aide au changement. Il a pour but de faire percevoir à une personne qu'une même situation peut être vue de deux façons différentes.
 
 {{< img name="canard" legend="Canard" source="https://flic.kr/p/gR4nmx" >}}
 
