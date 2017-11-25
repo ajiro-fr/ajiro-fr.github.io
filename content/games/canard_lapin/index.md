@@ -22,7 +22,7 @@ Le jeu du canard lapin est une aide au changement. Il a pour but de faire percev
 {{< img name="canard" legend="Canard" source="https://flic.kr/p/gR4nmx" >}}
 
 ## Déroulé du jeu
-Vous comprendrez mieux par la suite pourquoi, mais sachez donc que ce jeu est plus fait pour être jouer à deux. Au début, vous montrez le dessin à votre interlocuteur et vous lui demandez ce qu'il voit. Ensuite, je vous explique par l'intermédiaire d'une discussion fictive :
+Vous comprendrez mieux par la suite pourquoi, mais sachez donc que ce jeu est plus fait pour être jouer à deux. Au début, vous montrez le dessin à votre interlocuteur et vous lui demandez ce qu'il voit. Ensuite, je vous explique par l'intermédiaire d'une discussion fictive :<br>
 - Moi : Tu peux me dire ce que tu vois ?<br>
 - Lui : Un canard<br>
 - Moi : Très bien. Est ce que tu pourrais me dire ce qu'il faudrait pour que le canard soit bien ? Dis moi ce que tu verrais.<br>
