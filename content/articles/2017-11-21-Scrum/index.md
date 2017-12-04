@@ -1,6 +1,6 @@
 ---
 date: 2017-11-21
-title: "Scrum"
+title: "Sensibilisation à Scrum"
 lang: fr
 draft: false
 authors:
