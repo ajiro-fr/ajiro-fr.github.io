@@ -2,11 +2,12 @@
 date: 2017-11-21
 title: "Scrum"
 lang: fr
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
   - Scrum
+  - KitMoaAgile
 categories:
   - craft
 illustration:
