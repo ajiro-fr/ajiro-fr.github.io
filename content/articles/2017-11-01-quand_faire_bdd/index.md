@@ -7,6 +7,7 @@ authors:
   - retiere_samuel
 tags:
   - BDD
+  - KitMoaAgile
 categories:
   - craft
 illustration:
