@@ -10,6 +10,7 @@ tags:
   - core protocols
 categories:
   - people
+  - KitMoaAgile
 illustration:
   name: 8388318279_09e20b0107
   source: http://flic.kr/p/dMfjMe
