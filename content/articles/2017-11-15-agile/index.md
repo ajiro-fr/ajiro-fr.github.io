@@ -7,6 +7,7 @@ authors:
   - retiere_samuel
 tags:
   - Agile
+  - KitMoaAgile
 categories:
   - craft
 illustration:
