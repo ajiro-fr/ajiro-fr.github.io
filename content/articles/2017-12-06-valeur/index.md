@@ -2,7 +2,7 @@
 date: 2017-12-06
 title: "C'est quoi la valeur?"
 lang: fr
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
