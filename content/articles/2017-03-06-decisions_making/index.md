@@ -8,9 +8,9 @@ authors:
 tags:
   - prise de decision
   - core protocols
+  - KitMoaAgile
 categories:
   - people
-  - KitMoaAgile
 illustration:
   name: 8388318279_09e20b0107
   source: http://flic.kr/p/dMfjMe
