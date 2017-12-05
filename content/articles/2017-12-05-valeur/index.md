@@ -1,5 +1,5 @@
 ---
-date: 2017-12-06
+date: 2017-12-05
 title: "C'est quoi la valeur?"
 lang: fr
 draft: false

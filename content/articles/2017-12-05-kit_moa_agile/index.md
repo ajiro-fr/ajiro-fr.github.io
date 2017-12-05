@@ -1,5 +1,5 @@
 ---
-date: 2017-12-06
+date: 2017-12-05
 title: "Un kit de la maitrise d'ouvrage Agile"
 lang: fr
 draft: false
