@@ -8,6 +8,7 @@ authors:
 tags:
   - produit
   - methodologie
+  - KitMoaAgile
 categories:
   - product
 illustration:
