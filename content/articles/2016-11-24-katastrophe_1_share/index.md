@@ -9,6 +9,7 @@ authors:
 tags:
   - product
   - kata
+  - KitMoaAgile
 categories:
   - product
 illustration:
