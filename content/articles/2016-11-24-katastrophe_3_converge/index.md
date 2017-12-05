@@ -9,6 +9,7 @@ authors:
 tags:
   - product
   - kata
+  - KitMoaAgile
 illustration:
   name: 5564882153_088fd4e2d6
   source: http://flic.kr/p/9tKtA2
