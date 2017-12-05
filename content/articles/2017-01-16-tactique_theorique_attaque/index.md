@@ -10,6 +10,7 @@ tags:
   - product
   - tactique theorique
   - initiative
+  - KitMoaAgile
 categories:
   - product
 illustration:
