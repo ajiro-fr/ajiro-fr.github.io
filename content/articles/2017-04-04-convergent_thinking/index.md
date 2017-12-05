@@ -8,6 +8,7 @@ authors:
 tags:
   - convergent thinking
   - prise de decision
+  - KitMoaAgile
 categories:
   - people
 illustration:
