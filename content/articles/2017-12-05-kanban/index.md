@@ -2,7 +2,7 @@
 date: 2017-12-05
 title: "Sensibilisation à Kanban"
 lang: fr
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
