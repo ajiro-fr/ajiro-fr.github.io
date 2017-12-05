@@ -9,6 +9,7 @@ tags:
   - out of the box
   - divergent thinking
   - idées
+  - KitMoaAgile
 categories:
   - mindset
 illustration:
