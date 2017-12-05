@@ -25,7 +25,7 @@ Tout d'abord, qu'est que l'Agile et dans quels cas cela peut être utile : [A qu
 Côté méthode, [Scrum] est le framework dominant avec l'émergence de [Kanban] souvent par des équipes plus matures techniquement. Dans les 2 cas, l'autonomie des équipes est mise en avant avec décentralisation de décisions au niveau bas. Et donc, cela pourrait être intéressant de savoir prendre des décisions sans un chef pour trancher. J'ai nommé les [protocoles de prise de décision].
 
 ## Tout ce qui tourne autour du produit
-{{< img name="" legend="" source="https://www.flickr.com/photos/nereski/3135872655" >}}
+{{< img name="papertoy" legend="Santa Claus papertoy" source="https://www.flickr.com/photos/nereski/3135872655" >}}
 En mode Agile, j'utilise souvent un artifact qui permet de faire le lien entre problème et solution dans le but de délivrer le plus de valeur. Mais au fait, c'est quoi la [valeur] ? L'artifact en question s'appelle le product backlog et voici de quoi il est constitué : [C'est quoi un product backlog]?
 
 Pour réussir à créer et suivre le product backlog, cela demande d'autres techniques que celles utilisées en cycle en V. Voici donc un peu d'[entrainement]. Il sera question de [compréhension], d'[exploration], de [décision], de [construction] et de [validation]. Ces exercices sont fortement inspirés des pratiques UX.
