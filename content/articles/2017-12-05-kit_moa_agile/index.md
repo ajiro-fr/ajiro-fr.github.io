@@ -45,13 +45,13 @@ C'est un clin d'oeil à la conférence de Michel Yakovleff lors du dernier Lean 
 [A quel Agile allez-vous être mangés ?]: /articles/2017-11-15-agile/
 [Scrum]: /articles/2017-11-21-scrum/
 [Kanban]: /articles/2017-12-05-kanban/
-[protocoles de prise de décision]: articles/2017-03-06-decisions_making/
-[valeur]: /articles/2017-12-06-valeur/
+[protocoles de prise de décision]: /articles/2017-03-06-decisions_making/
+[valeur]: /articles/2017-12-05-valeur/
 
 [C'est quoi un product backlog]: /articles/2016-11-09-product_backlog/
 [entrainement]: /articles/2016-11-24-katastrophe_0_pourquoi/
 [compréhension]: /articles/2016-11-24-katastrophe_1_share/
-[exploration]: /2016-11-24-katastrophe_2_diverge/
+[exploration]: /articles/2016-11-24-katastrophe_2_diverge/
 [décision]: /articles/2016-11-24-katastrophe_3_converge/
 [construction]: /articles/2016-11-24-katastrophe_4_build/
 [validation]: /articles/2016-12-05-katastrophe_5_validate/
