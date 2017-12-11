@@ -7,6 +7,8 @@ authors:
 tags:
   - system thinking
   - systémique
+  - 5eme discipline
+  - organisation apprenante
 categories:
   - mindset
 illustration:
