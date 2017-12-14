@@ -43,7 +43,7 @@ Il est important de ne pas pointer du doigt quelqu'un et dans le même ordre d'i
 - Je peux dire : La qualité logicielle ne me permet pas d'être confiant quand je livre mes développements. Je découvre souvent des régressions.<br>
 - J'évite de dire : Le code est vraiment pourri, je ne sais pas qui a développé cette m...
 
-Je cherche à mettre les personnes dans une attitude positive face au changement pour ne pas tomber dans une routine défensive. Nous avons des difficultés et nous pourrons les résoudre ensemble. Il s'agit de créer le dialogue et la discussion qui aideront à se projeter vers le futur. De nouveau, je suis aussi en train d'apprendre à être une équipe. 
+Je cherche à mettre les personnes dans une attitude positive face au changement pour ne pas tomber dans une routine défensive. Nous avons des difficultés et nous pourrons les résoudre ensemble. Il s'agit de créer le dialogue et la discussion qui aideront à se projeter vers le futur. De nouveau, je suis aussi en train d'apprendre à être une équipe. Petit détail technique, cela ne veut pas dire que nous devons être d'accord sur tout.
 
 ## Reflexion
 {{< img name="reflexion" legend="Addo Elephant Park" source="https://www.flickr.com/photos/exfordy/123900378/" >}}
