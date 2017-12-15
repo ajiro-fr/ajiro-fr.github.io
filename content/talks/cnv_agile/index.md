@@ -25,6 +25,9 @@ sessions:
   - date: "2017-10-14"
     name: Agile Tour Rennes 2017
     url: http://agiletour.agilerennes.org/programme-2017/
+  - date: "2017-11-23"
+    name: Agile Grenoble 2017
+    url: http://agile-grenoble.org/
 ressources:
   - name: "Le support de présentation Agile France 2017"
     file: slides-agile-france-2017.pdf
@@ -34,6 +37,8 @@ ressources:
     file: slides-agile-tour-rennes-2017.pdf
   - name: "Vidéo Agile Tour Rennes 2017"
     file: https://www.youtube.com/watch?v=VJnXtoB1RAU
+  - name: "Le support de présentation Agile Grenoble 2017"
+    file: 2017-slides-grenoble.pdf
 ---
 
 # Présentation détaillée
