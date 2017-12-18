@@ -2,7 +2,7 @@
 date: 2017-12-17
 title: "La vision partagée : savoir relier des individus ensemble."
 lang: fr
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
@@ -51,3 +51,8 @@ Si chaque personne de l'organisation sait quel est son but et peut agir en cons�
 C'est pour cela que l'on dit souvent qu'une vision partagée d'organisation est émergente. Elle est le résultat de la prise en compte des visions personnelles (bottom/up) et de la déclinaison d'une vision d'ensemble à tous les niveaux de l'organisation (top/down). Chaque personne quelque soit sa place dans l'organisation sait comment la vision se décline à chaque niveau de l'organisation. Elle sait ce qui doit être fait. Cela permet à l’organisation (apprenante) de s’adapter vite. Je ne relis pas que les visions de sous ensemble de l'organisation, mais bien aussi des personnes qui la composent. Je relis les individus entre eux avec des relations qui doivent vivre. Il est normal que les visions bougent.
 
 ## Une organisation ?
+{{< img name="multiple" legend="Multiple" source="https://www.flickr.com/photos/shadowstalker/33724333221/" >}}
+Je garde la question d'ouverture pour la fin. Je parle d'organisation apprenante, mais de quelle organisation est ce que je parle ? Il  n'y a pour moi de moins en moins de bijection entre mon employeur et mon organisation. Je fais partie de plusieurs organisations en même temp : mon employeur, mon client, mon club de sport, mon association de coachs,... Chacune de ces associations à sa vision (partagée) dans laquelle je m'inscris ou pas. Cela m'est déjà arrivé par le passé avec un club de badminton qui voulait aller plus vers de la compétition niveau national alors que ma vision était plutôt la compétition loisir. Je ne me retrouvais plus dans la vision de cette organisation et je suis donc allé dans une autre. Je suis dans plusieurs organisations qui ont chacune leur vision mais dans lesquelles je me retrouve avec des comportements différents dans chaque organisation. Et c'est normal.
+
+Je ne vois d'ailleurs pas de différence entre des organisations hiérarchiques, holacratiques, produitistique :-),... Il y a une déclinaison de la valeur à chaque niveau qui va permettre à chaque personne de savoir ce que l'on attend d'elle en réconciliant vision personnelle et vision globale.
+
