@@ -40,25 +40,14 @@ Côté positif la vision ayant été définie à un seul endroit, la cohérence 
 
 ## La sublimation
 {{< img name="sublimation" legend="Sublimation" source="https://www.flickr.com/photos/birdflew/9768042161/" >}}
-Pour ceux qui ne sont pas des spécialistes de physique, la sublimation est le passage direct de l'état solide à l'état gazeux. Quand cela arrive, cela dégage beaucoup de vapeurs avec un mouvement de bas en haut. C'est la métaphore que j'utilise pour représenter comment la vision d'une organisation peut être la somme de toutes les visions par un phénomène d'agrégation.
+Pour ceux qui ne sont pas des spécialistes de physique, la sublimation est le passage direct de l'état solide à l'état gazeux. Quand cela arrive, cela dégage beaucoup de vapeurs avec un mouvement de bas en haut. C'est la métaphore que j'utilise pour représenter comment la vision d'une organisation peut être la somme de toutes les visions par un phénomène d'agrégation. En résumé, ça vient du bas et ça remonte.
 
-There are two fundamental sources of energy that can
+Pour reprendre les propos de Peter Senge, il parle de deux sources d'énergie qui peuvent motiver une organisation : La peur ou l'aspiration. La peur produit des résultats extraordinaires sur des périodes courtes, mais l'aspiration est une source continue d'apprentissage et de croissance. Je pourrais aussi parler du modèle de Dan Pink sur la motivation personnelle : But, autonomie et maitrise. A partir d'une vision qui vient du bas, je "génère" de l'engagement. Si je sais où je vais et que j'ai l'information et la compétence pour le faire, je vais être capable d'accélérer les rythmes de prise de décisions.
 
-motivate organizations: fear and aspiration.
+Si chaque personne de l'organisation sait quel est son but et peut agir en conséquence, il vient alors la question du système : Est ce que la somme de toutes les parties produit un résultat supérieures à toutes les parties prises séparément ? Dis autrement, je parle de la question de la complémentarité des visions individuelles.
 
-Fear can produce extraordinary changes for short periods,
-
-but aspiration is a continuing source of learning and
-
-growth.
-
-It is an inquiry into the future we truly seek to create.
-
-## Time to emerge
+## Relier les individus
 {{< img name="romeiros" legend="Romeiros" source="https://www.flickr.com/photos/paulgi/4276325771/" >}}
+C'est pour cela que l'on dit souvent qu'une vision partagée d'organisation est émergente. Elle est le résultat de la prise en compte des visions personnelles (bottom/up) et de la déclinaison d'une vision d'ensemble à tous les niveaux de l'organisation (top/down). Chaque personne quelque soit sa place dans l'organisation sait comment la vision se décline à chaque niveau de l'organisation. Elle sait ce qui doit être fait. Cela permet à l’organisation (apprenante) de s’adapter vite. Je ne relis pas que les visions de sous ensemble de l'organisation, mais bien aussi des personnes qui la composent. Je relis les individus entre eux avec des relations qui doivent vivre. Il est normal que les visions bougent.
 
-Pourquoi est-ce que cela peut être utile d’avoir une vision partagée ? Le but de l’organisation apprenante est de permettre à une organisation de s’adapter vite.
-
-     
-
-    People know what needs to be done.
+## Une organisation ?
