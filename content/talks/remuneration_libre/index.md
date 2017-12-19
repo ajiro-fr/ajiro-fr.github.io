@@ -26,6 +26,9 @@ sessions:
   - date: "2017-10-13"
     name: Agile Tour Rennes 2017
     url: http://agiletour.agilerennes.org/programme-2017/
+  - date: "2017-11-14"
+    name: Agile Tour Lille 2017
+    url: http://2017.agiletour-lille.org/
 references:
   - title: Article de la présentation chez ANEO
     icon: file-text-o
@@ -38,6 +41,8 @@ ressources:
     file: slides-agile-tour-rennes-2017.pdf
   - name: "Vidéo Agile Tour Rennes 2017"
     file: https://www.youtube.com/watch?v=GweO_uJ1rI8
+  - name: "Le support de présentation Agile Tour Lille 2017"
+    file: slides-agile-tour-lille-2017.pdf
 
 ---
 
