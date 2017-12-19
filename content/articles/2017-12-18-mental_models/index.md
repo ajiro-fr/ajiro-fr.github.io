@@ -21,7 +21,22 @@ Cet article s’inscrit dans une série sur l’organisation apprenante chère �
  
 Pourquoi les meilleures idées échouent
 
- 
+## Boxes
+Barbara Kruger, Modern Art Oxford https://www.flickr.com/photos/biker_jun/15103098828 
+
+## Raccourci
+Indian cricket https://www.flickr.com/photos/kalyan/299890264
+Gilles, mabel et l'inde
+
+## Slowing 
+Bruce Nauman “Human/Need/Desire” at the Museum of Modern Art https://www.flickr.com/photos/jackszwergoldarchives/36388945945/
+
+## Sceanrio fictif
+Mont saint michel https://www.flickr.com/photos/loic80l/32472422561
+
+## Advocate vs inquiry
+Os Gemeos at the MOCA "Art in the Streets" exhibit. https://www.flickr.com/photos/rstanek/6003919213
+
 
 Mental models - what we carry in our minds which are
 
