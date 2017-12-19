@@ -18,7 +18,27 @@ description: |
   Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
 --- 
 Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
- 
+
+Solution focus
+
+## Ou en suis je
+Biais
+https://www.flickr.com/photos/135830168@N04/23381877690/
+
+
+## Avenir désiré
+Poussin https://www.flickr.com/photos/miglesias/22762583316/
+
+## Les petits pas
+Pas https://www.flickr.com/photos/64248265@N02/9471120695/
+
+## Comme je sais que je sais
+Scene de crime https://www.flickr.com/photos/miglesias/27675319995/
+
+## conclusion
+as they fly https://www.flickr.com/photos/thomashawk/6081472264/
+never arrived
+
 développer sa vision personnelle des choses et de la vie. La vision est la
 
 représentation d'un avenir désiré et ne doit pas être confondue avec le but qui est
