@@ -12,8 +12,8 @@ tags:
 categories:
   - craft
 illustration:
-  name: vision
-  source: https://www.flickr.com/photos/create-learning/6582601789/
+  name: clarity
+  source: https://www.flickr.com/photos/arrhakis/21980763248/
 description: |
   Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
 --- 
