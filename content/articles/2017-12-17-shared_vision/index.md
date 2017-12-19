@@ -16,7 +16,6 @@ illustration:
   source: https://www.flickr.com/photos/create-learning/6582601789/
 description: |
   Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
-<<<<<<< HEAD
 --- 
 Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
 
