@@ -1,6 +1,6 @@
 ---
 date: 2017-12-17
-title: "Les modèles mentaux : apprendre à nous défaire de nos préjugés pour mieux comprendre les problèmes complexes."
+title: "Les modèles mentaux"
 lang: fr
 draft: true
 authors:
@@ -15,7 +15,7 @@ illustration:
   name: dylan
   source: https://www.flickr.com/photos/eltpics/31584915561/
 description: |
-  Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
+  Apprendre à nous défaire de nos préjugés pour mieux comprendre les problèmes complexes
 --- 
 Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre. Dans ce post, il sera question de schémas de pensée que je peux aussi appelé modèles mentaux.
  
