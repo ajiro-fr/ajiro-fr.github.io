@@ -36,9 +36,8 @@ Leaps os abstraction occurs when we move from direction observation to generaliz
 
 ## Slowing 
 {{< img name="desire" legend="Bruce Nauman Human/Need/Desire at the Museum of Modern Art" source="https://www.flickr.com/photos/jackszwergoldarchives/36388945945/" >}}  
-Une des méthodes pour prendre conscience de nos modèles mentaux est de ralentir le cerveau.
+Une des méthodes pour prendre conscience de nos modèles mentaux est de ralentir le cerveau. Le [Left hand column] est un des exercices les plus connus sur le sujet. Il consiste pour une conversation donnée à écrire ce que je pense et ce que je dis. L'idée est de voir la différence entre les deux. C'est un jeu qui peut aussi se pratiquer quand vous assistez à une réunion où vous êtes plus spectateur que participant. Vous 
 
-https://facweb.northseattle.edu/jreis/transformations/Course%20Schedule/left_hand%20column.htm
 
 Reflection
 
@@ -101,6 +100,6 @@ Summary
                 Just as linear thinking dominates most mental models used for critical decisions today, the learning organisations of the future will make key decisions based on shared understandings of interrelationships and patterns of change.
 
  
-
+[Left hand column]: https://facweb.northseattle.edu/jreis/transformations/Course%20Schedule/left_hand%20column.htm
  
 
