@@ -2,7 +2,7 @@
 date: 2017-12-17
 title: "La vision partagée"
 lang: fr
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
