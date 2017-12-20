@@ -2,7 +2,7 @@
 date: 2017-12-17
 title: "Les modèles mentaux"
 lang: fr
-draft: true
+draft: false
 authors:
   - retiere_samuel
 tags:
@@ -29,76 +29,28 @@ Les modèles mentaux sont les images, les assomptions, les histoires... que nous
 {{< img name="cricket" legend="Indian cricket" source="https://www.flickr.com/photos/kalyan/299890264" >}} 
 Il y a quelques années, je prenais un café avec un consultant de mon département. Il me racontait que le voyage de ma manager en Inde n'était pas pour du tourisme comme annoncé, mais parce qu'elle allait monter un centre offshore là bas. Je rigolais intérieurement car j'avais discuté quelques heures plus tôt avec ma manager et elle m'avait raconté ses différentes escapades. Pour quelqu'un qui était en voyage professionnel, elle racontait super bien des vacances.
 
-C'est un peu la face cachée des modèles mentaux à savoir les connexions que nous faisons entre une idée et une autre avec souvent une partie non consciente. Cela peut m'amener à faire des sauts d'abstraction qui ne sont pas toujours à propos. Le problème avec les modèles mentaux n'est pas qu'ils soient bons ou mauvais, mais que nous agissions sans en avoir conscience.
-
-Reconnaitre les sauts d'abstraction
-Leaps os abstraction occurs when we move from direction observation to generalization without testing
+C'est un peu la face cachée des modèles mentaux à savoir les connexions que nous faisons entre une idée et une autre avec souvent une partie non consciente. Cela peut m'amener à faire des sauts d'abstraction qui ne sont pas toujours à propos. Je fais un saut d'abstraction quand je passe directement d'une observation à une généralisation sans tester. Le problème avec les modèles mentaux n'est pas qu'ils soient bons ou mauvais, mais que nous agissions sans en avoir conscience.
 
 ## Slowing 
 {{< img name="desire" legend="Bruce Nauman Human/Need/Desire at the Museum of Modern Art" source="https://www.flickr.com/photos/jackszwergoldarchives/36388945945/" >}}  
-Une des méthodes pour prendre conscience de nos modèles mentaux est de ralentir le cerveau. Le [Left hand column] est un des exercices les plus connus sur le sujet. Il consiste pour une conversation donnée à écrire ce que je pense et ce que je dis. L'idée est de voir la différence entre les deux. C'est un jeu qui peut aussi se pratiquer quand vous assistez à une réunion où vous êtes plus spectateur que participant. Vous 
+Une des méthodes pour améliorer la conscience de nos modèles mentaux est de ralentir le cerveau. Le [Left hand column] est un des exercices les plus connus sur le sujet. Il consiste pour une conversation donnée à écrire ce que je pense et ce que je dis. L'idée est de voir la différence entre les deux. C'est un jeu qui peut aussi se pratiquer quand vous assistez à une réunion où vous êtes plus spectateur que participant. Il s'agit de détecter les désynchronisations entre parole et pensée.
 
+## Différence culturelle
+Cela est d'autant plus intéressant lorsque je suis en face d'une différence culturelle. Je travaille depuis des années avec des indiens et j'ai donc appris mieux poser certaines questions comme remplacer "As tu compris ?" par "Peux tu m'expliquer ?". Par défaut, je sais que la réponse à la première question sera "Oui". Autre exemple "Ca ne marche pas ce que vous nous avez livré" et là vous partez sur de la justification. "Peux tu m'expliquer ce qu'il s'est passé" a plus de chance d'avoir une réponse qui fait avancé. Il s'agit de comprendre les mécanismes mentaux qui amènent à la réponse. Nous faisons de même sur d'autres types d'interactions. C'est un peu comme quand je vois une discussion dont le ton monte au fur et à mesure pour finir nulle part. La fin est souvent prévisible.
 
-Reflection
+## Mécommunication
+{{< img name="montSaintMichel" legend="Mont saint michel" source="https://www.flickr.com/photos/hckyso/2177231864/">}}
+Je pourrais parler d'un autre modèle appelé "Process communication". Il part du principe qu'en phase de stress, nous fermons des canaux de communication et que nous n'entendons plus certains messages. Ces canaux coupés seraient dépendants de notre pyramide de profils (nous sommes tout en même temps, mais à des niveaux variables). En phase de stress, le persévérant que je suis a besoin d'être écouter quelque soit la décision prise par la suite. Je vais donc essayer de prendre conscience de mon niveau de stress (mon modèle) et de celui des autres (leurs modèles) pour adapter ma communication. Je m'ouvre pour mieux comprendre.
 
 ## Scenario fictif
-{{< img name="montSaintMichel" legend="Mont saint michel" source="https://www.flickr.com/photos/loic80l/32472422561">}}
+{{< img name="miscommunication" legend="Speak no evil, see no evil, hear no evil." source="https://www.flickr.com/photos/loic80l/32472422561">}}
+Un autre atelier pour prendre conscience d'autres modèles que le sien est l'étude d'un scénario fictif plausible : Que se passe-t-il si le mont Saint-Michel devient breton ? Quelles sont les conséquences d'un brexit ? Cette étude n'a d'intérêt que si elle est faite en groupe avec la plus grande variété possible de schémas de pensée. Je dois réflechir à ce que nous devrions faire si ce cas survenait. Les organisations qui pratiquent ce genre d'exercices ont souvent une capacité d'adaptation plus grande.
  
-## Advocate vs inquiry
+## Convaincre ou écouter
 {{< img name="OsGemeos" legend="Os Gemeos at the MOCA Art in the Streets exhibit" source="https://www.flickr.com/photos/rstanek/6003919213">}} 
+Pour finir parlons des managers. Ils sont souvent formés pour commander : "Vous devez faire passer les messages pour engager vos collaborateurs", "Vous êtes là pour faire redescendre l'information", "Vous décidez". Tous ces messages vont globalement dans un sens à savoir convaincre. Il s'agit globalement peu d'écouter. Je n'ai que peu vu des managers félicités pour leur capacité d'écoute. Le problème si problème il y a vient du fait que plus le manager monte, plus il est confronté à des problèmes complexes. Plus les problèmes sont complexes, plus il est nécessaire de récupérer des éléments de compréhension (difficile de traduire insight). Il s'agit plus de trouver un équilibre entre conviction et écoute.
 
-Os Gemeos at the MOCA Art in the Streets" exhibit
-Exemple: La façon dont je recrute
-
-Aussi : Suis-je différent au travail de chez moi
-
-
-Skills of reflection concern slowing down our own thinking processes so that we can become more aware of how we form our mental models and the ways they influence our actions.
-
-Leaps of abstraction occur when we move from direct
-
-observations (concrete “data”) to generalization without
-
-testing.
-
-Left-hand column
-
-Conscience : Offshore
- 
-Convaincre et écouter : Les managers traditionnels sont formés à convaincre, pas écouter
-
-Inquiry skills, meanwhile, go unrecognized and unrewarded
-
-But as managers rise to senior positions, they confront
-
-more complex and diverse issues. Suddenly, they need to
-
-tap insights from other people. They need to learn. Now the
-
-manager’s advocacy skills become counterproductive.
-
- 
-
- 
-
-Many managers must learn to reflect on their current mental models – until prevailing assumptions are brought to the open, there is no reason for mental models to change.
-
- 
-
- 
-
-If they believe that their world views are facts rather than a set of assumptions, they will not be open to challenging those world views.
-
- 
-
-Summary
-
-                If they lack the skills in inquiring into their and others ways of thinking, they will be limited in experimenting collaboratively new ways of thinking. Therefore, balancing inquiry and advocacy is needed.
-
-                 
-
-                Just as linear thinking dominates most mental models used for critical decisions today, the learning organisations of the future will make key decisions based on shared understandings of interrelationships and patterns of change.
-
+Beaucoup de managers doivent apprendre/comprendre leur modèle mental actuel et les postulats sur lesquels ils reposent. S'ils pensent que leur vue du monde correspond à des faits plus que des hypothèses, ils ne seront pas ouverts à challenger leur compréhension. Cela devient limitant quand il s'agit d'expérimenter collaborativement d'autres façons de penser.
  
 [Left hand column]: https://facweb.northseattle.edu/jreis/transformations/Course%20Schedule/left_hand%20column.htm
  
