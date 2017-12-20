@@ -1,8 +1,8 @@
 ---
 date: 2017-12-17
-title: "La vision partagée : savoir relier des individus ensemble."
+title: "La vision partagée"
 lang: fr
-draft: false
+draft: true
 authors:
   - retiere_samuel
 tags:
@@ -15,7 +15,7 @@ illustration:
   name: vision
   source: https://www.flickr.com/photos/create-learning/6582601789/
 description: |
-  Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
+  Savoir relier des individus ensemble
 --- 
 Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
 
