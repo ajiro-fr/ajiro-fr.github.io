@@ -22,21 +22,24 @@ Cet article s’inscrit dans une série sur l’organisation apprenante chère �
 Solution focus
 
 ## Ou en suis je
-Biais
-https://www.flickr.com/photos/135830168@N04/23381877690/
+{{< img name="biais" legend="Biais" source="https://www.flickr.com/photos/135830168@N04/23381877690/">}} 
 
 
 ## Avenir désiré
-Poussin https://www.flickr.com/photos/miglesias/22762583316/
+{{< img name="poussin" legend="Poussin" source="https://www.flickr.com/photos/miglesias/22762583316/">}} 
+Poussin 
 
 ## Les petits pas
-Pas https://www.flickr.com/photos/64248265@N02/9471120695/
+{{< img name="footprints" legend="Footprints" source="https://www.flickr.com/photos/64248265@N02/9471120695/">}} 
+Pas 
 
 ## Comme je sais que je sais
-Scene de crime https://www.flickr.com/photos/miglesias/27675319995/
+{{< img name="sceneDeCrime" legend="Scène de crime" source="https://www.flickr.com/photos/miglesias/27675319995/">}} 
+Scene de crime 
 
 ## conclusion
-as they fly https://www.flickr.com/photos/thomashawk/6081472264/
+{{< img name="fly" legend="As they fly" source="https://www.flickr.com/photos/thomashawk/6081472264/">}} 
+as they fly 
 never arrived
 
 développer sa vision personnelle des choses et de la vie. La vision est la
