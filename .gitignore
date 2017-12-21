@@ -2,3 +2,6 @@ public
 *~
 *.swp
 *__thumbnail*
+
+# Mac truc chose
+.DS_Store
