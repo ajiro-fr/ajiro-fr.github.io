@@ -17,6 +17,7 @@ illustration:
 description: |
   9 points de levier pour vous sortir des pièges systémiques (ou quand le système vous rend fou)
 ---
+Cet article peut s'insrérer dans une série sur l’organisation apprenante chère à Peter Senge : [Les 5 disciplines de l'organisation apprenante], [La maitrise personnelle], [Les modèles mentaux], [L’apprenance en équipe], [La vision partagée] et [La pensée systémique]. 
 
 Ça vous est déjà arrivé d’appuyer sur l’accélérateur et que rien ne se passe ? Dis autrement est ce que vous avez déjà essayer d’avoir un impact mais qu’au final autre chose se produise ? Et bien c’est toute la question autour de la systémique, comprendre la big picture pour arriver à l’effet souhaité et limiter les effets de bord. L’article est basé sur le livre Thinking in Systems de Donella Meadows.
 
@@ -90,3 +91,10 @@ La question suivante, c’est comment passer d’un mode « je subis la vague »
   C’est le dernier méta de méta. Je me rends compte que mon système est basé sur un mauvais paradigme comme un management de type prévoir et contrôler. Comme le monde change, je pense qu’il faut passer à un mode ressentir et répondre. Quand on change un paradigme, il est rare de remettre en cause un seul système. C’est plutôt le mode je casse tout et je refais. Ca ne veut pas nécessairement dire que je fais la révolution, je peux changer de manière incrémentale.
 
 J’espère vous avoir donner quelques clés pour tomber moins souvent dans les pièges de la systémique. Si vous souhaitez creuser, je vous reconseille le livre Thinking in Systems de Donella Meadows. Si 200 pages vous rebutent, vous pouvez aussi me bipper.
+
+[Les 5 disciplines de l'organisation apprenante]: /articles/2017-12-22-learning_organization/
+[La maitrise personnelle]: /articles/2017-12-18-personal_mastery/
+[Les modèles mentaux]: /articles/2017-12-18-mental_models/
+[L’apprenance en équipe]: /articles/2017-12-13-team_learning/
+[La vision partagée]: /articles/2017-12-17-shared_vision/
+[La pensée systémique]: /articles/2017-06-08-system_thinking/
