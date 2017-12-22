@@ -13,7 +13,7 @@ categories:
   - craft
 illustration:
   name: clarity
-  source: https://www.flickr.com/photos/arrhakis/21980763248/
+  source: https://flic.kr/p/aYzNJR
 description: |
   Pour clarifier notre approche de la réalité
 --- 
