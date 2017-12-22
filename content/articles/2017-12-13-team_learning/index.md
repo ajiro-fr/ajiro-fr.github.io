@@ -19,6 +19,8 @@ description: |
 ---
 C'est l'histoire d'une question simple "C'est quoi une rétro ?" avec une réponse qui me semblait facile et simple. Si je vais essayer de faire simple, ça ne fut clairement pas facile. C'est toute la question autour de la quatrième discipline de l'organisation apprenante qui m'a fait voir différemment la rétrospective (Scrum). J'avais compris que ce n'est pas parce que je sais progresser seul que je sais le faire en groupe. Je rajoute aujourd'hui que cela sert aussi à apprendre à devenir une équipe.
 
+Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge : [Les 5 disciplines de l'organisation apprenante], [La maitrise personnelle], [Les modèles mentaux], [L’apprenance en équipe], [La vision partagée] et [La pensée systémique]. 
+
 ## Les conditions nécessaires
 {{< img name="safety" legend="Astoria Chakla" source="https://www.flickr.com/photos/meanestindian/2224681775/" >}}
 Pour pouvoir progresser, il est intéressant de connaitre ses axes de progrès. Et là le vocabulaire est intéressant. Je ne parle pas d'échec ou de problème, mais d'axe de progrès. Je suis en train de faire du politiquement correct. Souvent quand j'entends parler d'axe de progrès, je suis dans une organisation où il est compliqué de remonter des difficultés. Si je suis Carol Dweck dans [Mindset], je n'essaie pas de paraitre intelligent mais bien de grandir. Je pourrais aussi parler de confiance dans les autres et de capacité à exprimer ce que je ressens ([Psychological safety]). Si vous n'êtes pas dans un environnement où vous pouvez remonter des problèmes, c'est par là qu'il faudra commencer avant d'aller plus loin.
@@ -67,3 +69,9 @@ Les séances d'amélioration type rétrospective servent à améliorer les prati
 
 [Mindset]: https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth
 [Psychological safety]: https://en.wikipedia.org/wiki/Psychological_safety
+[Les 5 disciplines de l'organisation apprenante]: /articles/2017-12-22-learning_organization/
+[La maitrise personnelle]: /articles/2017-12-18-personal_mastery/
+[Les modèles mentaux]: /articles/2017-12-18-mental_models/
+[L’apprenance en équipe]: /articles/2017-12-13-team_learning/
+[La vision partagée]: /articles/2017-12-17-shared_vision/
+[La pensée systémique]: /articles/2017-06-08-system_thinking/
