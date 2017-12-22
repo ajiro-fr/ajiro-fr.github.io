@@ -17,7 +17,7 @@ illustration:
 description: |
   Pour clarifier notre approche de la réalité
 --- 
-Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre. La notion de maitrise personnelle fait beaucoup référence à la notion de trajectoire personnelle et de ma capacité à savoir où je veux aller par rapport à où je suis. Le fil rouge de cet article sera un exemple pour mieux expliciter.
+Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge : [Les 5 disciplines de l'organisation apprenante], [La maitrise personnelle], [Les modèles mentaux], [L’apprenance en équipe], [La vision partagée] et [La pensée systémique]. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre. La notion de maitrise personnelle fait beaucoup référence à la notion de trajectoire personnelle et de ma capacité à savoir où je veux aller par rapport à où je suis. Le fil rouge de cet article sera un exemple pour mieux expliciter.
 
 ## Aujourd'hui
 {{< img name="biais" legend="Biais" source="https://www.flickr.com/photos/135830168@N04/23381877690/">}} 
@@ -56,4 +56,9 @@ REACTIVE : Life Happens to me !
 CREATIVE : I Make Life Happen !
 
 [Dunning-Kruger]: http://www.toupie.org/Biais/Effet_dunning-kruger.htm
- 
+[Les 5 disciplines de l'organisation apprenante]: /articles/2017-12-22-learning_organization/
+[La maitrise personnelle]: /articles/2017-12-18-personal_mastery/
+[Les modèles mentaux]: /articles/2017-12-18-mental_models/
+[L’apprenance en équipe]: /articles/2017-12-13-team_learning/
+[La vision partagée]: /articles/2017-12-17-shared_vision/
+[La pensée systémique]: /articles/2017-06-08-system_thinking/
