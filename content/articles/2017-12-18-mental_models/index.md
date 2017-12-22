@@ -17,7 +17,7 @@ illustration:
 description: |
   Apprendre à nous défaire de nos préjugés pour mieux comprendre les problèmes complexes
 --- 
-Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre. Dans ce post, il sera question de schémas de pensée que je peux aussi appelé modèles mentaux.
+Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge : [Les 5 disciplines de l'organisation apprenante], [La maitrise personnelle], [Les modèles mentaux], [L’apprenance en équipe], [La vision partagée] et [La pensée systémique].  J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre. Dans ce post, il sera question de schémas de pensée que je peux aussi appelé modèles mentaux.
  
 ## Boxes
 {{< img name="kruger" legend="Barbara Kruger, Modern Art Oxford" source="https://www.flickr.com/photos/biker_jun/15103098828" >}} 
@@ -55,5 +55,10 @@ Pour finir parlons des managers. Ils sont souvent formés pour commander : "Vous
 Beaucoup de managers doivent apprendre/comprendre leur modèle mental actuel et les postulats sur lesquels ils reposent. S'ils pensent que leur vue du monde correspond à des faits plus que des hypothèses, ils seront peu enclins à challenger leur compréhension. Cela devient limitant quand il s'agit d'expérimenter collaborativement d'autres façons de penser.
  
 [Left hand column]: https://facweb.northseattle.edu/jreis/transformations/Course%20Schedule/left_hand%20column.htm
- 
+[Les 5 disciplines de l'organisation apprenante]: /articles/2017-12-22-learning_organization/
+[La maitrise personnelle]: /articles/2017-12-18-personal_mastery/
+[Les modèles mentaux]: /articles/2017-12-18-mental_models/
+[L’apprenance en équipe]: /articles/2017-12-13-team_learning/
+[La vision partagée]: /articles/2017-12-17-shared_vision/
+[La pensée systémique]: /articles/2017-06-08-system_thinking/
 
