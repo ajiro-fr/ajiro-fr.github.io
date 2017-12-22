@@ -17,7 +17,7 @@ illustration:
 description: |
   Savoir relier des individus ensemble
 --- 
-Cet article s’inscrit dans une série sur l’organisation apprenante cher à Peter Senge. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
+Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge : [Les 5 disciplines de l'organisation apprenante], [La maitrise personnelle], [Les modèles mentaux], [L’apprenance en équipe], [La vision partagée] et [La pensée systémique].  J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
 
 ## Sémantique
 {{< img name="inquiry" legend="Inquiry Grade 5" source="https://www.flickr.com/photos/lindybuckley/9849638944/" >}}
@@ -55,3 +55,10 @@ C'est pour cela que l'on dit souvent qu'une vision partagée d'organisation est 
 Je garde la question d'ouverture pour la fin. Je parle d'organisation apprenante, mais de quelle organisation est ce que je parle ? Il  n'y a pour moi de moins en moins de bijection entre mon employeur et mon organisation. Je fais partie de plusieurs organisations en même temp : mon employeur, mon client, mon club de sport, mon association de coachs,... Chacune de ces associations à sa vision (partagée) dans laquelle je m'inscris ou pas. Cela m'est déjà arrivé par le passé avec un club de badminton qui voulait aller plus vers de la compétition niveau national alors que ma vision était plutôt la compétition loisir. Je ne me retrouvais plus dans la vision de cette organisation et je suis donc allé dans une autre. Je suis dans plusieurs organisations qui ont chacune leur vision mais dans lesquelles je me retrouve avec des comportements différents dans chaque organisation. Et c'est normal.
 
 Je ne vois d'ailleurs pas de différence entre des organisations hiérarchiques, holacratiques, produitistique :-),... Il y a une déclinaison de la valeur à chaque niveau qui va permettre à chaque personne de savoir ce que l'on attend d'elle en réconciliant vision personnelle et vision globale.
+
+[Les 5 disciplines de l'organisation apprenante]: /articles/2017-12-22-learning_organization/
+[La maitrise personnelle]: /articles/2017-12-18-personal_mastery/
+[Les modèles mentaux]: /articles/2017-12-18-mental_models/
+[L’apprenance en équipe]: /articles/2017-12-13-team_learning/
+[La vision partagée]: /articles/2017-12-17-shared_vision/
+[La pensée systémique]: /articles/2017-06-08-system_thinking/
