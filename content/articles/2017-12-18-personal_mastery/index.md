@@ -13,11 +13,11 @@ categories:
   - craft
 illustration:
   name: clarity
-  source: https://flic.kr/p/aYzNJR
+  source: https://www.flickr.com/photos/arrhakis/21980763248/
 description: |
   Pour clarifier notre approche de la réalité
 ---
-  
+
 Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge : [Les 5 disciplines de l'organisation apprenante], [La maitrise personnelle], [Les modèles mentaux], [L’apprenance en équipe], [La vision partagée] et [La pensée systémique]. J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre. La notion de maitrise personnelle fait beaucoup référence à la notion de trajectoire personnelle et de ma capacité à savoir où je veux aller par rapport à où je suis. Le fil rouge de cet article sera un exemple pour mieux expliciter.
 
 ## Aujourd'hui
