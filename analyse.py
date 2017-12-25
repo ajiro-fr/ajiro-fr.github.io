@@ -173,12 +173,21 @@ def get_flickr_image_title(url):
 
 
 def flick_download_image(url):
+    def url_of(page, kind):
+        image_url = re.findall(r'https:[^" \\:]*_o\.'+kind, page)
+        if image_url:
+            return HTTP.request('GET', image_url[0]).data
+        else:
+            return None
+
     html = HTTP.request('GET', url + '/sizes/o/')
-    image_url = re.findall(r'https:[^" \\:]*_o\.jpg', html.data.decode('utf-8'))
-    if image_url:
-        return HTTP.request('GET', image_url[0]).data
-    else:
-        return None
+    page = html.data.decode('utf-8')
+
+    jpg_url = url_of(page, 'jpg')
+    if jpg_url:
+        return HTTP.request('GET', jpg_url[0]).data
+
+    return None
 
 def pseudo_of(url):
     return url.split('/')[4]
@@ -249,6 +258,8 @@ def images_download():
                 if image:
                     print("  URL=%s; name=%s; downloaded" % (illustration.source, illustration.name))
                     write_file_binary(image_path, image)
+                else:
+                    print("  URL=%s; name=%s; FAILED!" % (illustration.source, illustration.name))
             else:
                 print("  source=%s; name=%s; not flick" % (illustration.source, illustration.name))
 
