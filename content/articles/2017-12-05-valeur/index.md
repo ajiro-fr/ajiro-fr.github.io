@@ -16,6 +16,7 @@ illustration:
 description: |
   Il y a quelques années, j’étais convaincu que mesurer la valeur délivrée en utilisant des value points étaient une bonne idée. Et bien vous savez quoi, je pense aujourd’hui que c’est une mauvaise idée car l’optimisation de la valeur délivrée ainsi est faible.
 ---
+
 Il y a quelques années, j’étais convaincu que mesurer la valeur délivrée en utilisant des value points étaient une bonne idée. Et bien vous savez quoi, je pense aujourd’hui que c’est une mauvaise idée car l’optimisation de la valeur délivrée ainsi est faible.
 
 ## L’idée de base

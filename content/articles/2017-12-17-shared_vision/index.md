@@ -16,7 +16,8 @@ illustration:
   source: https://www.flickr.com/photos/create-learning/6582601789/
 description: |
   Savoir relier des individus ensemble
---- 
+---
+  
 Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge : [Les 5 disciplines de l'organisation apprenante], [La maitrise personnelle], [Les modèles mentaux], [L’apprenance en équipe], [La vision partagée] et [La pensée systémique].  J’y parle plus de ce qui raisonne en moi que d’une synthèse du livre.
 
 ## Sémantique

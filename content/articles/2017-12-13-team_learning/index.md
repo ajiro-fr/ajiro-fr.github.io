@@ -17,9 +17,10 @@ illustration:
 description: |
   C'est l'histoire d'une question simple "C'est quoi une rétro ?" avec une réponse qui me semblait facile et simple. Au final, cela parle plus d'apprendre en équipe et d'apprendre à être une équipe.
 ---
+
 C'est l'histoire d'une question simple "C'est quoi une rétro ?" avec une réponse qui me semblait facile et simple. Si je vais essayer de faire simple, ça ne fut clairement pas facile. C'est toute la question autour de la quatrième discipline de l'organisation apprenante qui m'a fait voir différemment la rétrospective (Scrum). J'avais compris que ce n'est pas parce que je sais progresser seul que je sais le faire en groupe. Je rajoute aujourd'hui que cela sert aussi à apprendre à devenir une équipe.
 
-Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge : [Les 5 disciplines de l'organisation apprenante], [La maitrise personnelle], [Les modèles mentaux], [L’apprenance en équipe], [La vision partagée] et [La pensée systémique]. 
+Cet article s’inscrit dans une série sur l’organisation apprenante chère à Peter Senge : [Les 5 disciplines de l'organisation apprenante], [La maitrise personnelle], [Les modèles mentaux], [L’apprenance en équipe], [La vision partagée] et [La pensée systémique].
 
 ## Les conditions nécessaires
 {{< img name="safety" legend="Astoria Chakla" source="https://www.flickr.com/photos/meanestindian/2224681775/" >}}
@@ -29,7 +30,7 @@ Pour pouvoir progresser, il est intéressant de connaitre ses axes de progrès. 
 {{< img name="fields" legend="Fields" source="https://www.flickr.com/photos/sunrisesoup/27234617180/" >}}
 Je suis en train de parler du périmètre de la séance de reflexion. Je peux regarder le global ou zoomer sur un point précis. C'est par exemple le cas quand je fais un post mortem sur une livraison en production. Souvent cela revient à se concentrer sur un des projets de mon écosystème et donc d'améliorer un sous système du système global. Dans ce cas, je fais attention à :<br>
 - M'assurer que je ne suis pas en train de faire un optimum local au détriment du global. C'est pour cela que je préfère souvent partir du global et zoomer ensuite.<br>
-- Poser la question de la suite. Je suis sur un sous ensemble en termes de périmètre et donc sûrement en termes de personnes. Qu'est ce que je fais des personnes non présentes ? Je parle de dissémination et d'acquisition de nouvelles pratiques, et aussi d'engagement. Je ne souhaite pas me retrouver avec deux équipes mais bien une seule. 
+- Poser la question de la suite. Je suis sur un sous ensemble en termes de périmètre et donc sûrement en termes de personnes. Qu'est ce que je fais des personnes non présentes ? Je parle de dissémination et d'acquisition de nouvelles pratiques, et aussi d'engagement. Je ne souhaite pas me retrouver avec deux équipes mais bien une seule.
 
 Et c'est le point que je n'avais pas précédemment perçu. Quand je fais une session d'amélioration type rétrospective, j'améliore la façon dont une équipe fonctionne (les pratiques) mais je renforce aussi l'équipe en tant que telle (les relations).
 

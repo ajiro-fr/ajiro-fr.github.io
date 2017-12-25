@@ -16,6 +16,7 @@ illustration:
 description: |
   Où il est question d’adaptation au changement pour une organisation
 ---
+
 Ceci est l'article chapeau d'une série sur l'organisation apprenante chère à Peter Senge : [Les 5 disciplines de l'organisation apprenante], [La maitrise personnelle], [Les modèles mentaux], [L’apprenance en équipe], [La vision partagée] et [La pensée systémique].
 
  Il existe plusieurs modèles qui tournent tous pour moi autour de l’adaptation au changement pour une organisation. C’est un sujet d’autant plus d’actualité que nous sommes de plus en plus dans un monde complexe avec donc des protocoles de prise de décision adaptés. Pour ceux qui suivent, je parle du framework d’aide à la décision [Cynefin]. Par la suite, je vais donner des pointeurs vers les 5 disciplines de l’organisation apprenante.
@@ -23,7 +24,7 @@ Ceci est l'article chapeau d'une série sur l'organisation apprenante chère à 
 Si vous êtes dans l’univers du design, vous avez peut-être entendu parler du cabinet IDEO et plus particulièrement de leur modèle [IDEO Creative difference].  Une organisation créative sera en capacité de s’adapter à un marché changeant. Si vous êtes plus du monde de la sociologie, vous connaissez peut-être la [spirale dynamique] qui est un modèle d’aide à la compréhension pour l’adaptation au changements. Et si vous venez de la compréhension des systèmes, vous connaissez sûrement [la cinquième discipline] livre de 1990 écrit par Peter Senge qui parle de comment une organisation peut apprendre (pour s’adapter).
 
 L’organisation apprenante repose sur 5 disciplines. Elles sont nécessaires pour que l'organisation dans son ensemble ait la capacité de s'adapter. Chaque sous-article détaille la discipline :
-- [La maitrise personnelle] : Comprendre ce qui nous motive et à clarifier notre approche des choses (avenir désiré). 
+- [La maitrise personnelle] : Comprendre ce qui nous motive et à clarifier notre approche des choses (avenir désiré).
 - [Les modèles mentaux] : Apprendre à nous défaire de nos préjugés pour mieux comprendre les problèmes complexes.
 - [L’apprenance en équipe] : Apprendre en équipe et/ou apprendre à être une équipe.
 - [La vision partagée] : Savoir relier les individus entre eux.
