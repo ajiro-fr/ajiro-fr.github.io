@@ -24,14 +24,15 @@ Description d'un petit jeu sérieux illustrant la néssecité de bien ordonner m
 
 C'est un jeu directement inspiré d'un des atelier officiels "[Lego Serious Play](https://www.lego.com/en-us/seriousplay)". Le déroulement est très simple :
 
-- On divise les participants en deux groupes de trois ou quatre personnes.
+- On divise les participants en deux groupes de trois ou quatre personnes minimum.
 - On divises les Lego en deux jeux d'une vingtaine de sets, un jeu par équipe.
 - On donne un ensemble de feuilles à carreaux aux deux équipes.
+- Dans chaque équipe on identifie un ou deux observateurs qui noterons avec minutie les détails des interactions.
 
 {{< img name="set-lego" legend="Set du canard Lego" source="/authors/clavier_thomas/" >}}
 
 Les deux équipes vont chercher à livrer un maximum de canards différents accompagnés de leur plan.
-Un canard se fabrique avec les six briques que l'ont peut observer sur la photo ci-dessus. Notez que les pièces rouge sont des briques plates 2×4.
+Un canard se fabrique avec les six briques que l'ont peut observer sur la photo ci-dessus. Notez que les pièces rouge sont des briques plates 2×4 ou encore mieux des 2×3.
 
 La première équipe va commencer par dessiner les plans du canard avant de le construire alors que la seconde va commencer par construire le canard avant de dessiner le plan.
 
