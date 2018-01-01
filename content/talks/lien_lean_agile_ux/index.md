@@ -20,7 +20,7 @@ ressources:
     file: https://www.slideshare.net/SamuelRETIERE/meetup-star-dux-liens-lean-agile-ux
 sessions:
   - date: "2017-04-26"
-    name: Meetup Star d'UX : L'UX dans les environnements agiles
+    name: Meetup Star d'UX
     url: https://www.meetup.com/fr-FR/Star-dUX/events/238852138/
 ---
 
