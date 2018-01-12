@@ -11,8 +11,8 @@ tags:
   - technique
   - Mob Programming
 illustration:
-  name: manipulation
-  source: https://flic.kr/p/rvBru
+  name: escargot
+  source: https://flic.kr/p/67dSQX
 abstract: |
   Comment ralentir peut-il nous permettre de perfectionner nos techniques de développement, d'aller plus vite et d'aller plus loin ?
   Pendant 50 min, nous vous proposons de venir ralentir avec nous pour apprendre à nous perfectionner dans l'attention aux détails, l'apprentissage de l'absence de gaspillage, prendre conscience de mauvais réflexes et de certains raccourcis que l'on pratique trop souvent.
