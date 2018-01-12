@@ -14,7 +14,7 @@ illustration:
   name: manipulation
   source: https://flic.kr/p/rvBru
 abstract: |
-  Une petite heure pour 
+  Ralentire pour mieux perfectionner son geste
 ---
 
 # Présentation détaillée
