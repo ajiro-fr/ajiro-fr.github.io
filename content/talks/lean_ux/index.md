@@ -13,8 +13,8 @@ illustration:
   name: leanUX
   source: https://www.flickr.com/photos/s2ublack/9270943672
 abstract: |
-  Qu'est ce que c'est ce truc ? Encore un nouveau framework. T'es relou Samuel, c'est juste une énième version du jeu de l'oie. 
-Ah oui, mais celui là il fait le café. Et il a super option supplémentaire, il comporte des phases de divergence/convergence puis validation en test et production à base d'itération.
+  Qu'est ce que c'est ce truc ? Encore un nouveau framework. T'es relou Samuel, c'est juste une énième version du jeu de l'oie.
+  Ah oui, mais celui là il fait le café. Et il a super option supplémentaire, il comporte des phases de divergence/convergence puis validation en test et production à base d'itération.
 ressources:
   - name: "Le support de présentation"
     file: https://www.slideshare.net/SamuelRETIERE/lean-ux-76478212
@@ -25,7 +25,7 @@ sessions:
 ---
 
 # Présentation détaillée
-Qu'est ce que c'est ce truc ? Encore un nouveau framework. T'es relou Samuel, c'est juste une énième version du jeu de l'oie. 
+Qu'est ce que c'est ce truc ? Encore un nouveau framework. T'es relou Samuel, c'est juste une énième version du jeu de l'oie.
 Ah oui, mais celui là il fait le café. Et il a super option supplémentaire, il comporte des phases de divergence/convergence puis validation en test et production à base d'itération.
 
 # Objectifs de la session
