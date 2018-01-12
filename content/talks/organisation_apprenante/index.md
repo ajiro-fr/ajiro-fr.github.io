@@ -29,7 +29,7 @@ Découvrir des concepts d’adaptation au niveau d’une organisation.
 # Structure de la session
 
 Je ne sais pas encore. En général, j’aime bien raconter des histoires.
-  
+
 # Tweet
 
 Moi, j’ai appris à apprendre à l’école. Mais comment faire NOUS apprenons ensemble ?

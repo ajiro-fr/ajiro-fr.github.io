@@ -10,7 +10,7 @@ tags:
   - lean
   - UX
 illustration:
-  name: leanUX
+  name: lean-ux
   source: https://www.flickr.com/photos/s2ublack/9270943672
 abstract: |
   Qu'est ce que c'est ce truc ? Encore un nouveau framework. T'es relou Samuel, c'est juste une énième version du jeu de l'oie.
