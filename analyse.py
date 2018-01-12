@@ -176,7 +176,7 @@ def flick_download_image(url):
     def url_of(page, kind):
         image_url = re.findall(r'https:[^" \\:]*_o\.'+kind, page)
         if image_url:
-            return HTTP.request('GET', image_url[0]).data
+            return image_url[0]
         else:
             return None
 
@@ -185,7 +185,7 @@ def flick_download_image(url):
 
     jpg_url = url_of(page, 'jpg')
     if jpg_url:
-        return HTTP.request('GET', jpg_url[0]).data
+        return HTTP.request('GET', jpg_url).data
 
     return None
 
