@@ -64,3 +64,14 @@ Entre chaque chapeau, vous pouvez prendre le temps pour sortir d'un mode de pens
 ## Debrief de l'exercice
 
 Normalement l'essentiel du travail de debriefing est fait lors du dernier chapeau bleu. Néanmoins c'est essentiellement un travail de synthèse. Ajouter un moment "hors chapeau" ou "chapeau rouge" pour demander à chacun comment il se sent à la fin de l'atelier est possible.
+
+
+## Options
+
+### Pour retrospective / ralentir
+
+- Prendre le temps de clarifier sa pensée avant de parler
+- Laisser chaque personne parler à son rythme et attendre qu'elle explicite la fin de sa prise de parole pour continuer
+- Il est possible de répéter des points qui ont été dit
+- Pas de recherche de vérité, pas de débat, ni de recherche de consensus
+- On reste dans le chapeau concerné
