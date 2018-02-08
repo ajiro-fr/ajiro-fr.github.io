@@ -10,6 +10,7 @@ tags:
   - architect
   - lego
   - lego serious play
+  - serious game
 categories:
   - craft
 illustration:
@@ -25,9 +26,10 @@ Description d'un petit jeu sérieux illustrant la néssecité de bien ordonner m
 C'est un jeu directement inspiré d'un des atelier officiels "[Lego Serious Play](https://www.lego.com/en-us/seriousplay)". Le déroulement est très simple :
 
 - On divise les participants en deux groupes de trois ou quatre personnes minimum.
-- On divises les Lego en deux jeux d'une vingtaine de sets, un jeu par équipe.
-- On donne un ensemble de feuilles à carreaux aux deux équipes.
 - Dans chaque équipe on identifie un ou deux observateurs qui noterons avec minutie les détails des interactions.
+- Pour les autres, on divises les Lego en deux jeux d'une vingtaine de sets, un jeu par équipe.
+- On donne un ensemble de feuilles à carreaux aux deux équipes.
+- Et on s'assure que chaque équipe n'a qu'un seul crayon pour dessiner sur les feuilles à carreaux.
 
 {{< img name="set-lego" legend="Set du canard Lego" source="/authors/clavier_thomas/" >}}
 
@@ -40,7 +42,11 @@ Pour suivre l'évolution du jeu, on lance un chronomètre et toutes les minutes 
 
 Je vous laisse le jouer pour en découvrir le résultat.
 
-Quelques parallèles peuvent être tentés :
+- Comment se sont passés les interactions dans l'équipe ? 
+- Comment les équipes se sont organisées ?
+- Avez-vous observé des 
+
+Quelques parallèles peuvent être évoqués :
 
 - Les organisations qui demandent aux architectes de produire une conception avant de demander aux développeurs de remplir les trous.
 - Les développeurs qui produisent des plans qui seront transformés par le compilateur en exécutable.
