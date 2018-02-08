@@ -1,7 +1,7 @@
 ---
 aliases: /talks/slow_mob_programming.html
-date: 2017-04-12
-title: "Slow mob programming in live"
+date: 2018-01-12
+title: "Ralentir pour aller plus vite !"
 duration: 50 min
 genre: Présentation
 authors:
@@ -16,6 +16,7 @@ illustration:
 abstract: |
   Comment ralentir peut-il nous permettre de perfectionner nos techniques de développement, d'aller plus vite et d'aller plus loin ?
   Pendant 50 min, nous vous proposons de venir ralentir avec nous pour apprendre à nous perfectionner dans l'attention aux détails, l'apprentissage de l'absence de gaspillage, prendre conscience de mauvais réflexes et de certains raccourcis que l'on pratique trop souvent.
+
 ---
 
 # Présentation détaillée
