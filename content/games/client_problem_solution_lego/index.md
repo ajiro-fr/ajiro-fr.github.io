@@ -1,4 +1,5 @@
 ---
+draft: true
 date: 2018-02-07
 title: "Lego Lean Canvas"
 tags:
