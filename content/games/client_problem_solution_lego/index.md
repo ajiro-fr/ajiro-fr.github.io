@@ -1,19 +1,18 @@
 ---
-date: 2017-04-29
-sorted: six chapeaux d’edward de bono
-title: "Lego Lean Canva"
+date: 2018-02-07
+title: "Lego Lean Canvas"
 tags:
   - brainstorming
-  - LegoSeriousPlay
-  - Lean Canva
-  - Business Model
-  - Idéation
+  - lego
+  - serious game
+  - lego serious play
+  - lean canvas
+  - idéation
 objectives: |
   - Brainstorming
   - Recherche de solutions innovantes
-  - Structuration de projet
 duration: 90 min
-participants: "jusqu'à 10 - L'équipe"
+participants: "jusqu'à 12 - L'équipe"
 materials:
   - Legos
   - Post-It
@@ -23,63 +22,53 @@ authors:
   - clavier_thomas
   - quille_julie
 illustration:
-  name: six-hats
-  source: http://flic.kr/p/o6PJTS
-references:
-  - title: Fiche des 6 chapeaux sur l'université du nous
-    icon: external-link
-    url: http://universite-du-nous.org/wp-content/uploads/2013/09/fiche-6-chapeaux-b-2017.pdf
-  - title: Les 6 chapeaux sur creativite.net
-    icon: external-link
-    url: http://www.creativite.net/six-chapeaux-de-la-reflexion-edward-de-bono-creativite-1/
-  - title: Méthode des six chapeaux
-    icon: wikipedia-w
-    url: https://fr.wikipedia.org/wiki/M%C3%A9thode_des_six_chapeaux
-ressources:
-  - name: Cartes des 6 chapeaux (français)
-    file: six-hats-fr.pdf
-    icon: fr.svg
+  name: lego-warmup
+  source: /authors/quille_julie/
+
 ---
 
 ## Présentation
 
-Cet atelier permet à une équipe d'avoir une réflexion commune sur leur situation avec un focus particulier sur clients / problèmes / solutions.
+Cet atelier permet en phase divergence dans la création de produit, de générer rapidement un grand nombre d'idées avant de ne sélectionner que les meilleurs lean canvas.
 
-Basé sur l'idée de mobiliser différentes compétences, le lego permet de solliciter les compétences kinesthésiques de chacun :le temps de cet atelier on réfléchit avec les mains.
+Basé sur l'idée de mobiliser différentes intelligences simultanément, le lego permet de solliciter les compétences kinesthésiques de chacun afin de démultiplier les capacités du groupe : le temps de cet atelier on réfléchit aussi avec les mains.
 
 ## Règles
-1. Il est nécessaire d'avoir des legos en quantités suffisante pour l'ensemble de l'équipe.
-2. Avant de commencet l'atelier à proprement parlé, nous prévoyons de faire un échauffement. Cet échauffement est en deux parties : la première (La Tour Idéale) à pour but de permettre à chacun de reprendre les legos en main, la seconde (Forcer mon conjoint à sortir les poubelles), sert à libérer l'imagination des participants. Suivant votre timing, faire les deux ateliers peut-être un peu long, à vous de voir ce que vous souhaitez faire en fonction de l'équipe à qui vous proposez l'atelier.
-3. Lors de la phase de construction de chacune des étapes laissez les participants créer ce qu'ils souhaitent. L'idée et de sortir des modes de pensées habituelles pour aller vers un Lean Canva co-construit et créer des possibles.
-4. Chaque construction doit être accompagnée d'un Post-It qui contient une légende (l'idée est de pouvoir se rappeler facilement de ce qu'elle représente). Utilisez des couleurs de POst-It différentes pour chaque étape (Clients / Problèmes / Solutions).
-5. Veuillez à ce que la phase d'échanges ne soient pas le lieu de débat, chacun explique ce qu'il à construit.
-6. Durant la phase de regroupement, mettez au centre les construction afin de créer un système. Si deux personnes créent la même construction regroupez les, mais gardez les toutes.
-7. Durant cette phase, prenez un moment pour matérialiser les liens entre les constructions (utilisez du scotch de peintre) et expliquer comment les éléments s'articulent les uns par rapport aux autres.
-8. Chaque étape vient compléter le précédente (on construit le "réseau clients" (pas de recherche d'exhaustivité), on le compléte avec les problématiques (on matérialise les liens entre les clients et les problèmes), puis on intégre les solutions avec les liens).
-9. A la fin de l'atelier, faire une phase de bilan qui vient synthétiser ce qui s'est dit. Elle permet d'ancrer les apprentissages et de définir les étapes suivantes. Modélisez vos questions en fonction des objectifs visés.
+- Il est nécessaire d'avoir des legos en quantités suffisante pour l'ensemble de l'équipe.
+- Avant de commencer l'atelier à proprement parlé, il est necessaire de s'échaufer. Nous vous proposons un échauffement en deux parties, à vous de voir ce que vous souhaitez faire en fonction de l'équipe à qui vous proposez l'atelier.
+- Lors de la phase de constructioni, il est important de laissez les participants créer ce qu'ils souhaitent. L'idée et de sortir des modes de pensées habituelles pour aller vers une mutitude de lean canvas.
+- Chaque construction doit être accompagnée d'un Post-It qui contient une légende (l'idée est de pouvoir se rappeler facilement de ce qu'elle représente). Utilisez des couleurs de Post-It différentes pour chaque étape (Cible / Problèmes / Solutions).
+- Veuillez à ce que la phase d'échanges ne soient pas le lieu de débat sur la faisabilité ou la véracité.
+- Durant la phase de regroupement, mettez au centre les construction afin de créer un système. 
+- Durant cette phase, prenez un moment pour matérialiser les liens entre les constructions à l'aide du scotch de peintre et expliquer comment les éléments s'articulent les uns par rapport aux autres.
+- Chaque étape vient compléter le précédente.
+- A la fin de l'atelier, faire une phase de bilan qui vient synthétiser ce qui s'est dit. Elle permet de lister toutes les idées avant un nouvel atelier qui sera consacré à la sélection des lean canvas à tester.
 
 ## Déroulé
 
 ### Echauffement (15 - 20 min)
-- Construisez votre meilleure tour ! (3 min)
+- Construisez votre tour idéale ! (3 min)
 - Racontez-nous en quoi c'est la meilleure tour. (3 min)
-- On vous laisse 5 min pour imaginer 8 solutions pour forcer votre conjoint / conjointe à sortir les poubelles (5 min)
+- On demande aux participants de plier 3 fois une feuille A4 en 2, ce qui délimite 8 espaces. On laisse alors aux participants 5 min pour imaginer 8 solutions, une par case, pour forcer leur conjoint ou conjointe à sortir les poubelles (5 min)
 - Partagez vos 2 ou 3 solutions préférées avec le reste du groupe. (5 min)
 
-### Atelier (45 min)
-- Construisez un client et ses spécificités, et nommez là. (2 min)
+### Construction (45 min)
+À partir de maintenant, nous allons remplir quelques cases de notre lean canvas.
+
+#### Cible
+- Construisez un client et ses spécificités, et nommez votre construction. (2 min)
 - Présentez votre construction (5 min)
 - Regroupez et reliez (5 min)
 
-- Construisez un problème que vous rencontrez, et nommez là. (2 min)
+#### Problème
+- Construisez un problème que vos clients rencontre, et nommez votre construction. (2 min)
 - Présentez votre construction (5 min)
 - Regroupez et reliez (5 min)
 
+#### Solution
 - Construisez une solution, et nommez là. (2 min)
 - Presentez votre construction (5 min)
 - Regroupez et reliez (5 min)
 
-### Debrief
-- Qu'est-ce que nous retenons de tout ça ? (solutions que l'on garde)
-- Qu'est-ce qu'on souhaite mettre en place ?
-- Quelle est la prochaine étape ?
+### Bilan
+- Lister les idées produites sous forme de lean canvas afin de pouvoir alimenter un prochain atelier de sélection.
