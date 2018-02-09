@@ -54,7 +54,7 @@ Basé sur l'idée de mobiliser différentes intelligences simultanément, le leg
 - Partagez vos 2 ou 3 solutions préférées avec le reste du groupe. (5 min)
 
 ### Construction (45 min)
-À partir de maintenant, nous allons remplir quelques cases de notre lean canvas.
+À partir de maintenant, nous allons remplir quelques cases de nos lean canvas.
 
 #### Cible
 - Construisez un client et ses spécificités, et nommez votre construction. (2 min)
