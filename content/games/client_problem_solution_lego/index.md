@@ -42,7 +42,6 @@ Basé sur l'idée de mobiliser différentes intelligences simultanément, le leg
 
 ## Règles
 - Il est nécessaire d'avoir des legos en quantité suffisante pour l'ensemble de l'équipe.
-- Avant de commencer l'atelier à proprement parler, il est nécessaire de s'échauffer. Nous vous proposons un échauffement en deux parties, à vous de voir ce que vous souhaitez faire en fonction de l'équipe à qui vous proposez l'atelier.
 - Lors de la phase de construction, il est important de laisser les participants créer ce qu'ils souhaitent. L'idée et de sortir des modes de pensées habituels pour aller vers une mutitude de lean canvas.
 - Chaque construction doit être accompagnée d'un Post-It qui contient une légende (l'idée est de pouvoir se rappeler facilement ce qu'elle représente). Utilisez des couleurs de Post-It différentes pour chaque étape (Cible / Problèmes / Solutions).
 - Veuillez à ce que la phase d'échanges ne soit pas le lieu de débat sur la faisabilité ou la véracité.
@@ -54,6 +53,8 @@ Basé sur l'idée de mobiliser différentes intelligences simultanément, le leg
 ## Déroulé
 
 ### Echauffement (15 - 20 min)
+ Avant de commencer l'atelier à proprement parler, il est nécessaire de s'échauffer. Nous vous proposons un échauffement en deux parties, à vous de voir ce que vous souhaitez faire en fonction de l'équipe à qui vous proposez l'atelier.
+ 
 - Construisez votre tour idéale ! (3 min)
 - Racontez-nous en quoi c'est la meilleure tour. (3 min)
 - On demande aux participants de plier 3 fois une feuille A4 en 2, ce qui délimite 8 espaces. On laisse alors aux participants 5 min pour imaginer 8 solutions, une par case, pour forcer leur conjoint ou conjointe à sortir les poubelles (5 min)
