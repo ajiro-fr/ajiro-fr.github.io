@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2018-02-07
 title: "Lego Lean Canvas"
 tags:
@@ -77,7 +77,4 @@ Chaque construction doit être accompagnée d'un Post-It qui contient une légen
 
 ### Bilan 
 - Lister les idées produites sous forme de lean canvas afin de pouvoir alimenter un prochain atelier de sélection.
-
-## Conclusion
-
 
