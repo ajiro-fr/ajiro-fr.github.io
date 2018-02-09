@@ -41,10 +41,6 @@ Basé sur l'idée de mobiliser différentes intelligences simultanément, le leg
 - trouver de nouvelles idées à tester
 
 ## Règles
-- Il est nécessaire d'avoir des legos en quantité suffisante pour l'ensemble de l'équipe.
-- Lors de la phase de construction, il est important de laisser les participants créer ce qu'ils souhaitent. L'idée et de sortir des modes de pensées habituels pour aller vers une mutitude de lean canvas.
-- Chaque construction doit être accompagnée d'un Post-It qui contient une légende (l'idée est de pouvoir se rappeler facilement ce qu'elle représente). Utilisez des couleurs de Post-It différentes pour chaque étape (Cible / Problèmes / Solutions).
-- Veuillez à ce que la phase d'échanges ne soit pas le lieu de débat sur la faisabilité ou la véracité.
 - Durant la phase de regroupement, mettez au centre les constructions afin de créer un système. 
 - Durant cette phase, prenez un moment pour matérialiser les liens entre les constructions à l'aide du scotch de peintre et expliquer comment les éléments s'articulent les uns par rapport aux autres.
 - Chaque étape vient compléter la précédente.
@@ -63,17 +59,24 @@ Basé sur l'idée de mobiliser différentes intelligences simultanément, le leg
 ### Construction (45 min)
 À partir de maintenant, nous allons remplir quelques cases de nos lean canvas.
 
+Durant cette phase, il est important de laisser les participants créer ce qu'ils souhaitent. L'idée est de sortir des modes de pensées habituels pour aller vers une mutitude de lean canvas.
+
+Chaque construction doit être accompagnée d'un Post-It qui contient une légende (l'idée est de pouvoir se rappeler facilement ce qu'elle représente).
+
 #### Cible
+- Choisir la couleur des post-it que tout le monde va utiliser pour cette étape.
 - Construisez un client et ses spécificités, et nommez votre construction. (2 min)
-- Présentez votre construction (5 min)
+- Présentez votre construction (5 min). Veillez à ce que ce moment soit consacré à l'écoute et ne soit pas le lieu de débat sur la faisabilité ou la véracité.
 - Regroupez et reliez (5 min)
 
 #### Problème
+- Choisir la couleur des post-it que tout le monde va utiliser pour cette étape.
 - Construisez un problème que vos clients rencontre, et nommez votre construction. (2 min)
 - Présentez votre construction (5 min)
 - Regroupez et reliez (5 min)
 
 #### Solution
+- Choisir la couleur des post-it que tout le monde va utiliser pour cette étape.
 - Construisez une solution, et nommez là. (2 min)
 - Presentez votre construction (5 min)
 - Regroupez et reliez (5 min)
