@@ -40,12 +40,6 @@ Basé sur l'idée de mobiliser différentes intelligences simultanément, le leg
 - appréhender un problème en mobilisant l'intelligence kinesthésique
 - trouver de nouvelles idées à tester
 
-## Règles
-- Durant la phase de regroupement, mettez au centre les constructions afin de créer un système. 
-- Durant cette phase, prenez un moment pour matérialiser les liens entre les constructions à l'aide du scotch de peintre et expliquer comment les éléments s'articulent les uns par rapport aux autres.
-- Chaque étape vient compléter la précédente.
-- A la fin de l'atelier, faire une phase de bilan qui vient synthétiser ce qui s'est dit. Elle permet de lister toutes les idées avant un nouvel atelier qui sera consacré à la sélection des lean canvas à tester.
-
 ## Déroulé
 
 ### Echauffement (15 - 20 min)
@@ -67,7 +61,7 @@ Chaque construction doit être accompagnée d'un Post-It qui contient une légen
 - Choisir la couleur des post-it que tout le monde va utiliser pour cette étape.
 - Construisez un client et ses spécificités, et nommez votre construction. (2 min)
 - Présentez votre construction (5 min). Veillez à ce que ce moment soit consacré à l'écoute et ne soit pas le lieu de débat sur la faisabilité ou la véracité.
-- Regroupez et reliez (5 min)
+- Regroupez et reliez l'ensemble des constructions au centre de la table (5 min). Matérialisez les liens entre les constructions à l'aide du scotch de peintre et expliquer comment les éléments s'articulent les uns par rapport aux autres.
 
 #### Problème
 - Choisir la couleur des post-it que tout le monde va utiliser pour cette étape.
@@ -81,5 +75,9 @@ Chaque construction doit être accompagnée d'un Post-It qui contient une légen
 - Presentez votre construction (5 min)
 - Regroupez et reliez (5 min)
 
-### Bilan
+### Bilan 
 - Lister les idées produites sous forme de lean canvas afin de pouvoir alimenter un prochain atelier de sélection.
+
+## Conclusion
+
+
