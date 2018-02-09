@@ -30,7 +30,7 @@ illustration:
 
 ## Présentation
 
-Cet atelier permet en phase divergence dans la création de produit, de générer rapidement un grand nombre d'idées avant de ne sélectionner que les meilleurs lean canvas.
+Cet atelier permet en phase de divergence dans la création de produit, de générer rapidement un grand nombre d'idées avant de ne sélectionner que les meilleurs lean canvas.
 
 Basé sur l'idée de mobiliser différentes intelligences simultanément, le lego permet de solliciter les compétences kinesthésiques de chacun afin de démultiplier les capacités du groupe : le temps de cet atelier on réfléchit aussi avec les mains.
 
