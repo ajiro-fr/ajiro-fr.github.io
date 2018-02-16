@@ -1,0 +1,7 @@
+<div>
+  {{ if .data }}
+    <a href="/authors/{{.id | urlize}}"> {{ .data.name }} </a>
+  {{ else }}
+    {{ .id }}
+  {{ end }}
+</div>

@@ -15,24 +15,18 @@
           <div class="card-block">
             <div class="row">
               <div class="col-lg-10 col-xs-12">
-                <small>
-                  <div class="float-xs-right">
-                    {{ partial "components/pages/categories" . }}
-                    {{ partial "components/pages/tags" . }}
-                  </div>
-                  <div>
-                    {{ partial "components/pages/section" . }}
-                  </div>
-                </small>
                 <h3 class="card-title">
-                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                  <i class="fa fa-fw fa-map-marker"></i>
+                  <a href="{{ .RelPermalink }}">
+                    {{ .Title }}
+                  </a>
                 </h3>
               </div>
               <div class="col-lg-2 col-xs-12">
                 {{ if isset .Params "illustration"}}
                   {{ partial "components/image" (dict "image" .Params.illustration "path" .RelPermalink ) }}
                 {{ end }}
-              </div>
+              </div>              
             </div>
           </div>
         </div>

@@ -4,9 +4,52 @@
       <h1>
         {{ partial "components/pages/title" . }}
       </h1>
+      {{ if isset .Params "illustration"}}
+        {{ partial "components/image" (dict "image" .Params.illustration "path" .RelPermalink ) }}
+      {{ end }}
+    </div>
+  </div>
 
-      {{ .Content }}
+  <div class="row mt-3">
+    <div class="offset-lg-2 col-lg-8 col-xs-12 text-justify">
+      {{ if isset .Params "events"}}
+        <h2>Evènements</h2>
+        {{ range .Params.events }}
+          <div class="card bg-light-gray">
+            <div class="card-header">
+              <h3 class="card-title">{{ .title }}</h3>
+              <p class="card-subtitle mb-2">{{ .subtitle }}</p>
+            </div>
+            <div class="card-block">
+              <div>
+                {{ .what | markdownify }}
+              </div>
 
+              <div class="mt-3">
+                <div>
+                  <i class="fa fa-fw fa-calendar-o rose" aria-hidden="true"></i>
+                  {{ .when | markdownify }}
+                </div>
+                <div>
+                  <i class="fa fa-fw fa-map-marker rose"></i>
+                  {{ .where | markdownify }}
+                </div>
+              </div>
+
+              <div class="mt-3">
+                <p>Contacts :</p>
+                <ul>
+                {{ range .contacts }}
+                  <li>
+                    {{ partial "components/people-ref" (dict "id" . "data" (index $.Site.Data.people .) ) }}
+                  </li>
+                {{ end }}
+                </ul>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
     </div>
   </div>
 {{ end }}
