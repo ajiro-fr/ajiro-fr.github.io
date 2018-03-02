@@ -12,9 +12,9 @@ tags:
   - besoins
   - conscience
   - moi et l'autre
-illustration:
-  name: aide
-  source: https://flic.kr/p/9ZfruB  
+%illustration:
+%  name: girafe
+%  source: https://pixabay.com/en/giraffe-animal-africa-sunset-2073609/ 
 abstract: |
   Je vous propose ici un atelier de deux heures pour cheminer au coeur d'une relation entre l'émotion de l'autre et la notre. Au court de ce voyage nous ferons des points d'étapes pour comprendre le concept de souveraineté, comment nous pouvons sortir d'une situation émotionnelle perdant-perdant ou encore le lien entre les émotions et les besoins. L'objectif de tout cela ? D'abord et avant tout, nous donner une vision différente des choses et nous permettre d'améliorer notre quotidien.
 ---
