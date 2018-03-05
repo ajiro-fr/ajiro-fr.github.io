@@ -20,9 +20,14 @@ sessions:
   - date: "2017-07-05"
     name: Agile Paris by Night 2017
     url: http://apbn2017.agileparis.org/
+  - date: "2017-11-24"
+    name: Agile Grenoble 2017
+    url: https://agilegrenoble2017.sched.com/
 ressources:
   - name: "Agile Paris by Night 2017"
     file: slides-apbn-2017.pptx
+  - name: "Agile Grenoble 2017"
+    file: slides-agile-grenoble-2017.pptx
 ---
 
 # Présentation détaillée
