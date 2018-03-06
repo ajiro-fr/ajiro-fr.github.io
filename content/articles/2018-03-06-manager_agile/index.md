@@ -1,6 +1,6 @@
 ---
 date: 2018-03-06
-title: "Les 3 attendus du manager Agile"
+title: "Les 3 travaux du manager Agile"
 lang: fr
 draft: false
 authors:
