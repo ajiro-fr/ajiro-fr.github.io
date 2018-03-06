@@ -1,7 +1,7 @@
 ---
 date: 2017-04-17
-sorted: checking d'equipe
-title: "Checking d'équipe"
+sorted: verification d'equipe
+title: "Vérification d'équipe"
 tags:
   - systèmique
   - partage
@@ -10,11 +10,11 @@ objectives: |
   - Créer des interactions dans une équipe
   - Visualisation de l'état d'une équipe
   - Définir ce qui est important pour l'équipe
-  - Trouer des axes d'amélioration
+  - Trouver des axes d'amélioration
 duration: 10 - 20 min
 participants: "jusqu'à 15 - L'équipe / les personnes support"
 materials:
-  - des cartes de checking
+  - des cartes de health check
   - éventuellement les cartes de votes
 authors:
   - albiez_olivier
@@ -37,8 +37,8 @@ ressources:
 
 ## Présentation
 
-Le Checking d'équipe, est un moyen de mesure visuel pour connaitre l'état d'une équipe à un instant donné.
-Chaque carte de checking représente un élément de la vie de l'équipe (ambiance, rythme, fun, qualité etc.), elle est accompagnée d'un exemple de ce qui se passe quand cet élément va mal, et d'un exemple de ce qui se passe quand cet élément va bien.
+Le vérification de santée d'une équipe, est un moyen de mesure visuel pour connaitre l'état d'une équipe à un instant donné.
+Chaque carte de vérification représente un élément de la vie de l'équipe (ambiance, rythme, fun, qualité etc.), elle est accompagnée d'un exemple de ce qui se passe quand cet élément va mal, et d'un exemple de ce qui se passe quand cet élément va bien.
 
 Chaque participant va être amené à exprimer son ressenti par rapport à chacun des éléments sélectionnés. Plusieurs façons d'utiliser les cartes sont possibles, nous vous donnerons quelques pistes dans la rubrique variante.
 Cette atelier offre toute sa richesse lorsque l'équipe se l'approprie et qu'il devient un outil que l'on utilise régulièrement (vous pouvez commencer par le faire tous les trimestres et adapter en fonction du ressenti de l'équipe).
@@ -73,8 +73,8 @@ Cette atelier offre toute sa richesse lorsque l'équipe se l'approprie et qu'il 
 
 ## Variantes
 
-- Pour une équipe mature qui utilise régulièrement le jeu, il est conseillé que ce soit l'équipe qui procède au choix des cartes et à l'intégration de nouveaux éléments à tester. Cela se fait en dehors du temps consacré au checking à proprement parler.
-- Il est possible de créer un tableau et d'y inscrire les votes de chacun (le tableau permet également des votes sans carte de vote : chaque participant vient mettre un + dans la colonne correspondant à son positionnement pour chaque carte, il est également possible de faire trois tas avec les cartes de checking utilisées : un tas pour les cartes dont les éléments sont globalement considérés comme satisfaisant par l'équipe, une autre avec ceux considérés neutres et enfin ceux considérés comme problématiques.
+- Pour une équipe mature qui utilise régulièrement le jeu, il est conseillé que ce soit l'équipe qui procède au choix des cartes et à l'intégration de nouveaux éléments à tester. Cela se fait en dehors du temps consacré à vérification d'une équipe à proprement parler.
+- Il est possible de créer un tableau et d'y inscrire les votes de chacun (le tableau permet également des votes sans carte de vote : chaque participant vient mettre un + dans la colonne correspondant à son positionnement pour chaque carte, il est également possible de faire trois tas avec les cartes de health check utilisées : un tas pour les cartes dont les éléments sont globalement considérés comme satisfaisant par l'équipe, une autre avec ceux considérés neutres et enfin ceux considérés comme problématiques.
 - Vous pouvez stocker les résultats dans un tableau, en mettant le nombre de votes pour chaque élément, ou simplement la tendance générale.
 
 
@@ -82,4 +82,4 @@ Cette atelier offre toute sa richesse lorsque l'équipe se l'approprie et qu'il 
 
 L'essentiel du debrief dépendra de ce que vous souhaitez exploiter.
 - Vous souhaitez simplement que l'équipe visualise son état : à la fin de l'atelier demandez à chaque participant ce qu'il pense du résultat et s'il s'y retrouve.
-- Vous souhaitez utiliser les résultats pour proposer des axes d'amélioration : choisissez 1 à 3 cartes parmi celles qui ont réunis le plus de mauvais votes, accompagnez l'équipe pour qu'elle décide d'un ou deux mesures qui peuvent venir améliorer ces points (notez également les décisions prises dans le suivi d'activité pour pouvoir s'y référer au prochain atelier Checking d'équipe).
+- Vous souhaitez utiliser les résultats pour proposer des axes d'amélioration : choisissez 1 à 3 cartes parmi celles qui ont réunis le plus de mauvais votes, accompagnez l'équipe pour qu'elle décide d'un ou deux mesures qui peuvent venir améliorer ces points (notez également les décisions prises dans le suivi d'activité pour pouvoir s'y référer au prochain atelier de vérification d'équipe).

@@ -32,7 +32,13 @@
                         </span>
                       </small>
                     </div>
-                    <a href="{{ $.Site.LanguagePrefix }}/authors/{{ $key | urlize }}"><img alt="Photo {{ $data.name }}" width=40 class="rounded-circle" src="/assets/images/people/{{ $key }}.jpg" /></a>
+                    <a href="{{ $.Site.LanguagePrefix }}/authors/{{ $key | urlize }}">
+                      {{ if (fileExists (printf "/static/assets/images/people/%s.jpg" $key)) -}}
+                        <img alt="Photo {{ $data.name }}" width=40 class="rounded-circle" src="/assets/images/people/{{ $key }}.jpg" />
+                      {{ else -}}
+                        <i class="fa fa-user"></i>
+                      {{ end }}
+                    </a>
                     <a href="{{ $.Site.LanguagePrefix }}/authors/{{ $key | urlize }}">
                       {{- $data.name -}}
                     </a>

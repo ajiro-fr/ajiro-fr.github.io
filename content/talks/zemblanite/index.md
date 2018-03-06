@@ -64,6 +64,13 @@ Pourquoi cette session :
 - Cette session est basée sur des cas réels, directement tirés de nos 15 ans d'expérience d'accompagnement d'équipes.
 - Nous regarderons quelques outils pour lutter contre la zemblanité.
 
+# Pertinence
+
+Apprendre à prendre du recul sur ce que nous faisons.
+Lutter contre notre propre zemblanité.
+Rire de ce qu'on voit ailleurs, pour apprendre à le traquer chez nous.
+S'améliorer encore et toujours.
+
 # Tweet
 
 Comment agissons-nous pour être certain de rater à coups sûrs ce que nous entreprenons ? Et éventuellement comment faire autrement.
