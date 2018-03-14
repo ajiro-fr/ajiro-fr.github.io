@@ -18,6 +18,10 @@ authors:
 illustration:
   name: chaises
   source: https://www.flickr.com/photos/anicsiga/1437552265/
+references:
+  - title: Non musical chairs on Tasty Cupcakes
+    icon: external-link
+    url: http://tastycupcakes.org/2011/04/non-musical-chairs/
 ---
 
 
