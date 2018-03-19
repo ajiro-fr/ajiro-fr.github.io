@@ -1,0 +1,16 @@
+name: Alexis Benoist
+organisations:
+  - name: Azaé
+    logo: logo-azae.png
+    url: http://azae.net
+social:
+  - url: mailto:oalbiez@azae.net
+    icon: fa-envelope
+  - url: https://github.com/Alexis-Benoist
+    icon: fa-github
+  - url: https://twitter.com/Alexis_Benoist
+    icon: fa-twitter
+  - url: www.linkedin.com/in/alexisbenoist
+    icon: fa-linkedin
+bio: |
+  TODO
