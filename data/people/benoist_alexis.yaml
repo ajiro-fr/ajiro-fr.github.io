@@ -4,7 +4,7 @@ organisations:
     logo: logo-azae.png
     url: http://azae.net
 social:
-  - url: mailto:oalbiez@azae.net
+  - url: mailto:abenoist@azae.net
     icon: fa-envelope
   - url: https://github.com/Alexis-Benoist
     icon: fa-github
@@ -13,4 +13,6 @@ social:
   - url: www.linkedin.com/in/alexisbenoist
     icon: fa-linkedin
 bio: |
-  TODO
+  Je suis passionné par la transmission de connaissances
+  pour mieux produire des logiciels d'un point de vue
+  technique et organisationnel.

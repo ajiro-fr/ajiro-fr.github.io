@@ -10,6 +10,8 @@ tags:
 categories:
   -
 description: |
+  Être agile ne consiste pas à utiliser des outils mais à avoir un
+  certain état d'esprit.ol
   Il y a plusieurs niveaux de conscience de l'agilité et les
   outils de l'agilité sont un moyen pour arriver à une conscience
   plus profonde de l'agilité.
@@ -34,7 +36,7 @@ Cette philosophie nous guide dans une certaine direction
 et nous permet de faire des choix.
 
 L'agile est une culture où les équipes sont auto-organisés
-et résolvent par elles-même les blocages et apprennent pour  
+et résolvent par elles-même les blocages et apprennent pour
 s'améliorer continuellement.
 
 # Ce n'est pas une liste d'outils
