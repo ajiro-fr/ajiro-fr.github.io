@@ -5,10 +5,11 @@ lang: fr
 draft: true
 authors:
   - benoist_alexis
+  - clavier_thomas
 tags:
   - Agile
 categories:
-  -
+  - mindset
 description: |
   Être agile ne consiste pas à utiliser des outils mais à avoir un
   certain état d'esprit.ol
@@ -28,7 +29,7 @@ mettre un lien: https://blog.operaepartners.fr/2018/02/06/il-ny-a-pas-de-majuscu
 
 > On est agile, on fait pas de l'agile
 
-# Le manifeste agile est avant tout un ensemble de valeurs
+# Agile est avant tout des valeurs
 
 La base de l'agile est le [manifeste agile](http://agilemanifesto.org/iso/fr/manifesto.html).
 C'est un ensemble de valeurs, philosophie du développement.
@@ -39,7 +40,7 @@ L'agile est une culture où les équipes sont auto-organisés
 et résolvent par elles-même les blocages et apprennent pour
 s'améliorer continuellement.
 
-# Ce n'est pas une liste d'outils
+# Ce n'est pas simplement utiliser des outils
 
 Être agile, n'est pas utiliser les outils qui sont associés
 à l'agilité.
@@ -61,7 +62,7 @@ de mettre en place une démarche d'amélioration continue.
 
 <!-- raconter l'histoire des TU sans assertions ? -->
 
-# Shu ou cargo cult?
+# Quelle utilisation du premier outil?
 
 Prenons l'exemple concret d'une équipe qui se met
 pour la première fois à l'agilité et qui décide d'utiliser Scrum.
@@ -78,10 +79,24 @@ gestes sans les comprendre dans un [culte du cargo](https://fr.wikipedia.org/wik
 Quels indicateurs permettent de savoir si l'équipe est dans une démarche
 de culte du cargo ou si elle commence à être dans le shu?
 
-# Dépasser les techniques
+# Mélanger et dépasser les techniques
 
 La compréhension profonde vient lorsque l'équipe a expérimenté beaucoup de
 techniques.
+
+En effet, c'est l'expérimentation qui permet de comprendre. Prenons l'exemple de
+quelqu'un qui ne veut pas se bruler. Il peut suivre la consigne ne pas
+s'approcher des plaques chauffantes. S'il ne fait pas d'expérience, il
+ne comprendra jamais dans quels cas il peut se bruler.
+C'est possible qu'il n'ai même pas les conscience que le fait que les
+plaques soient allumées ou éteintes a une influence sur la brulure ou que
+la température des plaques ai une influence la dessus. Par contre, s'il
+fait des expériences en s'approchant de la plaque doucement, il va pouvoir
+comprendre que lorsque les plaques sont éteintes pendant longtemps, il ne
+se brulera pas.
+
+L'utilisation de plusieurs méthodologies permet d'expérimenter de voir les
+aspects de chacune qui permet à l'équipe de mieux livrer.
 
 # Conclusion
 
