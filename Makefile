@@ -37,7 +37,7 @@ publish: build test
 	docker push ${IMAGE}:${TAG}
 
 hugo:
-	hugo server --buildDrafts --watch
+	hugo server --buildDrafts --buildFuture --watch
 
 
 %__thumbnail-square.jpg: %.jpg
