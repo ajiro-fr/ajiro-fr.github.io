@@ -50,18 +50,24 @@ Est-ce qu'on apprend la cuisine parce qu'on a une cuisine toute
 équipée? Est-ce que c'est parce qu'on a toque, qu'on apprend la
 cuisine?
 
+C'est possible de faire autre chose que de la cuisine avec un couteau.
+
 Même si on a les trois, ce n'est pas pour ça qu'on apprend la cuisine?
 
 A quoi, est-ce qu'on voit que quelqu'on apprend la cuisine?
-<!--
-Agilité : valeurs contre intuitives car hors de notre champ culturel
+
+Est-ce que c'est parce qu'on utilise les outils de l'agile qu'on est agile?
+
+<!-- Agilité : valeurs contre intuitives car hors de notre champ culturel
 
 => expérimenter pour apprendre
 => avoir envie d'apprendre, curiosité et de lâcher prise -->
+
+<!-- # ils donnent des Perspectives -->
 # Comment démarrer?
 
-Au début, on imite, par exemple utiliser un méthodologie comme
-Scrum donne un modèle. C'est une première expérimentation.
+Au début, on imite, par exemple on utilise la méthodologie
+Scrum comme modèle. C'est une première expérimentation.
 
 Dans un premier temps, on imite, pour commencer à pratiquer
 une technique de base qui lui permettra de développer cette
@@ -100,44 +106,42 @@ Le fait de voir une multitude de méthodes et d'outils permet de donner
 des possibilités et chacun des outils donne une gamme de possibles.
 Par exemple, XP peut donner l'idée du pair programming, scrum les daily
 meetings et Kanban d'avoir un radiateur d'information pour informer
-toute les parties prenantes de l'entreprise.
+toute les parties prenantes de l'entreprise des avancées de l'équipe  .
 
 Ces possibles peuvent donner lieu à des expérimentations.
 C'est ces expérimentations qui permettent la compréhension.
 L'utilisation de plusieurs méthodologies permet d'expérimenter de voir les
 aspects de chacune qui permet à l'équipe de mieux livrer.
-
-En effet, c'est l'expérimentation qui permet de comprendre. Prenons l'exemple de
-quelqu'un qui ne veut pas se bruler. Il peut suivre la consigne ne pas
-s'approcher des plaques chauffantes. S'il ne fait pas d'expérience, il
-ne comprendra jamais dans quels cas il peut se bruler.
-C'est possible qu'il n'ai même pas les conscience que le fait que les
-plaques soient allumées ou éteintes a une influence sur la brulure ou que
-la température des plaques ai une influence la dessus. Par contre, s'il
-fait des expériences en s'approchant de la plaque doucement, il va pouvoir
-comprendre que lorsque les plaques sont éteintes pendant longtemps, il ne
-se brulera pas.
+C'est une démarche quotidienne d'essais et d'erreurs qui permet une bonne compréhension.
 
 Après avoir maitrisé plusieurs techniques, on peut faire un
-choix raisonné et en toute connaissance de cause. Il sera pertinent
-car on choisira parmi un éventail de techniques.
+choix raisonné et en pleine conscience des avantages et
+des inconvénients.
+C'est cette compréhension qui permet de prendre des décisions rapidement et de livrer
+des fonctionnalités sans bug. Aussi
+elle permet à l'équipe de s'adapter aux changements et de ne pas
+rester figé dans des méthodes qui ne sont plus adaptées.
 
-
-# Conclusion
-<!-- juste faire un résumé de ce qui a été dit -->
-<!-- bouger vers la partie d'avant? -->
+<!-- # La fin -->
 L'agile dispose de beaucoup d'outils, cependant le signe qu'une
 équipe est véritablement agile est qu'elle comprend le pourquoi
 des pratiques qu'elle utilise.
 
-<!-- bouger vers la partie d'avant? -->
-C'est une démarche quotidienne d'essais et d'erreurs qui permet cette compréhension.
 Aussi, il est toujours possible d'arriver à un niveau de conscience
 supérieur en voyant une autre face de cet objet abstrait et protéiforme qu'est l'agile.
 Contrairement à un objet physique, on ne peut pas en voir toutes les facettes, on
 peut juste essayer de voir un morceau supplémentaire.
 
-C'est cette compréhension profonde qui permet de prendre des décisions rapidement et de livrer
-des fonctionnalités sans bug. En effet,
-elle permet à l'équipe de s'adapter aux changements et de ne pas
-rester figé dans des méthodes qui ne sont plus adaptées.
+# Conclusion
+
+L'agile est avant tout un ensemble de valeurs.
+Il dispose de beaucoup d'outils, mais ils ne sont que
+des ustensiles pour permettre l'expérimentation vers l'agile.
+
+Dans un premier temps, ils permettent d'élargir les possibles.
+Ensuite, un outil en particulier, pourra permettre d'expérimenter et de
+s'entrainer, en évitant de tomber dans le culte du cargo.
+Ensuite, ils pourront mélanger différents outils et évaluer
+lequel convient dans quelle situation.
+Cependant, le chemin, ne semble jamais terminé et il est toujours possible
+de s'améliorer.
