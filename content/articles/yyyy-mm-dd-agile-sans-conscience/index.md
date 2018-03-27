@@ -12,11 +12,10 @@ categories:
   - mindset
 description: |
   Être agile ne consiste pas à utiliser des outils mais à avoir un
-  certain état d'esprit.ol
+  certain état d'esprit.
   Il y a plusieurs niveaux de conscience de l'agilité et les
   outils de l'agilité sont un moyen pour arriver à une conscience
   plus profonde de l'agilité.
-
 ---
 <!-- Plan:
 agile a la base => manifeste => culture != outils
@@ -42,47 +41,71 @@ s'améliorer continuellement.
 
 # Ce n'est pas simplement utiliser des outils
 
-Être agile, n'est pas utiliser les outils qui sont associés
-à l'agilité.
-Être agile n'est pas utiliser Jira. En quoi, utiliser Jira
-permet une démarche d'amélioration continue?
+La plupart du temps, quand on apprend la cuisine, on utilise un couteau.
+Le couteau est très souvent associé à la cuisine.
+Mais, est-ce que c'est parce qu'on utilise un couteau qu'on
+fait la cuisine?
 
-Scrum et Kanban sont des méthodologies agile, pas l'agile lui-même.
-Ces méthodologies ont pour but d'aider les équipes à développer
-à livrer rapidement du code de qualité. Mais pour cela, l'équipe a besoin
-de comprendre le pourquoi des rituels.
+Est-ce qu'on apprend la cuisine parce qu'on a une cuisine toute
+équipée? Est-ce que c'est parce qu'on a toque, qu'on apprend la
+cuisine?
 
-Par exemple, si une équipe suit Scrum et ne met pas
-en place d'actions suite aux rétrospectives,
-elle ne va pas augmenter sa vélocité.
+Même si on a les trois, ce n'est pas pour ça qu'on apprend la cuisine?
 
-Utiliser ces outils pour uniquement les utiliser n'est pas agile.
-En effet, sans une compréhension profonde, ils ne permettent pas
-de mettre en place une démarche d'amélioration continue.
+A quoi, est-ce qu'on voit que quelqu'on apprend la cuisine?
+<!--
+Agilité : valeurs contre intuitives car hors de notre champ culturel
 
-<!-- raconter l'histoire des TU sans assertions ? -->
+=> expérimenter pour apprendre
+=> avoir envie d'apprendre, curiosité et de lâcher prise -->
+# Comment démarrer?
 
-# Quelle utilisation du premier outil?
+Au début, on imite, par exemple utiliser un méthodologie comme
+Scrum donne un modèle. C'est une première expérimentation.
 
-Prenons l'exemple concret d'une équipe qui se met
-pour la première fois à l'agilité et qui décide d'utiliser Scrum.
+Dans un premier temps, on imite, pour commencer à pratiquer
+une technique de base qui lui permettra de développer cette
+une compréhension. C'est l'idéal,
+le [Shu](http://alistair.cockburn.us/Shu+Ha+Ri), la répétition
+qui permet d'arriver à la maitrise.
 
-L'équipe expérimente et c'est une excellent point de départ. Elle met en place
-du changement et commence à apprendre.
-
-Dans l'idéal, l'équipe est dans le [Shu](http://alistair.cockburn.us/Shu+Ha+Ri). Elle commence à pratiquer
-une technique de base qui lui permettra de développer cette compréhension.
-
-Cependant, il est aussi possible que l'équipe ne fasse que imiter les
+Cependant, il est aussi possible que l'équipe ne fasse qu'imiter les
 gestes sans les comprendre dans un [culte du cargo](https://fr.wikipedia.org/wiki/Culte_du_cargo).
+
+<!-- c'est a force de dire merci qu'on développe la gratitude -->
+<!-- histoire de toyota qui a permis aux concurrents de visiter ses usines pendant
+des années. Il n'arrivaient à faire du lean 40 ans après.
+A chaque fois, il ne peuvent copier qu'une petite partie et ils
+pensent que le reste ne sert à rien.
+C'est la différence technologique qui fait du culte du cargo.
+
+Histoire des gens qui taille des haches en silex.
+Il se font défoncer par le silex.
+Ils veulent copier les gens qui ont des haches en bronze.
+Il mettent leurs experts sur le sujet, ils n'y arriveront jamais.
+Mais ils essayerons. -->
+<!-- indicateur: livrer de la valeur business, mais c'est aussi une illusion car
+la feedback loop est trop grande.  -->
 
 Quels indicateurs permettent de savoir si l'équipe est dans une démarche
 de culte du cargo ou si elle commence à être dans le shu?
 
 # Mélanger et dépasser les techniques
 
-La compréhension profonde vient lorsque l'équipe a expérimenté beaucoup de
-techniques.
+<!-- 0. Elargir ses possibles
+1. expérimenter -> compréhension
+2. maitrise de plusieurs techniques -> choix -->
+
+Le fait de voir une multitude de méthodes et d'outils permet de donner
+des possibilités et chacun des outils donne une gamme de possibles.
+Par exemple, XP peut donner l'idée du pair programming, scrum les daily
+meetings et Kanban d'avoir un radiateur d'information pour informer
+toute les parties prenantes de l'entreprise.
+
+Ces possibles peuvent donner lieu à des expérimentations.
+C'est ces expérimentations qui permettent la compréhension.
+L'utilisation de plusieurs méthodologies permet d'expérimenter de voir les
+aspects de chacune qui permet à l'équipe de mieux livrer.
 
 En effet, c'est l'expérimentation qui permet de comprendre. Prenons l'exemple de
 quelqu'un qui ne veut pas se bruler. Il peut suivre la consigne ne pas
@@ -95,15 +118,19 @@ fait des expériences en s'approchant de la plaque doucement, il va pouvoir
 comprendre que lorsque les plaques sont éteintes pendant longtemps, il ne
 se brulera pas.
 
-L'utilisation de plusieurs méthodologies permet d'expérimenter de voir les
-aspects de chacune qui permet à l'équipe de mieux livrer.
+Après avoir maitrisé plusieurs techniques, on peut faire un
+choix raisonné et en toute connaissance de cause. Il sera pertinent
+car on choisira parmi un éventail de techniques.
+
 
 # Conclusion
-
+<!-- juste faire un résumé de ce qui a été dit -->
+<!-- bouger vers la partie d'avant? -->
 L'agile dispose de beaucoup d'outils, cependant le signe qu'une
 équipe est véritablement agile est qu'elle comprend le pourquoi
 des pratiques qu'elle utilise.
 
+<!-- bouger vers la partie d'avant? -->
 C'est une démarche quotidienne d'essais et d'erreurs qui permet cette compréhension.
 Aussi, il est toujours possible d'arriver à un niveau de conscience
 supérieur en voyant une autre face de cet objet abstrait et protéiforme qu'est l'agile.
