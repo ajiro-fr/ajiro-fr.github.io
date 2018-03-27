@@ -1,6 +1,6 @@
-from tclavier/nginx
+FROM tclavier/nginx
 
-run apt-get update \
+RUN apt-get update \
  && apt-get install -y \
     imagemagick \
     make \
@@ -8,12 +8,12 @@ run apt-get update \
     wget \
  && apt-get clean
 
-run wget https://github.com/spf13/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.deb -O /tmp/hugo.deb \
+RUN wget https://github.com/spf13/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.deb -O /tmp/hugo.deb \
  && dpkg -i /tmp/hugo.deb \
  && rm -f /tmp/hugo.deb
 
 # Analyse script
-run apt-get update \
+RUN apt-get update \
 && apt-get install -y \
    python-bs4 \
    python-docopt \
@@ -21,13 +21,13 @@ run apt-get update \
    python-yaml \
 && apt-get clean
 
-add . /site
-workdir /site
+COPY . /site
+WORKDIR /site
 
-run make download_images && make assets
-run hugo_env=production hugo --buildFuture --destination=/var/www/prod
-run hugo --buildDrafts --buildFuture --destination=/var/www/draft \
+RUN make download_images && make assets
+RUN hugo_env=production hugo --buildFuture --destination=/var/www/prod
+RUN hugo --buildDrafts --buildFuture --destination=/var/www/draft \
  && echo "User-agent: *" > /var/www/draft/robots.txt \
  && echo "Disallow:/ "  >> /var/www/draft/robots.txt
 
-add nginx_vhost.conf /etc/nginx/conf.d/ajiro.conf
+COPY nginx_vhost.conf /etc/nginx/conf.d/ajiro.conf

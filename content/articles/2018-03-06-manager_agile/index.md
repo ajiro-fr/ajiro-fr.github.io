@@ -11,8 +11,8 @@ tags:
 categories:
   - management
 illustration:
-  name: manager
-  source: https://www.flickr.com/photos/10253899@N04/14989738808/
+  name: map
+  source: https://www.flickr.com/photos/jackson3/6168587398/
 description: |
   Si je dois caractériser le manager Agile par une anecdote, je dirais qu'il peut partir en vacances pendant 2 mois sans que cela pose de problème mais que sans lui pendant 6 mois c'est la Bérézina.
 ---
