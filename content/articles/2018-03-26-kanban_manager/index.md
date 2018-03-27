@@ -1,6 +1,6 @@
 ---
 date: 2018-03-26
-title: "Du management visuel pour managers"
+title: "Du management visuel pour managers, du Je au Nous"
 lang: fr
 draft: false
 authors:
@@ -11,8 +11,8 @@ tags:
 categories:
   - management
 illustration:
-  name: maps
-  source: https://www.flickr.com/photos/telstar/2987850087
+  name: hot
+  source: https://www.flickr.com/photos/jackson3/6168587398/
 description: |
   C'est l'histoire d'un groupe de middle managers qui souhaitent mieux travailler ensemble et qui un jour viennent me demander de l'aide sur leur management visuel. Après avoir fini de les aider et en prenant un peu de recul, je me rends compte qu'il y a une progression classique dans les relations entre managers. Voici cette échelle vu par le prisme du management visuel.
 ---
@@ -23,7 +23,7 @@ C'est l'histoire d'un groupe de middle managers qui souhaitent mieux travailler 
 
 {{< img name="shine" legend="Shoe shine" source="https://www.flickr.com/photos/harquail/9881061256" >}}
 
-**Description** : Le titre est assez simple, je travaille avant tout pour ma progression personnelle.<br>
+**Description** : Le descriptif est assez simple, je travaille avant tout pour ma progression personnelle.<br>
 **Management visuel** : A ce niveau, le management visuel est assez simple. Il peut s'agir de liste des boissons cafeinées ou de la liste des bières à la pression. Eh oui car la plupart des décisions se prennent à la pause café.<br>
 **Objectifs individuels** : Ca me rappelle une histoire personnelle et des objectifs individuels annuels que l'on m'avait donné à savoir 23 objectifs et dans les 23 aucun ne concernait mes subalternes. Je devais venir faire une présentation au board, suivre mes budgets, écrire des mails de communication,... Les attentes qui reposent sur le manager sont de type reporting & control.<br>
 **Interactions** : J'ai des relations uniquement au sein de la ligne hiérarchique directe.<br>
