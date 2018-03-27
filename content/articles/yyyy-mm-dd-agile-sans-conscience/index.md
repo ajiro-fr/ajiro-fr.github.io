@@ -6,16 +6,17 @@ draft: true
 authors:
   - benoist_alexis
   - clavier_thomas
+  - albiez_olivier
 tags:
   - Agile
 categories:
   - mindset
 description: |
-  Être agile ne consiste pas à utiliser des outils mais à avoir un
-  certain état d'esprit.
-  Il y a plusieurs niveaux de conscience de l'agilité et les
-  outils de l'agilité sont un moyen pour arriver à une conscience
-  plus profonde de l'agilité.
+  Être agile ne consiste pas à juste utiliser des outils mais
+  à les manier avec une certaine compréhension.
+  Comment les outils et les techniques et les techniques
+  nous mênent-elles vers une conscience et une compréhension
+  de l'agile?
 ---
 <!-- Plan:
 agile a la base => manifeste => culture != outils
@@ -64,10 +65,22 @@ Est-ce que c'est parce qu'on utilise les outils de l'agile qu'on est agile?
 => avoir envie d'apprendre, curiosité et de lâcher prise -->
 
 <!-- # ils donnent des Perspectives -->
+
+# Les outils sont un éventails de possibilités
+
+Le fait de voir une multitude de méthodes et d'outils permet de donner
+des possibilités et chacun des outils donne une gamme de possibles.
+Par exemple, XP peut donner l'idée du pair programming, scrum les daily
+meetings et Kanban d'avoir un radiateur d'information pour informer
+toute les parties prenantes de l'entreprise des avancées de l'équipe  .
+
 # Comment démarrer?
 
 Au début, on imite, par exemple on utilise la méthodologie
 Scrum comme modèle. C'est une première expérimentation.
+
+<!-- expérimentation +
+C'est une démarche quotidienne d'essais et d'erreurs qui permet une bonne compréhension. -->
 
 Dans un premier temps, on imite, pour commencer à pratiquer
 une technique de base qui lui permettra de développer cette
@@ -102,17 +115,8 @@ de culte du cargo ou si elle commence à être dans le shu?
 1. expérimenter -> compréhension
 2. maitrise de plusieurs techniques -> choix -->
 
-Le fait de voir une multitude de méthodes et d'outils permet de donner
-des possibilités et chacun des outils donne une gamme de possibles.
-Par exemple, XP peut donner l'idée du pair programming, scrum les daily
-meetings et Kanban d'avoir un radiateur d'information pour informer
-toute les parties prenantes de l'entreprise des avancées de l'équipe  .
-
-Ces possibles peuvent donner lieu à des expérimentations.
-C'est ces expérimentations qui permettent la compréhension.
 L'utilisation de plusieurs méthodologies permet d'expérimenter de voir les
 aspects de chacune qui permet à l'équipe de mieux livrer.
-C'est une démarche quotidienne d'essais et d'erreurs qui permet une bonne compréhension.
 
 Après avoir maitrisé plusieurs techniques, on peut faire un
 choix raisonné et en pleine conscience des avantages et
@@ -122,7 +126,8 @@ des fonctionnalités sans bug. Aussi
 elle permet à l'équipe de s'adapter aux changements et de ne pas
 rester figé dans des méthodes qui ne sont plus adaptées.
 
-<!-- # La fin -->
+# La fin de l'apprentissage ?
+
 L'agile dispose de beaucoup d'outils, cependant le signe qu'une
 équipe est véritablement agile est qu'elle comprend le pourquoi
 des pratiques qu'elle utilise.
@@ -130,7 +135,7 @@ des pratiques qu'elle utilise.
 Aussi, il est toujours possible d'arriver à un niveau de conscience
 supérieur en voyant une autre face de cet objet abstrait et protéiforme qu'est l'agile.
 Contrairement à un objet physique, on ne peut pas en voir toutes les facettes, on
-peut juste essayer de voir un morceau supplémentaire.
+peut toujours essayer de voir un morceau supplémentaire.
 
 # Conclusion
 
