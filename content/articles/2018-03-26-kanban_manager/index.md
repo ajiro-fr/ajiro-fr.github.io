@@ -12,7 +12,7 @@ categories:
   - management
 illustration:
   name: hot
-  source: https://www.flickr.com/photos/jackson3/6168587398/
+  source: https://www.flickr.com/photos/49969806@N05/5012109821
 description: |
   C'est l'histoire d'un groupe de middle managers qui souhaitent mieux travailler ensemble et qui un jour viennent me demander de l'aide sur leur management visuel. Après avoir fini de les aider et en prenant un peu de recul, je me rends compte qu'il y a une progression classique dans les relations entre managers. Voici cette échelle vu par le prisme du management visuel.
 ---
