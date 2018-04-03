@@ -19,7 +19,9 @@ description: |
 
 C'est l'histoire d'un groupe de middle managers qui souhaitent mieux travailler ensemble et qui un jour viennent me demander de l'aide sur leur management visuel. Après avoir fini de les aider et en prenant un peu de recul, je me rends compte qu'il y a une progression classique dans les relations entre managers. Voici cette échelle vu par le prisme du management visuel.
 
-## Je travaille pour mon chef
+J'ai fait le choix de garder sur chaque niveau les mêmes axes pour garder de la cohérence. La description est une présentation générale du niveau. Ensuite vient la question du management visuel et à quoi il peut ressembler. Puis nous regarderons les objectifs individuels avec un détour sur les interactions humaines. Et pour finir, nous expliquerons les limites de chaque niveau et donc pourquoi des personnes tentent d'aller plus loin.
+
+## Je travaille avant tout pour moi et donc pour mon chef
 
 {{< img name="shine" legend="Shoe shine" source="https://www.flickr.com/photos/harquail/9881061256" >}}
 
@@ -29,7 +31,7 @@ C'est l'histoire d'un groupe de middle managers qui souhaitent mieux travailler 
 **Interactions** : J'ai des relations uniquement au sein de la ligne hiérarchique directe.<br>
 **Limites** : Le manager génère des optimums locaux au détriment de l'optimal global de son organisation.<br>
 
-## Je sais ce que mes collègues font
+## Je me compare aux autres car je sais ce que mes collègues font
 
 {{< img name="chess" legend="Chess" source="https://www.flickr.com/photos/harquail/9880870454" >}}
 
@@ -45,7 +47,7 @@ Dans la pratique, cela peut ressembler à un tableau vu dans une banque d'invest
 **Interactions** : Je suis en lien fort au sein de ma ligne hiérarchique et je commence à comprendre ce que font les autres.<br>
 **Limites** : S'il y a du partage, il n'y a pas de travail collaboratif. Les silos organisationnels sont relativement forts. L'assignation est faite à un niveau local.<br>
 
-## Nous pensons ensemble
+## Nous travaillons ensemble avec une bonne coordination
 
 {{< img name="band" legend="BUJO" source="https://www.flickr.com/photos/jezzu/19491611925/" >}}
 
@@ -74,7 +76,7 @@ Dans tous les cas et quelque soit le management visuel choisi, il n'est efficace
 **Interactions** : La première fois où j'ai assisté à un rituel autour d'un kanban pour managers, je n'ai pas réussi à savoir qui était le manager hiérarchique. Les liens entre collaborateurs sont beaucoup plus forts car ils travaillent beaucoup plus de manière collégiale.<br>
 **Limites** : Que se passe-t-il quand un manager est en difficulté dans ses taches propres ? Est ce que je vais m'en rendre compte ? Et bien pas nécessairement car travailler avec les autres ne veut pas dire travailler ensemble. Il y a majoritairement discussion, affectation et décision mais pas nécessairement de travail à plusieurs sur une même initiative.<br>
 
-## Nous travaillons ensemble
+## Nous travaillons ensemble au quotidien
 
 {{< img name="pair" legend="Pair programming" source="https://www.flickr.com/photos/jkransen/5231797723/" >}}
 
