@@ -43,7 +43,7 @@ sessions:
 
 La zemblanité est l'antonyme de la sérendipité, c'est-à-dire, la faculté de découvrir des résultats malheureux et attendus !
 
-Pendant cette session, nous vous parlerons de zemblanité à travers des cas réels et des anecdotes directement tirés de nos 15 ans d'expérience d'accompagnement d'équipes. L'occasion pour chacun d'entre nous de questionner nos habitudes, notre manière de faire et de travailler ensemble.
+Pendant cette session, nous vous parlerons de zemblanité à travers des cas réels et des anecdotes directement tirés de nos 15 ans d'expérience d'accompagnement d'équipes. L'occasion de nous questionner nos habitudes, notre manière de faire et de travailler ensemble.
 Cela nous entraînera vers un partage d'idées sur les moyens de lutter contre une zemblanité, qui, bien que très fréquente, n'est pas fatidique.
 
 Vous repartirez avec un sac à dos remplis de bonnes idées pour rater vos projets à coup sûr !
