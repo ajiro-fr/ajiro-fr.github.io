@@ -27,54 +27,75 @@ demonter le cargo cult => sans compréhension
 se poser la question de la diff avec le shu?
 mettre un lien: https://blog.operaepartners.fr/2018/02/06/il-ny-a-pas-de-majuscule-a-agile/ -->
 
-> On est agile, on fait pas de l'agile
+> On est agile, on ne fait pas de l'agile
 
-# Agile est avant tout des valeurs
+<!-- lean: outils => philo => outils  -->
 
-La base de l'agile est le [manifeste agile](http://agilemanifesto.org/iso/fr/manifesto.html).
-C'est un ensemble de valeurs, philosophie du développement.
-Cette philosophie nous guide dans une certaine direction
-et nous permet de faire des choix.
+# Des valeurs avant tout
 
-L'agile est une culture où les équipes sont auto-organisés
-et résolvent par elles-même les blocages et apprennent pour
-s'améliorer continuellement.
+La base de l'agilité est le [manifeste agile](http://agilemanifesto.org/iso/fr/manifesto.html),
+c'est un ensemble de quatre piliers véhiculant les valeurs de l'agilité.
+Tout le monde s'accorde à dire, que ces valeurs sont des guides
+qui nous permettent de faire des choix dans nos actions quotidiennes.
 
-# Ce n'est pas simplement utiliser des outils
+Il en résulte une culture de l'auto-organisation.
+Les équipes que nous accompagnons sont en effet capables de
+résoudre par elles-même les blocages et de mettre en
+oeuvre un ensemble de pratiques afin de 'améliorer continuellement.
 
-La plupart du temps, quand on apprend la cuisine, on utilise un couteau.
-Le couteau est très souvent associé à la cuisine.
-Mais, est-ce que c'est parce qu'on utilise un couteau qu'on
-fait la cuisine?
+# Trop souvent résumé aux outils
 
-Est-ce qu'on apprend la cuisine parce qu'on a une cuisine toute
-équipée? Est-ce que c'est parce qu'on a toque, qu'on apprend la
-cuisine?
+<!-- guillaume: pas clair  l'habit ne fait pas le moine -->
+<!-- faire la synthese en une phrase -->
+<!-- proverbes anecdotes ? aller chercher des arguments d'autorité plus puissants
+phrases longues et conceptuelles puis phrases plus courtes, plus choc, moins lisse-->
+Si quelqu'un utilise un couteau et une toque,
+cela fait-il de lui un grand chef ? Peut-on dire que c'est un cuisinier ?
+Ou qu'il apprend à cuisiner ?
 
-C'est possible de faire autre chose que de la cuisine avec un couteau.
+Est-il possible de faire autre chose que de la cuisine avec une toque et un couteau ?
 
-Même si on a les trois, ce n'est pas pour ça qu'on apprend la cuisine?
+A quoi peut-on voir que quelqu'un apprend la cuisine?
+A quoi peut-on voir que quelqu'un est devenu un grand chef?
 
-A quoi, est-ce qu'on voit que quelqu'on apprend la cuisine?
+Ce sont de vrais questions que l'on croise régulièrement dans les entreprises.
+Cela souligne entre autre la question des KPIs ou des indicateurs de transformation.
 
-Est-ce que c'est parce qu'on utilise les outils de l'agile qu'on est agile?
+Plus prosaïquement, utiliser un outil d'agiliste sans en comprendre son essence
+et sa raison d'être, ne fait pas de nous une équipe agile.
+
+<!-- Une système agile est un système capable d'appréhender rapidement son environment
+afin de prendre des décisions. -->
 
 <!-- Agilité : valeurs contre intuitives car hors de notre champ culturel
 
 => expérimenter pour apprendre
 => avoir envie d'apprendre, curiosité et de lâcher prise -->
 
-<!-- # ils donnent des Perspectives -->
-
 # Les outils sont un éventails de possibilités
 
-Le fait de voir une multitude de méthodes et d'outils permet de donner
-des possibilités et chacun des outils donne une gamme de possibles.
-Par exemple, XP peut donner l'idée du pair programming, scrum les daily
-meetings et Kanban d'avoir un radiateur d'information pour informer
-toute les parties prenantes de l'entreprise des avancées de l'équipe  .
+Le fait de voir une multitude de méthodes et d'outils permet d'ouvrir
+des possibilités et chacun des outils permet une multitude d'expériences
+dont l'objectif est l'agilité de l'équipe.
 
-# Comment démarrer?
+Par exemple, Xtreme Programming (XP) souligne l'importance du pair programming.
+Nous avons rencontré des équipes qui ont testé diverses approches de cette
+pratique, malgré quelques résistances initiales. Ils ont par exemple testé:
+
+ * Le changement de clavier toutes les 10 minutes
+ * L'usage de deux ordinateurs
+ * De planifier les sessions
+ * De mélanger les compétences
+
+En bref, de multiples expériences pour arriver à comprendre l'enthousiasme
+des défenseurs d'XP.
+
+Je vous invite à tester vos découvertes !
+
+# L'amorçage de l'agilité
+
+Les arts martiaux identifient trois étapes de l'apprentissage,
+[Shu-Ha-Ri](http://alistair.cockburn.us/Shu+Ha+Ri).
 
 Au début, on imite, par exemple on utilise la méthodologie
 Scrum comme modèle. C'est une première expérimentation.
@@ -91,6 +112,7 @@ qui permet d'arriver à la maitrise.
 Cependant, il est aussi possible que l'équipe ne fasse qu'imiter les
 gestes sans les comprendre dans un [culte du cargo](https://fr.wikipedia.org/wiki/Culte_du_cargo).
 
+<!-- difference entre le maitre qui transmet et les gens qui copient -->
 <!-- c'est a force de dire merci qu'on développe la gratitude -->
 <!-- histoire de toyota qui a permis aux concurrents de visiter ses usines pendant
 des années. Il n'arrivaient à faire du lean 40 ans après.
