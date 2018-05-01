@@ -24,6 +24,9 @@ params:
     bootstrap: 4.0.0-alpha.5
     font_awesome: 4.7.0
     jquery: 3.1.1
+    
+PygmentsCodeFences: true
+pygmentsStyle: colorful
 
 menu:
   left:
