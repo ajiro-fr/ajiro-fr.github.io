@@ -45,10 +45,6 @@ oeuvre un ensemble de pratiques afin de 'améliorer continuellement.
 
 # Trop souvent résumé aux outils
 
-<!-- guillaume: pas clair  l'habit ne fait pas le moine -->
-<!-- faire la synthese en une phrase -->
-<!-- proverbes anecdotes ? aller chercher des arguments d'autorité plus puissants
-phrases longues et conceptuelles puis phrases plus courtes, plus choc, moins lisse-->
 Si quelqu'un utilise un couteau et une toque,
 cela fait-il de lui un grand chef ? Peut-on dire que c'est un cuisinier ?
 Ou qu'il apprend à cuisiner ?
@@ -93,7 +89,7 @@ des défenseurs d'XP.
 Je vous invite à tester vos découvertes !
 
 # L'amorçage de l'agilité
-
+<!-- on a fini de relire ici -->
 Les arts martiaux identifient trois étapes de l'apprentissage,
 [Shu-Ha-Ri](http://alistair.cockburn.us/Shu+Ha+Ri).
 
