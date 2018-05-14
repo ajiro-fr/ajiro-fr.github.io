@@ -2,7 +2,7 @@
 date: 2018-04-20
 title: "Voyage en MixIT 2018"
 lang: fr
-draft: true
+draft: false
 authors:
   - quille_julie
 tags:
