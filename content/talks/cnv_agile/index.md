@@ -28,6 +28,9 @@ sessions:
   - date: "2017-11-23"
     name: Agile Grenoble 2017
     url: http://agile-grenoble.org/
+  - date: "2018-05-24"
+    name: Institution Jeanne d'Arc de Roubaix
+    url: http://jdarc-rx.com/
 ressources:
   - name: "Le support de présentation Agile France 2017"
     file: slides-agile-france-2017.pdf
