@@ -38,10 +38,11 @@ c'est un ensemble de quatre piliers véhiculant les valeurs de l'agilité.
 Tout le monde s'accorde à dire, que ces valeurs sont des guides
 qui nous permettent de faire des choix dans nos actions quotidiennes.
 
-Il en résulte une culture de l'auto-organisation.
+Il en résulte une culture de l'auto-organisation pour répondre
+rapidement à leur environment.
 Les équipes que nous accompagnons sont en effet capables de
 résoudre par elles-même les blocages et de mettre en
-oeuvre un ensemble de pratiques afin de 'améliorer continuellement.
+oeuvre un ensemble de pratiques afin de s'améliorer continuellement.
 
 # Trop souvent résumé aux outils
 
@@ -76,7 +77,7 @@ dont l'objectif est l'agilité de l'équipe.
 
 Par exemple, Xtreme Programming (XP) souligne l'importance du pair programming.
 Nous avons rencontré des équipes qui ont testé diverses approches de cette
-pratique, malgré quelques résistances initiales. Ils ont par exemple testé:
+pratique, malgré les résistances initiales. Ils ont par exemple testé:
 
  * Le changement de clavier toutes les 10 minutes
  * L'usage de deux ordinateurs
@@ -89,25 +90,20 @@ des défenseurs d'XP.
 Je vous invite à tester vos découvertes !
 
 # L'amorçage de l'agilité
-<!-- on a fini de relire ici -->
-Les arts martiaux identifient trois étapes de l'apprentissage,
-[Shu-Ha-Ri](http://alistair.cockburn.us/Shu+Ha+Ri).
 
-Au début, on imite, par exemple on utilise la méthodologie
-Scrum comme modèle. C'est une première expérimentation.
+La première phase de l'apprentissage consiste souvent à répéter
+les gestes du maitre.
+
+Revenons à notre exemple du TDD, nous avons croisé une
+équipe qui était très contente de cette pratique et qui commençait
+à être ralentie par la maintenance de leurs tests.
+
+Etaient-ils passés de l'apprentissage à la compréhension du compromis
+ou imitaient-ils les gestes sans comprendre,
+tel le [culte du cargo](https://fr.wikipedia.org/wiki/Culte_du_cargo).
 
 <!-- expérimentation +
 C'est une démarche quotidienne d'essais et d'erreurs qui permet une bonne compréhension. -->
-
-Dans un premier temps, on imite, pour commencer à pratiquer
-une technique de base qui lui permettra de développer cette
-une compréhension. C'est l'idéal,
-le [Shu](http://alistair.cockburn.us/Shu+Ha+Ri), la répétition
-qui permet d'arriver à la maitrise.
-
-Cependant, il est aussi possible que l'équipe ne fasse qu'imiter les
-gestes sans les comprendre dans un [culte du cargo](https://fr.wikipedia.org/wiki/Culte_du_cargo).
-
 <!-- difference entre le maitre qui transmet et les gens qui copient -->
 <!-- c'est a force de dire merci qu'on développe la gratitude -->
 <!-- histoire de toyota qui a permis aux concurrents de visiter ses usines pendant
@@ -124,8 +120,8 @@ Mais ils essayerons. -->
 <!-- indicateur: livrer de la valeur business, mais c'est aussi une illusion car
 la feedback loop est trop grande.  -->
 
-Quels indicateurs permettent de savoir si l'équipe est dans une démarche
-de culte du cargo ou si elle commence à être dans le shu?
+Comment discerner si l'équipe est dans une démarche d'apprentissage ou
+dans un simple mimétisme ?
 
 # Mélanger et dépasser les techniques
 
@@ -133,18 +129,18 @@ de culte du cargo ou si elle commence à être dans le shu?
 1. expérimenter -> compréhension
 2. maitrise de plusieurs techniques -> choix -->
 
-L'utilisation de plusieurs méthodologies permet d'expérimenter de voir les
-aspects de chacune qui permet à l'équipe de mieux livrer.
+Expérimenter de nombreux outils et méthodes permet d'en comprendre
+les avantages et les limites pour ne garder que ce qui
+permet à l'équipe de livrer plus rapidement du code de qualité et sans bugs.
 
-Après avoir maitrisé plusieurs techniques, on peut faire un
-choix raisonné et en pleine conscience des avantages et
-des inconvénients.
-C'est cette compréhension qui permet de prendre des décisions rapidement et de livrer
-des fonctionnalités sans bug. Aussi
-elle permet à l'équipe de s'adapter aux changements et de ne pas
-rester figé dans des méthodes qui ne sont plus adaptées.
+Maîtriser et comprendre plusieurs techniques, permet d'avoir un impact
+répétable sur le réel.
+
+Elle permet à l'équipe de s'adapter aux changements et faire des
+promesses tenables.
 
 # La fin de l'apprentissage ?
+<!-- on a fini de relire ici -->
 
 L'agile dispose de beaucoup d'outils, cependant le signe qu'une
 équipe est véritablement agile est qu'elle comprend le pourquoi
