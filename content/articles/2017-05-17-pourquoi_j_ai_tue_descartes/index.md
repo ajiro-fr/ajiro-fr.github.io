@@ -9,7 +9,7 @@ tags:
   - management
   - VUCA
 categories:
-  - managment
+  - management
 illustration:
   name: 72499441_b9215607bb
   source: http://flic.kr/p/7pzyn
