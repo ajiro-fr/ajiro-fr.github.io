@@ -21,17 +21,19 @@ description: |
 
 L'atelier consiste à former des couples manager / managé.
 
-Une fois identifié, on explique à tous que l'on va devoir se déplacer en tenant un stylo du bout de l'index, en silence (i.e sans révéler la destination aux managés). Vous avez quand même le droit de parler pour prévenir d'un obstacle que son binôme ne voit pas.
+Une fois identifié, on explique à tous que l'on va devoir se déplacer en tenant un stylo du bout de l'index et en silence (i.e sans révéler la destination aux managés). Vous avez quand même le droit de parler pour prévenir d'un obstacle que votre binôme ne voit pas.
 
 Ensuite, on ne parle qu'aux manageurs, on peut par exemple faire sortir les managés. On leur explique quel endroit ils doivent atteindre. Une fois expliqué, faire revenir les managés.
 
-J'ai par exemple expérimenté de positionner les manageurs sur un cercle, de les numéroters et de dire : les manageurs avec un numéro paire vous aller regarder face à vous, votre objectif est de rejoindre le coin de la salle en face et à droite. Les manageurs avec un numéro impaire, vous aller rejoindre le coin en face de vous et à gauche.
+{{< img name="cible1" legend="Première cible" source="cible1" >}}
+
+J'ai par exemple expérimenté de faire une ronde avec les manageurs, de les numéroter puis de dire : les numéro impaire, vous devez rejoindre le coin en face à droite en passant par le centre du cercle, les numéros paires vous aller rejoindre le coin en face à gauche en passant par le centre du cercle. L'illustration juste au dessus montre quels sont les trajets à suivre pour 2 des 8 managers.
 
 À ce moment, l'objectif caché de l'animateur est de placer les manageurs face à la cible.
 
 
 ## Itération 1
-On laisse exécuter la première itération, c'est souvant très rapide (moins d'une minute) puis faire un débriefing
+On laisse la première itération se dérouler, c'est souvant très rapide (moins d'une minute) puis faire un débriefing
 
 - Que c'est il passé ?
 - Qu'avez vous ressenti ?
@@ -44,18 +46,16 @@ En générale on obtient :
 - C'est très lent
 - Quand le l'ai poussé vers la droite il est allé à gauche
 - J'ai pas compris ou il ou elle voulais aller
-- Les managés soulignent qu'il faut faire totalement confiance aux manageurs
+- Certains managés soulignent qu'il faut faire totalement confiance aux manageurs
 - Le managé avait uniquement le focus sur le stylo
 - Le manageur doit à la fois maitriser l'objectif, deviner comment le managé va réagir, s'occuper des obstacles et ne pas appuyer de trop pour maintenir le stylo en équilibre.
-- À la prochaine itération, nous aurons l'abitude de travailler ensemble ça devrait être plus rapide.
+- À la prochaine itération, nous aurons l'habitude de travailler ensemble ça devrait être plus rapide.
 
-Les challenger pour aller plus vite.
-
-Les laisser 1 minutes pour trouver une nouvelle stratégie.
+Les laisser 1 minutes pour trouver une nouvelle stratégie pour aller plus vite.
 
 ## Itération 2
 
-Faire sortir les managés et donner une nouvelle cible aux manageurs, par exemple, toujours en cercle, aller en face de vous, toucher le murs et revenez à votre place.
+Faire sortir les managés et donner une nouvelle cible aux manageurs, par exemple, toujours en cercle, aller toucher le murs en face de vous et revenez à votre place.
 
 Faire revenir les managés puis lancer la seconde itération puis debriefing :
 
@@ -75,9 +75,9 @@ En générale on obtient :
 - Le managé devait comprendre les intentions du manageur.
 - À 2 de face, la gestion des obstacles et l'équilibre du stylo sont partagés
 
-J'ai majoritairement croisé des gens qui se mettent côte à côte pour regarder dans la même direction un moyen simple de résoudre deux des problèmes : la gestion des obstacles et l'équilibre du stylo.
+J'ai majoritairement croisé des gens qui se mettent côte à côte pour regarder dans la même direction, un moyen simple de résoudre deux des problèmes : la gestion des obstacles et l'équilibre du stylo.
 
-Si aucun binôme n'a testé l'option : manageur dos à la cible, prendre un manageur au hasard et montrer comment ça fonctionne.
+Si aucun binôme n'a testé l'option "manageur dos à la cible", prendre un manageur au hasard et montrer comment ça fonctionne.
 
 ## Itération 3
 
@@ -99,6 +99,7 @@ En générale on obtient :
 - Le manageur doit faire attention aux capacités du managé (pas trop vite surtout qu'il doit prévenir des obstacles en plus d'assurer l'équilibre du stylo)
 
 ## Bilan globale
-L'analogie entre management directif, je pousse et un management "leader" je donne l'intention et je fait la place pour laisser aux managés la liberté de faire. Mais attention, mon rôe de manager ne se limite pas à partager une vision, il faut aussi faire la place et prendre soins des managés.
+
+Dans cet exercice, nous avons essayer de vivre l'analogie entre un management directif : "je pousse le stylo" et un management façon leader : "je donne la place pour laisser avancer les managés. Mais attention, mon rôle de manager ne se limite pas à partager une vision, il faut aussi faire la place et prendre soins des managés.
 
 Une alternative consiste à créer des trinômes : un manageur et 2 managés, ce qui fait un stylo par main pour le manager.
