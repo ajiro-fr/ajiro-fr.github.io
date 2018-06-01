@@ -6,3 +6,5 @@ ajiro-ft:
     host_port: 80
   environment:
     hugo_env: production
+    TLS_DOMAINS: ajiro.fr
+    TLS_EMAIL: tclavier@azae.net
