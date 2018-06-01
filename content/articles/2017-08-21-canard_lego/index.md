@@ -2,7 +2,7 @@
 date: 2017-08-21
 title: "Des canards en Lego"
 lang: fr
-draft: true
+draft: false
 authors:
   - clavier_thomas
 tags:
@@ -11,6 +11,7 @@ tags:
   - lego
   - lego serious play
   - serious game
+  - energizer
 categories:
   - craft
 illustration:
@@ -42,13 +43,13 @@ Pour suivre l'évolution du jeu, on lance un chronomètre et toutes les minutes 
 
 Je vous laisse le jouer pour en découvrir le résultat.
 
-- Comment se sont passés les interactions dans l'équipe ? 
+- Comment se sont passés les interactions dans l'équipe ?
 - Comment les équipes se sont organisées ?
-- Avez-vous observé des 
+- Comment c'est passé la validation des cannards ? À quoi ressemble tous ces cannard ?
 
 Quelques parallèles peuvent être évoqués :
 
-- Les organisations qui demandent aux architectes de produire une conception avant de demander aux développeurs de remplir les trous.
+- Les organisations qui demandent aux architectes de produire une conception avant de demander aux développeurs de remplir les trous avec du code.
 - Les développeurs qui produisent des plans qui seront transformés par le compilateur en exécutable.
 - Les organisations qui séparent géographiquement conception et réalisation par exemple avec la conception à Paris et la réalisation en Inde.
 
