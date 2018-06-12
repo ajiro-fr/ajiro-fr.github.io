@@ -71,4 +71,4 @@ Présentation de la CNV avec un exemple que nous faisons voyager à travers les 
 
 # Tweet
 
-Vous avez entendu parler de la Communication NonViolente (CNV), et vous souhaitez voir de plus près de quoi il s'agit ? Comment on l'applique ? et au fait en quoi en tant qu'agiliste nous pouvons nous sentir concernés ? Nous vous attendons !
+Vous avez entendu parler de la Communication NonViolente (CNV), et vous souhaitez voir de plus près de quoi il s'agit ? Comment on l'applique ? et au fait en quoi en tant qu'agilistes nous pouvons nous sentir concernés ? Nous vous attendons !
