@@ -33,3 +33,7 @@ Ce sont donc deux heures de cheminement au coeur d'une relation entre l'émotion
 # Structure de la session
 
 En groupe de 10 personnes maximum, je vais vous accompagner à travers un cas pratique à l'aide d'une situation, de cartes, d'explications et, pour ceux qui le souhaitent, de partages.
+
+# Tweet
+
+Un atelier, des émotions, des besoins, un voyage au centre de nous-même pour initier une réflexion sur notre rapport à nous et à l'autre. Une aventure sur mesure pour les plus courageux !
