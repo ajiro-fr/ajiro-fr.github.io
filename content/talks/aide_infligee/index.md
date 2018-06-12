@@ -30,4 +30,8 @@ Réflexion sur l'aide que nous souhaitons donner et recevoir
 # Structure de la session
 
 Présentation de plusieurs modélisations de relation.
-Réflexion sur l'aide que nous souhaitons donner et recevoir
+Réflexion sur l'aide que nous souhaitons donner et recevoir.
+
+# Tweet
+
+Nous vous invitons à nous rejoindre pour revisiter notre rapport à l'aide. Celle que l'on donne, que l'on rçoit, que l'on demande... ou au contraire que nous ne savons pas demander.
