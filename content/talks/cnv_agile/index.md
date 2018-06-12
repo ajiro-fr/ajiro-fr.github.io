@@ -68,3 +68,7 @@ Cette session est donc innovante dans le sens où nous partons d'une autre appro
 # Structure de la session
 
 Présentation de la CNV avec un exemple que nous faisons voyager à travers les 4 étapes. Les participants sont invités, pour chacune des quatre étapes (observations - sentiments - besoins - demande) à avoir leur exemple qu'ils tenteront de faire passer dans les mailles du filet que nous tissons. Ils pourront partager leurs difficultés éventuelles avec leur voisin.
+
+# Tweet
+
+Vous avez entendu parler de la Communication NonViolente (CNV), et vous souhaitez voir de plus près de quoi il s'agit ? Comment on l'applique ? et au fait en quoi en tant qu'agiliste nous pouvons nous sentir concernés ? Nous vous attendons !
