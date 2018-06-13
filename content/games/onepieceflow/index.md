@@ -3,7 +3,9 @@ date: 2018-06-13
 sorted: One piece flow
 title: "One piece Flow"
 tags:
-  - brainstorming
+  - OnePieceFlow
+  - Vélocité
+  - Ralentir
 objectives: |
   - Comprendre l'intérêt de ralentir pour accélerer
   - Favoriser le travail d'équipe
