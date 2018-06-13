@@ -44,7 +44,7 @@ L'objectif de cet atelier est de montrer que charger le système n'est pas la so
 ## On s'attaque au backlog
 
 Dans un second temps on va demander à l'équipe de faire du One Piece Flow sur son propre backlog.
-1. Donner les régles de l'atelier (Ex. 1 US amener de TODO à DONE avant 12h / Binome mixte Front - Back / Focus sur une seule US / Loger ce qui se passe pendant l'atelier)
+1. Donner et afficher les régles de l'atelier (Ex. 1 US amener de TODO à DONE avant 12h / Binome mixte Front - Back / Focus sur une seule US / Loger ce qui se passe pendant l'atelier)
 2. Demander à l'équipe de se mettre en binôme (ou éventuellement toute l'équipe ensemble cf. Mob programming)
 3. Choisir une tâche que la binôme (ou l'équipe), s'engage à terminer 30 min avant la fin de la demie-journée.
 4. Demander à chaque équipe de loger ce qui se passe pendant l'atelier.
