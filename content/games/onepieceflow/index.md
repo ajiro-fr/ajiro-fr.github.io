@@ -11,7 +11,7 @@ objectives: |
   - Favoriser le travail d'équipe
   - Travailler le focus
   - Tracage du gaspillage
-duration: 13 à 6 heures
+duration: 3 à 6 heures
 participants: "jusqu'à 15 - L'équipe"
 materials:
 authors:
