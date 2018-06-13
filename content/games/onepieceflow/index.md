@@ -28,7 +28,8 @@ Nous vous proposons ici de travailler le One piece flow avec introduction et pra
 ## Introduction 10 à 20 min
 
 En introduction il est possible de proposer un mini atelier : occuper VS produire
-L'animateur donne un feutre à chaque participant à l'atelier (idéalement l'ensemble de l'équipe), moins un ou deux, qui serront 1. obesrvateurs.
+
+1. L'animateur donne un feutre à chaque participant à l'atelier (idéalement l'ensemble de l'équipe), moins un ou deux, qui serront observateurs.
 2. L'animateur devient "manager directif", et explique son produit : un dessin simple sur un post-it composé d'un nombre de traits égal au nombre de participants actifs à l'atelier (par exemple pour 5 personnes actives, un visage avec le cercle du contour du visage en noir, les yeux en bleu, le nez en vert, la bouche en rouge, des cheveux en marron). Chacun devra donc obligatoirement contribuer au produit final.
 3. La chaine de production se met en place comme elle le souhaite.
 4. Le manager donne un post-it à un bout de la chaine et attend qu'il ressorte de l'autre côté (coller à un endroit défini), puis redonne un post-it.
