@@ -23,22 +23,24 @@ illustration:
 
 ## Présentation
 
-Nous vous proposons ici de travailler le One piece flow avec introduction et pratique sur la production de l'équipe. L'objectif est de faire prendre conscience à l'équipe de la perte d'énergie liée à la dispersion, et du fait que l'agitation n'est pas synonime de productivité.
+Nous vous proposons ici de travailler le One piece flow avec introduction et pratique sur la production de l'équipe. L'objectif est de faire prendre conscience à l'équipe de la perte d'énergie liée à la dispersion, et du fait que l'agitation n'est pas synonyme de productivité.
 
 ## Introduction 10 à 20 min
 
 En introduction il est possible de proposer un mini atelier : occuper VS produire
 
-1. L'animateur donne un feutre à chaque participant à l'atelier (idéalement l'ensemble de l'équipe), moins un ou deux, qui serront observateurs.
-2. L'animateur devient "manager directif", et explique son produit : un dessin simple sur un post-it composé d'un nombre de traits égal au nombre de participants actifs à l'atelier (par exemple pour 5 personnes actives, un visage avec le cercle du contour du visage en noir, les yeux en bleu, le nez en vert, la bouche en rouge, des cheveux en marron). Chacun devra donc obligatoirement contribuer au produit final.
+1. Dans un groupe de 6 à 12 personnes, définir 1 à 3 observateurs.
+2. L'animateur devient "manager directif", et explique son produit : une tour de lego, constituée exclusivement de legos touchés par l'ensemble des membres de l'équipe.
 3. La chaine de production se met en place comme elle le souhaite.
-4. Le manager donne un post-it à un bout de la chaine et attend qu'il ressorte de l'autre côté (coller à un endroit défini), puis redonne un post-it.
-5. Au bout de 2 ou 3 post-it, il les donnes plus rapidement sans attendre qu'ils soient terminés.
-6. Après 2 ou 3 post-it lancé, le manager identifie les personnes "oisives" (qui n'ont pas de post-it dans les mains), et commence à leur en donner aussi (indéferemment d'où la personne se situe dans la chaine).
-7. Quand la production est immobilisé car chacu cherche à compléter son post-it, on s'arrete.
+4. Le manager donne un lego à un bout de la chaine et attend qu'il ressorte de l'autre côté (on pose la base de la tour), puis redonne un lego.
+5. Au bout de 2 ou 3 legos, il les donnes plus rapidement sans attendre qu'ils soient arrivés jusqu'à la tour.
+6. Après 2 ou 3 legos lancés, le manager identifie les personnes "oisives" (qui n'ont pas de lego dans les mains), et commence à leur en donner aussi (indéferemment d'où la personne se situe dans la chaine).
+7. Quand la production est immobilisée car chacun cherche à savoir où en est le lego (qui l'a touché ou non), on s'arrete.
 8. Debrief
 
 L'objectif de cet atelier est de montrer que charger le système n'est pas la solution la plus efficace pour produire. On souligne dans ce cas l'ingérance du manager qui vient dire à qui il attribue les tâches et les conséquences.
+
+NB : nous avons essayé de faire cet atelier en utilisant des post-it sur lequel il fallait co-construire un dessin. Cela ne fonctionne pas (très vite l'équipe pose les post-it et bouge autour de la table). Si vous essayez avec des post-it en demandant aux personnes de ne pas bouger, nous sommes preneurs des feedbacks ;-)
 
 
 ## On s'attaque au backlog
@@ -49,5 +51,5 @@ Dans un second temps on va demander à l'équipe de faire du One Piece Flow sur 
 3. Choisir une tâche que la binôme (ou l'équipe), s'engage à terminer 30 min avant la fin de la demie-journée.
 4. Demander à chaque équipe de loger ce qui se passe pendant l'atelier.
 5. C'est parti (on est attentif à ce que personne ne fasse une autre tâche en parallèle, même lorsque la seule chose qu'il est possible de faire sur la tâche en cours est d'attendre).
-6. Au bout du temps imparti on s'arrête et on debrief
+6. Au bout du temps imparti on s'arrête et on debrief : Comment a fonctionné le binomage ? Qu'est-ce qui s'est bien passé ? Qu'est-ce qui aurait ou être amélioré ?
 7. Quelles sont les actions que nous pourrions faire pour améliorer les points de blocages ?
