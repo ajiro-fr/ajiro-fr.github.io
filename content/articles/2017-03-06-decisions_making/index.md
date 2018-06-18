@@ -47,7 +47,7 @@ Pour qu'une décision soit prise, une majorité de personnes doivent être d'acc
 
 ## Réticence
 
-{{< img name="armsCrossed" source="https://www.flickr.com/photos/dannohung/181971062/" >}}
+{{< img name="armsCrossed" source="https://flic.kr/p/h5DE7" >}}
 
 Nous avons plusieurs choix possibles. Les personnes lèvent une main quand elles sont réticentes sur une proposition et deux mains quand elles sont très réticentes. Le choix qui a le moins de voix est sélectionné.
 

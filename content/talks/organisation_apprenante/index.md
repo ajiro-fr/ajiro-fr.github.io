@@ -10,7 +10,7 @@ tags:
   - learning organization
 illustration:
   name: smileys
-  source: https://www.flickr.com/photos/rameshng/5563567802
+  source: https://flic.kr/p/9tCJSN
 abstract: |
   Comment faire pour qu’une organisation apprenne (et s’adapte) ? Je propose une présentation des concepts et pratiques possibles liés aux 5 disciplines de l’organisation apprenante de Peter Senge. Cette session se veut être une session de sensibilisation tout public.
 ressources:

@@ -17,7 +17,7 @@ authors:
   - albiez_olivier
 illustration:
   name: chaises
-  source: https://www.flickr.com/photos/anicsiga/1437552265/
+  source: https://flic.kr/p/3c2QcT
 references:
   - title: Non musical chairs on Tasty Cupcakes
     icon: external-link

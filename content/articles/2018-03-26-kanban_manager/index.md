@@ -12,7 +12,7 @@ categories:
   - management
 illustration:
   name: hot
-  source: https://www.flickr.com/photos/49969806@N05/5012109821
+  source: https://flic.kr/p/8CUnCz
 description: |
   C'est l'histoire d'un groupe de middle managers qui souhaitent mieux travailler ensemble et qui un jour viennent me demander de l'aide sur leur management visuel. Après avoir fini de les aider et en prenant un peu de recul, je me rends compte qu'il y a une progression classique dans les relations entre managers. Voici cette échelle vu par le prisme du management visuel.
 ---
@@ -23,7 +23,7 @@ J'ai fait le choix de garder sur chaque niveau les mêmes axes pour garder de la
 
 ## Je travaille avant tout pour moi et donc pour mon chef
 
-{{< img name="shine" legend="Shoe shine" source="https://www.flickr.com/photos/harquail/9881061256" >}}
+{{< img name="shine" legend="Shoe shine" source="https://flic.kr/p/g4a2g7" >}}
 
 **Description** : Le descriptif est assez simple, je travaille avant tout pour ma progression personnelle.<br>
 **Management visuel** : A ce niveau, le management visuel est assez simple. Il peut s'agir de liste des boissons cafeinées ou de la liste des bières à la pression. Eh oui car la plupart des décisions se prennent à la pause café.<br>
@@ -33,7 +33,7 @@ J'ai fait le choix de garder sur chaque niveau les mêmes axes pour garder de la
 
 ## Je me compare aux autres car je sais ce que mes collègues font
 
-{{< img name="chess" legend="Chess" source="https://www.flickr.com/photos/harquail/9880870454" >}}
+{{< img name="chess" legend="Chess" source="https://flic.kr/p/g493xq" >}}
 
 **Description** : Je passe d'un focus personnel à une vision plus collective. Je travaille seul sur mes sujets, mais je commence à partager de l'information avec mes collatéraux pour améliorer la situation d'ensemble.<br>
 **Management visuel** : Je commence à visualiser travail en cours et problèmes de mon écosystème que je rend visible à l'exterieur. Je suis capable de donner un état d'avancement, de montrer quelles zones ont besoin d'aide, d'identifier les actions d'amélioration en cours. J'ai plus de mal à mettre en lumière ce qui est anormal (vs normalité).<br>
@@ -49,7 +49,7 @@ Dans la pratique, cela peut ressembler à un tableau vu dans une banque d'invest
 
 ## Nous travaillons ensemble avec une bonne coordination
 
-{{< img name="band" legend="BUJO" source="https://www.flickr.com/photos/jezzu/19491611925/" >}}
+{{< img name="band" legend="BUJO" source="https://flic.kr/p/vGpB9z" >}}
 
 **Description** : A ce niveau, je cherche à ce que les managers dépassent le stade du partage d'information pour aller jusqu'à un travail collectif. Je donne un manager un outil pour qu'ils puissent prendre des décisions ensemble.<br>
 **Management visuel** : Il s'agit d'avoir une représentation systémique, comprendre avoir une représentation d'ensemble du travail en cours qui permette aux managers de prendre des décisions. Au niveau middle management, je passe à un modèle de type Kanban pour managers ou Obeya.<br>
@@ -78,7 +78,7 @@ Dans tous les cas et quelque soit le management visuel choisi, il n'est efficace
 
 ## Nous travaillons ensemble au quotidien
 
-{{< img name="pair" legend="Pair programming" source="https://www.flickr.com/photos/jkransen/5231797723/" >}}
+{{< img name="pair" legend="Pair programming" source="https://flic.kr/p/8Yjkc2" >}}
 
 **Description** : A l'image du pair programing chez les développeurs, les managers font du pair work. Ils ne travaillent pas tout le temps ensemble, mais sur certains sujets ils travaillent ensemble que ce soit sur un sujet commun ou sur un sujet qui ne concerne qu'une personne. Pour rappel, le pair programing est conseillé pour les sujets compliqués et pour l'intégration de nouvelles personnes.<br>
 **Management visuel** :  Un même écran d'ordinateur ? Ce mode de travail "Nous travaillons ensemble" ne se substitue pas au mode "Nous pensons ensemble". Les kanban pour managers restent.<br>

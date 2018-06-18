@@ -12,7 +12,7 @@ tags:
   - UX
 illustration:
   name: mots
-  source: https://www.flickr.com/photos/unlistedsightings/2425801709
+  source: https://flic.kr/p/4GmSkp
 abstract: |
   L'idée de base, c'était de discuter de comment les différents courants de pensée s'articulent entre eux au quotidien. A l'arrivée, il s'agit d'une session d'ouverture sur ce qui nous attend demain. J'en profite pour faire un état des lieux, puis de la prospective avec IDEO Creative Difference. J'y parle de la différence entre principes et pratiques.
 ressources:

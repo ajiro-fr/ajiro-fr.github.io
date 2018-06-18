@@ -11,7 +11,7 @@ tags:
   - UX
 illustration:
   name: lean-ux
-  source: https://www.flickr.com/photos/s2ublack/9270943672
+  source: https://flic.kr/p/f8f1yq
 abstract: |
   Qu'est ce que c'est ce truc ? Encore un nouveau framework. T'es relou Samuel, c'est juste une énième version du jeu de l'oie.
   Ah oui, mais celui là il fait le café. Et il a super option supplémentaire, il comporte des phases de divergence/convergence puis validation en test et production à base d'itération.

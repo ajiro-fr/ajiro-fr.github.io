@@ -12,7 +12,7 @@ categories:
   - mindset
 illustration:
   name: adapt
-  source: https://www.flickr.com/photos/apes_abroad/6547530613/
+  source: https://flic.kr/p/aYzNJR
 description: |
   Où il est question d’adaptation au changement pour une organisation
 ---

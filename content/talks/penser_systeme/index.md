@@ -10,7 +10,7 @@ tags:
   - system thinking
 illustration:
   name: system
-  source: https://www.flickr.com/photos/gara/64224841/
+  source: https://flic.kr/p/6FaNR
 abstract: |
   Les pièces de mon puzzle ne sont que de vulgaires morceaux de carton. Mon puzzle est quant à lui une invitation au voyage. Voici les différents points de levier pour modifier le comportement d’un système pour passer de l’effet de bord à l’effet souhaité.
 ressources:

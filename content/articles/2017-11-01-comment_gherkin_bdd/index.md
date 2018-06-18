@@ -12,7 +12,7 @@ categories:
   - craft
 illustration:
   name: cucumber
-  source: https://www.flickr.com/photos/maxmallett/4730708709/
+  source: https://flic.kr/p/8d37Tg
 description: |
   Comment écrire des scénarios au format Gherkin ? L'explication par l'exemple.
 ---
@@ -20,7 +20,7 @@ description: |
 Pour faire le tatillon, le nom de l'article est légèrement trompeur car je vais plus parler de l'outil cucumber et du langage gherkin que de BDD avec sa conversation. Dans ce post, je propose de regarder des cas pratiques et d'écrire quelques scénarios.
 
 ## Les bases du Gherkin
-{{< img name="gherkinTower" legend="Gherkin tower" source="https://www.flickr.com/photos/fatedsnowfox/4940743037/" >}}
+{{< img name="gherkinTower" legend="Gherkin tower" source="https://flic.kr/p/8wAALM" >}}
 Par défaut, voici comment un scénario doit se présenter.<br>
 **Scenario**:[Nom du scénario]<br>
 **Given** [Contexte]<br>
@@ -33,7 +33,7 @@ L'évènement correspond à l'action qui génère le dit évènement. Sauf cas r
 L'impact correspond aux résultats attendus.
 
 ## La machine à tickets
-{{< img name="tap" legend="TAP Union Station" source="https://www.flickr.com/photos/viriyincy/8926668213/" >}}
+{{< img name="tap" legend="TAP Union Station" source="https://flic.kr/p/eAPvsD" >}}
 Je vais prendre comme exemple les caisses automatiques de la RATP. Pour mes amis non parisiens, voici comment elles fonctionnent:<br>
 - Tout d'abord, il faut choisir entre recharger le pass navigo pour ceux qui prennent des abonnements ou acheter des tickets.<br>
 - Pour les tickets, il y a les tickets standards vendus à l'unité ou en carnet plus quelques déclinaisons comme les tarifs réduits.<br> 
@@ -41,7 +41,7 @@ Je vais prendre comme exemple les caisses automatiques de la RATP. Pour mes amis
 - Pour les moyens de paiement, je pars sur carte bleue, pièces et billets.<br>
 
 ## Scénario de base : Avoir un ticket
-{{< img name="ltm" legend="London Transport Museum" source="https://www.flickr.com/photos/tubb/4659945294/" >}}
+{{< img name="ltm" legend="London Transport Museum" source="https://flic.kr/p/86Mroo" >}}
 Pour la suite, je vais faire les scénarios en français. Et donc c'est parti :
 
 > **Etant donné que** la machine est branchée **ET**<br>
@@ -63,7 +63,7 @@ Autre problème dans le scénario précédent, il n'a pas de nom et je ne sais p
 Dans ce scénario, j'explique tout de suite ce que je teste à savoir la distribution de ticket. J'ai exprès changé le prix du billet réel (1,9EUR) pour ne pas avoir de pollution sur l'évènement (cele aurait nécessité une somme). Je n'ai rien précisé sur le justificatif car c'est hors de mon scénario. J'aurais éventuellement pu faire un scénario avec un billet gratuit pour ne pas avoir l'étape argent. Je ne l'ai pas fait car même si cela simplifie mon test, je tombe dans un scénario d'usage peu représentatif de la réalité.
 
 ## Test en fin de chaine : Rendre la monnaie
-{{< img name="coins" legend="Coins" source="https://www.flickr.com/photos/76657755@N04/7027587393" >}}
+{{< img name="coins" legend="Coins" source="https://flic.kr/p/bH1dTT" >}}
 Que se passe-t-il si je veux tester la fin d'une chaine de valeur? Traditionnellement, je devrais d'abord faire toutes les saisies pour arriver au test qui m'intéresse. En BDD, c'est plus simple car je me positionne directement où je veux.
 
 > **Scénario**:Rendre la monnaie montants différents<br>
@@ -88,7 +88,7 @@ Aute point à noter, quand je fais un scénario dans un process en plusieurs ét
 Je fais de même quand je communique avec d'autres applications. Je teste que je leur envoie la bonne demande. En retour je pars du principe qu'elles m'ont répondu correctement et je teste le comportement de mon application en conséquence. Je mets dans le background les données qui correspondent à un retour "normal".
 
 ## Background : Le paiement par carte bleue
-{{< img name="credit" legend="Credit" source="https://www.flickr.com/photos/cafecredit/26787351554/" >}}
+{{< img name="credit" legend="Credit" source="https://flic.kr/p/GP7bmS" >}}
 Cette fois-ci, je me mets dans un contexte commun à plusieurs scénarios. Je vais l'enrichir avec quelques suppléments de contexte. Je me mets en anglais pour utiliser les bons mots.
 
 > **Background**:<br>
@@ -122,7 +122,7 @@ Le mot background est intéressant à utiliser quand j'ai un contexte commun à 
 Attention tout de même avec l'utilisation des tables, il ne s'agit pas de mettre du Excel dans des scénarios. Cela doit rester avant tout lisible. Je n'essaie pas de mettre le moins de mots possibles et de factoriser à gogo. Rappelez vous, BDD rime avec conversation.
 
 ## Scenario outline : Montant à payer
-{{< img name="travelCards" legend="Travel cards" source="https://www.flickr.com/photos/legge/531658349/" >}}
+{{< img name="travelCards" legend="Travel cards" source="https://flic.kr/p/NYTvg" >}}
 
 Je présente cette fois l'utilisation du scénario outline qui permet de faire varier des données. Il est particulièrement utile quand à une action identique, j'ai des résultats différents en fonction du contexte.
 

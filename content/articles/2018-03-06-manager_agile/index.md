@@ -12,7 +12,7 @@ categories:
   - management
 illustration:
   name: map
-  source: https://www.flickr.com/photos/jackson3/6168587398/
+  source: https://flic.kr/p/ap6C89
 description: |
   Si je dois caractériser le manager Agile par une anecdote, je dirais qu'il peut partir en vacances pendant 2 mois sans que cela pose de problème mais que sans lui pendant 6 mois c'est la Bérézina.
 ---
@@ -21,7 +21,7 @@ Je vais devoir commencer par quelques disclaimers pour la suite. L'article donne
 
 ## Autonomie
 
-{{< img name="arguing" legend="Chemins" source="https://www.flickr.com/photos/taijin/3006058011/">}}
+{{< img name="arguing" legend="Chemins" source="https://flic.kr/p/5zCQjp">}}
 
 "Maintenant vous êtes une équipe Agile et vous êtes donc auto organisée. Allez salut et bon courage". Je caricature à peine des propos que j'ai déjà entendu. Derrière cela se cache une incompréhension sur l'auto organisation. Je ne deviens pas autonome par magie. Je le deviens car j'ai un cadre qui me permet de construire à l'intérieur. Une des pratiques possibles est le **management par intention** (vs par ordre). Je donne l'objectif à atteindre, les moyens et les contraintes. Ensuite je laisse de la liberté sur le comment. Il faut savoir qu'à chaque échelon remonté dans une structure, une décision prend 3 fois plus de temps. Ma priorité en tant que manager doit donc plus être de répondre en priorité aux demandes qui viennent du bas. C'est un changement de paradigme assez fort. Dans un vie antérieure, j'ai été un manager dans une organisation moyennement Agile. Sur les 23 objectifs annuels qui m'étaient assignés, aucun n'était à destination des mes subalternes.
 
@@ -29,7 +29,7 @@ Autre point à prendre en compte pour l'autonomie, **une personne pourra prendre
 
 ## Vision
 
-{{< img name="vision" legend="Target" source="https://www.flickr.com/photos/teflon/3668600906/">}}
+{{< img name="vision" legend="Target" source="https://flic.kr/p/6AbxeL">}}
 
 Je suis membre d'une équipe avec mon objectif d'équipe et l'organisation qui va avec. La question qui vient ensuite : Est ce que la somme de tous les objectifs locaux est égale à l'objectif global ? Je pourrais poser la question différemment : Est ce que je dois gagner toutes les batailles pour gagner la guerre ? Et bien pas nécessairement car je peux décider de perdre d'un côté pour gagner à un autre niveau de l'autre. Le manager Agile s'assure que la déclinaison de l'objectif global en objectif local se fait avec une notion d'**optimum global** et pas local. Pour cela, il a besoin que tout le monde comprenne le sens de ce qu'il fait tant au niveau de son équipe qu'au niveau de chaque sous ensemble de l'organisation. C'est aussi un changement qui peut être assez fort pour les personnes habituées à l'adage "L'information c'est le pouvoir". Ce besoin de donner du sens est d'autant plus important que l'on peut constater en Agile le phénomène "Tête dans le guidon" à savoir que l'équipe se focalise sur les prochaines échéances mais perd le cap.
 
@@ -37,7 +37,7 @@ Je rajoute un point un peu annexe. Toujours dans ma vie antérieure, je dépenda
 
 ## Psychological safety
 
-{{< img name="handSignal" legend="Hand signal" source="https://www.flickr.com/photos/via/9677605852/">}}
+{{< img name="handSignal" legend="Hand signal" source="https://flic.kr/p/fKbg4j">}}
 
 Pourquoi je mets un mot en anglais ? Parce que je ne sais pas le traduire. C'est la capacité à pouvoir s'exprimer sans craindre des conséquences négatives. En tant que manager Agile, je dois mettre les personnes dans une **atmosphère de confiance** qui leur permettra d'exprimer leurs doutes et craintes. Sans cela, il se passe ce que je vois malheureusement assez souvent à savoir du théâtre. Nous faisons comme si tout allait bien. Ca me rappelle un jeu de mon enfance où "Le bonheur est un devoir". Sans confiance, je ne fais que des choses que je sais faire, je cherche avant tout à me protéger, j'évite les conflits, je prends le moins possible de responsabilités,... Un des outils fréquemment utilisé en Agile est le ROTI (Return on time invested) et je vois souvent des personnes faire un ROTI sans avoir vérifier que les personnes sont en confiance pour le faire. A l'arrivée, je ne sais pas quoi faire du résultat car je sais qu'il est biaisé. Maintenant que j'ai bien taclé sur ce qu'il ne faut pas faire, voila ce que je propose :<br>
 - Le **Check In** des Core protocols pour laisser la possibilité à une personne de sortir sans avoir à s'expliquer.<br>
@@ -49,7 +49,7 @@ Pourquoi je mets un mot en anglais ? Parce que je ne sais pas le traduire. C'est
 
 ## Et donc
 
-{{< img name="paths" legend="Paths" source="https://www.flickr.com/photos/claypole/3091771067">}}
+{{< img name="paths" legend="Paths" source="https://flic.kr/p/5Hd8PH">}}
 
 Faites ce que vous voulez mais gardez en tête l'objectif : Vous êtes là pour mettre les personnes dans les meilleures conditions pour votre organisation. Aujourd'hui, elle vous demande de la fluidité (flexibilité, polyvalence, adaptation, initiative,....) avec comme thèmes de réflexion possible l'autonomie, le sens et la confiance.
 
