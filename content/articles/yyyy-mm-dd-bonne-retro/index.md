@@ -11,8 +11,8 @@ tags:
 categories:
   - management
 illustration:
-  name: looking back
-  source: https://farm8.staticflickr.com/7232/7041708195_6814ce6c83_o_d.jpg
+  name: looking_back
+#  source: https://farm8.staticflickr.com/7232/7041708195_6814ce6c83_o_d.jpg
 description: |
   Dans cet article, nous vous présenterons quelques points clés pour une rétrospective réussie.
 
@@ -106,4 +106,3 @@ Il est courant que le scrum master remplisse ce rôle.
 Le scrum master veillera à ce que les actions prises durant la rétrospective soient bien suivies.
 
 De la même façon que l'équipe cherche à s'améliorer en permanence à travers la rétrospective, il est fortement conseillé au scrum master de faire des débriefings et des rétros de rétros avec son coach.
-
