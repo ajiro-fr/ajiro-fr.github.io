@@ -71,3 +71,7 @@ Le déroulement de chaque exercice est le suivant :
 - construction
 - rétrospective sur l'exercice
 - présentation de la théorie du génie logiciel découverte durant l'exercice avant de l'appliquer durant les autres exercices.
+
+# Tweet
+
+Découvrir quelques bonnes pratiques du génie logiciel : TDD, Clean Code, Refactoring, Dette Technique et Integration Continue sont au programme ! Comment ? Avec de l'imagination, des rires et des Legos !
