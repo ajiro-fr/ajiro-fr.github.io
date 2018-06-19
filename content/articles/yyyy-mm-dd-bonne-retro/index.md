@@ -12,7 +12,7 @@ categories:
   - management
 illustration:
   name: looking_back
-#  source: https://farm8.staticflickr.com/7232/7041708195_6814ce6c83_o_d.jpg
+  source: https://flic.kr/p/cGwLV7
 description: |
   Dans cet article, nous vous présenterons quelques points clés pour une rétrospective réussie.
 
