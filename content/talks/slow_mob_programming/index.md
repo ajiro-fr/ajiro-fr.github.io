@@ -21,7 +21,7 @@ abstract: |
 
 # Présentation détaillée
 
-Ce talk, durant lequel tous les cerveaux de la salle vont être mis à contribution, est une occasion de réfléchir ensemble à la façon dont nous pouvons nous perfectionner par l'attention aux détails. Nous allons pouvons profiter de ce ralentissement pour décortiquer nos gestes, nos habitudes, notre manière de faire. Profitons également du nombre pour confronter nos différences, le pourquoi de nos actions, en résumer profitons de l'expérience de chacun pour ressortir enrichi de ce voyage commun.
+Ce talk, durant lequel tous les cerveaux de la salle vont être mis à contribution, est une occasion de réfléchir ensemble à la façon dont nous pouvons nous perfectionner par l'attention aux détails. Nous allons profiter de ce ralentissement pour décortiquer nos gestes, nos habitudes, notre manière de faire. Profitons également du nombre pour confronter nos différences, le pourquoi de nos actions, en résumer profitons de l'expérience de chacun pour ressortir enrichi de ce voyage commun.
 Programmeurs confirmés ou débutants, en ressortirons tous riche d'une nouvelle expérience à reproduire dans leurs équipes. À ne pas louper si vous êtes en recherche de perfectionnement.
 
 # Objectifs de la session
@@ -39,3 +39,7 @@ Pendant cette expérience partagée d'une heure autour d'un kata très simple : 
 Chaque geste sera construit et analysé par l'assemblée avant d'être confier au "clavier" de la session.
 
 En fin de session, nous prendrons le temps de résumer et partager nos différents apprentissages.
+
+# Tweet
+
+Comment ralentir peut-il nous permettre de perfectionner nos techniques de développement, d’aller plus vite et d’aller plus loin ? 50 min, pour vous en faire faire l'éxpérience.
