@@ -16,6 +16,7 @@ participants: "jusqu'à 15 - L'équipe"
 materials:
 authors:
   - quille_julie
+  - benoist_alexis
 illustration:
   name: chaine
   source: https://flic.kr/p/7SzYAP
