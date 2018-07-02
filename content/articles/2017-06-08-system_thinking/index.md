@@ -29,9 +29,8 @@ Un système c’est avant tout un modèle pour nous aider à mieux comprendre. C
 -	Pouvez-vous identifier des parties?
 -	Est-ce que les parties sont interconnectées et dépendantes les uns des autres ?
 -	Est-ce que toutes les parties ensemble produisent un effet différent de toutes les parties prises séparément ?
--	Est-ce que le comportement est persistant dans le temps quel que soit l’environnement ?
 
-Si vous avez répondu non à toutes les questions, vous êtes en face d’un système. Pour résumer, un système c’est plus que toutes ses parties. Revenons à ma voiture. Elle est constituée de roues, d’un moteur, d’un volant,… Si je prends toutes les parties une par une, j’ai des effets unitaires mais pas une voiture qui roule. Ce n’est qu’en mettant toutes les parties à travailler/communiquer ensemble que j’ai une voiture avec comme effet d’avancer. Un système peut être vu comme une boite noire avec des entrées, des sorties et une ou des fonctions.
+Si vous avez répondu oui à toutes les questions, vous êtes en face d’un système. Pour résumer, un système c’est plus que toutes ses parties. Revenons à ma voiture. Elle est constituée de roues, d’un moteur, d’un volant,… Si je prends toutes les parties une par une, j’ai des effets unitaires mais pas une voiture qui roule. Ce n’est qu’en mettant toutes les parties à travailler/communiquer ensemble que j’ai une voiture avec comme effet d’avancer. Un système peut être vu comme une boite noire avec des entrées, des sorties et une ou des fonctions.
 
 ## Pourquoi les systèmes nous surprennent ?
 
