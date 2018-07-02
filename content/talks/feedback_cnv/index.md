@@ -1,5 +1,5 @@
 ---
-aliases: /talks/feedbackcnv.html
+aliases: /talks/feedback_cnv.html
 date: 2018-06-19
 title: "J'ai un feedback à te donner"
 duration: 50 min
@@ -13,9 +13,10 @@ tags:
   - méthodo
   - conference
 illustration:
-  name: 
+  name: group_team_balloons
+  source: https://pxhere.com/en/photo/1333194
 abstract: |
-  
+   J'ai un feedback à te donner... Je n'ose pas trop, mais c'est pour ton bien...
 ---
 
 ## Description
