@@ -1,8 +1,8 @@
 ---
-date: 2018-03-19
+date: 2018-07-04
 title: "Agile sans conscience n'est que ruine de l'âme"
 lang: fr
-draft: true
+draft: false
 authors:
   - benoist_alexis
   - clavier_thomas
@@ -140,27 +140,25 @@ Elle permet à l'équipe de s'adapter aux changements et faire des
 promesses tenables.
 
 # La fin de l'apprentissage ?
-<!-- on a fini de relire ici -->
 
-L'agile dispose de beaucoup d'outils, cependant le signe qu'une
-équipe est véritablement agile est qu'elle comprend le pourquoi
-des pratiques qu'elle utilise.
+L'agile dispose de nombreux outils, il est impossible de tous les connaitres ou de tous les comprendres.
+En revanche comprendre le pourquoi de chaque pratique proposé et ou évoqué en équipe nous semble le principal critère du niveau d'agilité d'une équipe.
 
 Aussi, il est toujours possible d'arriver à un niveau de conscience
-supérieur en voyant une autre face de cet objet abstrait et protéiforme qu'est l'agile.
+supérieur en voyant une nouvelle face de cet objet abstrait et protéiforme qu'est l'agilité.
 Contrairement à un objet physique, on ne peut pas en voir toutes les facettes, on
-peut toujours essayer de voir un morceau supplémentaire.
+peut toujours essayer de voir un nouvel aspect.
 
+L'apprentissage de cet art qu'est l'agilité n'a donc pas de fin, et chercher en permanence à s'améliorer est pour nous indispensable.
 # Conclusion
 
-L'agile est avant tout un ensemble de valeurs.
-Il dispose de beaucoup d'outils, mais ils ne sont que
-des ustensiles pour permettre l'expérimentation vers l'agile.
+L'agilité est avant tout un ensemble de valeurs.
+Elle dispose de beaucoup d'outils, mais ils ne sont que
+des ustensiles pour permettre l'expérimentation vers sa maitrise.
 
 Dans un premier temps, ils permettent d'élargir les possibles.
-Ensuite, un outil en particulier, pourra permettre d'expérimenter et de
-s'entrainer, en évitant de tomber dans le culte du cargo.
-Ensuite, ils pourront mélanger différents outils et évaluer
-lequel convient dans quelle situation.
+Puis ils pourront permettre d'expérimenter et de
+s'entrainer, mais attention d'éviter de tomber dans le culte du cargo.
+Ensuite, l'équipe pourra mélanger différents outils ou pratiques et en comprendre le pourquoi afin d'être capable de faire des choix en pleine conscience.
 Cependant, le chemin, ne semble jamais terminé et il est toujours possible
 de s'améliorer.
