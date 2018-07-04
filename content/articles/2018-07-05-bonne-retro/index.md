@@ -20,7 +20,7 @@ description: |
 
 La rétrospective, rituel clé de l'amélioration continue, garantie à l'ensemble de l'équipe de prendre un moment pour se poser ensemble et prendre du recul afin d'améliorer son mode de fonctionnement aussi bien en interne qu'avec l'extérieur.
 
-Dans cet article à destination des scrum masteurs en herbe ou confirmés, nous en présenterons les grandes lignes.
+Dans cet article à destination des scrum masters en herbe ou confirmés, nous en présenterons les grandes lignes.
 
 # Les composantes
 
@@ -32,11 +32,11 @@ Un bon modèle de rétrospective va contenir ces 4 composantes :
 
 # Avant
 
-Une rétrospective ça se prépare ! Premier élément, identifier l'objectif de la rétrospective. En effet en tant que scrum master il n'est pas rare d'observer certains petits disfonctionnements dans l'équipe. La rétrospective est alors le moment idéal pour les faire ressortir et ainsi permetre au groupe de les corriger. Par exemple s'améliorer sur la technique, s'améliorer dans l'organisation de l'équipe, améliorer les échanges dans l'équipe, ...
+Une rétrospective ça se prépare ! Premier élément, identifier l'objectif de la rétrospective. En effet en tant que scrum master il n'est pas rare d'observer certains petits dysfonctionnements dans l'équipe. La rétrospective est alors le moment idéal pour les faire ressortir et ainsi permettre au groupe de les corriger. Par exemple s'améliorer sur la technique, s'améliorer dans l'organisation de l'équipe, améliorer les échanges dans l'équipe, ...
 
 Seconde étape, choisir les outils adaptés à l'équipe, au temps disponible et à l'objectif.
 
-Vous pourrez peut-être commencer par un energizer pour fédérer le groupe et lancer une dynamique positive. Puis choisir le ou les ateliers parmis les nombreux disponibles dans la littérature, par exemple :
+Vous pourrez peut-être commencer par un energizer pour fédérer le groupe et lancer une dynamique positive. Puis choisir le ou les ateliers parmi les nombreux disponibles dans la littérature, par exemple :
 - radar d'équipe
 - Time line
 - glad sad mad
@@ -49,11 +49,11 @@ Vous pourrez peut-être commencer par un energizer pour fédérer le groupe et l
 - lego serious play
 - etc.
 
-Ne pas oublier de préparer le necessaire :
+Ne pas oublier de préparer le nécessaire :
 - salle, matériel
 - support d'atelier
 
-Pour les plus currieux, voici un ensemble de pointeurs regorgeants d'idées d'ateliers :
+Pour les plus curieux, voici un ensemble de pointeurs regorgeant d'idées d'ateliers :
 
 * https://www.amazon.fr/gp/product/0977616649/
 * http://blog.thiga.fr/a-la-une/product-owner-donnez-du-peps-a-vos-retrospectives/
@@ -64,7 +64,7 @@ Pour les plus currieux, voici un ensemble de pointeurs regorgeants d'idées d'at
 
 # Pendant
 
-La rétrospective necessite un facilitateur, c'est à dire une personne neutre qui ne prend pas parti, et n’expose pas son point de vue durant la réunion.
+La rétrospective nécessite un facilitateur, c'est à dire une personne neutre qui ne prend pas parti, et n’expose pas son point de vue durant la réunion.
 En revanche, il est le garant du cadre et du bon déroulé de la rétrospective. C'est à dire :
 - il contrôle et garanti le temps de chaque activité
 - il présente le déroulé et les objectifs de chaque activité
