@@ -17,6 +17,10 @@ description: |
   Comment les outils et les techniques et les techniques
   nous mênent-elles vers une conscience et une compréhension
   de l'agile?
+illustration:
+  name: forgeron
+  source: https://flic.kr/p/HuhxaK
+
 ---
 <!-- Plan:
 agile a la base => manifeste => culture != outils
