@@ -85,7 +85,7 @@ Revenons à notre exemple du TDD, nous avons croisé une
 équipe qui était très contente de cette pratique et qui commençait
 à être ralentie par la maintenance de ses tests.
 
-Étai-elle passée de l'apprentissage à la compréhension du compromis
+Était-elle passée de l'apprentissage à la compréhension du compromis
 ou imitait-elle les gestes sans les comprendre,
 comme dans le [culte du cargo](https://fr.wikipedia.org/wiki/Culte_du_cargo) ?
 
