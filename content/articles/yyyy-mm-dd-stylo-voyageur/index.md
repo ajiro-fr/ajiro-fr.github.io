@@ -2,7 +2,7 @@
 date: 2018-06-01
 title: "Le stylo voyageur"
 lang: fr
-draft: true
+draft: false
 authors:
   - clavier_thomas
   - dussault_laurent
