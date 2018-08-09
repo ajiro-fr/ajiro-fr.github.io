@@ -15,7 +15,7 @@ illustration:
   name: travel-pen
   source: /authors/clavier_thomas/
 description: |
-  Description d'un petit jeu sérieux illustrant l'interret de passer d'un management directif à la culture du leadership
+  Description d'un petit jeu sérieux illustrant l'interêt de passer d'un management directif à la culture du leadership
 
 ---
 
@@ -35,17 +35,17 @@ J'ai par exemple expérimenté de faire une ronde avec les manageurs, de les num
 ## Itération 1
 On laisse la première itération se dérouler, c'est souvant très rapide (moins d'une minute) puis faire un débriefing
 
-- Que c'est il passé ?
+- Que s'est il passé ?
 - Qu'avez vous ressenti ?
 - Si vous deviez décrire le jeu de force et les responsabilités de chacun, que diriez vous ?
 - Où est le focus du managé ?
 - Quel est le travail du manager ?
 
-En générale on obtient :
+En général on obtient :
 
 - C'est très lent
 - Quand le l'ai poussé vers la droite il est allé à gauche
-- J'ai pas compris ou il ou elle voulais aller
+- J'ai pas compris ou il ou elle voulait aller
 - Certains managés soulignent qu'il faut faire totalement confiance aux manageurs
 - Le managé avait uniquement le focus sur le stylo
 - Le manageur doit à la fois maitriser l'objectif, deviner comment le managé va réagir, s'occuper des obstacles et ne pas appuyer de trop pour maintenir le stylo en équilibre.
@@ -59,14 +59,14 @@ Faire sortir les managés et donner une nouvelle cible aux manageurs, par exempl
 
 Faire revenir les managés puis lancer la seconde itération puis debriefing :
 
-- Que c'est-il passé ?
+- Que s'est-il passé ?
 - Qu'avez-vous testé ?
 - Qu'avez vous ressenti ?
 - Si vous deviez décrire le jeu de force et les responsabilités de chacun, que diriez vous ?
 - Où est le focus du managé ?
 - Quel est le travail du manager ?
 
-En générale on obtient :
+En général on obtient :
 
 - C'était mieux, c'est plus rapide.
 - Les managés soulignent qu'ils y a moins besoin de confiance dans le manageur.
@@ -85,13 +85,13 @@ Invitez tout le monde à tester le mode "manageur dos à la cible". Dire aux man
 
 Lancer l'itération puis débriefer :
 
-- Que c'est-il passé ?
+- Que s'est-il passé ?
 - Qu'avez vous ressenti ?
 - Si vous deviez décrire le jeu de force et les responsabilités de chacun, que diriez vous ?
 - Où est le focus du managé ?
 - Quel est le travail du manager ?
 
-En générale on obtient :
+En général on obtient :
 
 - C'est carrément plus efficace
 - Le manageur souligne qu'il doit faire confiance au managé
