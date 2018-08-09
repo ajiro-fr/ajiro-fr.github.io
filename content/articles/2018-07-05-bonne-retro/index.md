@@ -18,7 +18,7 @@ description: |
 
 ---
 
-La rétrospective, rituel clé de l'amélioration continue, garantie à l'ensemble de l'équipe de prendre un moment pour se poser ensemble et prendre du recul afin d'améliorer son mode de fonctionnement aussi bien en interne qu'avec l'extérieur.
+La rétrospective, rituel clé de l'amélioration continue, garantit à l'ensemble de l'équipe de prendre un moment pour se poser ensemble et prendre du recul afin d'améliorer son mode de fonctionnement aussi bien en interne qu'en extérne.
 
 Dans cet article à destination des scrum masters en herbe ou confirmés, nous en présenterons les grandes lignes.
 
@@ -28,11 +28,11 @@ Un bon modèle de rétrospective va contenir ces 4 composantes :
 - Segmenter les modes de pensée.
 - Suivre le modèle : collecter, filtrer, décider.
 - Garder la concentration des participants.
-- Et permettre à chacun de s'exprimer pleinement.
+- Permettre à chacun de s'exprimer pleinement.
 
 # Avant
 
-Une rétrospective ça se prépare ! Premier élément, identifier l'objectif de la rétrospective. En effet en tant que scrum master il n'est pas rare d'observer certains petits dysfonctionnements dans l'équipe. La rétrospective est alors le moment idéal pour les faire ressortir et ainsi permettre au groupe de les corriger. Par exemple s'améliorer sur la technique, s'améliorer dans l'organisation de l'équipe, améliorer les échanges dans l'équipe, ...
+Une rétrospective, ça se prépare ! Premier élément : identifier l'objectif de la rétrospective. En effet, en tant que scrum master, il n'est pas rare d'observer certains petits dysfonctionnements dans l'équipe. La rétrospective est alors le moment idéal pour les faire ressortir et ainsi permettre au groupe de les corriger. Par exemple : s'améliorer sur la technique, s'améliorer dans l'organisation de l'équipe, améliorer les échanges dans l'équipe, ...
 
 Seconde étape, choisir les outils adaptés à l'équipe, au temps disponible et à l'objectif.
 
@@ -66,7 +66,7 @@ Pour les plus curieux, voici un ensemble de pointeurs regorgeant d'idées d'atel
 
 La rétrospective nécessite un facilitateur, c'est à dire une personne neutre qui ne prend pas parti, et n’expose pas son point de vue durant la réunion.
 En revanche, il est le garant du cadre et du bon déroulé de la rétrospective. C'est à dire :
-- il contrôle et garanti le temps de chaque activité
+- il contrôle et garantit le temps de chaque activité
 - il présente le déroulé et les objectifs de chaque activité
 - il observe attentivement le niveau de participation de chacun et adapte le rythme et les outils
 - il recadre l’activité en cas de débordement
@@ -76,8 +76,8 @@ Il est courant que le scrum master remplisse ce rôle.
 ## Un exemple de déroulé
 
 - Accueillir les participants et les remercier de leur présence et de leur participation.
-- Indiquer la durée de la réunion
-- Rappeler le postulat de base : Peu importe ce que nous découvrons, nous devons comprendre et croire vraiment que chacun a donné le meilleur de lui même, compte tenu de la situation, de ce qui est connu sur le projet, de ses compétences et des ressources disponibles
+- Indiquer la durée de la réunion.
+- Rappeler le postulat de base : peu importe ce que nous découvrons, nous devons comprendre et croire vraiment que chacun a donné le meilleur de lui même, compte tenu de la situation, de ce qui est connu sur le projet, de ses compétences et des ressources disponibles.
 - Définir collectivement des rôles :
   - qui est le facilitateur, le time keeper, etc.
 - Présenter les règles durant l'atelier :
@@ -91,11 +91,11 @@ Il est courant que le scrum master remplisse ce rôle.
   - Échanger, communiquer sur ce Sprint
 - Présenter le déroulé (i.e. les activités ou les outils qui vont être utilisés)
   - Bilan de nos actions du dernier sprint
-  - Bilan du sprint : points livré en regard des engagements
+  - Bilan du sprint : points livrés en regard des engagements
   - radar d'équipe
   - time line
   - speed boat
-- dérouler les ateliers
+- Déroulé les ateliers
 - Conclure :
   - Relire les buts de la réunion : a-t-on atteint les objectifs ?
   - ROTI
