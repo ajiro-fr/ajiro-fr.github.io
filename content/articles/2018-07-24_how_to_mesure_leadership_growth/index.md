@@ -45,9 +45,9 @@ Comment les leaders peuvent faire évoluer de manière durable leurs comportemen
 
 6. Laisser de temps pour que chaque membre de l'équipe revois l'ensemble des comportements qui ont émergés et de choisir celui qui leur semble le plus important. Demander à chacun des membres d'annoncer à l'équipe celui qu'il a seléctionné.
 
+7. TODO Encourage all team members to ask for brief (five-minute), monthly three question “suggestions for the future” from all other team members to help increase their effectiveness in demonstrating 1) the one key behavior common to all team members, 2) the one key personal behavior generated from team member input, and 3) overall effective behavior as a team member.    
 
-
-7. Encourage all team members to ask for brief (five-minute), monthly three question “suggestions for the future” from all other team members to help increase their effectiveness in demonstrating 1) the one key behavior common to all team members, 2) the one key personal behavior generated from team member input, and 3) overall effective behavior as a team member.    
+8. 
 
 8. Conduct a mini-survey, follow-up process in approximately six months. From the mini-survey each team member will receive confidential feedback from all other team members on his or her perceived change in effectiveness. This survey will include the one common behavioral item, the one personal behavioral item, and the overall team member item. A final question can gage the level of follow-up – so that team members can see the connection between their level of follow-up and their increased effectiveness. This four question survey can either be electronically distributed electronically or ‘put on a postcard'.    
 
