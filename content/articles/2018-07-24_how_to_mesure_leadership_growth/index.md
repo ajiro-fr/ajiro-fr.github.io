@@ -19,30 +19,33 @@ description: |
 
 ---
 
-# How to Measure Leadership Growth
+# Comment mesurer le dévellopement du Leadership
 
-The mission of a coach should be to help successful leaders achieve positive change in behavior: for themselves, their people and their teams. 
+Une des missions du coach devrait être de faire évoluer le comportement des leaders : pour eux-mêmes, pour leur entourage et pour leur équipe.
 
-The first step is to determine:  Who are your client's key stakeholders?  What are the key behaviors that your client wants to change?    
+La première étape est de determiner : Qui sont les parties prenantes principales de vos clients ? Quelles sont les principaux comportements que vos clients veulent modifier ?
 
-Given the increasingly competitive economic environment and the significant human and financial capital expended on leadership development, it is not only fair but necessary for those charged with running companies to ask, “Does any of this work? And if so, how?” What type of developmental activities will have the greatest impact on increasing executives’ effectiveness? 
- 
+Compte tenu de l’environnement économique de plus en plus concurrentiel et du capital humain et financier important consacré au développement du leadership, il n’est pas seulement juste mais nécessaire que les responsables de la gestion des entreprises demandent: «Cela fonctionne-t-il? Et si oui, comment? "Quel type d’activités de développement aura le plus d’impact sur l’efficacité des cadres?    
 
-How can leaders achieve positive long-term changes in behavior? 
+Comment les leaders peuvent faire évoluer de manière durable leurs comportements ?
 
-# The key variable in determining the success of coaching is not the coach; it is the person being coached and their co-workers. I’ve outlined the process for you:
+# La variable déterminante dans le succès d'un coaching n'est pas le coach mais la personne coachée et ses collaborateurs. J'ai décris un process ci-dessous pour vous :
 
-1. Begin by asking all members of the team to confidentially record their individual answers to two questions: (1) “On a 1 to 10 scale (with 10 being ideal), how well are we doing in terms of working together as a team?” and (2) “On a 1 to 10 scale, how well do we need to be doing in terms of working together as a team?”    
+1. Commencer par demander à tous les membre d'une équipe de noter anonymement leurs réponses aux deux questions suvantes :
+- "Sur une échelle de 1 à 10 (10 étant l'idéal), comment travaillons-nous en équipe ?"
+- "Sur cette même échelle à combien souhaiterions-nous être en terme de travail d'équipe ?"
 
-2. Have a team member calculate the results. Discuss the results with the team. If the team members believe that the gap between current effectiveness and needed effectiveness indicates the need for team building, proceed to the next step in the process.   
+2. Demander à un des membres de l'équipe de calculer le résultat. Discuter du résultat avec l'équipe. Si les membres de l'équipe estime que la différence entre ce qui est et ce qui est souhaité implique un besoin d'y consacrer de l'énergie, passer à l'étape suivante du processus.
 
-3. Ask the team members, “If every team member could change two key behaviors that would help us close the gap between where we are and where we want to be, which two behaviors we all should try to change?” Have each team member record his or her selected behaviors on flip charts.    
+3. Demander aux membres de l'équipe : "Si chaque membre de l'équipe pouvait changer deux comportements clés qui pourraient nous aider à réduire la différence entre ce qui est et ce que nous aimerions, quels seraient-ils ?". Demander à chaque membre de l'équipe de noter les comportements choisis sur le tableau.
 
-4. Help team members prioritize all the behaviors on the charts (many will be the same or similar) and (using consensus) determine the most important behavior to change (for all team members).    
+4. Aider l'équipe à prioriser tous les comportements présents sur le tableau (il y a sans doute des répétitions) et (à l'aide du consensus) déterminer le comportement le plus important à travailler (pour tous les membres).
 
-5. Have each team member hold a one-on-one dialogue with all other team members. During the dialogues each member will request that his or her colleague suggest two areas for personal behavioral change (other than the one already agreed on above) that will help the team close the gap between where we are and where we want to be. These dialogues occur simultaneously and take about five minutes each.   
+5. Demander à tous les membres de l'équipe de faire des échanges en tête-à-tête avec chacun des autres membres de l'équipe. Durant chaque échange les participants demanderont à leur collègue de déterminer deux changements personnels de comportement, autre que le changement choisis collectivement, qui vont aider à réduire l'écart entre ce qui est et ce qui est souhaité. Les échanges ont lieux en parallèle et prennent environs 5 minutes chacun.
 
-6. Let each team member review his or her list of suggested behavioral changes and choose the one that seems to be the most important. Have all team members then announce their one key behavior for personal change to the team.    
+6. Laisser de temps pour que chaque membre de l'équipe revois l'ensemble des comportements qui ont émergés et de choisir celui qui leur semble le plus important. Demander à chacun des membres d'annoncer à l'équipe celui qu'il a seléctionné.
+
+
 
 7. Encourage all team members to ask for brief (five-minute), monthly three question “suggestions for the future” from all other team members to help increase their effectiveness in demonstrating 1) the one key behavior common to all team members, 2) the one key personal behavior generated from team member input, and 3) overall effective behavior as a team member.    
 
