@@ -5,7 +5,7 @@ title: "World Café"
 tags:
   - intelligence collective
 objectives: |
-  Le _World Cafe_ est processus qui permet de créer des discussion en profondeur et de faire émerger une intelligence collective.
+  Le _World Cafe_ est un processus qui permet de créer des discussions en profondeur et de faire émerger une intelligence collective.
 duration: minimum 2H
 participants: "12 personnes minimum"
 materials:
