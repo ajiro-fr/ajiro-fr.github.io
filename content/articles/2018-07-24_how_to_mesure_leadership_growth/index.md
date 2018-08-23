@@ -11,9 +11,9 @@ tags:
 categories:
   - management
   - leadership
-%illustration:
-%  name: looking_back
-%  source: https://flic.kr/p/cGwLV7
+illustration:
+  name: looking_back
+  source: https://flic.kr/p/cGwLV7
 description: |
   Dans cet article blablabla
 
@@ -58,15 +58,15 @@ Ces échanges, nommés "sugestions pour le futur", ont pour objectif d'améliore
 10. Dans une réunion d'équipe demander à chaque membre de l'équipe de discuter de leurs apprentissages clés suite à la mini-enquête, et demander des suggestions complémentaire dans un bref échange individuel avec chaque autre membre de l'équipe.
 
 11. Passer en revue le bilan avec l'équipe. Faciliter une discussion sur comment l'équipe, dans son ensemble, performe en terme d'amélioriation de son efficacicité dans les deux comportements clés. Donner des signes d'encouragement à l'équipe vis-à-vis de leur engagement et des efforts fournis pour le travail d'équipe.Encourager les membres de l'équipe à rester concentrés sur les comportements qu'ils cherchent à améliorer.
-<-- 11. Review the summary results with the team. Facilitate a discussion on how the team (as a whole) is doing in terms of increasing its effectiveness in the two key behaviors that were selected for all team members. Provide the team with positive recognition for increased effectiveness in teamwork. Encourage team members to keep focused on demonstrating the behaviors that they are trying to improve. -->   
+<!-- 11. Review the summary results with the team. Facilitate a discussion on how the team (as a whole) is doing in terms of increasing its effectiveness in the two key behaviors that were selected for all team members. Provide the team with positive recognition for increased effectiveness in teamwork. Encourage team members to keep focused on demonstrating the behaviors that they are trying to improve. -->   
 
 12. Demander à chaque membre de l'équipe de poursuivre de brèves sessions mensuelles de "progress report" avec tous les autres membres de l'équipe. Refaite la mini-enquête 8 mois après le début du processus, puis encore après 1 an.
-<-- 12. Have every team member continue to conduct brief, monthly, “progress report” sessions with all other team members. Re-administer the mini-survey eight months after the beginning of the process and again after one year. -->   
+<!-- 12. Have every team member continue to conduct brief, monthly, “progress report” sessions with all other team members. Re-administer the mini-survey eight months after the beginning of the process and again after one year. -->   
 
 13. Mener à nouveau une session de bilan avec l'équipe au bout d'un an. Passer en revue les résultats de la mini-enquête finale et demander aux membres de l'équipe d'évaluer le travail d'équipe actuel, par rapport à celui souhaité. Comparer ces résultats avec les notes avec les notes initiales. (Si les membres de l'équipe ont suivis le processus d'une manière relativement disciplinée, l'équipe va toujours voir une amélioration spéctaculaire dans le travail d'équipe.) Donner des encouragements à l'équipe sur leur investissement dans le travail d'équipe, et proposer des échanges, en tête à tête, pour que chaque membre de l'équipe puisse dire à chacun les améliorations qu'il à pu constater dans le comportement de son collègue dans les 12 derniers mois.
-<-- 13. Conduct a summary session with the team one year after the process has started. Review the results of the final mini-survey, and ask the team members to rate the team’s effectiveness on where we are versus where we need to be in terms of working together as a team. Compare these ratings with the original ratings that were calculated one year earlier. (If team members followed the process in a reasonably disciplined fashion, the team will almost always see a dramatic improvement in teamwork.) Give the team positive recognition for improvement in teamwork, and have each team member (in a brief one-on-one dialogue) recognize each of his or her colleagues for improvements in behavior that have occurred over the past twelve months. -->   
+<!-- 13. Conduct a summary session with the team one year after the process has started. Review the results of the final mini-survey, and ask the team members to rate the team’s effectiveness on where we are versus where we need to be in terms of working together as a team. Compare these ratings with the original ratings that were calculated one year earlier. (If team members followed the process in a reasonably disciplined fashion, the team will almost always see a dramatic improvement in teamwork.) Give the team positive recognition for improvement in teamwork, and have each team member (in a brief one-on-one dialogue) recognize each of his or her colleagues for improvements in behavior that have occurred over the past twelve months. -->   
 
 14. Demander aux membres de l'équipe s'ils estiment que plus de travail sur le travail d'équipe est nécessaire pour l'année suivante. Si l'équipe pense que cela peut-être positif, continuer le process. Sinon, célébrer cette victoire et travailler sur autre chose !
-<-- 14. Ask the team members if they believe that more work on team building will be needed in the upcoming year. If the team believes that more work would be beneficial, continue the process. If the team believes that more work is not needed, declare victory and work on something else! --> 
+<!-- 14. Ask the team members if they believe that more work on team building will be needed in the upcoming year. If the team believes that more work would be beneficial, continue the process. If the team believes that more work is not needed, declare victory and work on something else! --> 
 
 http://sccoaching.com/measurable-results?inf_contact_key=30d9f621af66211f40a5f34974bf9363e65c38c09a5a0e5bf933b0c661edc70d
