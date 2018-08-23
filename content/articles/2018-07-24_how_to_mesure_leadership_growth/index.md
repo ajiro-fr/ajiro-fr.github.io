@@ -31,23 +31,27 @@ Comment les leaders peuvent faire évoluer de manière durable leurs comportemen
 
 # La variable déterminante dans le succès d'un coaching n'est pas le coach mais la personne coachée et ses collaborateurs. J'ai décris un process ci-dessous pour vous :
 
-1. Commencer par demander à tous les membre d'une équipe de noter anonymement leurs réponses aux deux questions suvantes :
-- "Sur une échelle de 1 à 10 (10 étant l'idéal), comment travaillons-nous en équipe ?"
-- "Sur cette même échelle à combien souhaiterions-nous être en terme de travail d'équipe ?"
+1. Commencer par demander à tous les membre d'une équipe de noter anonymement leurs réponses aux deux questions suivantes :
+- "Sur une échelle de 1 à 10 (10 étant l'idéal), à quel point sommes-nous bons dans notre capacité à travailler ensemble en tant qu'équipe ?"
+- "Sur cette même échelle, à combien souhaiterions-nous être en terme de travail d'équipe ?" / "à quel point souhaitons-nous être bons dans notre capacité à travailler ensemble en tant qu'équipe ?"
 
-2. Demander à un des membres de l'équipe de calculer le résultat. Discuter du résultat avec l'équipe. Si les membres de l'équipe estime que la différence entre ce qui est et ce qui est souhaité implique un besoin d'y consacrer de l'énergie, passer à l'étape suivante du processus.
+2. Demander à un des membres de l'équipe de calculer les résultats. Discuter des résultats avec l'équipe. Si les membres de l'équipe estiment que la différence entre ce qui est et ce qui est souhaité implique un besoin d'y consacrer de l'énergie, passer à l'étape suivante. 
 
-3. Demander aux membres de l'équipe : "Si chaque membre de l'équipe pouvait changer deux comportements clés qui pourraient nous aider à réduire la différence entre ce qui est et ce que nous aimerions, quels seraient-ils ?". Demander à chaque membre de l'équipe de noter les comportements choisis sur le tableau.
+3. Demander aux membres de l'équipe : "Si chaque membre de l'équipe pouvait changer collectivement deux comportements clés qui pourraient nous aider à réduire la différence entre ce qui est et ce que nous aimerions, quels seraient-ils ?". Demander à chaque membre de l'équipe de noter les comportements choisis sur le tableau.
 
-4. Aider l'équipe à prioriser tous les comportements présents sur le tableau (il y a sans doute des répétitions) et (à l'aide du consensus) déterminer le comportement le plus important à travailler (pour tous les membres).
+4. Aider l'équipe à prioriser tous les comportements présents sur le tableau (il y a sans doute des répétitions) et (à l'aide du consensus) déterminer le comportement clé à travailler (pour tous les membres).
 
-5. Demander à tous les membres de l'équipe de faire des échanges en tête-à-tête avec chacun des autres membres de l'équipe. Durant chaque échange les participants demanderont à leur collègue de déterminer deux changements personnels de comportement, autre que le changement choisis collectivement, qui vont aider à réduire l'écart entre ce qui est et ce qui est souhaité. Les échanges ont lieux en parallèle et prennent environs 5 minutes chacun.
+5. Demander à tous les membres de l'équipe de faire des échanges en tête-à-tête avec chacun des autres membres de l'équipe. Durant chaque échange les participants demanderont à leur collègue de déterminer deux changements personnels de comportement, autre que le changement choisis collectivement, qui vont aider à réduire l'écart entre ce qui est et ce qui est souhaité. Les échanges ont lieux en parallèles et prennent environs 5 minutes chacun.
 
-6. Laisser de temps pour que chaque membre de l'équipe revois l'ensemble des comportements qui ont émergés et de choisir celui qui leur semble le plus important. Demander à chacun des membres d'annoncer à l'équipe celui qu'il a seléctionné.
+6. Laisser du temps pour que chaque membre de l'équipe revoit l'ensemble des comportements qui ont émergés et choisisse celui qui leur semble le plus important. Demander à chacun des membres d'annoncer à l'équipe celui qu'il a seléctionné. 
 
-7. TODO Encourage all team members to ask for brief (five-minute), monthly three question “suggestions for the future” from all other team members to help increase their effectiveness in demonstrating 1) the one key behavior common to all team members, 2) the one key personal behavior generated from team member input, and 3) overall effective behavior as a team member.    
+7. Encourager tous les membres que l'équipe de faire de cours échanges (5 min) avec l'ensemble des autres membres de l'équipe. Au cours de ces échanges, trois questions "conseils pour le futur"
+Ces échanges, nommés "sugestions pour le futur", ont pour objectif d'améliorer l'efficacité de la démarche de chacun. Les questions porterons sur les 3 points suivants :
+- le comportement clé sélectionné collectivement
+- le comportement choisis suite aux échanges en tête-à-tête
+- le ccomportement global depuis le début du processus en tant que membre de l'équipe
 
-8. Faire une mini-enquête, poursuivre le process pendant 6 mois environ. La mini-enquête va permettre à chaque membre de l'équipe de recevoir du feedback personnel de la part de tous les autres membres de l'équipe sur sa perception des changements réels. Cette enquête concernera le changement commun de comportement, son propre changement de comportement et ceux des autres membres. Une dernière question peut être utilisé pour augmenter l'engagement de l'équipe (de manière à ce qu'ils puissent voir le lien entre leur niveau d'engagement et le changement réel). Cette quatrième question peut-être envoyé par voie électronique ou autre.
+8. Faire une mini-enquête au bout de 6 mois pour suivre le processus. La mini-enquête va permettre à chaque membre de l'équipe de recevoir confidentiellement du feedback personnel de la part de tous les autres membres de l'équipe sur leur perception des changements vis à vis de l'éfficacité du travail d'équipe (reprendre éventuellement l'échelle de départ). Cette enquête concernera le changement vis-à-vis du comportement clé, vis-à-vis du comportement choisis lors des échanges en tête à tête, ainsi que vis-à-vis du comportement global. Une dernière question permettra d'évaluer l'engagement de l'équipe (de manière à ce qu'ils puissent voir le lien entre leur niveau d'engagement et le changement sur l'échelle). Ces quatre questions peuvent être envoyées par voie électronique ou par un autre moyen.
 
 9. 
 
