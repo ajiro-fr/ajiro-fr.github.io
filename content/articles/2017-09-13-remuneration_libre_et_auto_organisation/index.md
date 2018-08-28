@@ -150,6 +150,9 @@ Comment faire évoluer l'existant, quelle place pour les métiers qui ont actuel
 
 ## Nos sources d’inspiration
 
+Cette article est une nouvelle version de l'article [Rémunération libre
+Proposition pour un partage innovant de la valeur et des risques](http://ajiro.fr/articles/2017-01-26-remuneration_libre/)
+
 1. [Michel Chaudy, _Faire des hommes libres_](/books/faire_des_hommes_libres-chaudy_michel).
 
 2. [Jean-François Draperi, _Godin, inventeur de l'économie sociale_](/books/godin_inventeur_de_l_economie_sociale-draperi_jean_francois).
