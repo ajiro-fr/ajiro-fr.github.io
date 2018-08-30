@@ -2,7 +2,7 @@
 date: 2018-06-06
 title: "Les clés d'une bonne rétrospective"
 lang: fr
-draft: true
+draft: false
 authors:
   - clavier_thomas
   - quille_julie
