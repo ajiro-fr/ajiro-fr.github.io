@@ -1,5 +1,8 @@
 {{ define "main" }}
 
+{{ if isset .Params "illustration"}}
+  <meta name="twitter:image" content="{{- partial "components/image_url" (dict "image" .Params.illustration "path" .RelPermalink ) -}}">
+{{ end }}
   {{ with .Params.style}}
     <style>
       {{ . | safeCSS }}
