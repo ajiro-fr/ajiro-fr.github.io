@@ -1,0 +1,6 @@
+{{- $has_extention := ge (len (findRE "\\.[a-z]{3,4}$" .image.name)) 1 -}}
+{{- if $has_extention -}}
+  {{- .path -}}/{{- .image.name -}}
+{{- else -}}
+  {{- .path -}}/{{- .image.name | default "illustration" -}}__thumbnail-wide.jpg
+{{- end -}}
