@@ -1,7 +1,7 @@
 {{ define "main" }}
-
+{{ $image := (dict "image" .Params.illustration "path" .RelPermalink )}}
 {{ if isset .Params "illustration"}}
-  <meta name="twitter:image" content="{{- partial "components/image_url" (dict "image" .Params.illustration "path" .RelPermalink ) -}}">
+  <meta name="twitter:image" content="{{- partial "components/image_url" $image -}}">
 {{ end }}
   {{ with .Params.style}}
     <style>
@@ -39,7 +39,7 @@
   <div class="row mt-2">
     <div class="offset-lg-2 col-lg-8 col-xs-12">
       {{ if isset .Params "illustration"}}
-        {{ partial "components/image" (dict "image" .Params.illustration "path" .RelPermalink ) }}
+        {{ partial "components/image" $image }}
       {{ end }}
     </div>
   </div>
