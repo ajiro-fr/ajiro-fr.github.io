@@ -1,12 +1,7 @@
-{{ $has_extention := ge (len (findRE "\\.[a-z]{3,4}$" .image.name)) 1}}
 <div style=" overflow: hidden; ">
   <figure>
     <img alt="{{ .image.description }}"
-         {{ if $has_extention }}
-          src="{{ .path }}/{{ .image.name }}"
-         {{ else }}
-          src="{{ .path }}/{{ .image.name | default "illustration" }}__thumbnail-wide.jpg"
-         {{ end }}
+          src="{{- partial "components/image_url" . -}}"
          class="rounded {{ .class | default "img-fluid" }}"/>
     <figcaption>
       {{ with .image.source }}
