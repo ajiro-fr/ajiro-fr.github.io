@@ -37,3 +37,5 @@ En groupe de 10 personnes maximum, je vais vous accompagner à travers un cas pr
 # Tweet
 
 Un atelier, des émotions, des besoins, un voyage au centre de nous-même pour initier une réflexion sur notre rapport à nous et à l'autre. Une aventure sur mesure pour les plus courageux !
+
+Une aventure sur mesure dans les montagnes russes de l'émotionnel et des besoins : pour les plus audacieux seulement !
