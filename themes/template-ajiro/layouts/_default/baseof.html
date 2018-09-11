@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
-  {{ partial "head" . }}
+  <head {{ with .Site.LanguageCode }}lang="{{ . }}"{{ end }}>
+    {{ block "head_custom" . }}
+    {{ end }}
+    {{ partial "head" . }}
+  </head>
   <body>
     {{ partialCached "header" . }}
       <div class="container">
