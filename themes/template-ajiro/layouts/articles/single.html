@@ -4,7 +4,7 @@
   <meta name="twitter:title" content="{{ .Title }}">
   <meta name="twitter:description" content="{{ partial "components/articles/description" . }}">
   {{ if isset .Params "illustration"}}
-    <meta name="twitter:image" content="{{- partial "components/image_url" $image -}}">
+    <meta name="twitter:image" content="{{- partial "components/image_url" $image | absURL -}}">
   {{ end }}{{ end }}
 {{ define "main" }}
   {{ $image := (dict "image" .Params.illustration "path" .RelPermalink )}}
