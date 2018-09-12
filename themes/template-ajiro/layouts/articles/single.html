@@ -1,11 +1,6 @@
 {{ define "head_custom" }}
-  {{ $image := (dict "image" .Params.illustration "path" .RelPermalink )}}
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ .Title }}">
-  <meta name="twitter:description" content="{{ partial "components/articles/description" . }}">
-  {{ if isset .Params "illustration"}}
-    <meta name="twitter:image" content="{{- partial "components/image_url" $image | absURL -}}">
-  {{ end }}{{ end }}
+  {{ partial "components/articles/twitter-card" . }}
+{{ end }}
 {{ define "main" }}
   {{ $image := (dict "image" .Params.illustration "path" .RelPermalink )}}
   {{ with .Params.style}}
