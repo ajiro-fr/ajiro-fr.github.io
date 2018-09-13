@@ -3,6 +3,7 @@
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ partial "components/articles/description" . }}">
 {{ if isset .Params "illustration"}}
-  <meta name="twitter:image" content="{{- partial "components/image_url" $image | absURL -}}">
-  <meta name="og:image" content="{{- partial "components/image_url" $image | absURL -}}">
+  {{ $image_url := partial "components/image_url" $image | absURL }}
+  <meta name="twitter:image" content="{{- $image_url -}}">
+  <meta name="og:image" content="{{- $image_url -}}">
 {{ end }}
