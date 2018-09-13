@@ -1,5 +1,5 @@
 {{ define "head_custom" }}
-  {{ partial "components/articles/twitter-card" . }}
+  {{ partial "components/articles/social-metadata" . }}
 {{ end }}
 {{ define "main" }}
   {{ $image := (dict "image" .Params.illustration "path" .RelPermalink )}}
