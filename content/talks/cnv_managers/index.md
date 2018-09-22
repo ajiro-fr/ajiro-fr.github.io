@@ -14,8 +14,8 @@ tags:
   - management
   - leadership
 illustration:
-  name: communication
-  source: https://flic.kr/p/21AdHQ
+  name: folow-me
+  source: https://flic.kr/p/6nxy6S
 abstract: |
   Individus et interactions... et si nous regardions ça de plus près ?
   L'objectif de cette session et de vous amenez avec nous dans un voyage au coeur de la Communication Bienveillante (CNV).

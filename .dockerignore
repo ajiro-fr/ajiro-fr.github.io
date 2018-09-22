@@ -1,5 +1,6 @@
-.git
+.git/
 .gitignore
+public/
 Deliverous
 README.md
 todo.md
